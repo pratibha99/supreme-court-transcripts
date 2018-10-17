@@ -8,7 +8,7 @@ from time import sleep
 path_to_driver = '/Users/yuhanxie/Desktop/chromedriver'
 gpo=webdriver.Chrome(path_to_driver)
 
-for i in range(2006,2018):
+for i in range(2000,2018):
     gpo.get("https://www.supremecourt.gov/oral_arguments/argument_transcript/" + str(i) + "")
     expansion = gpo.find_element_by_partial_link_text("Expand All")
     expansion.click()
