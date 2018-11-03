@@ -3,7 +3,7 @@ import numpy
 import os
 
 def unique(texts):
-    list(set(texts))
+    return list(set(texts))
 
 #return a set of nonunique bill mentioned in the speech.
 def bill(texts):
