@@ -4,16 +4,19 @@
 </head>
 <body>
 	<div class="container">
+		<h1> SUPREME COURT TRANSCRIPTS </h1>
     <div class="grid-container">
       <div class="grid-item">
-        <form>
-          <input class = "inputfields" name="firstname" type="text" placeholder= "Title">
-        </form>
+
+          <input class = "inputfields" id = "title" type="text" placeholder= "Title">
+
       </div>
+
+
       <div class="grid-item">
-        <form class = "dropdownitems">
-          <select name="cars" class = "dropdown">
-            <option value="volvo">--Year--</option>
+        <div class = "dropdownitems">
+          <select name="cars" class = "dropdown" id = "year">
+            <option>--Year--</option>
             <option value="2000">2000</option>
             <option value="2001">2001</option>
             <option value="2002">2002</option>
@@ -34,17 +37,18 @@
             <option value="2017">2017</option>
             <option value="2018">2018</option>
           </select>
-        </form>
+        </div>
       </div>
-      <div class="grid-item">
-        <form>
-          <input class = "inputfields" name="firstname" type="text" placeholder= "Topic">
-        </form>
+			<div class="grid-item">
+
+          <input class = "inputfields" id = "topic" type="text" placeholder= "Topic">
+
       </div>
+
       <div class="grid-item">
-        <form class = "dropdownitems">
-          <select name="cars" class = "dropdown">
-            <option value="volvo">--Month--</option>
+        <div class = "dropdownitems">
+          <select name="cars" class = "dropdown" id = "month">
+            <option>--Month--</option>
             <option value="January">January</option>
             <option value="February">February</option>
             <option value="March">March</option>
@@ -59,26 +63,86 @@
             <option value="December">December</option>
 
           </select>
-        </form>
+        </div>
       </div>
-      <div class="grid-item">
-        <form>
-          <input class = "inputfields" name="firstname" type="text" placeholder= "Name">
-        </form>
-      </div>
-      <div class="grid-item">
-        <form class = "dropdownitems">
-          <select name="cars" class = "dropdown">
-            <option value="volvo">--Day--</option>
-            <option value="saab">Saab</option>
-            <option value="fiat">Fiat</option>
-            <option value="audi">Audi</option>
-          </select>
-      </form>
-      </div>
-    </div>
+			<div class="grid-item">
 
+					<input class = "inputfields" id = "name" type="text" placeholder= "Name">
+
+			</div>
+      <div class="grid-item">
+	        <div class = "dropdownitems">
+	          <select name="cars" class = "dropdown" id = "day">
+	            <option>--Day--</option>
+	            <option value="1">1</option>
+	            <option value="2">2</option>
+	            <option value="3">3</option>
+							<option value="4">4</option>
+	            <option value="5">5</option>
+	            <option value="6">6</option>
+							<option value="7">7</option>
+	            <option value="8">8</option>
+	            <option value="9">9</option>
+							<option value="10">10</option>
+	            <option value="11">11</option>
+	            <option value="12">12</option>
+							<option value="13">13</option>
+	            <option value="14">14</option>
+	            <option value="15">15</option>
+							<option value="16">16</option>
+	            <option value="17">17</option>
+	            <option value="18">18</option>
+							<option value="19">19</option>
+	            <option value="20">20</option>
+	            <option value="21">21</option>
+							<option value="22">22</option>
+	            <option value="23">23</option>
+	            <option value="24">24</option>
+							<option value="25">25</option>
+	            <option value="26">25</option>
+							<option value="27">27</option>
+	            <option value="28">28</option>
+	            <option value="29">29</option>
+							<option value="30">30</option>
+	            <option value="31">31</option>
+	          </select>
+	      </div>
+      </div>
+
+    </div>
+		<div>
+			<button id = "filter"> FILTER </button>
+
+		</div>
+
+		<div>
+			<table>
+				<tr>
+			    <th>Case</th>
+			    <th>Date</th>
+			    <th>Keywords</th>
+					<th>Acts/Bills</th>
+			    <th>Sentiment Score</th>
+
+			  </tr>
+				{% if (records is defined) and records %}
+				      {% for record in records %}
+				              <tr>
+												 
+				                <td class="">{{record.title}}</td>
+				                <td class="">{{record.title}}</td>
+				                <td class="">{{record.keywords}}</td>
+				                <td class="">{{record.acts}}</td>
+				                <td class="">{{record.sentimentscore}}</td>
+
+
+				              </tr>
+				        {% endfor %}
+				 {% endif %}
+			</table>
+	 </div>
 	</div>
+	<script src="../static/assets/js/main.js"></script>
 </body>
 
 

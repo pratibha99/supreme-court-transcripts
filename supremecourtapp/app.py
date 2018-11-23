@@ -14,13 +14,14 @@ def index():
 	"""
 	Displays the home page that leads users into different pages
 	"""
-	return flask.render_template('index.html')
- 
+	#return flask.render_template('index.html')
+	return flask.render_template('index.html', records=["HI", "HELLOOOO"])
+
 @app.route('/speakers')
 def speakers():
 	"""
 	This is how arguments are passed from the View to this controller
-	The get request can look like this: 
+	The get request can look like this:
 	/speakers?name=rubio&format=csv
 	This tells the controller to get all speeches by rubio in a csv format
 	/speakers?name=rubio
@@ -34,7 +35,7 @@ def speakers():
 	format_ = request.args.get("format", None)
 	speaker = request.args.get("name", "")
 
-	connection = sqlite3.connect("mydatabase.sqlite") 
+	connection = sqlite3.connect("mydatabase.sqlite")
 	connection.row_factory = dictionary_factory
 	cursor = connection.cursor()
 
@@ -62,7 +63,7 @@ def speakers():
 
 	#Send the information back to the view
 	#if the user specified csv send the data as a file for download else visualize the data on the web page
-	if format_ == "csv": 
+	if format_ == "csv":
 		return download_csv(records, "speeches_%s.csv" % (speaker.lower()))
 	else:
 		years = [x for x in range(2018, 1995, -1)]
@@ -90,7 +91,7 @@ def download_csv(data, filename):
 		writer.writerow(header)
 		for row in data:
 			writer.writerow(list(row.values()))
-	
+
 	#Push the file to the view
 	return send_file('downloads/' + filename,
 				 mimetype='text/csv',
