@@ -23,9 +23,28 @@ def index():
 	topic = request.args.get("topic", "")
 	name = request.args.get("name", "")
 
-	connection = sqlite3.connect("mydatabase.sqlite")
+	connection = sqlite3.connect("database.db")
 	connection.row_factory = dictionary_factory
 	cursor = connection.cursor()
+
+	all_records_query = "SELECT cases.title,cases.date,cases.top5,speech.name,speech.text,speech.score \
+						FROM cases INNER JOIN speech ON cases.case_id = speech.case_id %s %s;"
+
+
+	where_clause = ""
+	## Cases
+	if title:
+		where_clause = "where cases.title = ? " if title else ""
+
+	limit_statement = "limit 5"
+
+	all_records_query = all_records_query % (where_clause, limit_statement)
+
+	if title:
+		cursor.execute(all_records_query ,(title.lower(),))
+	else:
+		cursor.execute(all_records_query)
+
 	records = cursor.fetchall()
 
 	connection.close()
@@ -33,12 +52,15 @@ def index():
 	years = [x for x in range(2018, 2000, -1)]
 	days = [x for x in range(1, 31, 1)]
 	months = ['January', 'February', 'March', 'April', 'May', 'June', 'July', 'August', 'September', 'October', 'November', 'December']
+	topics = ["Government action in relation to immigration", "Beneficiaries’ rights to property in an estate", "Trial process for criminal matters", "Damage to persons through injury", "Company financial flows", "Jurisdictional divisions and actions", "Employment entitlements and disputes", "Land contracts and agreements", "Constitutional actors and relationships", "Trade licensing, regulation and IP", "Other"]
+
 	selected_dict = {}
 	selected_dict["year"] = int(year) if year else None
 	selected_dict["month"] = month if month else None
 	selected_dict["day"] = int(day) if day else None
-	return flask.render_template('index.html',records= ['hi', 'hello'], days = days, years = years,
-	months = months, selected_dict = selected_dict, title = title, name = name, topic = topic)
+	selected_dict["topic"] = topic if topic else None
+	return flask.render_template('index.html',records= records, days = days, years = years,
+	months = months, selected_dict = selected_dict, title = title, name = name, topics = topics)
 
 @app.route('/speakers')
 def speakers():
