@@ -15,7 +15,30 @@ def index():
 	Displays the home page that leads users into different pages
 	"""
 	#return flask.render_template('index.html')
-	return flask.render_template('index.html', records=["HI", "HELLOOOO"])
+
+	year = request.args.get("year", "")
+	month = request.args.get("month", "")
+	day = request.args.get("day", "")
+	title = request.args.get("title", "")
+	topic = request.args.get("topic", "")
+	name = request.args.get("name", "")
+
+	connection = sqlite3.connect("mydatabase.sqlite")
+	connection.row_factory = dictionary_factory
+	cursor = connection.cursor()
+	records = cursor.fetchall()
+
+	connection.close()
+
+	years = [x for x in range(2018, 2000, -1)]
+	days = [x for x in range(1, 31, 1)]
+	months = ['January', 'February', 'March', 'April', 'May', 'June', 'July', 'August', 'September', 'October', 'November', 'December']
+	selected_dict = {}
+	selected_dict["year"] = int(year) if year else None
+	selected_dict["month"] = month if month else None
+	selected_dict["day"] = int(day) if day else None
+	return flask.render_template('index.html',records= ['hi', 'hello'], days = days, years = years,
+	months = months, selected_dict = selected_dict, title = title, name = name, topic = topic)
 
 @app.route('/speakers')
 def speakers():
