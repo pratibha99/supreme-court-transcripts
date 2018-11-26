@@ -1,11 +1,14 @@
 body  {
-
-    background-size: contain;
+    background-image: url("../img/gavel.jpg");
+    background-position: center; /* Center the image */
+    background-repeat: no-repeat;
+    background-size: cover;
     background-color: #000000;
+
 }
 h1{
   color: #ffffff;
-  font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+  font-family: 'Roboto', sans-serif;
 }
 .container{
   width: 100%;
@@ -17,15 +20,15 @@ h1{
 }
 
 #filter{
-  background-color: #4CAF50;
-  border: none;
+  background-color: #5280e9;
+  border-color: white;
   color: white;
   padding: 15px 32px;
   text-align: center;
   text-decoration: none;
   display: inline-block;
   font-size: 16px;
-  margin: 4px 2px;
+  margin: 12px 2px;
   cursor: pointer;
 }
 
@@ -70,17 +73,26 @@ select {
 
 }
 table{
-  color: #ffffff;
-  margin-top: 10px;
+  background-color: #ffffff;
+  margin-top: 15px;
+  border: 30px 30px;;
   padding: 30px;
-  width: 100%;
+
   border-collapse: collapse;
+  font-family: "Helvetica";
+  table-layout:fixed;
 }
 table td, table th{
 
-  border: 1px solid #ddd;
-  padding: 8px;
+  border: 2px solid #000000;
+  padding: 9px;
 }
+
+table th {
+    background-color: #7D7D7D;
+    color: white;
+}
+
 .dropdown{
 
   width: 250px;
