@@ -4,12 +4,15 @@
 	<link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet">
 
 	<script src="https://code.jquery.com/jquery-2.2.4.min.js" integrity="sha256-BbhdlvQf/xTY9gja0Dq3HiwQF8LaCRTXxZKRutelT44=" crossorigin="anonymous"></script>
-	<script type="text/javascript" src="../static/assets/js/main.js"></script>
+
 </head>
 <body>
+	<!-- <img src="../static/img/gavel.jpg" id = "backgroundimg"> -->
 	<div class="container">
-		<h1> Supreme Court Transcripts </h1>
-    <div class="grid-container">
+		<h1> DECONSTRUCTING THE LAW </h1>
+		<p> United States Supreme Court Transcripts </p>
+
+		<div class="grid-container">
       <div class="grid-item">
 
           <input class = "inputfields" id = "title" type="text" placeholder= "Title" value="{{title}}">
@@ -30,7 +33,7 @@
       </div>
 			<div class="grid-item">
 
-          <input class = "inputfields" id = "topic" type="text" placeholder= "Topic" value="{{topic}}">
+				<input class = "inputfields" id = "name" type="text" placeholder= "Name" value="{{name}}">
 
       </div>
 
@@ -46,8 +49,16 @@
         </div>
       </div>
 			<div class="grid-item">
+				<div class = "dropdownitems">
+						<select class = "dropdown" id = "topic">
+							<option value="">--Topic--</option>
+							{% for topic in topics%}
+							<option value="{{topic}}" {% if selected_dict['topic'] == topic %}selected{%endif%}>{{topic}}</option>
+							{% endfor %}
+						</select>
+				</div>
 
-					<input class = "inputfields" id = "name" type="text" placeholder= "Name" value="{{name}}">
+
 
 			</div>
       <div class="grid-item">
@@ -62,32 +73,37 @@
       </div>
 
     </div>
+
+		<br/>
 		<div>
 			<button id = "filter"> FILTER </button>
 
 		</div>
-
-		<script>
-		$('#filter').click(function() {
-			//Reload the page to display the new data.
-			//You could optionally work with Ajax
-			
-			window.location.href="/?title=" + $("#title").val() + "&topic=" + $("#topic").val() +
-			"&name=" + $("#name").val()  +
-			"&month=" + $("#month").val() + "&day=" + $("#day").val() + "&year=" + $("#year").val()
-		});
-		</script>
+		<br/>
 
 
-		<div>
+
+
+		<div >
 			<table>
+
 				{% if (records is defined) and records %}
+				<col width="10%" />
+		    <col width="5%" />
+		    <col width="5%" />
+				<col width="10%" />
+				<col width="5%" />
+				<col width="10%" />
+				<col width="5%" />
 				<tr>
 			    <th>CASE</th>
 			    <th>DATE</th>
 			    <th>KEYWORDS</th>
 					<th>ACTS/BILLS</th>
+					<th>PERSON</th>
+					<th>TEXT</th>
 			    <th>SENTIMENT SCORE</th>
+
 
 			  </tr>
 				{% endif %}
@@ -97,9 +113,11 @@
 
 				                <td class="">{{record.title}}</td>
 				                <td class="">{{record.date}}</td>
-				                <td class="">{{record.keywords}}</td>
+				                <td class="">{{record.top5}}</td>
 				                <td class="">{{record.acts}}</td>
-				                <td class="">{{record.sentimentscore}}</td>
+												<td class="">{{record.person}}</td>
+												<td class="">{{record.text[0:120] + " ..."}}</td>
+				                <td class="">{{record.score}}</td>
 
 
 				              </tr>
@@ -107,9 +125,9 @@
 				 {% endif %}
 			</table>
 	 </div>
-	</div>
+	 </div>
 
 </body>
-
+<script type="text/javascript" src="../static/js/main.js"></script>
 
 </html>

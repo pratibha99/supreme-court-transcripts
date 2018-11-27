@@ -1,22 +1,40 @@
 body  {
     background-image: url("../img/gavel.jpg");
-    background-position: center; /* Center the image */
+    background-position: top; /* Center the image */
     background-repeat: no-repeat;
+
     background-size: cover;
     background-color: #000000;
 
+
+}
+#backgroundimg{
+  width: 100%;
+  z-index: -1;
 }
 h1{
   color: #ffffff;
   font-family: 'Roboto', sans-serif;
 }
+p{
+  color: #ffffff;
+  font-family: 'Roboto', sans-serif;
+}
+#button{
+  padding: 10px;
+  position: relative
+}
+
 .container{
   width: 100%;
-  height: 100%;
-  display: flex;
-  flex-direction: column;
+  z-index: 1;
 
+  display: flex;
+
+  flex-direction: column;
+  padding:10px;
   align-items: center;
+  
 }
 
 #filter{
@@ -27,6 +45,7 @@ h1{
   text-align: center;
   text-decoration: none;
   display: inline-block;
+
   font-size: 16px;
   margin: 12px 2px;
   cursor: pointer;
@@ -40,6 +59,12 @@ h1{
   padding: 10px;
   justify-content: center;
   align-items: center;
+}
+
+#topic {
+  width: 300px;
+  padding: 10px;
+  height: 40px;
 }
 
 .grid-item{
@@ -75,17 +100,21 @@ select {
 table{
   background-color: #ffffff;
   margin-top: 15px;
-  border: 30px 30px;;
+
   padding: 30px;
 
   border-collapse: collapse;
   font-family: "Helvetica";
   table-layout:fixed;
+  margin-bottom: 15px;
+  margin-right: 20px;
+  margin-left: 20px;
 }
 table td, table th{
 
   border: 2px solid #000000;
   padding: 9px;
+  overflow: hidden;
 }
 
 table th {

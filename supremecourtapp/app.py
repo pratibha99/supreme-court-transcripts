@@ -5,6 +5,7 @@ from flask import Response, request, send_file
 import json
 import sqlite3
 import csv
+import sys
 
 # Create the application.
 app = flask.Flask(__name__)
@@ -27,27 +28,67 @@ def index():
 	connection.row_factory = dictionary_factory
 	cursor = connection.cursor()
 
-	all_records_query = "SELECT cases.title,cases.date,cases.top5,speech.name,speech.text,speech.score \
-						FROM cases INNER JOIN speech ON cases.case_id = speech.case_id %s %s;"
-
-
+	#Query that gets the records that match the query
+	all_records_query = "SELECT cases.title,cases.date,cases.top5,cases.act,\
+						speech.name,speech.text,speech.score FROM cases INNER \
+						JOIN speech on cases.case_id = speech.case_id %s %s;"
+	unselected_queries = []
+	records_total = []
 	where_clause = ""
-	## Cases
-	if title:
-		where_clause = "where cases.title = ? " if title else ""
+	where_array = []
+	condition_tuple = []
+	if name or year or month or day or title or topic:
+		where_clause += "where "
+		if name:
+			where_array.append("speech.name like ? ")
+			condition_tuple.append(str(name))
+		else:
+			unselected_queries.append('Name')
+		if title:
+			where_array.append("cases.title like ? ")
+			condition_tuple.append("%" + title + "%")
+		else:
+			unselected_queries.append('Title')
+		if topic:
+			where_array.append("cases.topic = ? ")
+			condition_tuple.append(str(topic))
+		else:
+			unselected_queries.append('Topic')
+		if day:
+			where_array.append("day = ? ")
+			condition_tuple.append(str(day))
+		else:
+			unselected_queries.append('Day')
+		if month:
+			where_array.append("month = ? ")
+			condition_tuple.append(str(month))
+		else:
+			unselected_queries.append('Month')
+		if year:
+			where_array.append("year = ? ")
+			condition_tuple.append(str(year))
+		else:
+			unselected_queries.append('Year')
 
-	limit_statement = "limit 5"
 
-	all_records_query = all_records_query % (where_clause, limit_statement)
+		where_clause += "and ".join(where_array)
+		print(where_clause, file=sys.stderr)
+		condition_tuple = tuple(condition_tuple)
 
-	if title:
-		cursor.execute(all_records_query ,(title.lower(),))
+		print(condition_tuple, file = sys.stderr)
+		limit_statement = "ORDER BY year DESC, month DESC, day DESC LIMIT 5"
+		# print(where_clause)
+		# print(limit_statement)
+		all_records_query = all_records_query % (where_clause, limit_statement)
+		print(all_records_query, file = sys.stderr)
+		cursor.execute(all_records_query, condition_tuple)
+		records = cursor.fetchall()
+		connection.close()
+
+
+
 	else:
-		cursor.execute(all_records_query)
-
-	records = cursor.fetchall()
-
-	connection.close()
+		records = None
 
 	years = [x for x in range(2018, 2000, -1)]
 	days = [x for x in range(1, 31, 1)]
