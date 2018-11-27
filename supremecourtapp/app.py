@@ -29,8 +29,8 @@ def index():
 	cursor = connection.cursor()
 
 	#Query that gets the records that match the query
-	all_records_query = "SELECT cases.title,cases.date,cases.top5,cases.act,\
-						speech.name,speech.text,speech.score FROM cases INNER \
+	all_records_query = "SELECT cases.title,cases.date,cases.top5,cases.act as acts,\
+						speech.name as person,speech.text,speech.score FROM cases INNER \
 						JOIN speech on cases.case_id = speech.case_id %s %s;"
 	unselected_queries = []
 	records_total = []
@@ -55,17 +55,17 @@ def index():
 		else:
 			unselected_queries.append('Topic')
 		if day:
-			where_array.append("day = ? ")
+			where_array.append("cases.day = ? ")
 			condition_tuple.append(str(day))
 		else:
 			unselected_queries.append('Day')
 		if month:
-			where_array.append("month = ? ")
+			where_array.append("cases.month = ? ")
 			condition_tuple.append(str(month))
 		else:
 			unselected_queries.append('Month')
 		if year:
-			where_array.append("year = ? ")
+			where_array.append("cases.year = ? ")
 			condition_tuple.append(str(year))
 		else:
 			unselected_queries.append('Year')
