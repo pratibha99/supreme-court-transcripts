@@ -44,6 +44,7 @@ p{
   flex-direction: column;
   padding:10px;
   align-items: center;
+  min-width: 400px;
 
 }
 
