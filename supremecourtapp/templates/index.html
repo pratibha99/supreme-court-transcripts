@@ -10,12 +10,12 @@
 	<!-- <img src="../static/img/gavel.jpg" id = "backgroundimg"> -->
 	<div class="container">
 		<h1> DECONSTRUCTING THE LAW </h1>
-		<p> United States Supreme Court Transcripts </p>
+		<h2> United States Supreme Court Transcripts </h2>
 
 		<div class="grid-container">
       <div class="grid-item">
 
-          <input class = "inputfields" id = "title" type="text" placeholder= "Title" value="{{title}}">
+          <input class = "inputfields" id = "title" type="text" placeholder= "Title (ie: Miller v. Alabama)" value="{{title}}">
 
       </div>
 
@@ -33,7 +33,7 @@
       </div>
 			<div class="grid-item">
 
-				<input class = "inputfields" id = "name" type="text" placeholder= "Name" value="{{name}}">
+				<input class = "inputfields" id = "name" type="text" placeholder= "Name (ie: Justice Sotamayor)" value="{{name}}">
 
       </div>
 
@@ -116,7 +116,7 @@
 				                <td class="">{{record.top5}}</td>
 				                <td class="">{{record.acts}}</td>
 												<td class="">{{record.person}}</td>
-												<td class="">{{record.text[0:120] + " ..."}}</td>
+												<td class="">{{record.text[0:100] + " ..."}}</td>
 				                <td class="">{{record.score}}</td>
 
 
