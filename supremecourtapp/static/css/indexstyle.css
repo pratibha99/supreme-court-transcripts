@@ -44,7 +44,7 @@ p{
   flex-direction: column;
   padding:10px;
   align-items: center;
-  min-width: 400px;
+  min-width: 800px;
 
 }
 
@@ -120,6 +120,7 @@ table{
   margin-bottom: 15px;
   margin-right: 20px;
   margin-left: 20px;
+
 }
 table td, table th{
 
@@ -132,7 +133,9 @@ table th {
     background-color: #7D7D7D;
     color: white;
 }
-
+table td {
+  font-size: 10;
+}
 .dropdown{
 
   width: 250px;
