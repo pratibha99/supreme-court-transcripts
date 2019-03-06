@@ -1,0 +1,999 @@
+(Slip Opinion)                OCTOBER TERM, 2018                                    1
+                                         Syllabus
+          NOTE: Where it is feasible, a syllabus (headnote) will be released, as is
+        being done in connection with this case, at the time the opinion is issued.
+        The syllabus constitutes no part of the opinion of the Court but has been
+        prepared by the Reporter of Decisions for the convenience of the reader.
+        See United States v. Detroit Timber & Lumber Co., 200 U. S. 321, 337.
+SUPREME COURT OF THE UNITED STATES
+                                         Syllabus
+                              TIMBS v. INDIANA
+         CERTIORARI TO THE SUPREME COURT OF INDIANA
+No. 17–1091. Argued November 28, 2018—Decided February 20, 2019
+Tyson Timbs pleaded guilty in Indiana state court to dealing in a con-
+   trolled substance and conspiracy to commit theft. At the time of
+   Timbs’s arrest, the police seized a Land Rover SUV Timbs had pur-
+   chased for $42,000 with money he received from an insurance policy
+   when his father died. The State sought civil forfeiture of Timbs’s ve-
+   hicle, charging that the SUV had been used to transport heroin. Ob-
+   serving that Timbs had recently purchased the vehicle for more than
+   four times the maximum $10,000 monetary fine assessable against
+   him for his drug conviction, the trial court denied the State’s request.
+   The vehicle’s forfeiture, the court determined, would be grossly dis-
+   proportionate to the gravity of Timbs’s offense, and therefore uncon-
+   stitutional under the Eighth Amendment’s Excessive Fines Clause.
+   The Court of Appeals of Indiana affirmed, but the Indiana Supreme
+   Court reversed, holding that the Excessive Fines Clause constrains
+   only federal action and is inapplicable to state impositions.
+Held: The Eighth Amendment’s Excessive Fines Clause is an incorpo-
+   rated protection applicable to the States under the Fourteenth
+   Amendment’s Due Process Clause. Pp. 2–9.
+      (a) The Fourteenth Amendment’s Due Process Clause incorporates
+   and renders applicable to the States Bill of Rights protections “fun-
+   damental to our scheme of ordered liberty,” or “deeply rooted in this
+   Nation’s history and tradition.” McDonald v. Chicago, 561 U. S. 742,
+   767 (alterations omitted). If a Bill of Rights protection is incorpo-
+   rated, there is no daylight between the federal and state conduct it
+   prohibits or requires. Pp. 2–3.
+      (b) The prohibition embodied in the Excessive Fines Clause carries
+   forward protections found in sources from Magna Carta to the Eng-
+   lish Bill of Rights to state constitutions from the colonial era to the
+   present day. Protection against excessive fines has been a constant
+
+
+2                           TIMBS v. INDIANA
+                                  Syllabus
+  shield throughout Anglo-American history for good reason: Such fines
+  undermine other liberties. They can be used, e.g., to retaliate against
+  or chill the speech of political enemies. They can also be employed,
+  not in service of penal purposes, but as a source of revenue. The his-
+  torical and logical case for concluding that the Fourteenth Amend-
+  ment incorporates the Excessive Fines Clause is indeed overwhelm-
+  ing. Pp. 3–7.
+     (c) Indiana argues that the Clause does not apply to its use of civil
+  in rem forfeitures, but this Court held in Austin v. United States, 509
+  U. S. 602, that such forfeitures fall within the Clause’s protection
+  when they are at least partially punitive. Indiana cannot prevail un-
+  less the Court overrules Austin or holds that, in light of Austin, the
+  Excessive Fines Clause is not incorporated because its application to
+  civil in rem forfeitures is neither fundamental nor deeply rooted.
+     The first argument, overturning Austin, is not properly before this
+  Court. The Indiana Supreme Court held only that the Excessive
+  Fines Clause did not apply to the States. The court did not address
+  the Clause’s application to civil in rem forfeitures, nor did the State
+  ask it to do so. Timbs thus sought this Court’s review only of the
+  question whether the Excessive Fines Clause is incorporated by the
+  Fourteenth Amendment. Indiana attempted to reformulate the ques-
+  tion to ask whether the Clause restricted States’ use of civil in rem
+  forfeitures and argued on the merits that Austin was wrongly decid-
+  ed. Respondents’ “right, . . . to restate the questions presented,” how-
+  ever, “does not give them the power to expand [those] questions,”
+  Bray v. Alexandria Women’s Health Clinic, 506 U. S. 263, 279, n. 10
+  (emphasis deleted), particularly where the proposed reformulation
+  would lead the Court to address a question neither pressed nor
+  passed upon below, cf. Cutter v. Wilkinson, 544 U. S. 709, 718, n. 7.
+     The second argument, that the Excessive Fines Clause cannot be
+  incorporated if it applies to civil in rem forfeitures, misapprehends
+  the nature of the incorporation inquiry. In considering whether the
+  Fourteenth Amendment incorporates a Bill of Rights protection, this
+  Court asks whether the right guaranteed—not each and every par-
+  ticular application of that right—is fundamental or deeply rooted. To
+  suggest otherwise is inconsistent with the approach taken in cases
+  concerning novel applications of rights already deemed incorporated.
+  See, e.g., Packingham v. North Carolina, 582 U. S. ___, ___. The Ex-
+  cessive Fines Clause is thus incorporated regardless of whether ap-
+  plication of the Clause to civil in rem forfeitures is itself fundamental
+  or deeply rooted. Pp. 7–9.
+84 N. E. 3d 1179, vacated and remanded.
+  GINSBURG, J., delivered the opinion of the Court, in which ROBERTS,
+
+
+                        Cite as: 586 U. S. ____ (2019)                 3
+                                  Syllabus
+C. J., and BREYER, ALITO, SOTOMAYOR, KAGAN, GORSUCH, and KA-
+VANAUGH,    JJ., joined. GORSUCH, J., filed a concurring opinion. THOMAS,
+J., filed an opinion concurring in the judgment.
+
+
+                        Cite as: 586 U. S. ____ (2019)                            1
+                              Opinion of the Court
+     NOTICE: This opinion is subject to formal revision before publication in the
+     preliminary print of the United States Reports. Readers are requested to
+     notify the Reporter of Decisions, Supreme Court of the United States, Wash-
+     ington, D. C. 20543, of any typographical or other formal errors, in order
+     that corrections may be made before the preliminary print goes to press.
+SUPREME COURT OF THE UNITED STATES
+                                    _________________
+                                    No. 17–1091
+                                    _________________
+         TYSON TIMBS, PETITIONER v. INDIANA
+            ON WRIT OF CERTIORARI TO THE SUPREME
+                             COURT OF INDIANA
+                               [February 20, 2019]
+   JUSTICE GINSBURG delivered the opinion of the Court.
+   Tyson Timbs pleaded guilty in Indiana state court to
+dealing in a controlled substance and conspiracy to com-
+mit theft. The trial court sentenced him to one year of
+home detention and five years of probation, which included
+a court-supervised addiction-treatment program. The
+sentence also required Timbs to pay fees and costs totaling
+$1,203. At the time of Timbs’s arrest, the police seized his
+vehicle, a Land Rover SUV Timbs had purchased for about
+$42,000. Timbs paid for the vehicle with money he re-
+ceived from an insurance policy when his father died.
+   The State engaged a private law firm to bring a civil suit
+for forfeiture of Timbs’s Land Rover, charging that the
+vehicle had been used to transport heroin. After Timbs’s
+guilty plea in the criminal case, the trial court held a
+hearing on the forfeiture demand. Although finding that
+Timbs’s vehicle had been used to facilitate violation of a
+criminal statute, the court denied the requested forfeiture,
+observing that Timbs had recently purchased the vehicle
+for $42,000, more than four times the maximum $10,000
+monetary fine assessable against him for his drug convic-
+tion. Forfeiture of the Land Rover, the court determined,
+
+
+2                      TIMBS v. INDIANA
+                       Opinion of the Court
+would be grossly disproportionate to the gravity of Timbs’s
+offense, hence unconstitutional under the Eighth Amend-
+ment’s Excessive Fines Clause. The Court of Appeals of
+Indiana affirmed that determination, but the Indiana
+Supreme Court reversed. 84 N. E. 3d 1179 (2017). The
+Indiana Supreme Court did not decide whether the forfeit-
+ure would be excessive. Instead, it held that the Exces-
+sive Fines Clause constrains only federal action and is
+inapplicable to state impositions. We granted certiorari.
+585 U. S. __ (2018).
+   The question presented: Is the Eighth Amendment’s
+Excessive Fines Clause an “incorporated” protection appli-
+cable to the States under the Fourteenth Amendment’s
+Due Process Clause? Like the Eighth Amendment’s pro-
+scriptions of “cruel and unusual punishment” and
+“[e]xcessive bail,” the protection against excessive fines
+guards against abuses of government’s punitive or criminal-
+law-enforcement authority. This safeguard, we hold, is
+“fundamental to our scheme of ordered liberty,” with
+“dee[p] root[s] in [our] history and tradition.” McDonald v.
+Chicago, 561 U. S. 742, 767 (2010) (internal quotation
+marks omitted; emphasis deleted). The Excessive Fines
+Clause is therefore incorporated by the Due Process
+Clause of the Fourteenth Amendment.
+                                I
+                                A
+   When ratified in 1791, the Bill of Rights applied only to
+the Federal Government. Barron ex rel. Tiernan v. Mayor
+of Baltimore, 7 Pet. 243 (1833). “The constitutional
+Amendments adopted in the aftermath of the Civil War,”
+however, “fundamentally altered our country’s federal
+system.” McDonald, 561 U. S., at 754. With only “a hand-
+ful” of exceptions, this Court has held that the Fourteenth
+Amendment’s Due Process Clause incorporates the protec-
+tions contained in the Bill of Rights, rendering them appli-
+
+
+                      Cite as: 586 U. S. ____ (2019)                   3
+                           Opinion of the Court
+cable to the States. Id., at 764–765, and nn. 12–13. A Bill
+of Rights protection is incorporated, we have explained, if
+it is “fundamental to our scheme of ordered liberty,”
+or “deeply rooted in this Nation’s history and tradition.”
+Id., at 767 (internal quotation marks omitted; emphasis
+deleted).
+   Incorporated Bill of Rights guarantees are “enforced
+against the States under the Fourteenth Amendment
+according to the same standards that protect those per-
+sonal rights against federal encroachment.” Id., at 765
+(internal quotation marks omitted). Thus, if a Bill of
+Rights protection is incorporated, there is no daylight
+between the federal and state conduct it prohibits or
+requires.1
+                                     B
+   Under the Eighth Amendment, “[e]xcessive bail shall
+not be required, nor excessive fines imposed, nor cruel and
+unusual punishments inflicted.” Taken together, these
+Clauses place “parallel limitations” on “the power of those
+entrusted with the criminal-law function of government.”
+Browning-Ferris Industries of Vt., Inc. v. Kelco Disposal,
+Inc., 492 U. S. 257, 263 (1989) (quoting Ingraham v.
+Wright, 430 U. S. 651, 664 (1977)). Directly at issue here
+is the phrase “nor excessive fines imposed,” which “limits
+the government’s power to extract payments, whether in
+cash or in kind, ‘as punishment for some offense.’ ” United
+States v. Bajakajian, 524 U. S. 321, 327–328 (1998) (quot-
+——————
+  1 The  sole exception is our holding that the Sixth Amendment re-
+quires jury unanimity in federal, but not state, criminal proceedings.
+Apodaca v. Oregon, 406 U. S. 404 (1972). As we have explained, that
+“exception to th[e] general rule . . . was the result of an unusual divi-
+sion among the Justices,” and it “does not undermine the well-
+established rule that incorporated Bill of Rights protections apply
+identically to the States and the Federal Government.” McDonald, 561
+U. S., at 766, n. 14.
+
+
+4                        TIMBS v. INDIANA
+                         Opinion of the Court
+ing Austin v. United States, 509 U. S. 602, 609–610
+(1993)). The Fourteenth Amendment, we hold, incorpo-
+rates this protection.
+   The Excessive Fines Clause traces its venerable lineage
+back to at least 1215, when Magna Carta guaranteed that
+“[a] Free-man shall not be amerced for a small fault, but
+after the manner of the fault; and for a great fault after
+the greatness thereof, saving to him his contenement . . . .”
+§20, 9 Hen. III, ch. 14, in 1 Eng. Stat. at Large 5 (1225).2
+As relevant here, Magna Carta required that economic
+sanctions “be proportioned to the wrong” and “not be so
+large as to deprive [an offender] of his livelihood.” Browning-
+Ferris, 492 U. S., at 271. See also 4 W. Blackstone,
+Commentaries on the Laws of England 372 (1769) (“[N]o
+man shall have a larger amercement imposed upon him,
+than his circumstances or personal estate will bear . . . .”).
+But cf. Bajakajian, 524 U. S., at 340, n. 15 (taking no
+position on the question whether a person’s income and
+wealth are relevant considerations in judging the exces-
+siveness of a fine).
+   Despite Magna Carta, imposition of excessive fines
+persisted. The 17th century Stuart kings, in particular,
+were criticized for using large fines to raise revenue, har-
+ass their political foes, and indefinitely detain those un-
+able to pay. E.g., The Grand Remonstrance ¶¶17, 34
+(1641), in The Constitutional Documents of the Puritan
+Revolution 1625–1660, pp. 210, 212 (S. Gardiner ed., 3d
+ed. rev. 1906); Browning-Ferris, 492 U. S., at 267. When
+James II was overthrown in the Glorious Revolution, the
+——————
+  2 “Amercements were payments to the Crown, and were required of
+individuals who were ‘in the King’s mercy,’ because of some act offen-
+sive to the Crown.” Browning-Ferris, 492 U. S., at 269. “[T]hough fines
+and amercements had distinct historical antecedents, they served
+fundamentally similar purposes—and, by the seventeenth and eight-
+eenth centuries, the terms were often used interchangeably.” Brief for
+Eighth Amendment Scholars as Amici Curiae 12.
+
+
+                  Cite as: 586 U. S. ____ (2019)         5
+                       Opinion of the Court
+attendant English Bill of Rights reaffirmed Magna Carta’s
+guarantee by providing that “excessive Bail ought not to
+be required, nor excessive Fines imposed; nor cruel and
+unusual Punishments inflicted.” 1 Wm. & Mary, ch. 2,
+§10, in 3 Eng. Stat. at Large 441 (1689).
+  Across the Atlantic, this familiar language was adopted
+almost verbatim, first in the Virginia Declaration of
+Rights, then in the Eighth Amendment, which states:
+“Excessive bail shall not be required, nor excessive fines
+imposed, nor cruel and unusual punishments inflicted.”
+  Adoption of the Excessive Fines Clause was in tune not
+only with English law; the Clause resonated as well with
+similar colonial-era provisions. See, e.g., Pa. Frame of
+Govt., Laws Agreed Upon in England, Art. XVIII (1682), in
+5 Federal and State Constitutions 3061 (F. Thorpe ed.
+1909) (“[A]ll fines shall be moderate, and saving men’s
+contenements, merchandize, or wainage.”). In 1787, the
+constitutions of eight States—accounting for 70% of the
+U. S. population—forbade excessive fines.        Calabresi,
+Agudo, & Dore, State Bills of Rights in 1787 and 1791, 85
+S. Cal. L. Rev. 1451, 1517 (2012).
+  An even broader consensus obtained in 1868 upon ratifi-
+cation of the Fourteenth Amendment. By then, the consti-
+tutions of 35 of the 37 States—accounting for over 90% of
+the U. S. population—expressly prohibited excessive fines.
+Calabresi & Agudo, Individual Rights Under State Consti-
+tutions When the Fourteenth Amendment Was Ratified in
+1868, 87 Texas L. Rev. 7, 82 (2008).
+  Notwithstanding the States’ apparent agreement that
+the right guaranteed by the Excessive Fines Clause was
+fundamental, abuses continued. Following the Civil War,
+Southern States enacted Black Codes to subjugate newly
+freed slaves and maintain the prewar racial hierarchy.
+Among these laws’ provisions were draconian fines for
+violating broad proscriptions on “vagrancy” and other
+dubious offenses. See, e.g., Mississippi Vagrant Law,
+
+
+6                     TIMBS v. INDIANA
+                      Opinion of the Court
+Laws of Miss. §2 (1865), in 1 W. Fleming, Documentary
+History of Reconstruction 283–285 (1950). When newly
+freed slaves were unable to pay imposed fines, States often
+demanded involuntary labor instead. E.g., id. §5; see
+Finkelman, John Bingham and the Background to the
+Fourteenth Amendment, 36 Akron L. Rev 671, 681–685
+(2003) (describing Black Codes’ use of fines and other
+methods to “replicate, as much as possible, a system of
+involuntary servitude”). Congressional debates over the
+Civil Rights Act of 1866, the joint resolution that became
+the Fourteenth Amendment, and similar measures re-
+peatedly mentioned the use of fines to coerce involuntary
+labor. See, e.g., Cong. Globe, 39th Cong., 1st Sess., 443
+(1866); id., at 1123–1124.
+   Today, acknowledgment of the right’s fundamental
+nature remains widespread. As Indiana itself reports, all
+50 States have a constitutional provision prohibiting the
+imposition of excessive fines either directly or by requiring
+proportionality. Brief in Opposition 8–9. Indeed, Indiana
+explains that its own Supreme Court has held that the
+Indiana Constitution should be interpreted to impose the
+same restrictions as the Eighth Amendment. Id., at 9
+(citing Norris v. State, 271 Ind. 568, 576, 394 N. E. 2d 144,
+150 (1979)).
+   For good reason, the protection against excessive fines
+has been a constant shield throughout Anglo-American
+history: Exorbitant tolls undermine other constitutional
+liberties. Excessive fines can be used, for example, to
+retaliate against or chill the speech of political enemies, as
+the Stuarts’ critics learned several centuries ago. See
+Browning-Ferris, 492 U. S., at 267. Even absent a politi-
+cal motive, fines may be employed “in a measure out of
+accord with the penal goals of retribution and deterrence,”
+for “fines are a source of revenue,” while other forms of
+punishment “cost a State money.” Harmelin v. Michigan,
+501 U. S. 957, 979, n. 9 (1991) (opinion of Scalia, J.) (“it
+
+
+                   Cite as: 586 U. S. ____ (2019)            7
+                        Opinion of the Court
+makes sense to scrutinize governmental action more closely
+when the State stands to benefit”). This concern is scarcely
+hypothetical. See Brief for American Civil Liberties
+Union et al. as Amici Curiae 7 (“Perhaps because they are
+politically easier to impose than generally applicable
+taxes, state and local governments nationwide increasingly
+depend heavily on fines and fees as a source of general
+revenue.”).
+   In short, the historical and logical case for concluding
+that the Fourteenth Amendment incorporates the Exces-
+sive Fines Clause is overwhelming. Protection against
+excessive punitive economic sanctions secured by the
+Clause is, to repeat, both “fundamental to our scheme of
+ordered liberty” and “deeply rooted in this Nation’s history
+and tradition.” McDonald, 561 U. S., at 767 (internal
+quotation marks omitted; emphasis deleted).
+                                 II
+   The State of Indiana does not meaningfully challenge
+the case for incorporating the Excessive Fines Clause as a
+general matter. Instead, the State argues that the Clause
+does not apply to its use of civil in rem forfeitures because,
+the State says, the Clause’s specific application to such
+forfeitures is neither fundamental nor deeply rooted.
+   In Austin v. United States, 509 U. S. 602 (1993), however,
+this Court held that civil in rem forfeitures fall within the
+Clause’s protection when they are at least partially puni-
+tive. Austin arose in the federal context. But when a Bill
+of Rights protection is incorporated, the protection applies
+“identically to both the Federal Government and the
+States.” McDonald, 561 U. S., at 766, n. 14. Accordingly,
+to prevail, Indiana must persuade us either to overrule
+our decision in Austin or to hold that, in light of Austin,
+the Excessive Fines Clause is not incorporated because the
+Clause’s application to civil in rem forfeitures is neither
+fundamental nor deeply rooted. The first argument is not
+
+
+8                         TIMBS v. INDIANA
+                         Opinion of the Court
+properly before us, and the second misapprehends the
+nature of our incorporation inquiry.
+                                  A
+   In the Indiana Supreme Court, the State argued that
+forfeiture of Timbs’s SUV would not be excessive. See
+Brief in Opposition 5. It never argued, however, that civil
+in rem forfeitures were categorically beyond the reach of
+the Excessive Fines Clause. The Indiana Supreme Court,
+for its part, held that the Clause did not apply to the
+States at all, and it nowhere addressed the Clause’s appli-
+cation to civil in rem forfeitures. See 84 N. E. 3d 1179.
+Accordingly, Timbs sought our review of the question
+“[w]hether the Eighth Amendment’s Excessive Fines
+Clause is incorporated against the States under the Four-
+teenth Amendment.” Pet. for Cert. i. In opposing review,
+Indiana attempted to reformulate the question to ask
+“[w]hether the Eighth Amendment’s Excessive Fines
+Clause restricts States’ use of civil asset forfeitures.” Brief
+in Opposition i. And on the merits, Indiana has argued
+not only that the Clause is not incorporated, but also that
+Austin was wrongly decided. Respondents’ “right, in their
+brief in opposition, to restate the questions presented,”
+however, “does not give them the power to expand [those]
+questions.” Bray v. Alexandria Women’s Health Clinic,
+506 U. S. 263, 279, n. 10 (1993) (emphasis deleted). That
+is particularly the case where, as here, a respondent’s
+reformulation would lead us to address a question neither
+pressed nor passed upon below. Cf. Cutter v. Wilkinson,
+544 U. S. 709, 718, n. 7 (2005) (“[W]e are a court of review,
+not of first view . . . .”). We thus decline the State’s invita-
+tion to reconsider our unanimous judgment in Austin that
+civil in rem forfeitures are fines for purposes of the Eighth
+Amendment when they are at least partially punitive.
+
+
+                   Cite as: 586 U. S. ____ (2019)                 9
+                        Opinion of the Court
+                                 B
+   As a fallback, Indiana argues that the Excessive Fines
+Clause cannot be incorporated if it applies to civil in rem
+forfeitures. We disagree. In considering whether the
+Fourteenth Amendment incorporates a protection con-
+tained in the Bill of Rights, we ask whether the right
+guaranteed—not each and every particular application of
+that right—is fundamental or deeply rooted.
+   Indiana’s suggestion to the contrary is inconsistent with
+the approach we have taken in cases concerning novel
+applications of rights already deemed incorporated. For
+example, in Packingham v. North Carolina, 582 U. S. ___
+(2017), we held that a North Carolina statute prohibiting
+registered sex offenders from accessing certain common-
+place social media websites violated the First Amendment
+right to freedom of speech. In reaching this conclusion, we
+noted that the First Amendment’s Free Speech Clause was
+“applicable to the States under the Due Process Clause of
+the Fourteenth Amendment.” Id., at ___ (slip op., at 1).
+We did not, however, inquire whether the Free Speech
+Clause’s application specifically to social media websites
+was fundamental or deeply rooted. See also, e.g., Riley v.
+California, 573 U. S. 373 (2014) (holding, without sepa-
+rately considering incorporation, that States’ warrantless
+search of digital information stored on cell phones ordinar-
+ily violates the Fourth Amendment). Similarly here,
+regardless of whether application of the Excessive Fines
+Clause to civil in rem forfeitures is itself fundamental or
+deeply rooted, our conclusion that the Clause is incorpo-
+rated remains unchanged.
+                           *     *      *
+   For the reasons stated, the judgment of the Indiana
+Supreme Court is vacated, and the case is remanded for
+further proceedings not inconsistent with this opinion.
+                                                  It is so ordered.
+
+
+                  Cite as: 586 U. S. ____ (2019)          1
+                     GORSUCH, J., concurring
+SUPREME COURT OF THE UNITED STATES
+                           _________________
+                           No. 17–1091
+                           _________________
+        TYSON TIMBS, PETITIONER v. INDIANA
+          ON WRIT OF CERTIORARI TO THE SUPREME
+                      COURT OF INDIANA
+                       [February 20, 2019]
+   JUSTICE GORSUCH, concurring.
+   The majority faithfully applies our precedent and, based
+on a wealth of historical evidence, concludes that the
+Fourteenth Amendment incorporates the Eighth Amend-
+ment’s Excessive Fines Clause against the States. I
+agree with that conclusion. As an original matter, I
+acknowledge, the appropriate vehicle for incorporation
+may well be the Fourteenth Amendment’s Privileges or
+Immunities Clause, rather than, as this Court has long
+assumed, the Due Process Clause. See, e.g., post, at 1–3
+(THOMAS, J., concurring in judgment); McDonald v. Chica-
+go, 561 U. S. 742, 805–858 (2010) (THOMAS, J., concurring
+in part and concurring in judgment) (documenting evi-
+dence that the “privileges or immunities of citizens of the
+United States” include, at minimum, the individual rights
+enumerated in the Bill of Rights); Wildenthal, Nationaliz-
+ing the Bill of Rights: Revisiting the Original Understand-
+ing of the Fourteenth Amendment in 1866–67, 68 Ohio St.
+L. J. 1509 (2007); A. Amar, The Bill of Rights: Creation
+and Reconstruction 163–214 (1998); M. Curtis, No State
+Shall Abridge: The Fourteenth Amendment and the Bill of
+Rights (1986). But nothing in this case turns on that
+question, and, regardless of the precise vehicle, there can
+be no serious doubt that the Fourteenth Amendment
+requires the States to respect the freedom from excessive
+fines enshrined in the Eighth Amendment.
+
+
+                  Cite as: 586 U. S. ____ (2019)             1
+                THOMAS, J., concurring in judgment
+SUPREME COURT OF THE UNITED STATES
+                           _________________
+                           No. 17–1091
+                           _________________
+        TYSON TIMBS, PETITIONER v. INDIANA
+          ON WRIT OF CERTIORARI TO THE SUPREME
+                      COURT OF INDIANA
+                       [February 20, 2019]
+   JUSTICE THOMAS, concurring in the judgment.
+   I agree with the Court that the Fourteenth Amendment
+makes the Eighth Amendment’s prohibition on excessive
+fines fully applicable to the States. But I cannot agree
+with the route the Court takes to reach this conclusion.
+Instead of reading the Fourteenth Amendment’s Due
+Process Clause to encompass a substantive right that has
+nothing to do with “process,” I would hold that the right to
+be free from excessive fines is one of the “privileges or
+immunities of citizens of the United States” protected by
+the Fourteenth Amendment.
+                                   I
+   The Fourteenth Amendment provides that “[n]o State
+shall make or enforce any law which shall abridge the
+privileges or immunities of citizens of the United States.”
+“On its face, this appears to grant . . . United States citi-
+zens a certain collection of rights—i.e., privileges or im-
+munities—attributable to that status.”             McDonald v.
+Chicago, 561 U. S. 742, 808 (2010) (THOMAS, J., concurring
+in part and concurring in judgment). But as I have previ-
+ously explained, this Court “marginaliz[ed]” the Privileges
+or Immunities Clause in the late 19th century by defining
+the collection of rights covered by the Clause “quite nar-
+rowly.” Id., at 808–809. Litigants seeking federal protec-
+tion of substantive rights against the States thus needed
+
+
+2                      TIMBS v. INDIANA
+                THOMAS, J., concurring in judgment
+“an alternative fount of such rights,” and this Court “found
+one in a most curious place,” id., at 809—the Fourteenth
+Amendment’s Due Process Clause, which prohibits “any
+State” from “depriv[ing] any person of life, liberty, or
+property, without due process of law.”
+   Because this Clause speaks only to “process,” the Court
+has “long struggled to define” what substantive rights it
+protects. McDonald, supra, at 810 (opinion of THOMAS,
+J.). The Court ordinarily says, as it does today, that the
+Clause protects rights that are “fundamental.” Ante, at 2,
+3, 7, 9. Sometimes that means rights that are “ ‘deeply
+rooted in this Nation’s history and tradition.’ ” Ante, at 3,
+7 (quoting McDonald, supra, at 767 (majority opinion)).
+Other times, when that formulation proves too restrictive,
+the Court defines the universe of “fundamental” rights so
+broadly as to border on meaningless. See, e.g., Obergefell
+v. Hodges, 576 U. S. ___, ___–___ (2015) (slip op., at 1–2)
+(“rights that allow persons, within a lawful realm, to
+define and express their identity”); Planned Parenthood of
+Southeastern Pa. v. Casey, 505 U. S. 833, 851 (1992) (“At
+the heart of liberty is the right to define one’s own concept
+of existence, of meaning, of the universe, and of the mys-
+tery of human life”). Because the oxymoronic “substan-
+tive” “due process” doctrine has no basis in the Constitu-
+tion, it is unsurprising that the Court has been unable to
+adhere to any “guiding principle to distinguish ‘fundamen-
+tal’ rights that warrant protection from nonfundamental
+rights that do not.” McDonald, supra, at 811 (opinion of
+THOMAS, J.). And because the Court’s substantive due
+process precedents allow the Court to fashion fundamental
+rights without any textual constraints, it is equally unsur-
+prising that among these precedents are some of the
+Court’s most notoriously incorrect decisions. E.g., Roe v.
+Wade, 410 U. S. 113 (1973); Dred Scott v. Sandford, 19
+How. 393, 450 (1857).
+   The present case illustrates the incongruity of the
+
+
+                  Cite as: 586 U. S. ____ (2019)            3
+                THOMAS, J., concurring in judgment
+Court’s due process approach to incorporating fundamen-
+tal rights against the States. Petitioner argues that the
+forfeiture of his vehicle is an excessive punishment. He
+does not argue that the Indiana courts failed to “ ‘proceed
+according to the “law of the land”—that is, according to
+written constitutional and statutory provisions,’ ” or that
+the State failed to provide “some baseline procedures.”
+Nelson v. Colorado, 581 U. S. ___, ___, n. 1 (2017)
+(THOMAS, J., dissenting) (slip op., at 2, n. 1). His claim
+has nothing to do with any “process” “due” him. I there-
+fore decline to apply the “legal fiction” of substantive
+due process. McDonald, 561 U. S., at 811 (opinion of
+THOMAS, J.).
+                                II
+   When the Fourteenth Amendment was ratified, “the
+terms ‘privileges’ and ‘immunities’ had an established
+meaning as synonyms for ‘rights.’ ” Id., at 813. Those
+“rights” were the “inalienable rights” of citizens that had
+been “long recognized,” and “the ratifying public under-
+stood the Privileges or Immunities Clause to protect con-
+stitutionally enumerated rights” against interference by
+the States. Id., at 822, 837. Many of these rights had
+been adopted from English law into colonial charters, then
+state constitutions and bills of rights, and finally the
+Constitution. “Consistent with their English heritage, the
+founding generation generally did not consider many of
+the rights identified in [the Bill of Rights] as new entitle-
+ments, but as inalienable rights of all men, given legal
+effect by their codification in the Constitution’s text.” Id.,
+at 818.
+   The question here is whether the Eighth Amendment’s
+prohibition on excessive fines was considered such a right.
+The historical record overwhelmingly demonstrates that it
+was.
+
+
+4                     TIMBS v. INDIANA
+                THOMAS, J., concurring in judgment
+                                A
+   The Excessive Fines Clause “was taken verbatim from
+the English Bill of Rights of 1689,” United States v. Ba-
+jakajian, 524 U. S. 321, 335 (1998), which itself formalized
+a longstanding English prohibition on disproportionate
+fines. The Charter of Liberties of Henry I, issued in 1101,
+stated that “[i]f any of my barons or men shall have com-
+mitted an offence he shall not give security to the extent of
+forfeiture of his money, as he did in the time of my father,
+or of my brother, but according to the measure of the of-
+fence so shall he pay . . . .” Sources of English Legal and
+Constitutional History ¶8, p. 50 (M. Evans & R. Jack eds.
+1984) (emphasis added). Expanding this principle, Magna
+Carta required that “amercements (the medieval prede-
+cessors of fines) should be proportioned to the offense and
+that they should not deprive a wrongdoer of his liveli-
+hood,” Bajakajian, supra, at 335:
+     “A free man shall be amerced for a small fault only ac-
+     cording to the measure thereof, and for a great crime
+     according to its magnitude, saving his position; and in
+     like manner, a merchant saving his trade, and a vil-
+     lein saving his tillage, if they should fall under Our
+     mercy.” Magna Carta, ch. 20 (1215), in A. Howard,
+     Magna Carta: Text & Commentary 42 (rev. ed. 1998).
+Similar clauses levying amercements “only in proportion
+to the measure of the offense” applied to earls, barons, and
+clergymen. Chs. 21–22, ibid. One historian posits that,
+due to the prevalence of amercements and their use in
+increasing the English treasury, “[v]ery likely there was
+no clause in Magna Carta more grateful to the mass of the
+people than that about amercements.” Pleas of the Crown
+for the County of Gloucester xxxiv (F. Maitland ed. 1884).
+   The principle was reiterated in the First Statute of
+Westminster, which provided that no man should “be
+amerced, without reasonable cause, and according to the
+
+
+                    Cite as: 586 U. S. ____ (2019)             5
+                  THOMAS, J., concurring in judgment
+quantity of his Trespass.” 3 Edw. I, ch. 6 (1275). The
+English courts have long enforced this principle. In one
+early case, for example, the King commanded the bailiff
+“to take a moderate amercement proper to the magnitude
+and manner of th[e] offense, according to the tenour of the
+Great Charter of the Liberties of England,” and the bailiff
+was sued for extorting “a heavier ransom.” Le Gras v.
+Bailiff of Bishop of Winchester, Y. B. Mich. 10 Edw. II, pl.
+4 (1316), reprinted in 52 Selden Society 3, 5 (1934); see
+also Richard Godfrey’s Case, 11 Co. Rep. 42a, 44a, 77 Eng.
+Rep. 1199, 1202 (1615) (excessive fines are “against law”).
+   During the reign of the Stuarts in the period leading up
+to the Glorious Revolution of 1688–1689, fines were a
+flashpoint “in the constitutional and political struggles
+between the king and his parliamentary critics.” L.
+Schwoerer, The Declaration of Rights, 1689, p. 91 (1981)
+(Schwoerer). From 1629 to 1640, Charles I attempted to
+govern without convening Parliament, but “in the absence
+of parliamentary grants,” he needed other ways of raising
+revenue. 4 H. Walter, A History of England 135 (1834);
+see 1 T. Macaulay, History of England 85 (1899). He thus
+turned “to exactions, some odious and obsolete, some of
+very questionable legality, and others clearly against law.”
+1 H. Hallam, Constitutional History of England: From the
+Accession of Henry VII to the Death of George II 462
+(1827) (Hallam); see 4 Walter, supra, at 135.
+   The Court of Star Chamber, for instance, “imposed
+heavy fines on the king’s enemies,” Schwoerer 91, in dis-
+regard “of the provision of the Great Charter, that no man
+shall be amerced even to the full extent of his means. . . .”
+2 Hallam 46–47. “[T]he strong interest of th[is] court in
+these fines . . . had a tendency to aggravate the punish-
+ment. . . .” 1 id., at 490. “The statute abolishing” the Star
+Chamber in 1641 “specifically prohibited any court there-
+after from . . . levying . . . excessive fines.” Schwoerer 91.
+   “But towards the end of Charles II’s reign” in the 1670s
+
+
+6                           TIMBS v. INDIANA
+                   THOMAS, J., concurring in judgment
+and early 1680s, courts again “imposed ruinous fines on
+the critics of the crown.” Ibid. In 1680, a committee of the
+House of Commons “examined the transcripts of all the
+fines imposed in King’s Bench since 1677” and found that
+“the Court of King’s Bench, in the Imposition of Fines on
+Offenders of late Years, hath acted arbitrarily, illegally,
+and partially; favouring Papists and Persons popishly
+affected; and excessively oppressing his Majesty’s
+Protestant Subjects.” Ibid.; 9 Journals of the House of
+Commons 692 (Dec. 23, 1680). The House of Commons
+determined that the actions of the judges of the King’s
+Bench, particularly the actions of Chief Justice William
+Scroggs, had been so contrary to law that it prepared
+articles of impeachment against him. The articles alleged
+that Scroggs had “most notoriously departed from all
+Rules of Justice and Equality, in the Imposition of Fines
+upon Persons convicted of Misdemeanors” without “any
+Regard to the Nature of the Offences, or the Ability of the
+Persons.” Id., at 698.
+   Yet “[o]ver the next few years fines became even more
+excessive and partisan.” Schwoerer 91. The King’s Bench,
+presided over by the infamous Chief Justice Jeffreys, fined
+Anglican cleric Titus Oates 2,000 marks (among other
+punishments) for perjury. Id., at 93. For speaking against
+the Duke of York, the sheriff of London was fined £100,000
+in 1682, which corresponds to well over $10 million in
+present-day dollars1—“an amount, which, as it extended to
+the ruin of the criminal, was directly contrary to the spirit
+of [English] law.” The History of England Under the
+House of Stuart, pt. 2, p. 801 (1840). The King’s Bench
+fined Sir Samuel Barnadiston £10,000 for allegedly sedi-
+tious letters, a fine that was overturned by the House of
+——————
+  1 See Currency Converter: 1270–2017 (estimating the 2017 equivalent
+of £100,000 in 1680), http://nationalarchives.gov.uk/currency-converter
+(as last visited Feb. 8, 2019)
+
+
+                    Cite as: 586 U. S. ____ (2019)         7
+                 THOMAS, J., concurring in judgment
+Lords as “exorbitant and excessive.” 14 Journals of the
+House of Lords 210 (May 14, 1689). Several members of
+the committees that would draft the Declaration of
+Rights—which included the prohibition on excessive fines
+that was enacted into the English Bill of Rights of 1689—
+had themselves “suffered heavy fines.” Schwoerer 91–92.
+And in 1684, judges in the case of John Hampden held
+that Magna Carta did not limit “fines for great offences”
+against the King, and imposed a £40,000 fine. Trial of
+Hampden, 9 State Trials 1054, 1125 (K. B. 1684); 1 J.
+Stephen, A History of the Criminal Law of England 490
+(1883).
+   “Freedom from excessive fines” was considered “indis-
+putably an ancient right of the subject,” and the Declara-
+tion of Rights’ indictment against James II “charged that
+during his reign judges had imposed excessive fines,
+thereby subverting the laws and liberties of the kingdom.”
+Schwoerer 90. Article 10 of the Declaration declared
+“[t]hat excessive Bayle ought not to be required nor exces-
+sive fynes imposed nor cruel and unusuall Punishments
+inflicted.” Id., at 297.
+   Shortly after the English Bill of Rights was enacted,
+Parliament addressed several excessive fines imposed
+before the Glorious Revolution. For example, the House of
+Lords overturned a £30,000 fine against the Earl of Dev-
+onshire as “excessive and exorbitant, against Magna
+Charta, the common right of the subject, and against the
+law of the land.” Case of Earl of Devonshire, 11 State
+Trials 1354, 1372 (K. B. 1687). Although the House of
+Lords refused to reverse the judgments against Titus
+Oates, a minority argued that his punishments were
+“contrary to Law and ancient Practice” and violated the
+prohibition on “excessive Fines.” Harmelin v. Michigan,
+501 U. S. 957, 971 (1991); Trial of Oates, 10 State Trials
+1080, 1325 (K. B. 1685). The House of Commons passed a
+bill to overturn Oates’s conviction, and eventually, after a
+
+
+8                      TIMBS v. INDIANA
+                THOMAS, J., concurring in judgment
+request from Parliament, the King pardoned Oates. Id., at
+1329–1330.
+   Writing a few years before our Constitution was adopted,
+Blackstone—“whose works constituted the preeminent
+authority on English law for the founding generation,”
+Alden v. Maine, 527 U. S. 706, 715 (1999)—explained that
+the prohibition on excessive fines contained in the English
+Bill of Rights “had a retrospect to some unprecedented
+proceedings in the court of king’s bench.” 4 W. Blackstone,
+Commentaries 372 (1769). Blackstone confirmed that this
+prohibition was “only declaratory . . . of the old constitu-
+tional law of the land,” which had long “regulated” the
+“discretion” of the courts in imposing fines. Ibid.
+   In sum, at the time of the founding, the prohibition on
+excessive fines was a longstanding right of Englishmen.
+                                B
+   “As English subjects, the colonists considered them-
+selves to be vested with the same fundamental rights as
+other Englishmen,” McDonald, 561 U. S., at 816 (opinion
+of THOMAS, J.), including the prohibition on excessive
+fines. E.g., J. Dummer, A Defence of the New-England
+Charters 16–17 (1721) (“The Subjects Abroad claim the
+Privilege of Magna Charta, which says that no Man shall
+be fin’d above the Nature of his Offence, and whatever his
+Miscarriage be, a Salvo Contenemento suo is to be observ’d
+by the Judge”). Thus, the text of the Eighth Amendment
+was “ ‘based directly on . . . the Virginia Declaration of
+Rights,’ which ‘adopted verbatim the language of the
+English Bill of Rights.’ ” Browning-Ferris Industries of Vt.,
+Inc. v. Kelco Disposal, Inc., 492 U. S. 257, 266 (1989)
+(quoting Solem v. Helm, 463 U. S. 277, 285, n. 10 (1983));
+see Jones v. Commonwealth, 5 Va. 555, 557 (1799) (opin-
+ion of Carrington, J.) (explaining that the clause in the
+Virginia Declaration of Rights embodied the traditional
+legal understanding that any “fine or amercement ought
+
+
+                    Cite as: 586 U. S. ____ (2019)              9
+                 THOMAS, J., concurring in judgment
+to be according to the degree of the fault and the estate of
+the defendant”).
+   When the States were considering whether to ratify the
+Constitution, advocates for a separate bill of rights em-
+phasized the need for an explicit prohibition on excessive
+fines mirroring the English prohibition. In colonial times,
+fines were “the drudge-horse of criminal justice,” “probably
+the most common form of punishment.” L. Friedman,
+Crime and Punishment in American History 38 (1993). To
+some, this fact made a constitutional prohibition on exces-
+sive fines all the more important. As the well-known Anti-
+Federalist Brutus argued in an essay, a prohibition on
+excessive fines was essential to “the security of liberty”
+and was “as necessary under the general government as
+under that of the individual states; for the power of the
+former is as complete to the purpose of requiring bail,
+imposing fines, inflicting punishments, . . . and seizing . . .
+property . . . as the other.” Brutus II (Nov. 1, 1787), in The
+Complete Bill of Rights 621 (N. Cogan ed. 1997). Similarly,
+during Virginia’s ratifying convention, Patrick Henry
+pointed to Virginia’s own prohibition on excessive fines
+and said that it would “depart from the genius of your
+country” for the Federal Constitution to omit a similar
+prohibition. Debate on Virginia Convention (June 14,
+1788), in 3 Debates on the Federal Constitution 447 (J.
+Elliot 2d ed. 1854). Henry continued: “[W]hen we come to
+punishments, no latitude ought to be left, nor dependence
+put on the virtue of representatives” to “define punish-
+ments without this control.” Ibid.
+   Governor Edmund Randolph responded to Henry, argu-
+ing that Virginia’s charter was “nothing more than an
+investiture, in the hands of the Virginia citizens, of those
+rights which belonged to British subjects.” Id., at 466.
+According to Randolph, “the exclusion of excessive bail and
+fines . . . would follow of itself without a bill of rights,” for
+such fines would never be imposed absent “corruption in
+
+
+10                           TIMBS v. INDIANA
+                    THOMAS, J., concurring in judgment
+the House of Representatives, Senate, and President,” or
+judges acting “contrary to justice.” Id., at 467–468.
+    For all the debate about whether an explicit prohibition
+on excessive fines was necessary in the Federal Constitu-
+tion, all agreed that the prohibition on excessive fines was
+a well-established and fundamental right of citizenship.
+When the Excessive Fines Clause was eventually consid-
+ered by Congress, it received hardly any discussion before
+“it was agreed to by a considerable majority.” 1 Annals of
+Cong. 754 (1789). And when the Bill of Rights was rati-
+fied, most of the States had a prohibition on excessive
+fines in their constitutions.2
+    Early commentary on the Clause confirms the wide-
+spread agreement about the fundamental nature of the
+prohibition on excessive fines. Justice Story, writing a few
+decades before the ratification of the Fourteenth Amend-
+ment, explained that the Eighth Amendment was “adopted,
+as an admonition to all departments of the national
+government, to warn them against such violent proceed-
+ings, as had taken place in England in the arbitrary reigns
+of some of the Stuarts,” when “[e]normous fines and
+amercements were . . . sometimes imposed.” 3 J. Story,
+Commentaries on the Constitution of the United States
+§1896, pp. 750–751 (1833). Story included the prohibition
+——————
+   2 Del. Const., Art. I, §11 (1792), in 1 Federal and State Constitutions
+569 (F. Thorpe ed. 1909); Md. Const., Decl. of Rights, Art. XXII (1776),
+in 3 id., at 1688; Mass. Const., pt. 1, Art. XXVI (1780), in id., at 1892;
+N. H. Const., pt. 1, Art. 1, §XXXIII (1784), in 4 id., at 2457; N. C.
+Const., Decl. of Rights, Art. X (1776), in 5 id., at 2788; Pa. Const., Art.
+IX, §13 (1790), in id., at 3101; S. C. Const., Art. IX, §4 (1790), in 6 id.,
+at 3264; Va. Const., Bill of Rights, §9 (1776), in 7 id., at 3813. Vermont
+had a clause specifying that “all fines shall be proportionate to the
+offences.” Vt. Const., ch. II, §XXIX (1786), in id., at 3759. Georgia’s
+1777 Constitution had an excessive fines clause, Art. LIX, but its 1789
+Constitution did not. And the Northwest Ordinance provided that “[a]ll
+fines shall be moderate; and no cruel or unusual punishments inflicted.”
+§14, Art. 2 (1787)
+
+
+                    Cite as: 586 U. S. ____ (2019)          11
+                 THOMAS, J., concurring in judgment
+on excessive fines as a right, along with the “right to bear
+arms” and others protected by the Bill of Rights, that
+“operates, as a qualification upon powers, actually granted
+by the people to the government”; without such a “re-
+strict[ion],” the government’s “exercise or abuse” of its
+power could be “dangerous to the people.” Id., §1858, at
+718–719.
+   Chancellor Kent likewise described the Eighth Amend-
+ment as part of the “right of personal security . . . guarded
+by provisions which have been transcribed into the consti-
+tutions in this country from magna carta, and other fun-
+damental acts of the English Parliament.” 2 J. Kent,
+Commentaries on American Law 9 (1827). He understood
+the Eighth Amendment to “guard against abuse and op-
+pression,” and emphasized that “the constitutions of al-
+most every state in the Unio[n] contain the same declara-
+tions in substance, and nearly in the same language.”
+Ibid. Accordingly, “they must be regarded as fundamental
+doctrines in every state, for all the colonies were parties to
+the national declaration of rights in 1774, in which the . . .
+rights and liberties of English subjects were peremptorily
+claimed as their undoubted inheritance and birthright.”
+Ibid.; accord, W. Rawle, A View of the Constitution of the
+United States of America 125 (1825) (describing the prohi-
+bition on excessive fines as “founded on the plainest prin-
+ciples of justice”).
+                                  C
+   The prohibition on excessive fines remained fundamen-
+tal at the time of the Fourteenth Amendment. In 1868, 35
+of 37 state constitutions “expressly prohibited excessive
+fines.” Ante, at 5. Nonetheless, as the Court notes, abuses
+of fines continued, especially through the Black Codes
+adopted in several States. Ante, at 5–6. The “centerpiece”
+of the Codes was their “attempt to stabilize the black work
+force and limit its economic options apart from plantation
+
+
+12                        TIMBS v. INDIANA
+                   THOMAS, J., concurring in judgment
+labor.” E. Foner, Reconstruction: America’s Unfinished
+Revolution 1863–1877, p. 199 (1988). Under the Codes,
+“the state would enforce labor agreements and plantation
+discipline, punish those who refused to contract, and
+prevent whites from competing among themselves for
+black workers.” Ibid. The Codes also included “ ‘antien-
+ticement’ measures punishing anyone offering higher
+wages to an employee already under contract.” Id., at 200.
+    The 39th Congress focused on these abuses during its
+debates over the Fourteenth Amendment, the Civil Rights
+Act of 1866, and the Freedmen’s Bureau Act. During
+those well-publicized debates, Members of Congress con-
+sistently highlighted and lamented the “severe penalties”
+inflicted by the Black Codes and similar measures, Cong.
+Globe, 39th Cong., 1st Sess., 474 (1866) (Sen. Trumbull),
+suggesting that the prohibition on excessive fines was
+understood to be a basic right of citizenship.
+    For example, under Mississippi law, adult “freedmen,
+free negroes and mulattoes” “without lawful employment”
+faced $50 in fines and 10 days’ imprisonment for vagrancy.
+Reports of Assistant Commissioners of Freedmen, and
+Synopsis of Laws on Persons of Color in Late Slave States,
+S. Exec. Doc. No. 6, 39th Cong., 2d Sess., §2, p. 192 (1867).
+Those convicted had five days to pay or they would be
+arrested and leased to “any person who will, for the short-
+est period of service, pay said fine and forfeiture and all
+costs.” §5, ibid. Members of Congress criticized such laws
+“for selling [black] men into slavery in punishment of
+crimes of the slightest magnitude.” Cong. Globe, 39th
+Cong., 1st Sess., 1123 (1866) (Rep. Cook); see id., at 1124
+(“It is idle to say these men will be protected by the
+States”).
+    Similar examples abound. One congressman noted that
+Alabama’s “aristocratic and anti-republican laws, almost
+reenacting slavery, among other harsh inflictions impose
+. . . a fine of fifty dollars and six months’ imprisonment on
+
+
+                   Cite as: 586 U. S. ____ (2019)         13
+                THOMAS, J., concurring in judgment
+any servant or laborer (white or black) who loiters away
+his time or is stubborn or refractory.” Id., at 1621 (Rep.
+Myers). He also noted that Florida punished vagrants
+with “a fine not exceeding $500 and imprison[ment] for a
+term not exceeding twelve months, or by being sold for a
+term not exceeding twelve months, at the discretion of the
+court.” Ibid. At the time, such fines would have been
+ruinous for laborers. Cf. id., at 443 (Sen. Howe) (“A thou-
+sand dollars! That sells a negro for his life”).
+   These and other examples of excessive fines from the
+historical record informed the Nation’s consideration of
+the Fourteenth Amendment. Even those opposed to civil-
+rights legislation understood the Privileges or Immunities
+Clause to guarantee those “fundamental principles” “fixed”
+by the Constitution, including “immunity from . . . exces-
+sive fines.” 2 Cong. Rec. 384–385 (1874) (Rep. Mills); see
+also id., at App. 241 (Sen. Norwood). And every post-1855
+state constitution banned excessive fines. S. Calabresi &
+S. Agudo, Individual Rights Under State Constitutions
+When the Fourteenth Amendment Was Ratified in 1868,
+87 Texas L. Rev. 7, 82 (2008). The attention given to
+abusive fines at the time of the Fourteenth Amendment,
+along with the ubiquity of state excessive-fines provisions,
+demonstrates that the public continued to understand the
+prohibition on excessive fines to be a fundamental right of
+American citizenship.
+                           *     *      *
+   The right against excessive fines traces its lineage back
+in English law nearly a millennium, and from the found-
+ing of our country, it has been consistently recognized as a
+core right worthy of constitutional protection. As a consti-
+tutionally enumerated right understood to be a privilege of
+American citizenship, the Eighth Amendment’s prohibi-
+tion on excessive fines applies in full to the States.

@@ -1,0 +1,874 @@
+(Slip Opinion)                 OCTOBER TERM, 2017                                    1
+                                          Syllabus
+           NOTE: Where it is feasible, a syllabus (headnote) will be released, as is
+         being done in connection with this case, at the time the opinion is issued.
+         The syllabus constitutes no part of the opinion of the Court but has been
+         prepared by the Reporter of Decisions for the convenience of the reader.
+         See United States v. Detroit Timber & Lumber Co., 200 U. S. 321, 337.
+SUPREME COURT OF THE UNITED STATES
+                                          Syllabus
+        ENCINO MOTORCARS, LLC v. NAVARRO ET AL.
+ CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR
+                                THE NINTH CIRCUIT
+      No. 16–1362. Argued January 17, 2018—Decided April 2, 2018
+Respondents, current and former service advisors for petitioner Encino
+   Motorcars, LLC, sued petitioner for backpay, alleging that petitioner
+   violated the Fair Labor Standards Act (FLSA) by failing to pay them
+   overtime. Petitioner moved to dismiss, arguing that service advisors
+   are exempt from the FLSA’s overtime-pay requirement under 29
+   U. S. C. §213(b)(10)(A), which applies to “any salesman, partsman, or
+   mechanic primarily engaged in selling or servicing automobiles,
+   trucks, or farm implements.” The District Court agreed and dis-
+   missed the suit. The Court of Appeals for the Ninth Circuit reversed.
+   It found the statute ambiguous and the legislative history inconclu-
+   sive, and it deferred to a 2011 Department of Labor rule that inter-
+   preted “salesman” to exclude service advisors. This Court vacated
+   the Ninth Circuit’s judgment, holding that courts could not defer to
+   the procedurally defective 2011 rule, Encino Motorcars, LLC v. Na-
+   varro, 579 U. S. ___, ___–___ (Encino I), but not deciding whether the
+   exemption covers service advisors, id., at ___. On remand, the Ninth
+   Circuit again held that the exemption does not include service advi-
+   sors.
+Held: Because service advisors are “salesm[e]n . . . primarily engaged in
+   . . . servicing automobiles,” they are exempt from the FLSA’s over-
+   time-pay requirement. Pp. 5–11.
+       (a) A service advisor is obviously a “salesman.” The ordinary
+   meaning of “salesman” is someone who sells goods or services, and
+   service advisors “sell [customers] services for their vehicles,” Encino
+   I, supra, at ___. P. 6.
+       (b) Service advisors are also “primarily engaged in . . . servicing au-
+   tomobiles.” “Servicing” can mean either “the action of maintaining or
+   repairing a motor vehicle” or “[t]he action of providing a service.” 15
+
+
+2               ENCINO MOTORCARS, LLC v. NAVARRO
+                                  Syllabus
+  Oxford English Dictionary 39. Service advisors satisfy both defini-
+  tions because they are integral to the servicing process. They “mee[t]
+  customers; liste[n] to their concerns about their cars; sugges[t] repair
+  and maintenance services; sel[l] new accessories or replacement
+  parts; recor[d] service orders; follo[w] up with customers as the ser-
+  vices are performed (for instance, if new problems are discovered);
+  and explai[n] the repair and maintenance work when customers re-
+  turn for their vehicles.” Encino I, supra, at ___. While service advi-
+  sors do not spend most of their time physically repairing automobiles,
+  neither do partsmen, who the parties agree are “primarily engaged in
+  . . . servicing automobiles.” Pp. 6–7.
+      (c) The Ninth Circuit invoked the distributive canon—matching
+  “salesman” with “selling” and “partsman [and] mechanic” with “[ser-
+  vicing]”—to conclude that the exemption simply does not apply to
+  “salesm[e]n . . . primarily engaged in . . . servicing automobiles.” But
+  the word “or,” which connects all of the exemption’s nouns and ger-
+  unds, is “almost always disjunctive.” United States v. Woods, 571
+  U. S. 31, 45. Using “or” to join “selling” and “servicing” thus suggests
+  that the exemption covers a salesman primarily engaged in either ac-
+  tivity.
+       Statutory context supports this reading. First, the distributive
+  canon has the most force when one-to-one matching is present, but
+  here, the statute would require matching some of three nouns with
+  one of two gerunds. Second, the distributive canon has the most force
+  when an ordinary, disjunctive reading is linguistically impossible.
+  But here, “salesman . . . primarily engaged in . . . servicing automo-
+  biles” is an apt description of a service advisor. Third, a narrow dis-
+  tributive phrasing is an unnatural fit here because the entire exemp-
+  tion bespeaks breadth, starting with “any” and using the disjunctive
+  “or” three times. Pp. 7–9.
+      (d) The Ninth Circuit also invoked the principle that exemptions to
+  the FLSA should be construed narrowly. But the Court rejects this
+  principle as a guide to interpreting the FLSA. Because the FLSA
+  gives no textual indication that its exemptions should be construed
+  narrowly, they should be given a fair reading. P. 9.
+      (e) Finally, the Ninth Circuit’s reliance on two extraneous sources
+  to support its interpretation—the 1966–1967 Occupational Outlook
+  Handbook and the FLSA’s legislative history—is unavailing. Pp. 9–
+  11.
+ 845 F. 3d 925, reversed and remanded.
+  THOMAS, J., delivered the opinion of the Court, in which ROBERTS, C. J.,
+and KENNEDY, ALITO, and GORSUCH, JJ., joined. GINSBURG, J., filed a dis-
+senting opinion, in which BREYER, SOTOMAYOR, and KAGAN, JJ., joined.
+
+
+                         Cite as: 584 U. S. ____ (2018)                            1
+                               Opinion of the Court
+      NOTICE: This opinion is subject to formal revision before publication in the
+      preliminary print of the United States Reports. Readers are requested to
+      notify the Reporter of Decisions, Supreme Court of the United States, Wash­
+      ington, D. C. 20543, of any typographical or other formal errors, in order
+      that corrections may be made before the preliminary print goes to press.
+SUPREME COURT OF THE UNITED STATES
+                                     _________________
+                                     No. 16–1362
+                                     _________________
+       ENCINO MOTORCARS, LLC, PETITIONER v.
+                      HECTOR NAVARRO, ET AL.
+ ON WRIT OF CERTIORARI TO THE UNITED STATES COURT OF
+                    APPEALS FOR THE NINTH CIRCUIT
+                                    [April 2, 2018]
+  JUSTICE THOMAS delivered the opinion of the Court.
+  The Fair Labor Standards Act (FLSA), 52 Stat. 1060, as
+amended, 29 U. S. C. §201 et seq., requires employers to
+pay overtime compensation to covered employees. The
+FLSA exempts from the overtime-pay requirement “any
+salesman, partsman, or mechanic primarily engaged in
+selling or servicing automobiles” at a covered dealership.
+§213(b)(10)(A). We granted certiorari to decide whether
+this exemption applies to service advisors—employees at
+car dealerships who consult with customers about their
+servicing needs and sell them servicing solutions. We
+conclude that service advisors are exempt.
+                                             I
+                                            A
+  Enacted in 1938, the FLSA requires employers to pay
+overtime to covered employees who work more than 40
+hours in a week. 29 U. S. C. §207(a). But the FLSA ex­
+empts many categories of employees from this require­
+ment. See §213. Employees at car dealerships have long
+been among those exempted.
+  Congress initially exempted all employees at car dealer­
+
+
+2           ENCINO MOTORCARS, LLC v. NAVARRO
+                      Opinion of the Court
+ships from the overtime-pay requirement. See Fair Labor
+Standards Amendments of 1961, §9, 75 Stat. 73. Congress
+then narrowed that exemption to cover “any salesman,
+partsman, or mechanic primarily engaged in selling or
+servicing automobiles, trailers, trucks, farm implements,
+or aircraft.” Fair Labor Standards Amendments of 1966,
+§209, 80 Stat. 836. In 1974, Congress enacted the version
+of the exemption at issue here. It provides that the
+FLSA’s overtime-pay requirement does not apply to “any
+salesman, partsman, or mechanic primarily engaged in
+selling or servicing automobiles, trucks, or farm imple­
+ments, if he is employed by a nonmanufacturing estab­
+lishment primarily engaged in the business of selling such
+vehicles or implements to ultimate purchasers.”
+§213(b)(10)(A).
+   This language has long been understood to cover service
+advisors. Although the Department of Labor initially
+interpreted it to exclude them, 35 Fed. Reg. 5896 (1970)
+(codified at 29 CFR §779.372(c)(4) (1971)), the federal
+courts rejected that view, see Brennan v. Deel Motors, Inc.,
+475 F. 2d 1095 (CA5 1973); Brennan v. North Bros. Ford,
+Inc., 76 CCH LC ¶33, 247 (ED Mich. 1975), aff ’d sub nom.
+Dunlop v. North Bros. Ford, Inc., 529 F. 2d 524 (CA6 1976)
+(table). After these decisions, the Department issued an
+opinion letter in 1978, explaining that service advisors are
+exempt in most cases. See Dept. of Labor, Wage & Hour
+Div., Opinion Letter No. 1520 (WH–467) (1978), [1978–
+1981 Transfer Binder] CCH Wages–Hours Administrative
+Rulings ¶31,207. From 1978 to 2011, Congress made no
+changes to the exemption, despite amending §213 nearly a
+dozen times. The Department also continued to acquiesce
+in the view that service advisors are exempt. See Dept. of
+Labor, Wage & Hour Div., Field Operations Handbook,
+Insert No. 1757, 24L04(k) (Oct. 20, 1987), online at
+https://perma.cc/5GHD-KCJJ (as last visited Mar. 28,
+2018).
+
+
+                   Cite as: 584 U. S. ____ (2018)             3
+                        Opinion of the Court
+   In 2011, however, the Department reversed course. It
+issued a rule that interpreted “salesman” to exclude ser­
+vice advisors. 76 Fed. Reg. 18832, 18859 (2011) (codified
+at 29 CFR §779.372(c)). That regulation prompted this
+litigation.
+                                 B
+   Petitioner Encino Motorcars, LLC, is a Mercedes-Benz
+dealership in California. Respondents are current and
+former service advisors for petitioner. Service advisors
+“interact with customers and sell them services for their
+vehicles.” Encino Motorcars, LLC v. Navarro, 579 U. S.
+___, ___ (2016) (Encino I) (slip op., at 2). They “mee[t]
+customers; liste[n] to their concerns about their cars;
+sugges[t] repair and maintenance services; sel[l] new
+accessories or replacement parts; recor[d] service orders;
+follo[w] up with customers as the services are performed
+(for instance, if new problems are discovered); and ex­
+plai[n] the repair and maintenance work when customers
+return for their vehicles.” Ibid.
+   In 2012, respondents sued petitioner for backpay. Rely­
+ing on the Department’s 2011 regulation, respondents
+alleged that petitioner had violated the FLSA by failing to
+pay them overtime. Petitioner moved to dismiss, arguing
+that service advisors are exempt under §213(b)(10)(A).
+The District Court agreed with petitioner and dismissed
+the complaint, but the Court of Appeals for the Ninth
+Circuit reversed. Finding the text ambiguous and the
+legislative history “inconclusive,” the Ninth Circuit de­
+ferred to the Department’s 2011 rule under Chevron
+U. S. A. Inc. v. Natural Resources Defense Council, Inc.,
+467 U. S. 837 (1984). Encino, 780 F. 3d 1267, 1275 (2015).
+   We granted certiorari and vacated the Ninth Circuit’s
+judgment. We explained that courts cannot defer to the
+2011 rule because it is procedurally defective. See Encino
+I, 579 U. S., at ___–___ (slip op., at 8–12). Specifically, the
+
+
+4            ENCINO MOTORCARS, LLC v. NAVARRO
+                       Opinion of the Court
+regulation undermined significant reliance interests in the
+automobile industry by changing the treatment of service
+advisors without a sufficiently reasoned explanation. Id.,
+at ___ (slip op., at 10). But we did not decide whether,
+without administrative deference, the exemption covers
+service advisors. Id., at ___ (slip op., at 12). We remanded
+that issue for the Ninth Circuit to address in the first
+instance. Ibid.
+                                C
+  On remand, the Ninth Circuit again held that the ex­
+emption does not include service advisors. The Court of
+Appeals agreed that a service advisor is a “ ‘salesman’ ” in
+a “generic sense,” 845 F. 3d 925, 930 (2017), and is “ ‘pri­
+marily engaged in . . . servicing automobiles’ ” in a “general
+sense,” id., at 931. Nonetheless, it concluded that “Con­
+gress did not intend to exempt service advisors.” Id., at
+929.
+  The Ninth Circuit began by noting that the Depart­
+ment’s 1966–1967 Occupational Outlook Handbook listed
+12 job titles in the table of contents that could be found at
+a car dealership, including “automobile mechanics,” “au­
+tomobile parts countermen,” “automobile salesmen,” and
+“automobile service advisors.” Id., at 930. Because the
+FLSA exemption listed three of these positions, but not
+service advisors, the Ninth Circuit concluded that service
+advisors are not exempt. Ibid. The Ninth Circuit also
+determined that service advisors are not primarily en­
+gaged in “servicing” automobiles, which it defined to mean
+“only those who are actually occupied in the repair and
+maintenance of cars.” Id., at 931. And the Ninth Circuit
+further concluded that the exemption does not cover
+salesmen who are primarily engaged in servicing. Id., at
+933. In reaching this conclusion, the Ninth Circuit in­
+voked the distributive canon. See A. Scalia & B. Garner,
+Reading Law 214 (2012) (“Distributive phrasing applies
+
+
+                   Cite as: 584 U. S. ____ (2018)          5
+                        Opinion of the Court
+each expression to its appropriate referent”). It reasoned
+that “Congress intended the gerunds—selling and servic­
+ing—to be distributed to their appropriate subjects—
+salesman, partsman, and mechanic. A salesman sells; a
+partsman services; and a mechanic services.” Id., at 934.
+Finally, the Court of Appeals noted that its interpretation
+was supported by the principle that exemptions to the
+FLSA should be construed narrowly, id., at 935, and the
+lack of any “mention of service advisors” in the legislative
+history, id., at 939.
+    We granted certiorari, 582 U. S. ___ (2017), and now
+reverse.
+                                 II
+    The FLSA exempts from its overtime-pay requirement
+“any salesman, partsman, or mechanic primarily engaged
+in selling or servicing automobiles, trucks, or farm imple­
+ments, if he is employed by a nonmanufacturing estab­
+lishment primarily engaged in the business of selling such
+vehicles or implements to ultimate purchasers.”
+§213(b)(10)(A). The parties agree that petitioner is a
+“nonmanufacturing establishment primarily engaged in
+the business of selling [automobiles] to ultimate purchas­
+ers.” The parties also agree that a service advisor is not a
+“partsman” or “mechanic,” and that a service advisor is
+not “primarily engaged . . . in selling automobiles.” The
+question, then, is whether service advisors are “salesm[e]n
+. . . primarily engaged in . . . servicing automobiles.” We
+conclude that they are. Under the best reading of the text,
+service advisors are “salesm[e]n,” and they are “primarily
+engaged in . . . servicing automobiles.” The distributive
+canon, the practice of construing FLSA exemptions nar­
+rowly, and the legislative history do not persuade us
+otherwise.
+
+
+6            ENCINO MOTORCARS, LLC v. NAVARRO
+                        Opinion of the Court
+                                 A
+  A service advisor is obviously a “salesman.” The term
+“salesman” is not defined in the statute, so “we give the
+term its ordinary meaning.” Taniguchi v. Kan Pacific
+Saipan, Ltd., 566 U. S. 560, 566 (2012). The ordinary
+meaning of “salesman” is someone who sells goods or
+services. See 14 Oxford English Dictionary 391 (2d ed.
+1989) (“[a] man whose business it is to sell goods or con­
+duct sales”); Random House Dictionary of the English
+Language 1262 (1966) (“a man who sells goods, services,
+etc.”). Service advisors do precisely that. As this Court
+previously explained, service advisors “sell [customers]
+services for their vehicles.” Encino I, 579 U. S., at ___ (slip
+op., at 2).
+                                 B
+  Service advisors are also “primarily engaged in . . .
+servicing automobiles.” §213(b)(10)(A). The word “servic­
+ing” in this context can mean either “the action of main­
+taining or repairing a motor vehicle” or “[t]he action of
+providing a service.” 15 Oxford English Dictionary, at 39;
+see also Random House Dictionary of the English Lan­
+guage, at 1304 (“to make fit for use; repair; restore to
+condition for service”). Service advisors satisfy both defi­
+nitions. Service advisors are integral to the servicing
+process. They “mee[t] customers; liste[n] to their concerns
+about their cars; sugges[t] repair and maintenance ser­
+vices; sel[l] new accessories or replacement parts; recor[d]
+service orders; follo[w] up with customers as the services
+are performed (for instance, if new problems are discov­
+ered); and explai[n] the repair and maintenance work
+when customers return for their vehicles.” Encino I, su-
+pra, at ___ (slip op., at 2). If you ask the average customer
+who services his car, the primary, and perhaps only, per­
+son he is likely to identify is his service advisor.
+  True, service advisors do not spend most of their time
+
+
+                   Cite as: 584 U. S. ____ (2018)              7
+                        Opinion of the Court
+physically repairing automobiles. But the statutory lan­
+guage is not so constrained. All agree that partsmen, for
+example, are “primarily engaged in . . . servicing automo­
+biles.” Brief for Petitioner 40; Brief for Respondents 41–
+44. But partsmen, like service advisors, do not spend most
+of their time under the hood. Instead, they “obtain the
+vehicle parts . . . and provide those parts to the mechan­
+ics.” Encino I, supra, at ___ (slip op., at 2); see also 1 Dept.
+of Labor, Dictionary of Occupational Titles 33 (3d ed.
+1965) (defining “partsman” as someone who “[p]urchases,
+stores, and issues spare parts for automotive and indus­
+trial equipment”). In other words, the phrase “primarily
+engaged in . . . servicing automobiles” must include some
+individuals who do not physically repair automobiles
+themselves but who are integrally involved in the servic­
+ing process. That description applies to partsmen and
+service advisors alike.
+                                 C
+   The Ninth Circuit concluded that service advisors are
+not covered because the exemption simply does not apply
+to “salesm[e]n . . . primarily engaged in . . . servicing
+automobiles.” The Ninth Circuit invoked the distributive
+canon to reach this conclusion. Using that canon, it
+matched “salesman” with “selling” and “partsma[n] [and]
+mechanic” with “servicing.” We reject this reasoning.
+   The text of the exemption covers “any salesman, parts-
+man, or mechanic primarily engaged in selling or servicing
+automobiles, trucks, or farm implements.” §213(b)(10)(A).
+The exemption uses the word “or” to connect all of its
+nouns and gerunds, and “or” is “almost always disjunc­
+tive.” United States v. Woods, 571 U. S. 31, 45 (2013).
+Thus, the use of “or” to join “selling” and “servicing” sug­
+gests that the exemption covers a salesman primarily
+engaged in either activity.
+   Unsurprisingly, statutory context can overcome the
+
+
+8            ENCINO MOTORCARS, LLC v. NAVARRO
+                       Opinion of the Court
+ordinary, disjunctive meaning of “or.” The distributive
+canon, for example, recognizes that sometimes “[w]here a
+sentence contains several antecedents and several conse­
+quents,” courts should “read them distributively and apply
+the words to the subjects which, by context, they seem
+most properly to relate.” 2A N. Singer & S. Singer, Suth­
+erland Statutes and Statutory Construction §47:26, p. 448
+(rev. 7th ed. 2014).
+   But here, context favors the ordinary disjunctive mean­
+ing of “or” for at least three reasons. First, the distribu­
+tive canon has the most force when the statute allows for
+one-to-one matching. But here, the distributive canon
+would mix and match some of three nouns—“salesman,
+partsman, or mechanic”—with one of two gerunds—
+“selling or servicing.” §213(b)(10)(A). We doubt that a
+legislative drafter would leave it to the reader to figure out
+the precise combinations. Second, the distributive canon
+has the most force when an ordinary, disjunctive reading
+is linguistically impossible. Cf., e.g., Huidekoper’s Lessee
+v. Douglass, 3 Cranch 1, 67 (1805) (Marshall, C. J.) (apply­
+ing the distributive canon when a purely disjunctive read­
+ing “would involve a contradiction in terms”). But as
+explained above, the phrase “salesman . . . primarily
+engaged in . . . servicing automobiles” not only makes
+sense; it is an apt description of a service advisor. Third, a
+narrow distributive phrasing is an unnatural fit here
+because the entire exemption bespeaks breadth. It begins
+with the word “any.” See Ali v. Federal Bureau of Prisons,
+552 U. S. 214, 219 (2008) (noting the “expansive meaning”
+of “any”). And it uses the disjunctive word “or” three
+times. In fact, all agree that the third list in the exemp­
+tion—“automobiles, trucks, or farm implements”—
+modifies every other noun and gerund. But it would be
+odd to read the exemption as starting with a distributive
+phrasing and then, halfway through and without warning,
+switching to a disjunctive phrasing—all the while using
+
+
+                  Cite as: 584 U. S. ____ (2018)              9
+                       Opinion of the Court
+the same word (“or”) to signal both meanings. See Brown
+v. Gardner, 513 U. S. 115, 118 (1994) (noting the “vigor­
+ous” presumption that, “when a term is repeated within a
+given sentence,” it “is used to mean the same thing”). The
+more natural reading is that the exemption covers any
+combination of its nouns, gerunds, and objects.
+                                D
+    The Ninth Circuit also invoked the principle that ex­
+emptions to the FLSA should be construed narrowly. 845
+F. 3d, at 935–936. We reject this principle as a useful
+guidepost for interpreting the FLSA. Because the FLSA
+gives no “textual indication” that its exemptions should be
+construed narrowly, “there is no reason to give [them]
+anything other than a fair (rather than a ‘narrow’) inter­
+pretation.” Scalia, Reading Law, at 363. The narrow-
+construction principle relies on the flawed premise that
+the FLSA “ ‘pursues’ ” its remedial purpose “ ‘at all costs.’ ”
+American Express Co. v. Italian Colors Restaurant, 570
+U. S. 228, 234 (2013) (quoting Rodriguez v. United States,
+480 U. S. 522, 525–526 (1987) (per curiam)); see also
+Henson v. Santander Consumer USA Inc., 582 U. S. ___,
+___ (2017) (slip op., at 9) (“[I]t is quite mistaken to assume
+. . . that whatever might appear to further the statute’s
+primary objective must be the law” (internal quotation
+marks and alterations omitted)). But the FLSA has over
+two dozen exemptions in §213(b) alone, including the one
+at issue here. Those exemptions are as much a part of the
+FLSA’s purpose as the overtime-pay requirement. See id.,
+at ___ (slip op., at 9) (“Legislation is, after all, the art of
+compromise, the limitations expressed in statutory terms
+often the price of passage”). We thus have no license to
+give the exemption anything but a fair reading.
+                                E
+    Finally, the Ninth Circuit relied on two extraneous
+
+
+10           ENCINO MOTORCARS, LLC v. NAVARRO
+                       Opinion of the Court
+sources to support its interpretation: the Department’s
+1966–1967 Occupational Outlook Handbook and the
+FLSA’s legislative history. We find neither persuasive.
+                                1
+   The Ninth Circuit first relied on the Department’s
+1966–1967 Occupational Outlook Handbook. It identified
+12 jobs from the Handbook’s table of contents that it
+thought could be found at automobile dealerships. See
+845 F. 3d, at 930. The Ninth Circuit then stressed that
+the exemption aligns with three of those job titles—
+“[a]utomobile mechanics,” “[a]utomobile parts counter­
+men,” and “[a]utomobile salesmen”—but not “[a]utomobile
+service advisors.” Ibid.
+   The Ninth Circuit cited nothing, however, suggesting
+that the exemption was meant to align with the job titles
+listed in the Handbook. To the contrary, the exemption
+applies to “any salesman . . . primarily engaged in selling
+or servicing automobiles.” It is not limited, like the term
+in the Handbook, to “automobile salesmen.” And the
+ordinary meaning of “salesman” plainly includes service
+advisors.
+                                2
+   The Ninth Circuit also relied on legislative history to
+support its interpretation. See id., at 936–939. Specifi-
+cally, it noted that the legislative history discusses “automo­
+bile salesmen, partsmen, and mechanics” but never dis­
+cusses service advisors. Id., at 939. Although the Ninth
+Circuit had previously found that same legislative history
+“inconclusive,” Encino, 780 F. 3d, at 1275, on remand it
+was “firmly persuaded” that the legislative history demon­
+strated Congress’ desire to exclude service advisors, 845
+F. 3d, at 939.
+   The Ninth Circuit was right the first time. As we have
+explained, the best reading of the statute is that service
+
+
+                  Cite as: 584 U. S. ____ (2018)                11
+                       Opinion of the Court
+advisors are exempt. Even for those Members of this
+Court who consider legislative history, silence in the legis­
+lative history, “no matter how ‘clanging,’ ” cannot defeat
+the better reading of the text and statutory context.
+Sedima, S. P. R. L. v. Imrex Co., 473 U. S. 479, 495, n. 13
+(1985). If the text is clear, it needs no repetition in the
+legislative history; and if the text is ambiguous, silence in
+the legislative history cannot lend any clarity. See Avco
+Corp. v. Department of Justice, 884 F. 2d 621, 625 (CADC
+1989). Even if Congress did not foresee all of the applica­
+tions of the statute, that is no reason not to give the statu­
+tory text a fair reading. See Union Bank v. Wolas, 502
+U. S. 151, 158 (1991).
+                          *     *      *
+   In sum, we conclude that service advisors are exempt
+from the overtime-pay requirement of the FLSA because
+they are “salesm[e]n . . . primarily engaged in . . . servicing
+automobiles.” §213(b)(10)(A). Accordingly, we reverse the
+judgment of the Court of Appeals and remand the case for
+further proceedings consistent with this opinion.
+                                                 It is so ordered.
+
+
+                 Cite as: 584 U. S. ____ (2018)             1
+                    GINSBURG, J., dissenting
+SUPREME COURT OF THE UNITED STATES
+                          _________________
+                          No. 16–1362
+                          _________________
+      ENCINO MOTORCARS, LLC, PETITIONER v.
+               HECTOR NAVARRO, ET AL.
+ ON WRIT OF CERTIORARI TO THE UNITED STATES COURT OF
+             APPEALS FOR THE NINTH CIRCUIT
+                         [April 2, 2018]
+  JUSTICE GINSBURG, with whom JUSTICE BREYER,
+JUSTICE SOTOMAYOR, and JUSTICE KAGAN join, dissenting.
+  Diverse categories of employees staff automobile dealer­
+ships. Of employees so engaged, Congress explicitly ex­
+empted from the Fair Labor Standards Act hours re­
+quirements only three occupations: salesmen, partsmen,
+and mechanics. The Court today approves the exemption
+of a fourth occupation: automobile service advisors. In
+accord with the judgment of the Court of Appeals for the
+Ninth Circuit, I would not enlarge the exemption to in­
+clude service advisors or other occupations outside Con­
+gress’ enumeration.
+  Respondents are service advisors at a Mercedes-Benz
+automobile dealership in the Los Angeles area. They work
+regular hours, 7 a.m. to 6 p.m., at least five days per week,
+on the dealership premises. App. 54. Their weekly mini­
+mum is 55 hours. Maximum hours, for workers covered by
+the Fair Labor Standards Act (FLSA or Act), are 40 per
+week. 29 U. S. C. §207(a)(1). In this action, respondents
+seek time-and-a-half compensation for hours worked
+beyond the 40 per week maximum prescribed by the
+FLSA.
+  The question presented: Are service advisors exempt
+from receipt of overtime compensation under 29 U. S. C.
+§213(b)(10)(A)? That exemption covers “any salesman,
+
+
+2             ENCINO MOTORCARS, LLC v. NAVARRO
+                         GINSBURG, J., dissenting
+partsman, or mechanic primarily engaged in selling or
+servicing automobiles.” Service advisors, such as respond­
+ents, neither sell automobiles nor service (i.e., repair or
+maintain) vehicles. Rather, they “meet and greet [car]
+owners”; “solicit and sugges[t]” repair services “to remedy
+the [owner’s] complaints”; “solicit and suggest . . . supple­
+mental [vehicle] service[s]”; and provide owners with cost
+estimates. App. 55. Because service advisors neither sell
+nor repair automobiles, they should remain outside the
+exemption and within the Act’s coverage.
+                                    I
+    In 1961, Congress exempted all automobile-dealership
+employees from the Act’s overtime-pay requirements. See
+Fair Labor Standards Amendments of 1961, §9, 75 Stat.
+73.1 Five years later, in 1966, Congress confined the
+dealership exemption to three categories of employees:
+automobile salesmen, mechanics, and partsmen. See Fair
+Labor Standards Amendments of 1966, §209, 80 Stat. 836.
+At the time, it was well understood that mechanics per­
+form “preventive maintenance” and “repairs,” Dept. of
+Labor, Occupational Outlook Handbook 477 (1966–1967
+ed.) (Handbook), while partsmen requisition parts,
+“suppl[y] [them] to mechanics,” id., at 312, and, at times,
+have “mechanical responsibilities in repairing parts,” Brief
+for International Association of Machinists and Aerospace
+Workers, AFL–CIO, as Amicus Curiae 30; see Handbook,
+at 312–313 (partsmen may “measure parts for inter­
+changeability,” test parts for “defect[s],” and “repair
+——————
+   1 The exemption further extended to all employees of establishments
+selling “trucks” and “farm implements.”          Fair Labor Standards
+Amendments of 1961, §9, 75 Stat. 73. When Congress later narrowed
+the provision’s scope for automobile-dealership employees, it similarly
+diminished the exemption’s application to workers at truck and farm-
+implement dealerships. See, e.g., Fair Labor Standards Amendments
+of 1966, §209, 80 Stat. 836.
+
+
+                    Cite as: 584 U. S. ____ (2018)          3
+                       GINSBURG, J., dissenting
+parts”). Congress did not exempt numerous other catego­
+ries of dealership employees, among them, automobile
+painters, upholsterers, bookkeeping workers, cashiers,
+janitors, purchasing agents, shipping and receiving clerks,
+and, most relevant here, service advisors. These positions
+and their duties were well known at the time, as docu­
+mented in U. S. Government catalogs of American jobs.
+See Handbook, at XIII, XV, XVI (table of contents); Brief
+for International Association of Machinists and Aerospace
+Workers, AFL–CIO, as Amicus Curiae 34 (noting “more
+than twenty distinct [job] classifications” in the service
+department alone).
+   “Where Congress explicitly enumerates certain excep­
+tions . . . , additional exceptions are not to be implied, in
+the absence of evidence of a contrary legislative intent.”
+TRW Inc. v. Andrews, 534 U. S. 19, 28 (2001) (internal
+quotation marks omitted). The Court thus has no warrant
+to add to the three explicitly exempt categories (salesmen,
+partsmen, and mechanics) a fourth (service advisors) for
+which the Legislature did not provide. The reach of to­
+day’s ruling is uncertain, troublingly so: By expansively
+reading the exemption to encompass all salesmen, parts-
+men, and mechanics who are “integral to the servicing
+process,” ante, at 6, the Court risks restoring much of
+what Congress intended the 1966 amendment to termi­
+nate, i.e., the blanket exemption of all dealership employ­
+ees from overtime-pay requirements.
+                                 II
+   Had the §213(b)(10)(A) exemption covered “any sales­
+man or mechanic primarily engaged in selling or servicing
+automobiles,” there could be no argument that service
+advisors fit within it. Only “salesmen” primarily engaged
+in “selling” automobiles and “mechanics” primarily en­
+gaged in “servicing” them would fall outside the Act’s
+coverage. Service advisors, defined as “salesmen primarily
+
+
+4              ENCINO MOTORCARS, LLC v. NAVARRO
+                         GINSBURG, J., dissenting
+engaged in the selling of services,” Encino Motorcars, LLC
+v. Navarro, 579 U. S. ___, ___ (2016) (THOMAS, J., dissent­
+ing) (slip op., at 2) (emphasis added), plainly do not belong
+in either category. Moreover, even if the exemption were
+read to reach “salesmen” “primarily engaged in servicing
+automobiles,” not just selling them, service advisors would
+not be exempt. The ordinary meaning of “servicing” is “the
+action of maintaining or repairing a motor vehicle.” Ante,
+at 6 (quoting 15 Oxford English Dictionary 39 (2d ed.
+1989)). As described above, see supra, at 2, service advi­
+sors neither maintain nor repair automobiles.2
+   Petitioner stakes its case on Congress’ addition of the
+“partsman” job to the exemption. See Reply Brief 6–10.
+That inclusion, petitioner urges, has a vacuum effect: It
+draws into the exemption job categories other than the
+three for which Congress provided, in particular, service
+advisors. Because partsmen, like service advisors, neither
+“sell” nor “service” automobiles in the conventional sense,
+petitioner reasons, Congress must have intended the word
+“service” to mean something broader than repair and
+maintenance.
+   To begin with, petitioner’s premise is flawed. Unlike
+service advisors, partsmen “ ‘get their hands dirty’ by
+‘working as a mechanic’s right-hand man or woman.’ ”
+Encino Motorcars, 579 U. S., at ___, n. 1 (GINSBURG, J.,
+concurring) (slip op., at 1, n. 1) (quoting Brief for Respond­
+ents in No. 15–415, p. 11; alterations omitted); see supra,
+——————
+  2 Service advisors do not maintain or repair motor vehicles even if, as
+the Court concludes, they are “integral to the servicing process.” Ante,
+at 6. The Ninth Circuit provided an apt analogy: “[A] receptionist-
+scheduler at a dental office fields calls from patients, matching their
+needs (e.g., a broken tooth or jaw pain) with the appropriate provider,
+appointment time, and length of anticipated service. That work is
+integral to a patient’s obtaining dental services, but we would not say
+that the receptionist-scheduler is ‘primarily engaged in’ cleaning teeth
+or installing crowns.” 845 F. 3d 925, 932 (2017).
+
+
+                       Cite as: 584 U. S. ____ (2018)                     5
+                          GINSBURG, J., dissenting
+at 2–3 (describing duties of partsmen). As the Solicitor
+General put it last time this case was before the Court, a
+mechanic “might be able to obtain the parts to complete a
+repair without the real-time assistance of a partsman by
+his side.” Brief for United States as Amicus Curiae in No.
+15–415, p. 23. But dividing the “key [repair] tasks . . .
+between two individuals” only “reinforces” “that both the
+mechanic and the partsman are . . . involved in repairing
+(‘servicing’) the vehicle.” Ibid. Service advisors, in con­
+trast, “sell . . . services [to customers] for their vehicles,”
+Encino Motorcars, 579 U. S., at ___ (slip op., at 2) (empha­
+sis added)—services that are later performed by mechan­
+ics and partsmen.
+    Adding partsmen to the exemption, moreover, would be
+an exceptionally odd way for Congress to have indicated
+that “servicing” should be given a meaning deviating from
+its ordinary usage. There is a more straightforward ex­
+planation for Congress’ inclusion of partsmen alongside
+salesmen and mechanics: Common features of the three
+enumerated jobs make them unsuitable for overtime pay.
+    Both salesmen and mechanics work irregular hours,
+including nights and weekends, not uncommonly offsite,
+rendering time worked not easily tracked.3 As noted in
+the 1966 Senate floor debate, salesmen “go out at unusual
+hours, trying to earn commissions.” 112 Cong. Rec. 20504
+——————
+   3 In addition to practical difficulties in calculating hours, a core pur­
+pose of overtime may not be served when employees’ hours regularly
+fluctuate. Enacted in the midst of the Great Depression, the FLSA
+overtime rules encourage employers to hire more individuals who work
+40-hour weeks, rather than maintaining a staff of fewer employees who
+consistently work longer hours. See Overnight Motor Transp. Co. v.
+Missel, 316 U. S. 572, 577–578 (1942) (overtime rules apply “financial
+pressure” on employers to “spread employment”); 7 D. VanDeusen,
+Labor and Employment Law §176.02[1] (2018). But if a position’s
+working hours routinely ebb and flow, while averaging 40 each week,
+then it does not make sense to encourage employers to hire more
+workers for that position.
+
+
+6              ENCINO MOTORCARS, LLC v. NAVARRO
+                        GINSBURG, J., dissenting
+(1966) (remarks of Sen. Bayh). See also ibid. (remarks of
+Sen. Yarborough) (“[T]he salesman . . . [can] sell an
+Oldsmobile, a Pontiac, or a Buick all day long and all
+night. He is not under any overtime.”). Mechanics’ work
+may involve similar “difficult[ies] [in] keeping regular
+hours.” Ibid. For example, mechanics may be required to
+“answe[r] calls in . . . rural areas,” ibid., or to “go out on
+the field where there is a harvesting of sugarbeets,” id., at
+20505 (remarks of Sen. Clark).4 And, like salesmen, me­
+chanics may be “subject to substantial seasonal variations
+in business.” Id., at 20502 (remarks of Sen. Hruska).
+    Congress added “partsman” to the exemption because it
+believed that job, too, entailed irregular hours. See ibid.
+This is “especially true,” several Senators emphasized, “in
+the farm equipment business where farmers, during plant­
+ing, cultivating and harvesting seasons, may call on their
+dealers for parts at any time during the day or evening
+and on weekends.” Ibid. (remarks of Sen. Bayh). See also
+id., at 20503 (remarks of Sen. Mansfield). In Senator
+Bayh’s experience, for instance, a mechanic who “could not
+find [a] necessary part” after hours might “call the parts-
+man, get him out of bed, and get him to come down to the
+store.” Id., at 20504. See also id., at 20503 (remarks of
+Sen. Hruska) (“Are we going to say to the farmer who
+needs a part . . . on Sunday: You cannot get a spark plug
+. . . because the partsman is not exempt, but you can have
+machinery repaired by a mechanic who is exempt[?]”).
+Although some Senators opposed adding partsmen to the
+exemption because, as they understood the job’s demands,
+partsmen did not work irregular hours, e.g., id., at 20505
+(remarks of Sen. Clark), the crux of the debate under­
+scores the exemption’s rationale.
+——————
+   4 Recall that the exemption extends to salesmen, mechanics, and
+partsmen at dealerships selling farm implements and trucks, not just
+automobiles. See supra, at 2, n. 1.
+
+
+                  Cite as: 584 U. S. ____ (2018)           7
+                     GINSBURG, J., dissenting
+   That rationale has no application here. Unlike sales­
+men, partsmen, and mechanics, service advisors “wor[k]
+ordinary, fixed schedules on-site.” Brief for Respondents
+47 (citing Handbook, at 316). Respondents, for instance,
+work regular 11-hour shifts, at all times of the year, for a
+weekly minimum of 55 hours. See App. 54. Service advi­
+sors thus do not implicate the concerns underlying the
+§213(b)(10)(A) exemption. Indeed, they are precisely the
+type of workers Congress intended the FLSA to shield
+“from the evil of overwork,” Barrentine v. Arkansas-Best
+Freight System, Inc., 450 U. S. 728, 739 (1981) (internal
+quotation marks omitted).
+   I note, furthermore, that limiting the exemption to the
+three delineated jobs—salesman, partsman, and mechanic—
+does not leave the phrase “primarily engaged in selling
+or servicing,” §213(b)(10)(A), without utility. Congress
+included that language to ensure that only employees who
+actually perform the tasks commonly associated with the
+enumerated positions would be covered. Otherwise, for
+example, a worker who acts as a “salesman” in name only
+could lose the FLSA’s protections merely because of the
+formal title listed on the employer’s payroll records. See
+Bowers v. Fred Haas Toyota World, 2017 WL 5127289, *4
+(SD Tex., June 21, 2017) (“[An employee’s] title alone is
+not dispositive of whether he meets the . . . exemption.”).
+Thus, by partsmen “primarily engaged in . . . servicing
+automobiles,” Congress meant nothing more than parts-
+men primarily engaged in the ordinary duties of a parts-
+man, i.e., requisitioning, supplying, and repairing parts.
+See supra, at 2–3, 4–5. The inclusion of “partsman” there­
+fore should not result in the removal of service advisors
+from the Act’s protections.
+                               III
+   Petitioner contends that “affirming the decision below
+would disrupt decades of settled expectations” while ex­
+
+
+8             ENCINO MOTORCARS, LLC v. NAVARRO
+                         GINSBURG, J., dissenting
+posing “employers to substantial retroactive liability.”
+Brief for Petitioner 51. “[M]any dealerships,” petitioner
+urges, “have offered compensation packages based primar­
+ily on sales commissions,” in reliance on court decisions
+and agency guidance ranking service advisors as exempt.
+Id., at 51–52. Respondents here, for instance, are com­
+pensated on a “pure commission basis.” App. 55. Award­
+ing retroactive overtime pay to employees who were “fo­
+cused on earning commissions,” not “working a set number
+of hours,” petitioner argues, would yield an “unjustified
+windfal[l].” Brief for Petitioner 53.
+   Petitioner’s concerns are doubly overstated. As the
+Court previously acknowledged, see Encino Motorcars, 579
+U. S., at ___ (slip op., at 11), the FLSA provides an affirm­
+ative defense that explicitly protects regulated parties
+from retroactive liability for actions taken in good-faith
+reliance on superseded agency guidance. See 29 U. S. C.
+§259(a). Given the Department of Labor’s longstanding
+view that service advisors fit within the §213(b)(10)(A)
+exemption, see ante, at 2, the reliance defense would
+surely shield employers from retroactive liability were the
+Court to construe the exemption properly.
+   Congress, moreover, has spoken directly to the treat­
+ment of commission-based workers. The FLSA exempts
+from its overtime directives any employee of a “retail or
+service establishment” who receives more than half of his
+or her pay on commission, so long as the employee’s “regu­
+lar rate of pay” is more than 1½ times the minimum wage.
+§207(i). Thus, even without the §213(b)(10)(A) exemption,
+many service advisors compensated on commission would
+remain ineligible for overtime remuneration.5
+——————
+  5 The current FLSA minimum wage, for example, is $7.25 per hour.
+See 29 U. S. C. §206(a)(1)(C). The only commission-based service
+advisors at retail or service establishments who are not already exempt
+under §207(i)—and who thus remain eligible for overtime—are those
+earning less than $10.88 per hour. Providing such workers time-and-a­
+
+
+                       Cite as: 584 U. S. ____ (2018)                   9
+                          GINSBURG, J., dissenting
+     In crafting the commission-pay exemption, Congress
+struck a deliberate balance: It exempted higher paid com­
+missioned employees, perhaps in recognition of their
+potentially irregular hours, see Mechmet v. Four Seasons
+Hotels, Ltd., 825 F. 2d 1173, 1176–1177 (CA7 1987); cf.
+supra, at 5–7, but it maintained protection for lower paid
+employees, to vindicate the Act’s “principal . . . purpose” of
+shielding “workers from substandard wages and oppres­
+sive working hours,” Barrentine, 450 U. S., at 739.6 By
+stretching the §213(b)(10)(A) exemption to encompass
+even the lowest income service advisors compensated on
+commission, the Court upsets Congress’ careful balance,
+while stripping away protection for the most vulnerable
+workers in this occupation.
+                               *     *      *
+     This Court once recognized that the “particularity” of
+FLSA exemptions “preclude[s] their enlargement by impli­
+cation.” Addison v. Holly Hill Fruit Products, Inc., 322
+U. S. 607, 617 (1944). Employees outside the Act’s “nar­
+row and specific” exemptions, the Court affirmed, “remain
+within the Act.” Powell v. United States Cartridge Co.,
+339 U. S. 497, 517 (1950).7 The Court today, in adding an
+——————
+half pay, as Congress directed, would confer, at most, $5.44 per over­
+time hour.
+    6 Congress struck a similar balance in 29 U. S. C. §207(f), which ex­
+empts employees whose duties “necessitate irregular hours of work,”
+but only if they receive specified minimum rates of pay.
+    7 This Court has long held that FLSA “exemptions are to be narrowly
+construed against the employers seeking to assert them and their
+application limited to those [cases] plainly and unmistakably within
+their terms and spirit.” Arnold v. Ben Kanowsky, Inc., 361 U. S. 388,
+392 (1960). This principle is a well-grounded application of the general
+rule that an “exception to a general statement of policy is usually read
+. . . narrowly in order to preserve the primary operation of the provi­
+sion.” Maracich v. Spears, 570 U. S. 48, 60 (2013) (internal quotation
+marks omitted). In a single paragraph, the Court “reject[s]” this
+longstanding principle as applied to the FLSA, ante, at 9, without even
+
+
+10          ENCINO MOTORCARS, LLC v. NAVARRO
+                       GINSBURG, J., dissenting
+exemption of its own creation, veers away from that com­
+prehension of the FLSA’s mission. I would instead resist,
+as the Ninth Circuit did, diminishment of the Act’s over­
+time strictures.
+——————
+acknowledging that it unsettles more than half a century of our prece­
+dent.

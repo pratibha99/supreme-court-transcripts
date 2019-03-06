@@ -1,0 +1,1097 @@
+(Slip Opinion)                OCTOBER TERM, 2017                                    1
+                                         Syllabus
+          NOTE: Where it is feasible, a syllabus (headnote) will be released, as is
+        being done in connection with this case, at the time the opinion is issued.
+        The syllabus constitutes no part of the opinion of the Court but has been
+        prepared by the Reporter of Decisions for the convenience of the reader.
+        See United States v. Detroit Timber & Lumber Co., 200 U. S. 321, 337.
+SUPREME COURT OF THE UNITED STATES
+                                         Syllabus
+                          SVEEN ET AL. v. MELIN
+ CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR
+                              THE EIGHTH CIRCUIT
+      No. 16–1432. Argued March 19, 2018—Decided June 11, 2018
+The legal system has long used default rules to resolve estate litigation
+   in a way that conforms to decedents’ presumed intent. In 2002, Min-
+   nesota enacted a statute establishing one such default rule. The
+   statute provides that “the dissolution or annulment of a marriage re-
+   vokes any revocable . . . beneficiary designation . . . made by an indi-
+   vidual to the individual’s former spouse.” Minn. Stat. §524.2–804,
+   subd. 1. Under the statute, if one spouse has made the other the
+   beneficiary of a life insurance policy or similar asset, their divorce au-
+   tomatically revokes that designation so that the insurance proceeds
+   will instead go to the contingent beneficiary or the policyholder’s es-
+   tate upon his death. The law does this on the theory that the policy-
+   holder would want that result. But if he does not, he may rename
+   the ex-spouse as beneficiary.
+      Mark Sveen and respondent Kaye Melin were married in 1997.
+   The next year, Sveen purchased a life insurance policy, naming Melin
+   as the primary beneficiary and designating his two children from a
+   prior marriage, petitioners Ashley and Antone Sveen, as contingent
+   beneficiaries. The Sveen-Melin marriage ended in 2007, but the di-
+   vorce decree made no mention of the insurance policy and Sveen took
+   no action to revise his beneficiary designations. After Sveen passed
+   away in 2011, Melin and the Sveen children made competing claims
+   to the insurance proceeds. The Sveens argued that under Minneso-
+   ta’s revocation-on-divorce law, their father’s divorce canceled Melin’s
+   beneficiary designation, leaving them as the rightful recipients.
+   Melin claimed that because the law did not exist when the policy was
+   purchased and she was named as the primary beneficiary, applying
+   the later-enacted law to the policy violates the Constitution’s Con-
+   tracts Clause. The District Court awarded the insurance money to
+
+
+2                           SVEEN v. MELIN
+                                 Syllabus
+  the Sveens, but the Eighth Circuit reversed, holding that the retroac-
+  tive application of Minnesota’s law violates the Contracts Clause.
+Held: The retroactive application of Minnesota’s statute does not vio-
+  late the Contracts Clause. That Clause restricts the power of States
+  to disrupt contractual arrangements, but it does not prohibit all laws
+  affecting pre-existing contracts, see El Paso v. Simmons, 379 U. S.
+  497, 506–507. The two-step test for determining when such a law
+  crosses the constitutional line first asks whether the state law has
+  “operated as a substantial impairment of a contractual relationship.”
+  Allied Structural Steel Co. v. Spannaus, 438 U. S. 234, 244. In an-
+  swering that question, the Court has considered the extent to which
+  the law undermines the contractual bargain, interferes with a party’s
+  reasonable expectations, and prevents the party from safeguarding or
+  reinstating his rights. See id., at 246; El Paso, 379 U. S., at 514–515;
+  Texaco, Inc. v. Short, 454 U. S. 516, 531. If such factors show a sub-
+  stantial impairment, the inquiry turns to whether the state law is
+  drawn in an “appropriate” and “reasonable” way to advance “a signif-
+  icant and legitimate public purpose.” Energy Reserves Group, Inc. v.
+  Kansas Power & Light Co., 459 U. S. 400, 411–412.
+     The Court stops after the first step here, because three aspects of
+  Minnesota’s law, taken together, show that the law does not substan-
+  tially impair pre-existing contractual arrangements. First, the law is
+  designed to reflect a policyholder’s intent—and so to support, rather
+  than impair, the contractual scheme. It applies a prevalent legisla-
+  tive presumption that a divorcee would not want his former partner
+  to benefit from his life insurance policy and other will substitutes.
+  Thus the law often honors, not undermines, the intent of the only
+  contracting party to care about the beneficiary term. Second, the law
+  is unlikely to disturb any policyholder’s expectations at the time of
+  contracting, because an insured cannot reasonably rely on a benefi-
+  ciary designation staying in place after a divorce. Divorce courts
+  have wide discretion to divide property upon dissolution of a mar-
+  riage, including by revoking spousal beneficiary designations in life
+  insurance policies or by mandating that such designations remain.
+  Because a life insurance purchaser cannot know what will happen to
+  that policy in the event of a divorce, his reliance interests are next to
+  nil. And that fact cuts against providing protection under the Con-
+  tracts Clause. Last, the law supplies a mere default rule, which the
+  policyholder can undo in a moment. If the law’s presumption about
+  what an insured wants after divorcing is wrong, the insured may
+  overthrow it simply by sending a change-of-beneficiary form to his in-
+  surer.
+     This Court has long held that laws imposing such minimal paper-
+  work burdens do not violate the Contracts Clause. It has repeatedly
+
+
+                       Cite as: 584 U. S. ____ (2018)                     3
+                                  Syllabus
+   sustained so-called recording statutes, which extinguish contractual
+   interests unless timely recorded at government offices. See Jackson
+   v. Lamphire, 3 Pet. 280; Vance v. Vance, 108 U. S. 514; Texaco, Inc. v.
+   Short, 454 U. S. 516. The Court has also upheld laws mandating
+   other kinds of notifications or filings against Contracts Clause attack.
+   See Curtis v. Whitney, 13 Wall. 68; Gilfillan v. Union Canal Co. of
+   Pa., 109 U. S. 401; Conley v. Barton, 260 U. S. 677. The Minnesota
+   law places no greater obligation on a contracting party than these
+   laws—while imposing a lesser penalty for noncompliance. Filing a
+   change-of-beneficiary form is as easy as satisfying the paperwork re-
+   quirements that this Court’s prior cases approved. And if an insured
+   wants his ex-spouse to stay as beneficiary but does not send in his
+   form, the result is only that the insurance money is redirected to his
+   contingent beneficiaries, not that his contractual rights are extin-
+   guished. Pp. 6–14.
+ 853 F. 3d 410, reversed and remanded.
+   KAGAN, J., delivered the opinion of the Court, in which ROBERTS, C. J.,
+and KENNEDY, THOMAS, GINSBURG, BREYER, ALITO, and SOTOMAYOR, JJ.,
+joined. GORSUCH, J., filed a dissenting opinion.
+
+
+                         Cite as: 584 U. S. ____ (2018)                            1
+                               Opinion of the Court
+      NOTICE: This opinion is subject to formal revision before publication in the
+      preliminary print of the United States Reports. Readers are requested to
+      notify the Reporter of Decisions, Supreme Court of the United States, Wash-
+      ington, D. C. 20543, of any typographical or other formal errors, in order
+      that corrections may be made before the preliminary print goes to press.
+SUPREME COURT OF THE UNITED STATES
+                                     _________________
+                                     No. 16–1432
+                                     _________________
+ASHLEY SVEEN, ET AL., PETITIONERS v. KAYE MELIN
+  ON WRIT OF CERTIORARI TO THE UNITED STATES COURT OF
+                   APPEALS FOR THE EIGHTH CIRCUIT
+                                   [June 11, 2018]
+   JUSTICE KAGAN delivered the opinion of the Court.
+   A Minnesota law provides that “the dissolution or an-
+nulment of a marriage revokes any revocable[] beneficiary
+designation[ ] made by an individual to the individual’s
+former spouse.” Minn. Stat. §524.2–804, subd. 1 (2016).
+That statute establishes a default rule for use when Min-
+nesotans divorce. If one spouse has made the other the
+beneficiary of a life insurance policy or similar asset, their
+divorce automatically revokes that designation—on the
+theory that the policyholder would want that result. But
+if he does not, the policyholder may rename the ex-spouse
+as beneficiary.
+   We consider here whether applying Minnesota’s automatic-
+revocation rule to a beneficiary designation made before
+the statute’s enactment violates the Contracts Clause of
+the Constitution. We hold it does not.
+                                             I
+   All good trust-and-estate lawyers know that “[d]eath is
+not the end; there remains the litigation over the estate.”
+8 The Collected Works of Ambrose Bierce 365 (1911).
+That epigram, beyond presaging this case, helps explain
+the statute at its center.
+
+
+2                      SVEEN v. MELIN
+                      Opinion of the Court
+   The legal system has long used default rules to resolve
+estate litigation in a way that conforms to decedents’
+presumed intent. At common law, for example, marriage
+automatically revoked a woman’s prior will, while mar-
+riage and the birth of a child revoked a man’s. See 4 J.
+Kent, Commentaries on American Law 507, 512 (1830).
+The testator could then revive the old will or execute a
+new one. But if he (or she) did neither, the laws of intes-
+tate succession (generally prioritizing children and current
+spouses) would control the estate’s distribution. See 95
+C. J. S., Wills §448, pp. 409–410 (2011); R. Sitkoff & J.
+Dukeminier, Wills, Trusts, and Estates 63 (10th ed. 2017).
+Courts reasoned that the average person would prefer that
+allocation to the one in the old will, given the intervening
+life events. See T. Atkinson, Handbook of the Law of Wills
+423 (2d ed. 1953). If he’d only had the time, the thought
+went, he would have replaced that will himself.
+   Changes in society brought about changes in the laws
+governing revocation of wills. In addition to removing
+gender distinctions, most States abandoned the common-
+law rule canceling whole wills executed before a marriage
+or birth. In its place, they enacted statutes giving a new
+spouse or child a specified share of the decedent’s estate
+while leaving the rest of his will intact. See Sitkoff &
+Dukeminier, Wills, Trusts, and Estates, at 240. But more
+important for our purposes, climbing divorce rates led
+almost all States by the 1980s to adopt another kind
+of automatic-revocation law.          So-called revocation-on-
+divorce statutes treat an individual’s divorce as voiding a
+testamentary bequest to a former spouse. Like the old
+common-law rule, those laws rest on a “judgment about
+the typical testator’s probable intent.” Id., at 239. They
+presume, in other words, that the average Joe does not
+want his ex inheriting what he leaves behind.
+   Over time, many States extended their revocation-on-
+divorce statutes from wills to “will substitutes,” such as
+
+
+                      Cite as: 584 U. S. ____ (2018)                  3
+                           Opinion of the Court
+revocable trusts, pension accounts, and life insurance
+policies. See Langbein, The Nonprobate Revolution and
+the Future of the Law of Succession, 97 Harv. L. Rev.
+1108, 1109 (1984) (describing nonprobate assets). In doing
+so, States followed the lead of the Uniform Probate Code, a
+model statute amended in 1990 to include a provision
+revoking on divorce not just testamentary bequests but
+also beneficiary designations to a former spouse. See §§2–
+804(a)(1), (b)(1), 8 U. L. A. 330, 330–331 (2013). The new
+section, the drafters wrote, aimed to “unify the law of
+probate and nonprobate transfers.” §2–804, Comment, id.,
+at 333. The underlying idea was that the typical decedent
+would no more want his former spouse to benefit from his
+pension plan or life insurance than to inherit under his
+will. A wealth transfer was a wealth transfer—and a
+former spouse (as compared with, say, a current spouse or
+child) was not likely to be its desired recipient. So a dece-
+dent’s failure to change his beneficiary probably resulted
+from “inattention,” not “intention.” Statement of the Joint
+Editorial Bd. for Uniform Probate Code, 17 Am. College
+Trust & Est. Counsel 184 (1991). Agreeing with that
+assumption, 26 States have by now adopted revocation-on-
+divorce laws substantially similar to the Code’s.1 Minne-
+——————
+  1 See Ala. Code §30–4–17 (2016); Alaska Stat. §13.12.804 (2016); Ariz.
+Rev. Stat. Ann. §14–2804 (2012); Colo. Rev. Stat. §15–11–804 (2017);
+Fla. Stat. §732.703 (2017); Haw. Rev. Stat. §560:2–804 (2006); Idaho
+Code Ann. §15–2–804 (2017 Cum. Supp.); Iowa Code §598.20A (2017);
+Mass. Gen. Laws, ch. 190B, §2–804 (2016); Mich. Comp. Laws Ann.
+§700.2807 (West 2018 Cum. Supp.); Minn. Stat. §524.2–804 subd. 1
+(2016); Mont. Code Ann. §72–2–814 (2017); Nev. Rev. Stat. §111.781
+(2015); N. J. Stat. Ann. §3B:3–14 (West 2007); N. M. Stat. Ann. §45–2–
+804 (2014); N. Y. Est., Powers & Trusts Law Ann. §5–1.4 (West 2018
+Cum. Supp.); N. D. Cent. Code Ann. §30.1–10–04 (2010); Ohio Rev.
+Code Ann. §5815.33 (Lexis 2017); 20 Pa. Stat. and Cons. Stat. Ann.
+§6111.2 (2010); S. C. Code Ann. §62–2–507 (2017 Cum. Supp.); S. D.
+Codified Laws §29A–2–804 (2004); Tex. Fam. Code Ann. §9.301 (West
+2006); Utah Code §75–2–804 (Supp. 2017); Va. Code Ann. §20–111.1
+
+
+4                         SVEEN v. MELIN
+                         Opinion of the Court
+sota is one.
+   Under prior Minnesota law, a divorce alone did not
+affect a beneficiary designation—but a particular divorce
+decree could do so. Take first the simple case: Joe names
+his wife Ann as beneficiary of his insurance policy, later
+gets divorced, but never changes the designation. Upon
+his death, Ann would receive the insurance proceeds—
+even if Joe had just forgotten to redirect the money. In
+other words, the insurance contract’s beneficiary provision
+would govern after the divorce, exactly as it would have
+before. See Larsen v. Northwestern Nat. Life Ins. Co., 463
+N. W. 2d 777, 779 (Minn. App. 1990). But now introduce a
+complication, in the form of a court addressing a spousal
+designation in a divorce decree. In Minnesota, as across
+the nation, divorce courts have always had “broad discre-
+tion in dividing property upon dissolution of a marriage.”
+Maurer v. Maurer, 623 N. W. 2d 604, 606 (Minn. 2001); see
+24 Am. Jur. 2d, Divorce and Separation §456 (2008). In
+exercising that power, a court could revoke a beneficiary
+designation to a soon-to-be ex-spouse; or conversely, a
+court could mandate that the old designation remain. See,
+e.g., Paul v. Paul, 410 N. W. 2d 329, 330 (Minn. App.
+1987); O’Brien v. O’Brien, 343 N. W. 2d 850, 853 (Minn.
+1984). Either way, the court, rather than the insured,
+would decide whether the ex-spouse would stay the
+beneficiary.
+   In contrast to the old law, Minnesota’s new revocation-
+on-divorce statute starts from another baseline: the can-
+cellation, rather than continuation, of a beneficiary desig-
+nation. Enacted in 2002 to track the Code, the law
+provides that “the dissolution or annulment of a marriage
+revokes any revocable[ ] disposition, beneficiary designa-
+tion, or appointment of property made by an individual to
+the individual’s former spouse in a governing instrument.”
+——————
+(2016); Wash. Rev. Code §11.07.010 (2016); Wis. Stat. §854.15 (2011).
+
+
+                   Cite as: 584 U. S. ____ (2018)          5
+                        Opinion of the Court
+Minn. Stat. §524.2–804, subd. 1. The term “governing
+instrument” is defined to include an “insurance or annuity
+policy,” along with a will and other will substitutes.
+§524.1–201. So now when Joe and Ann divorce, the clause
+naming Ann as Joe’s insurance beneficiary is automatically
+revoked. If nothing else occurs before Joe’s death, his
+insurance proceeds go to any contingent beneficiary
+named in the policy (perhaps his daughter Emma) or,
+failing that, to his estate. See §524.2–804, subd. 2.
+   Something else, however, may well happen. As under
+Minnesota’s former law, a divorce decree may alter the
+natural state of things. So in our example, the court could
+direct that Ann remain as Joe’s insurance beneficiary,
+despite the normal revocation rule. See §524.2–804, subd.
+1 (providing that a “court order” trumps the rule). And
+just as important, the policyholder himself may step in to
+override the revocation. Joe, for example, could agree to a
+marital settlement ensuring Ann’s continued status as his
+beneficiary. See ibid. (providing that such an agreement
+controls). Or else, and more simply, he could notify his
+insurance company at any time that he wishes to restore
+Ann to that position.
+   But enough of our hypothetical divorcees: It is time they
+give way to Mark Sveen and Kaye Melin, whose marriage
+and divorce led to this case. In 1997, Sveen and Melin
+wed. The next year, Sveen purchased a life insurance
+policy. He named Melin as the primary beneficiary, while
+designating his two children from a prior marriage, Ashley
+and Antone Sveen, as the contingent beneficiaries. The
+Sveen-Melin marriage ended in 2007. The divorce decree
+made no mention of the insurance policy. And Sveen took
+no action, then or later, to revise his beneficiary designa-
+tions. In 2011, he passed away.
+   In this action, petitioners the Sveen children and re-
+spondent Melin make competing claims to the insurance
+proceeds. The Sveens contend that under Minnesota’s
+
+
+6                          SVEEN v. MELIN
+                         Opinion of the Court
+revocation-on-divorce law, their father’s divorce canceled
+Melin’s beneficiary designation and left the two of them as
+the rightful recipients. Melin notes in reply that the
+Minnesota law did not yet exist when her former husband
+bought his insurance policy and named her as the primary
+beneficiary. And she argues that applying the later-
+enacted law to the policy would violate the Constitution’s
+Contracts Clause, which prohibits any state “Law impair-
+ing the Obligation of Contracts.” Art. I, §10, cl. 1.
+   The District Court rejected Melin’s argument and
+awarded the insurance money to the Sveens. See Civ. No.
+14–5015 (D Minn., Jan. 7, 2016), App. to Pet. for Cert. 9a–
+16a. But the Court of Appeals for the Eighth Circuit
+reversed. It held that a “revocation-upon-divorce statute
+like [Minnesota’s] violates the Contract Clause when
+applied retroactively.” 853 F. 3d 410, 412 (2017).
+   We granted certiorari, 583 U. S. ___ (2017), to resolve a
+split of authority over whether the Contracts Clause pre-
+vents a revocation-on-divorce law from applying to a pre-
+existing agreement’s beneficiary designation.2 We now
+reverse the decision below.
+                                    II
+   The Contracts Clause restricts the power of States to
+disrupt contractual arrangements. It provides that “[n]o
+state shall . . . pass any . . . Law impairing the Obligation
+of Contracts.” U. S. Const., Art. I, §10, cl. 1. The origins of
+the Clause lie in legislation enacted after the Revolution-
+ary War to relieve debtors of their obligations to creditors.
+——————
+  2 Compare 853 F. 3d 410, 414 (CA8 2017) (case below) (yes, it does);
+Parsonese v. Midland Nat. Ins. Co., 550 Pa. 423, 434, 706 A. 2d 814,
+819 (1998) (same), with Lazar v. Kroncke, 862 F. 3d 1186, 1199–1200
+(CA9 2017) (no, it does not); Stillman v. Teachers Ins. & Annuity Assn.
+College Retirement Equities Fund, 343 F. 3d 1311, 1322 (CA10 2003)
+(same); In re Estate of DeWitt, 54 P. 3d 849, 859–860 (Colo. 2002)
+(same).
+
+
+                  Cite as: 584 U. S. ____ (2018)           7
+                       Opinion of the Court
+See Keystone Bituminous Coal Assn. v. DeBenedictis, 480
+U. S. 470, 502–503 (1987). But the Clause applies to any
+kind of contract. See Allied Structural Steel Co. v.
+Spannaus, 438 U. S. 234, 244–245, n. 16 (1978). That
+includes, as here, an insurance policy.
+  At the same time, not all laws affecting pre-existing
+contracts violate the Clause. See El Paso v. Simmons, 379
+U. S. 497, 506–507 (1965). To determine when such a law
+crosses the constitutional line, this Court has long applied
+a two-step test. The threshold issue is whether the state
+law has “operated as a substantial impairment of a con-
+tractual relationship.” Allied Structural Steel Co., 438
+U. S., at 244. In answering that question, the Court has
+considered the extent to which the law undermines the
+contractual bargain, interferes with a party’s reasonable
+expectations, and prevents the party from safeguarding or
+reinstating his rights. See id., at 246; El Paso, 379 U. S.,
+at 514–515; Texaco, Inc. v. Short, 454 U. S. 516, 531
+(1982). If such factors show a substantial impairment, the
+inquiry turns to the means and ends of the legislation. In
+particular, the Court has asked whether the state law is
+drawn in an “appropriate” and “reasonable” way to ad-
+vance “a significant and legitimate public purpose.” Energy
+Reserves Group, Inc. v. Kansas Power & Light Co., 459
+U. S. 400, 411–412 (1983).
+  Here, we may stop after step one because Minnesota’s
+revocation-on-divorce statute does not substantially im-
+pair pre-existing contractual arrangements. True enough
+that in revoking a beneficiary designation, the law makes
+a significant change. As Melin says, the “whole point” of
+buying life insurance is to provide the proceeds to the
+named beneficiary. Brief for Respondent 16. But three
+aspects of Minnesota’s law, taken together, defeat Melin’s
+argument that the change it effected “severely impaired”
+her ex-husband’s contract. Ibid. First, the statute is
+designed to reflect a policyholder’s intent—and so to sup-
+
+
+8                           SVEEN v. MELIN
+                           Opinion of the Court
+port, rather than impair, the contractual scheme. Second,
+the law is unlikely to disturb any policyholder’s expecta-
+tions because it does no more than a divorce court could
+always have done. And third, the statute supplies a mere
+default rule, which the policyholder can undo in a mo-
+ment. Indeed, Minnesota’s revocation statute stacks up
+well against laws that this Court upheld against Contracts
+Clause challenges as far back as the early 1800s.3 We now
+consider in detail each of the features that make this so.
+    To begin, the Minnesota statute furthers the policyhold-
+er’s intent in many cases—indeed, the drafters reasonably
+thought in the typical one. As earlier described, legisla-
+tures have long made judgments about a decedent’s likely
+testamentary intent after large life changes—a marriage,
+a birth, or a divorce. See supra, at 2. And on that basis,
+they have long enacted statutes revoking earlier-made
+wills by operation of law. Legislative presumptions about
+divorce are now especially prevalent—probably because
+they accurately reflect the intent of most divorcing parties.
+Although there are exceptions, most divorcees do not
+aspire to enrich their former partners. (And that is true
+——————
+   3 Because that is true, we have no occasion to address Melin’s conten-
+tion that we should abandon our two-step Contracts Clause test to
+whatever extent it departs from the Clause’s original meaning and
+earliest applications. See Brief for Respondent 6–10, 18–33. Part of
+Melin’s argument focuses on the back half of the test, which we do not
+reach today. Another part claims that the front half goes wrong in
+exempting insubstantial impairments from the Clause’s reach. But as
+we explain below, see infra, at 10–12, the Court has always recognized
+that some laws affect contracts without violating the Contracts Clause.
+See, e.g., Curtis v. Whitney, 13 Wall. 68, 70 (1872) (“No[t] every statute
+which affects the value of a contract impair[s] its obligation”). And in
+particular, the Court has always approved statutes like this one, which
+enable a party with only minimal effort to protect his original contract
+rights against the law’s operation. See, e.g., Jackson v. Lamphire, 3
+Pet. 280, 290 (1830). So this case presents no clash, of the kind Melin
+says we should resolve, between the Court’s two-step test and any older
+approach to applying the Contracts Clause.
+
+
+                   Cite as: 584 U. S. ____ (2018)         9
+                        Opinion of the Court
+even when an ex-spouse has custody of shared children,
+given the many ways to provide them with independent
+support.) The Minnesota statute (like the model code it
+tracked) applies that understanding to beneficiary desig-
+nations in life insurance policies and other will substi-
+tutes. See supra, at 3–5. Melin rightly notes that this
+extension raises a brand-new constitutional question
+because “an insurance policy is a contract under the Con-
+tracts Clause, and a will is not.” Brief for Respondent 44
+(internal quotation marks omitted). But in answering
+that question, it matters that the old legislative presump-
+tion equally fits the new context: A person would as little
+want his ex-spouse to benefit from his insurance as to
+collect under his will. Or said otherwise, the insured’s
+failure to change the beneficiary after a divorce is more
+likely the result of neglect than choice. And that means
+the Minnesota statute often honors, not undermines, the
+intent of the only contracting party to care about the
+beneficiary term. The law no doubt changes how the
+insurance contract operates. But does it impair the con-
+tract? Quite the opposite for lots of policyholders.
+   And even when presumed and actual intent diverge, the
+Minnesota law is unlikely to upset a policyholder’s expec-
+tations at the time of contracting. That is because an
+insured cannot reasonably rely on a beneficiary designa-
+tion remaining in place after a divorce. As noted above,
+divorce courts have wide discretion to divide property
+between spouses when a marriage ends. See supra, at 4.
+The house, the cars, the sporting equipment are all up for
+grabs. See Judgment and Decree in 14–cv–5015 (D
+Minn.), p. 51 (awarding Melin, among other things, a
+snowmobile and all-terrain vehicle). And (what matters
+here) so too are the spouses’ life insurance policies, with
+their beneficiary provisions. Although not part of the
+Sveen-Melin divorce decree, they could have been; as
+Melin acknowledges, they sometimes are. See supra, at 4;
+
+
+10                     SVEEN v. MELIN
+                      Opinion of the Court
+Brief for Respondent 38. Melin counters that the Con-
+tracts Clause applies only to legislation, not to judicial
+decisions. See id., at 38–39; see also post, at 9 (GORSUCH,
+J., dissenting). That is true, but of no moment. The power
+of divorce courts over insurance policies is relevant here
+because it affects whether a party can reasonably expect a
+beneficiary designation to survive a marital breakdown.
+We venture to guess that few people, when purchasing life
+insurance, give a thought to what will happen in the event
+of divorce. But even if someone out there does, he can
+conclude only that . . . he cannot possibly know. So his
+reliance interests are next to nil. And as this Court has
+held before, that fact cuts against providing protection
+under the Contracts Clause. See, e.g., El Paso, 379 U. S.,
+at 514–515.
+   Finally, a policyholder can reverse the effect of the
+Minnesota statute with the stroke of a pen. The law puts
+in place a presumption about what an insured wants after
+divorcing. But if the presumption is wrong, the insured
+may overthrow it. And he may do so by the simple act of
+sending a change-of-beneficiary form to his insurer. (Or if
+he wants to commit himself forever, like Ulysses binding
+himself to the mast, he may agree to a divorce settlement
+continuing his ex-spouse’s beneficiary status. See supra,
+at 5.) That action restores his former spouse to the posi-
+tion she held before the divorce—and in so doing, cancels
+the state law’s operation. The statute thus reduces to a
+paperwork requirement (and a fairly painless one, at
+that): File a form and the statutory default rule gives way
+to the original beneficiary designation.
+   In cases going back to the 1800s, this Court has held
+that laws imposing such minimal paperwork burdens do
+not violate the Contracts Clause. One set of decisions
+addresses so-called recording statutes, which extinguish
+contractual interests unless timely recorded at govern-
+ment offices. In Jackson v. Lamphire, 3 Pet. 280 (1830),
+
+
+                  Cite as: 584 U. S. ____ (2018)           11
+                       Opinion of the Court
+for example, the Court rejected a Contracts Clause chal-
+lenge to a New York law granting title in property to a
+later rather than earlier purchaser whenever the earlier
+had failed to record his deed. It made no difference, the
+Court held, whether the unrecorded deed was “dated
+before or after the passage” of the statute; in neither event
+did the law’s modest recording condition “impair[ ] the
+obligation of contracts.” Id., at 290. Likewise, in Vance v.
+Vance, 108 U. S. 514 (1883), the Court upheld a statute
+rendering unrecorded mortgages unenforceable against
+third parties—even when the mortgages predated the law.
+We reasoned that the law gave “due regard to existing
+contracts” because it demanded only that the mortgagee
+make a “public registration,” and gave him several months
+to do so. Id., at 517, 518. And more recently, in Texaco,
+Inc. v. Short, 454 U. S. 516 (1982), the Court held that a
+statute terminating pre-existing mineral interests unless
+the owner filed a “statement of claim” in a county office
+did not “unconstitutionally impair” a contract. Id., at 531.
+The filing requirement was “minimal,” we explained, and
+compliance with it would effectively “safeguard any con-
+tractual obligations or rights.” Ibid.
+   So too, the Court has long upheld against Contracts
+Clause attack laws mandating other kinds of notifications
+or filings. In Curtis v. Whitney, 13 Wall. 68 (1872), for
+example, the Court approved a statute retroactively affect-
+ing buyers of “certificates” for land offered at tax sales.
+The law required the buyer to notify the tax-delinquent
+property owner, who could then put up the funds neces-
+sary to prevent the land’s final sale. If the buyer failed to
+give the notice, he could not take the land—and if he
+provided the notice, his chance of gaining the land de-
+clined. Still, the Court made short work of the Contracts
+Clause claim. Not “every statute which affects the value
+of a contract,” the Court stated, “impair[s] its obligation.”
+Id., at 70. Because the law’s notice rule was “easy [to]
+
+
+12                      SVEEN v. MELIN
+                      Opinion of the Court
+compl[y] with,” it did not raise a constitutional problem.
+Id., at 71. Similarly, in Gilfillan v. Union Canal Co. of
+Pa., 109 U. S. 401 (1883), the Court sustained a state law
+providing that an existing bondholder’s failure to reject a
+settlement proposal in writing would count as consent to
+the deal. The law operated to reduce the interest received
+by an investor who did not respond. Yet the Court re-
+buffed the ensuing Contracts Clause suit. “If [the bond-
+holder did] not wish to abandon his old rights and accept
+the new,” the Court explained, “all he ha[d] to do [was] to
+say so in writing.” Id., at 406. And one last: In Conley v.
+Barton, 260 U. S. 677 (1923), the Court held that the
+Contracts Clause did not bar a State from compelling
+existing mortgagees to complete affidavits before finally
+foreclosing on properties. The law effectively added a
+paperwork requirement to the mortgage contracts’ foreclo-
+sure terms. But the Court said it was “only [a] condition,
+easily complied with, which the law, for its purposes,
+requires.” Id., at 681.
+   The Minnesota statute places no greater obligation on a
+contracting party—while imposing a lesser penalty for
+noncompliance. Even supposing an insured wants his life
+insurance to benefit his ex-spouse, filing a change-of-
+beneficiary form with an insurance company is as “easy”
+as, say, providing a landowner with notice or recording a
+deed. Curtis, 13 Wall., at 71. Here too, with only “mini-
+mal” effort, a person can “safeguard” his contractual pref-
+erences. Texaco, 454 U. S., at 531. And here too, if he
+does not “wish to abandon his old rights and accept the
+new,” he need only “say so in writing.” Gilfillan, 109 U. S.,
+at 406. What’s more, if the worst happens—if he wants
+his ex-spouse to stay as beneficiary but does not send in
+his form—the consequence pales in comparison with the
+losses incurred in our earlier cases. When a person ig-
+nored a recording obligation, for example, he could forfeit
+the sum total of his contractual rights—just ask the plain-
+
+
+                   Cite as: 584 U. S. ____ (2018)         13
+                        Opinion of the Court
+tiffs in Jackson and Vance. But when a policyholder in
+Minnesota does not redesignate his ex-spouse as benefi-
+ciary, his right to insurance does not lapse; the upshot is
+just that his contingent beneficiaries (here, his children)
+receive the money. See supra, at 5. That redirection of
+proceeds is not nothing; but under our precedents, it gives
+the policyholder—who, again, could have “easily” and
+entirely escaped the law’s effect—no right to complain of a
+Contracts Clause violation. Conley, 260 U. S., at 681.
+   In addressing those precedents, Melin mainly urges us
+to distinguish between two ways a law can affect a con-
+tract. The Minnesota law, Melin claims, “operate[s] on the
+contract itself ” by “directly chang[ing] an express term”
+(the insured’s beneficiary designation). Brief for Respond-
+ent 51; Tr. of Oral Arg. 57. In contrast, Melin continues,
+the recording statutes “impose[ ] a consequence” for failing
+to abide by a “procedural” obligation extraneous to the
+agreement (the State’s recording or notification rule).
+Brief for Respondent 51; Tr. of Oral Arg. 58. The differ-
+ence, in her view, parallels the line between rights and
+remedies: The Minnesota law explicitly alters a person’s
+entitlement under the contract, while the recording laws
+interfere with his ability to enforce that entitlement
+against others. See Tr. of Oral Arg. 57–59; see also post,
+at 9–10 (GORSUCH, J., dissenting).
+   But we see no meaningful distinction among all these
+laws. The old statutes also “act[ed] on the contract” in a
+significant way. Tr. of Oral Arg. 59. They added a paper-
+work obligation nowhere found in the original agree-
+ment—“record the deed,” say, or “notify the landowner.”
+And they informed a contracting party that unless he
+complied, he could not gain the benefits of his bargain. Or
+viewed conversely, the Minnesota statute also “impose[s] a
+consequence” for not satisfying a burden outside the con-
+tract. Brief for Respondent 51. For as we have shown,
+that law overrides a beneficiary designation only when the
+
+
+14                     SVEEN v. MELIN
+                      Opinion of the Court
+insured fails to send in a form to his insurer. See supra,
+at 10. Of course, the statutes (both old and new) vary in
+their specific mechanisms. But they all make contract
+benefits contingent on some simple filing—or more posi-
+tively spun, enable a party to safeguard those benefits by
+taking an action. And that feature is what the Court,
+again and again, has found dispositive.
+   Nor does Melin’s attempt to distinguish the cases gain
+force when framed in terms of rights and remedies. First,
+not all the old statutes, as a formal matter, confined the
+consequence of noncompliance to the remedial sphere. In
+Gilfillan, for example, the result of failing to give written
+consent to a settlement was to diminish the interest rate a
+bondholder got, not to prevent him from enforcing a claim
+against others. And second, even when the consequence
+formally related to enforcement—for example, precluding
+an earlier purchaser from contesting a later one’s title—
+the laws in fact wiped out substantive rights. Failure to
+record or notify, as noted earlier, would mean that the
+contracting party lost what (according to his agreement)
+was his land or mortgage or mineral interest. See supra,
+at 12–13. In Texaco, we replied to an argument like
+Melin’s by saying that when the results of “eliminating a
+remedy” and “extinguishing a right” are “identical,” the
+Contracts Clause “analysis is the same.” 454 U. S., at 528;
+see El Paso, 379 U. S., at 506–507. That statement rebuts
+Melin’s claim too. Once again: Just like Minnesota’s
+statute, the laws discussed above hinged core contractual
+benefits on compliance with noncontractual paperwork
+burdens. When all is said and done, that likeness controls.
+   For those reasons, we reverse the judgment of the Court
+of Appeals and remand the case for further proceedings
+consistent with this opinion.
+                                              It is so ordered.
+
+
+                  Cite as: 584 U. S. ____ (2018)             1
+                     GORSUCH, J., dissenting
+SUPREME COURT OF THE UNITED STATES
+                           _________________
+                           No. 16–1432
+                           _________________
+ASHLEY SVEEN, ET AL., PETITIONERS v. KAYE MELIN
+ ON WRIT OF CERTIORARI TO THE UNITED STATES COURT OF
+             APPEALS FOR THE EIGHTH CIRCUIT
+                         [June 11, 2018]
+  JUSTICE GORSUCH, dissenting.
+  The Court’s argument proceeds this way. Because
+people are inattentive to their life insurance beneficiary
+designations when they divorce, the legislature needs to
+change those designations retroactively to ensure they
+aren’t misdirected. But because those same people are
+simultaneously attentive to beneficiary designations (not
+to mention the legislature’s activity), they will surely undo
+the change if they don’t like it. And even if that weren’t
+true, it would hardly matter. People know existing divorce
+laws sometimes allow courts to reform insurance con­
+tracts. So people should know a legislature might enact
+new laws upending insurance contracts at divorce. For
+these reasons, a statute rewriting the most important
+term of a life insurance policy—who gets paid—somehow
+doesn’t “substantially impair” the contract. It just “makes
+a significant change.” Ante, at 7.
+  Respectfully, I cannot agree. Minnesota’s statute auto­
+matically alters life insurance policies upon divorce to
+remove a former spouse as beneficiary. Everyone agrees
+that the law is valid when applied prospectively to policies
+purchased after the statute’s enactment. But Minnesota
+wants to apply its law retroactively to policies purchased
+before the statute’s adoption. The Court of Appeals held
+that this violated the Contracts Clause, which guarantees
+people the “right to ‘rely on the law . . . as it existed when
+
+
+2                      SVEEN v. MELIN
+                    GORSUCH, J., dissenting
+the[ir] contracts were made.’ ” Metropolitan Life Ins. Co. v.
+Melin, 853 F. 3d 410, 413 (CA8 2017) (quoting Whirlpool
+Corp. v. Ritter, 929 F. 2d 1318, 1323 (CA8 1991)). That
+judgment seems to me exactly right.
+                              I
+  Because legislation often disrupts existing social ar­
+rangements, it usually applies only prospectively. This
+longstanding and “sacred” principle ensures that people
+have fair warning of the law’s demands. Reynolds v.
+McArthur, 2 Pet. 417, 434 (1829); 3 H. Bracton, De Legi­
+bus et Consuetudinibus Angliae 530–531 (1257) (T. Twiss
+ed. 1880). It also prevents majoritarian legislatures from
+condemning disfavored minorities for past conduct they
+are powerless to change. See, e.g., Landgraf v. USI Film
+Products, 511 U. S. 244, 266 (1994); Vermeule, Veil of
+Ignorance Rules in Constitutional Law, 111 Yale L. J. 399,
+408 (2001).
+  When it comes to legislation affecting contracts, the
+Constitution hardens the presumption of prospectivity
+into a mandate. The Contracts Clause categorically
+prohibits states from passing “any . . . Law impairing
+the Obligation of Contracts.” Art. I, §10, cl. 1 (emphasis
+added). Of course, the framers knew how to impose more
+nuanced limits on state power. The very section of the
+Constitution where the Contracts Clause is found permits
+states to take otherwise unconstitutional action when
+“absolutely necessary,” if “actually invaded,” or “wit[h] the
+Consent of Congress.” Cls. 2 and 3. But in the Contracts
+Clause the framers were absolute. They took the view
+that treating existing contracts as “inviolable” would
+benefit society by ensuring that all persons could count on
+the ability to enforce promises lawfully made to them—
+even if they or their agreements later prove unpopular
+with some passing majority. Sturges v. Crowninshield, 4
+Wheat. 122, 206 (1819).
+
+
+                   Cite as: 584 U. S. ____ (2018)           3
+                      GORSUCH, J., dissenting
+   The categorical nature of the Contracts Clause was not
+lost on anyone, either. When some delegates at the Con­
+stitutional Convention sought softer language, James
+Madison acknowledged the “ ‘inconvenience’ ” a categorical
+rule could sometimes entail “ ‘but thought on the whole it
+would be overbalanced by the utility of it.’ ” Kmiec &
+McGinnis, The Contract Clause: A Return to the Original
+Understanding, 14 Hastings Const. L. Q. 525, 529–530
+(1987). During the ratification debates, these competing
+positions were again amply aired. Antifederalists argued
+that the proposed Clause would prevent states from pass­
+ing valuable legislation. Id., at 532–533. Federalists like
+Madison countered that the rule of law permitted “property
+rights and liberty interests [to] be dissolved only by pro­
+spective laws of general applicability.” Id., at 532. And, of
+course, the people chose to ratify the Constitution—
+categorical Clause and all.
+   For much of its history, this Court construed the Con­
+tracts Clause in this light. The Court explained that any
+legislative deviation from a contract’s obligations, “however
+minute, or apparently immaterial,” violates the Constitu­
+tion. Green v. Biddle, 8 Wheat. 1, 84 (1823). “All the
+commentators, and all the adjudicated cases upon Consti­
+tutional Law agree[d] in th[is] fundamental propositio[n].”
+Winter v. Jones, 10 Ga. 190, 195 (1851). But while abso­
+lute in its field, the Clause also left significant room for
+legislatures to address changing social conditions. States
+could regulate contractual rights prospectively. Ogden v.
+Saunders, 12 Wheat. 213, 262 (1827). They could retroac­
+tively alter contractual remedies, so long as they did so
+reasonably. Sturges, supra, at 200. And perhaps they
+could even alter contracts without “impairing” their obli­
+gations if they made the parties whole by paying just
+compensation. See West River Bridge Co. v. Dix, 6 How.
+507, 532–533 (1848); El Paso v. Simmons, 379 U. S. 497,
+525 (1965) (Black, J., dissenting). But what they could not
+
+
+4                       SVEEN v. MELIN
+                      GORSUCH, J., dissenting
+do is destroy substantive contract rights—the “Obligation
+of Contracts” that the Clause protects.
+   More recently, though, the Court has charted a different
+course. Our modern cases permit a state to “substan­
+tial[ly] impai[r]” a contractual obligation in pursuit of “a
+significant and legitimate public purpose” so long as the
+impairment is “ ‘reasonable.’ ” Energy Reserves Group, Inc.
+v. Kansas Power & Light Co., 459 U. S. 400, 411–412
+(1983). That test seems hard to square with the Constitu­
+tion’s original public meaning. After all, the Constitution
+does not speak of “substantial” impairments—it bars “any”
+impairment. Under a balancing approach, too, how are
+the people to know today whether their lawful contracts
+will be enforced tomorrow, or instead undone by a legisla­
+tive majority with different sympathies? Should we worry
+that a balancing test risks investing judges with discretion
+to choose which contracts to enforce—a discretion that
+might be exercised with an eye to the identity (and popu­
+larity) of the parties or contracts at hand? How are judges
+supposed to balance the often radically incommensurate
+goods found in contracts and legislation? And does this
+test risk reducing the “Contract Clause’s protection” to the
+“Court’s judgment” about the “ ‘reasonableness’ ” of the
+legislation at hand? Simmons, 379 U. S., at 529 (Black, J.,
+dissenting). Many critics have raised serious objections
+along these and other lines. See, e.g., ibid.; Kmiec &
+McGinnis, supra, at 552; Rappaport, Note, A Procedural
+Approach to the Contract Clause, 93 Yale L. J. 918, 918
+(1984); Epstein, Toward a Revitalization of the Contract
+Clause, 51 U. Chi. L. Rev 703, 705–717 (1984); J. Ely, The
+Contract Clause: A Constitutional History 7–29 (2016).
+They deserve a thoughtful reply, if not in this case then in
+another.
+                               II
+   Even under our modern precedents, though, I still do
+
+
+                  Cite as: 584 U. S. ____ (2018)              5
+                     GORSUCH, J., dissenting
+not see how the statute before us might survive un­
+scathed. Recall that our recent precedents indicate a state
+law “substantially impairing” contracts violates the Con­
+tracts Clause unless it is “reasonable” in light of a “signifi­
+cant and legitimate public purpose.”
+   Start with the substantial impairment question. No one
+pays life insurance premiums for the joy of it. Or even for
+the pleasure of knowing that the insurance company will
+eventually have to cough up money to someone. As the
+Court concedes, the choice of beneficiary is the “ ‘whole
+point.’ ” Ante, at 7. So when a state alters life insurance
+contracts by undoing their beneficiary designations it
+surely “substantially impairs” them. This Court has
+already recognized as much, holding that a law “dis­
+plac[ing] the beneficiary selected by the insured . . . and
+plac[ing] someone else in her stead . . . frustrates ” a
+scheme designed to deliver proceeds to the named benefi­
+ciary. Hillman v. Maretta, 569 U. S. 483, 494 (2013) (quot­
+ing Wissner v. Wissner, 338 U. S. 655, 659 (1950) (internal
+quotation marks omitted)). As Justice Washington ex­
+plained long ago, legislation “changing the objects of [the
+donor’s] bounty . . . changes so materially the terms of a
+contract” that the law can only be said to “impair its obli­
+gation.” Trustees of Dartmouth College v. Woodward, 4
+Wheat. 518, 662 (1819) (concurring opinion). Just so.
+   Cases like ours illustrate the point. Kaye Melin testi­
+fied that, despite their divorce, she and the decedent,
+Mark Sveen, agreed (repeatedly) to keep each other as the
+primary beneficiaries in their respective life insurance
+policies. Affidavit of Kaye Melin in No. 14–cv–05015, Dkt.
+No. 46, ¶¶3, 4, 10–14. Ms. Melin noted that they adopted
+this arrangement not only because they remained friends
+but because they paid the policy premiums from their joint
+checking account. Deposition of Kaye Melin in No. 14–cv–
+0515, Dkt. No. 45–4, pp. 26–27, 64–65. Of course, we don’t
+know for sure whether removing Ms. Melin as beneficiary
+
+
+6                      SVEEN v. MELIN
+                     GORSUCH, J., dissenting
+undid Mr. Sveen’s true wishes. The case comes to us after
+no one was able to meet Minnesota’s clear and convincing
+evidence standard to prove Mr. Sveen’s intent. But what
+we do know is the retroactive removal of Ms. Melin undid
+the central term of the contract Mr. Sveen signed and left
+in place for years, even after his divorce, until the day he
+died.
+   Nor are arrangements like the ones Ms. Melin described
+so unusual. As the federal government has recognized,
+revocation on divorce statutes cannot be assumed to “effec­
+tuat[e] the insured’s ‘true’ intent” because a policyholder
+“might want his ex-spouse to receive insurance proceeds
+for a number of reasons—out of a sense of obligation,
+remorse, or continuing affection, or to help care for chil­
+dren of the marriage that remain in the ex-spouse’s cus-
+tody.” Brief for United States as Amicus Curiae in Hillman
+v. Maretta, O. T. 2012, No. 11–1221, p. 28. After all, leav­
+ing your ex-spouse life insurance proceeds can be a cheaper,
+quicker, and more private way to provide for minor or
+disabled children than leaving the matter to a trustee or
+other fiduciary. See, e.g., Feder & Sitkoff, Revocable
+Trusts and Incapacity Planning: More Than Just a Will
+Substitute, 24 Elder L. J. 1, 15–18 (2016). For these rea­
+sons, the federal government and nearly half the states
+today do not treat divorce as automatically revoking in­
+surance beneficiary designations. Brief for Petitioners 8–
+9, and nn. 1–2; Hillman, supra, at 494–495.
+   Consider next the question of the impairment’s reason­
+ableness. Our cases suggest that a substantial impairment
+is unreasonable when “an evident and more moderate
+course would serve [the state’s] purposes equally well.”
+United States Trust Co. of N. Y. v. New Jersey, 431 U. S. 1,
+31 (1977); see also Allied Structural Steel Co. v. Spannaus,
+438 U. S. 234, 247 (1978) (analyzing whether an impair­
+ment of private contracts “was necessary to meet an im­
+portant general social problem”). Here, Minnesota’s stated
+
+
+                  Cite as: 584 U. S. ____ (2018)           7
+                     GORSUCH, J., dissenting
+purpose is to ensure proceeds aren’t misdirected to a
+former spouse because a policyholder forgets to update his
+beneficiary designation after divorce. But the state could
+have easily achieved that goal without impairing contracts
+at all. It could have required courts to confirm that di­
+vorcing couples have reviewed their life insurance desig­
+nations. See Va. Code Ann. §20–111.1(E) (2017); Utah
+Code §30–3–5(1)(e)(i) (2018). It could have instructed
+insurance companies to notify policyholders of their right
+to change beneficiary designations. It could have dissemi­
+nated information on its own. Or it could have required
+attorneys in divorce proceedings to address the question
+with affected parties. A host of women’s rights organiza­
+tions have advocated for these and other alternatives in
+various states. See, e.g., Brief for Women’s Law Project
+et al. as Amici Curiae 34–35. Yet there’s no evidence
+Minnesota investigated any of them, let alone found them
+wanting.
+                               III
+   What’s the Court’s reply? It says that we don’t have to
+decide whether the statute reasonably impairs contracts
+because it doesn’t substantially impair them in the first
+place. It’s easy enough to see why the Court might take
+this tack given the many obvious and less burdensome
+alternatives Minnesota never considered. To save the law,
+the Court must place all its chips on a “no substantial
+impairment” argument. The gamble, though, proves a
+tricky one.
+   The Court first stresses that individuals sometimes
+neglect their beneficiary designations after divorce. Be­
+cause of this, it says, Minnesota’s law affords “many”
+persons what they would want if only they had thought
+about it. Ante, at 8. But as we’ve seen the law depends on
+a stereotype about divorcing couples that not everyone fits.
+A sizeable (and maybe growing) number of people do want
+
+
+8                       SVEEN v. MELIN
+                      GORSUCH, J., dissenting
+to keep their former spouses as beneficiaries. Brief for
+Women’s Law Project 25–26. Even the Court admits the
+law’s presumption will sometimes prove “wrong.” Ante, at
+10. And that tells us all we need to know. That the law is
+only sometimes wrong in predicting what divorcing policy­
+holders want may go some way to establishing its reason-
+ableness at the second step of our inquiry. But at the first
+step, where we ask only whether the law substantially
+impairs contracts, the answer is unavoidable. The statute
+substantially impairs contracts by displacing the term
+that is the “ ‘whole point’ ” of the contract. Ante, at 7. This
+Court would never say a law doesn’t substantially burden
+a minority’s religious practice because it reflects most
+people’s preferences. See Church of Lukumi Babalu Aye,
+Inc. v. Hialeah, 508 U. S. 520 (1993). Equally, I do not see
+how a statute doesn’t substantially impair contracts just
+because it reflects “many” people’s preferences. Ante, at 8.
+The Contracts Clause does not seek to maximize the bot­
+tom line but to protect minority rights “from improvident
+majoritarian impairment.” L. Tribe, American Constitu­
+tional Law §9–8, p. 613 (2d ed. 1988).
+   The Court’s answer to this problem introduces an ap­
+parent paradox. If the statute substantially impairs con­
+tracts, it says, the impairment can be easily undone.
+Anyone unhappy with the statute’s beneficiary re-
+designation can just re-re-designate the beneficiary later.
+Ante, at 10. Yet the Court just finished telling us the
+statute is justified because most policyholders neglect their
+beneficiary designations after divorce. Both claims cannot
+be true. The statute cannot simultaneously be necessary
+because people are inattentive to the details of their in­
+surance policies and constitutional because they are hy­
+peraware of those same details.
+   Perhaps seeking a way out of this problem, the Court
+offers an entirely different line of argument. Here the
+Court suggests the statute doesn’t substantially impair
+
+
+                   Cite as: 584 U. S. ____ (2018)           9
+                      GORSUCH, J., dissenting
+contracts because it does no more than a divorce court
+might. Ante, at 9–10. But this argument doesn’t work
+either. Courts may apply pre-existing law to alter a bene­
+ficiary designation to ensure an equitable distribution of
+marital property in specific cases. That hardly means
+legislatures may retroactively change the law to rearrange
+beneficiary designations for everyone. A court can fine
+you for violating an existing law against jaywalking. That
+doesn’t mean a legislature could hold you retroactively
+liable for violating a new law against jaywalking that
+didn’t exist when you crossed the street. No one would
+take that idea seriously when it comes to crime, and the
+Contracts Clause ensures we don’t when it comes to con­
+tracts, either. After all, the Clause applies only to the
+“law[s]” legislatures “pass,” not to the rulings of courts.
+Tidal Oil Co. v. Flanagan, 263 U. S. 444, 451 (1924) (em­
+phasis deleted). That’s because legislatures exist to pass
+new laws of general applicability responsive to majoritar-
+ian will, often upsetting settled expectations along the way.
+The same does not hold true for courts that are supposed
+to apply existing laws to discrete cases and controversies
+independently and without consulting shifting political
+winds.
+   The Court finally claims that its course finds support in
+cases where we’ve approved retroactive legislation. Ante,
+at 10–12. Those cases, though, involved statutes altering
+contractual remedies. Home Building & Loan Assn. v.
+Blaisdell, 290 U. S. 398, 434, and n. 13 (1934) (noting that
+each of the 19th century cases relied on by the Court today
+affected only “remedial processes”). And Minnesota’s law
+changes the key contractual obligation—who gets the
+insurance proceeds—not the method by which the con­
+tract’s existing obligation is satisfied. Although the Con­
+stitution allows legislatures some flexibility to address
+changing social conditions through retroactive remedial
+legislation, it does not permit upsetting settled expecta­
+
+
+10                     SVEEN v. MELIN
+                     GORSUCH, J., dissenting
+tions in contractual obligations. See, e.g., Fletcher v. Peck,
+6 Cranch 87, 137–138 (1810); Simmons, 379 U. S., at 526
+(Black, J., dissenting). We must respect that line found in
+the text of the Constitution, not elide it. Indeed, our prec­
+edent teaches that if remedial changes are just disguised
+efforts at impairing obligations they will violate the Con­
+stitution too. Blaisdell, 290 U. S., at 434, n. 13 (collecting
+cases).
+   Consider just how different our case is from the classic
+remedial change the Contracts Clause permits. In Jack-
+son v. Lamphire, 3 Pet. 280 (1830), a shady landowner sold
+the same tract to two people. Id., at 287–288. The Court
+held that the second buyer was entitled to keep the land
+because he recorded the deed as a retroactive law re­
+quired. Id., at 289–290. At the same time, nothing in
+Jackson or the new statute stopped the first buyer (who
+failed to record his deed) from obtaining damages from the
+seller for breach of contract. See id., at 287–291. The
+statute altered the first buyer’s remedy, but he remained
+free to enforce the obligation found in his contract. By
+contrast, the statute here changes the “ ‘whole point’ ” of
+the contract’s obligation, substituting a new beneficiary in
+place of the one found in the contract’s terms. Ante, at 7.
+   Even the remedial case on which the Court leans most
+heavily does little to help its cause. In Gilfillan v. Union
+Canal Co. of Pa., 109 U. S. 401 (1883), the Court upheld a
+statute requiring bondholders to enforce their contract
+rights within a shortened timeframe (that is, altering the
+remedy) or else accept a reorganization plan that threat­
+ened a poorer rate of interest. Id., at 402–403, 406. The
+Court gave three primary reasons for upholding this
+change. It emphasized that the bonds at issue were “of a
+peculiar character” because “each bondholder under them
+enter[ed] by fair implication into certain contract relations
+with” the other bondholders who approved the reorganiza­
+tion. Id., at 403. It observed that “ ‘a calamity common to
+
+
+                  Cite as: 584 U. S. ____ (2018)          11
+                     GORSUCH, J., dissenting
+all’ ” had occurred, as the company that issued the bonds
+“was bankrupt” and payment of “its debts in the ordinary
+way was impossible.” Id., at 405. Finally, it added that
+the plaintiff challenging the statute had “actual notice” of
+the law and so faced no difficulty in asserting his contract
+rights in a timely manner. Id., at 406. These considera­
+tions, the Court concluded, justified shortening the limita­
+tions period for obtaining full relief even though it might
+reduce a late-moving party’s interest rate a few points. No
+comparable considerations are present here. And this
+statute doesn’t just reduce Ms. Melin’s remedy; it denies
+her one altogether.
+                                *
+   The judicial power to declare a law unconstitutional
+should never be lightly invoked. But the law before us
+cannot survive an encounter with even the breeziest of
+Contracts Clause tests. It substantially impairs life in­
+surance contracts by retroactively revising their key term.
+No one can offer any reasonable justification for this im­
+pairment in light of readily available alternatives. Ac­
+knowledging this much doesn’t even require us to hold the
+statute invalid in all applications, only that it cannot be
+applied to contracts formed before its enactment. I re­
+spectfully dissent.

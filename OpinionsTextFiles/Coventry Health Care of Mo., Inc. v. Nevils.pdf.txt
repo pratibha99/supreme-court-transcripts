@@ -1,0 +1,559 @@
+(Slip Opinion)                OCTOBER TERM, 2016                                    1
+                                         Syllabus
+          NOTE: Where it is feasible, a syllabus (headnote) will be released, as is
+        being done in connection with this case, at the time the opinion is issued.
+        The syllabus constitutes no part of the opinion of the Court but has been
+        prepared by the Reporter of Decisions for the convenience of the reader.
+        See United States v. Detroit Timber & Lumber Co., 200 U. S. 321, 337.
+SUPREME COURT OF THE UNITED STATES
+                                         Syllabus
+  COVENTRY HEALTH CARE OF MISSOURI, INC., FKA
+             GROUP HEALTH PLAN, INC. v. NEVILS
+        CERTIORARI TO THE SUPREME COURT OF MISSOURI
+       No. 16–149.       Argued March 1, 2017—Decided April 18, 2017
+The Federal Employees Health Benefits Act of 1959 (FEHBA) authoriz-
+   es the Office of Personnel Management (OPM) to contract with pri-
+   vate carriers for federal employees’ health insurance. 5 U. S. C.
+   §8902(a), (d). FEHBA contains an express-preemption provision,
+   §8902(m)(1), which states that the “terms of any contract under this
+   chapter which relate to the nature, provision, or extent of coverage or
+   benefits (including payments with respect to benefits) shall supersede
+   and preempt any State or local law . . . which relates to health insur-
+   ance or plans.”
+      OPM’s contracts have long required private carriers to seek subro-
+   gation and reimbursement. Accordingly, OPM’s regulations make a
+   carrier’s “right to pursue and receive subrogation and reimbursement
+   recoveries . . . a condition of and a limitation on the nature of benefits
+   or benefit payments and on the provision of benefits under the plan’s
+   coverage.” 5 CFR §890.106(b)(1). In 2015, OPM published a new rule
+   confirming that a carrier’s subrogation and reimbursement rights
+   and responsibilities “relate to the nature, provision, and extent of
+   coverage or benefits (including payments with respect to benefits)
+   within the meaning of ” §8902(m)(1), and “are . . . effective notwith-
+   standing any state or local law, or any regulation issued thereunder,
+   which relates to health insurance or plans.” §890.106(h).
+      Respondent Jodie Nevils was insured under a FEHBA plan offered
+   by petitioner Coventry Health Care of Missouri. When Nevils was in-
+   jured in an automobile accident, Coventry paid his medical expenses.
+   Coventry subsequently asserted a lien against part of the settlement
+   Nevils recovered from the driver who caused his injuries. Nevils sat-
+   isfied the lien, then filed a class action in Missouri state court, alleg-
+   ing that, under Missouri law, which does not permit subrogation or
+
+
+2         COVENTRY HEALTH CARE OF MO., INC. v. NEVILS
+                                 Syllabus
+  reimbursement in this context, Coventry had unlawfully obtained re-
+  imbursement. Coventry countered that §8902(m)(1) preempted the
+  state law. The trial court granted summary judgment in Coventry’s
+  favor, and the Missouri Court of Appeals affirmed. The Missouri Su-
+  preme Court reversed. Finding §8902(m)(1) susceptible to diverse
+  plausible readings, the court invoked a “presumption against
+  preemption” to conclude that the federal statute’s preemptive scope
+  excluded subrogation and reimbursement. On remand from this
+  Court for further consideration in light of OPM’s 2015 rule, the Mis-
+  souri Supreme Court adhered to its earlier decision. A majority of
+  the Missouri Supreme Court also held that §8902(m)(1) violates the
+  Supremacy Clause.
+Held:
+     1. Because contractual subrogation and reimbursement prescrip-
+  tions plainly “relate to . . . payments with respect to benefits,”
+  §8902(m)(1), they override state laws barring subrogation and reim-
+  bursement. Pp. 6–9.
+        (a) This reading best comports with §8902(m)(1)’s text, context,
+  and purpose. Contractual provisions for subrogation and reimburse-
+  ment “relate to . . . payments with respect to benefits” because subro-
+  gation and reimbursement rights yield just such payments. When a
+  carrier exercises its right to either reimbursement or subrogation, it
+  receives from either the beneficiary or a third party “payment” re-
+  specting the benefits the carrier had previously paid. The carrier’s
+  very provision of benefits triggers the right to payment. Congress’
+  use of the expansive phrase “relate to,” which “express[es] a broad
+  pre-emptive purpose,” Morales v. Trans World Airlines, Inc., 504
+  U. S. 374, 383, weighs against Nevils’ effort to narrow the term
+  “payments” to exclude payments that occur “long after” a carrier’s
+  provision of benefits. Nevils’ argument that Congress intended to
+  preempt only state coverage requirements, e.g., inclusion of acupunc-
+  ture and chiropractic services, also miscarries.
+     The statutory context and purpose reinforce this conclusion.
+  FEHBA concerns “benefits from a federal health insurance plan for
+  federal employees that arise from a federal law.” Bell v. Blue Cross &
+  Blue Shield of Okla., 823 F. 3d 1198, 1202. Strong and “distinctly
+  federal interests are involved,” Empire HealthChoice Assurance, Inc.
+  v. McVeigh, 547 U. S. 677, 696, in uniform administration of the pro-
+  gram, free from state interference, particularly in regard to coverage,
+  benefits, and payments. The Federal Government also has a signifi-
+  cant financial stake in subrogation and reimbursement. Pp. 6–8.
+        (b) McVeigh’s suggestion that §8902(m)(1) has two “plausible”
+  interpretations, 547 U. S., at 698, Nevils asserts, supports applica-
+  tion of the presumption against preemption here. But the Court nev-
+
+
+                       Cite as: 581 U. S. ____ (2017)                      3
+                                  Syllabus
+   er chose between the two readings set out in McVeigh, because doing
+   so was not pertinent to the discrete question whether federal courts
+   have subject-matter jurisdiction over FEHBA reimbursement actions.
+   Having decided in McVeigh that §8902(m)(1) is a “choice-of-law pre-
+   scription,” not a “jurisdiction-conferring provision,” id., at 697, the
+   Court had no cause to consider §8902(m)(1)’s text, context, and pur-
+   pose, as it does here. Pp. 8–9.
+      2. The regime Congress enacted is compatible with the Supremacy
+   Clause. The statute itself, not a contract, strips state law of its force.
+   FEHBA contract terms have preemptive force only if they fall within
+   §8902(m)(1)’s preemptive scope. Many other federal statutes found to
+   preempt state law, including the Employee Retirement Income Secu-
+   rity Act of 1974 and the Federal Arbitration Act, leave the context-
+   specific scope of preemption to contractual terms.                 While
+   §8902(m)(1)’s phrasing may differ from those other statutes’,
+   FEHBA’s express-preemption provision manifests the same intent to
+   preempt state law. Pp. 9–11.
+492 S. W. 3d 918, reversed and remanded.
+   GINSBURG, J., delivered the opinion of the Court, in which all other
+Members joined, except GORSUCH, J., who took no part in the considera-
+tion or decision of the case. THOMAS, J., filed a concurring opinion.
+
+
+                         Cite as: 581 U. S. ____ (2017)                            1
+                               Opinion of the Court
+      NOTICE: This opinion is subject to formal revision before publication in the
+      preliminary print of the United States Reports. Readers are requested to
+      notify the Reporter of Decisions, Supreme Court of the United States, Wash-
+      ington, D. C. 20543, of any typographical or other formal errors, in order
+      that corrections may be made before the preliminary print goes to press.
+SUPREME COURT OF THE UNITED STATES
+                                     _________________
+                                      No. 16–149
+                                     _________________
+ COVENTRY HEALTH CARE OF MISSOURI, INC., FKA
+       GROUP HEALTH PLAN, INC., PETITIONER v.
+                                JODIE NEVILS
+    ON WRIT OF CERTIORARI TO THE SUPREME COURT OF
+                                     MISSOURI
+                                   [April 18, 2017]
+  JUSTICE GINSBURG delivered the opinion of the Court.
+  In the Federal Employees Health Benefits Act of 1959
+(FEHBA), 5 U. S. C. §8901 et seq., Congress authorized the
+Office of Personnel Management (OPM) to contract with
+private carriers for federal employees’ health insurance.
+§8902(a), (d). FEHBA contains a provision expressly
+preempting state law. §8902(m)(1). That provision reads:
+     “The terms of any contract under this chapter which
+     relate to the nature, provision, or extent of coverage or
+     benefits (including payments with respect to benefits)
+     shall supersede and preempt any State or local law, or
+     any regulation issued thereunder, which relates to
+     health insurance or plans.”
+Contracts OPM negotiates with private carriers provide
+for reimbursement and subrogation.                               Reimbursement
+requires an insured employee who receives payment from
+another source (e.g., the proceeds yielded by a tort claim)
+to return healthcare costs earlier paid out by the carrier.
+Subrogation involves transfer of the right to a third-party
+payment from the insured employee to the carrier, who
+
+
+2       COVENTRY HEALTH CARE OF MO., INC. v. NEVILS
+                       Opinion of the Court
+can then pursue the claim against the third party. Several
+States, however, Missouri among them, bar enforcement of
+contractual subrogation and reimbursement provisions.
+   The questions here presented: Does FEHBA’s express-
+preemption prescription, §8902(m)(1), override state law
+prohibiting subrogation and reimbursement; and if
+§8902(m)(1) has that effect, is the statutory prescription
+consistent with the Supremacy Clause, U. S. Const., Art.
+VI, cl. 2? We hold, contrary to the decision of the Missouri
+Supreme Court, that contractual subrogation and reim-
+bursement prescriptions plainly “relate to . . . payments
+with respect to benefits,” §8902(m)(1); therefore, by statu-
+tory instruction, they override state law barring subroga-
+tion and reimbursement. We further hold, again contrary
+to the Missouri Supreme Court, that the regime Congress
+enacted is compatible with the Supremacy Clause. Section
+8902(m)(1) itself, not the contracts OPM negotiates, trig-
+gers the federal preemption. As Congress directed, where
+FEHBA contract terms “relate to the nature, provision, or
+extent of coverage or benefits (including payments with
+respect to benefits),” §8902(m)(1) ensures that those terms
+will be uniformly enforceable nationwide, free from state
+interference.
+                                I
+                                A
+   FEHBA “establishes a comprehensive program of health
+insurance for federal employees.” Empire HealthChoice
+Assurance, Inc. v. McVeigh, 547 U. S. 677, 682 (2006). As
+just noted, supra, at 1, FEHBA contains an express-
+preemption provision, §8902(m)(1). FEHBA assigns to
+OPM broad administrative and rulemaking authority over
+the program. See §§8901–8913. OPM contracts with
+private insurance carriers to offer a range of healthcare
+plans. §§8902, 8903.
+   OPM’s contracts with private carriers have long included
+
+
+                      Cite as: 581 U. S. ____ (2017)                    3
+                           Opinion of the Court
+provisions requiring those carriers to seek subrogation and
+reimbursement. Accordingly, OPM has issued detailed
+regulations governing subrogation and reimbursement
+clauses in FEHBA contracts. See 5 CFR §890.106 (2016).
+Under those regulations, a carrier’s “right to pursue and
+receive subrogation and reimbursement recoveries consti-
+tutes a condition of and a limitation on the nature of
+benefits or benefit payments and on the provision of bene-
+fits under the plan’s coverage.” §890.106(b)(1).
+   In 2015, after notice and comment, OPM published a
+rule confirming that “[a] carrier’s rights and responsibili-
+ties pertaining to subrogation and reimbursement under
+any [FEHBA] contract relate to the nature, provision, and
+extent of coverage or benefits (including payments with
+respect to benefits) within the meaning of ” §8902(m)(1).
+§890.106(h). Such “rights and responsibilities,” OPM’s
+rule provides, “are . . . effective notwithstanding any state
+or local law, or any regulation issued thereunder, which
+relates to health insurance or plans.” Ibid. Its rule, OPM
+explained, “comports with longstanding Federal policy and
+furthers Congres[s’] goals of reducing health care costs
+and enabling uniform, nationwide application of [FEHBA]
+contracts.” 80 Fed. Reg. 29203 (2015) (final rule).
+                                    B
+   Respondent Jodie Nevils is a former federal employee
+who enrolled in and was insured under a FEHBA plan
+offered by petitioner Coventry Health Care of Missouri.1
+Nevils v. Group Health Plan, Inc., 418 S. W. 3d 451, 453
+(Mo. 2014) (Nevils I ). When Nevils was injured in an
+automobile accident, Coventry paid his medical expenses.
+Ibid. Nevils sued the driver who caused his injuries and
+recovered a settlement award. Ibid. Based on its contract
+——————
+  1 Coventry was formerly known as Group Health Plan, Inc. Pet. for
+Cert. ii. We refer to both the current and former entities as “Coventry.”
+
+
+4      COVENTRY HEALTH CARE OF MO., INC. v. NEVILS
+                      Opinion of the Court
+with OPM, see App. to Pet. for Cert. 129a–130a, Coventry
+asserted a lien for $6,592.24 against part of the settlement
+proceeds to cover medical bills it had paid. Nevils I, 418
+S. W. 3d, at 453. Nevils repaid that amount, thereby
+satisfying the lien. Ibid.
+  Nevils then filed this class action against Coventry in
+Missouri state court, alleging that Coventry had unlawfully
+obtained reimbursement. Ibid. Nevils premised his claim
+on Missouri law, which does not permit subrogation or
+reimbursement in this context, see, e.g., Benton House,
+LLC v. Cook & Younts Ins., Inc., 249 S. W. 3d 878, 881–
+882 (Mo. App. 2008). Coventry countered that §8902(m)(1)
+makes subrogation and reimbursement clauses in FEHBA
+contracts enforceable notwithstanding state law. The trial
+court granted summary judgment in Coventry’s favor,
+Nevils v. Group Health Plan, Inc., No. 11SL–CC00535
+(Cir. Ct., St. Louis Cty., Mo., May 21, 2012), App. to Pet.
+for Cert. 28a, 32a, and the Missouri Court of Appeals
+affirmed, Nevils v. Group Health Plan, Inc., 2012 WL
+6689542, *5 (Dec. 26, 2012).
+  The Missouri Supreme Court reversed. Nevils I, 418
+S. W. 3d, at 457. That court began with “the assumption
+that the historic police powers of the States [are] not to be
+superseded by . . . Federal Act unless that [is] the clear
+and manifest purpose of Congress.” Id., at 454 (quoting
+Cipollone v. Liggett Group, Inc., 505 U. S. 504, 516 (1992))
+(alterations in original). Finding §8902(m)(1) susceptible
+to diverse “plausible readings,” the court invoked a “pre-
+sumption against preemption” to conclude that the federal
+statute’s preemptive scope excluded subrogation and
+reimbursement. 418 S. W. 3d, at 455.
+  Judge Wilson, joined by Judge Breckenridge, concurred
+in the judgment. Id., at 457. Observing that “it defies
+logic to insist that benefit repayment terms do not relate
+to the nature or extent of Nevils’ benefits,” id., at 460
+(emphasis deleted), Judge Wilson concluded that “Con-
+
+
+                     Cite as: 581 U. S. ____ (2017)                  5
+                          Opinion of the Court
+gress plainly intended for §8902(m)(1) to apply to the
+benefit repayment terms in [Coventry’s] contract,” id., at
+462. He nevertheless concurred, reasoning that the Su-
+premacy Clause did not authorize preemption based on
+the terms of FEHBA contracts. Id., at 462–465.
+   Coventry sought our review, and we invited the Solicitor
+General to file a brief expressing the views of the United
+States. Coventry Health Care of Mo., Inc. v. Nevils, 574
+U. S. ___ (2014). While Coventry’s petition was pending,
+OPM finalized its rule governing subrogation and reim-
+bursement. See supra, at 3. This Court granted certiorari,
+vacated the Missouri Supreme Court’s judgment, and
+remanded for further consideration in light of OPM’s
+recently adopted rule. Coventry Health Care of Mo., Inc. v.
+Nevils, 576 U. S. ___ (2015).
+   On remand, the Missouri Supreme Court adhered to its
+earlier decision. Nevils v. Group Health Plan, Inc., 492
+S. W. 3d 918, 920, 925 (2016). OPM’s rule, the court main-
+tained, “does not overcome the presumption against
+preemption and demonstrate Congress’ clear and manifest
+intent to preempt state law.” Id., at 920.
+   Judge Wilson again concurred, this time joined by a
+majority of the judges of the Missouri Supreme Court. Id.,
+at 925.2 In their view, Congress’ “attempt to give preemp-
+tive effect to the provisions of a contract between the
+federal government and a private party is not a valid
+application of the Supremacy Clause” and, “therefore, does
+not displace Missouri law here.” Ibid.
+   We granted certiorari to resolve conflicting interpreta-
+tions of §8902(m)(1). 580 U. S. ___ (2016). Compare 492
+S. W. 2d, at 925 (majority opinion), with Bell v. Blue Cross
+& Blue Shield of Okla., 823 F. 3d 1198, 1199 (CA8 2016)
+——————
+  2 Under Missouri law, a “concurring opinion” in which “a majority of
+the court concur[s]” is binding precedent. Mueller v. Burchfield, 359
+Mo. 876, 880, 224 S. W. 2d 87, 89 (1949).
+
+
+6      COVENTRY HEALTH CARE OF MO., INC. v. NEVILS
+                      Opinion of the Court
+(§8902(m)(1) preempts state antisubrogation law);
+Helfrich v. Blue Cross & Blue Shield Assn., 804 F. 3d
+1090, 1092 (CA10 2015) (same).
+                               II
+   Section 8902(m)(1) places two preconditions on federal
+preemption. See supra, at 1. The parties agree that Mis-
+souri’s law prohibiting subrogation and reimbursement
+meets one of the two limitations, i.e., the State’s law “re-
+lates to health insurance or plans.” §8902(m)(1). They
+dispute only whether the subrogation and reimbursement
+requirements in OPM’s contract with Coventry “relate to
+the nature, provision, or extent of coverage or benefits,”
+“including payments with respect to benefits.” Ibid.
+   Coventry contends that §8902(m)(1) unambiguously
+covers the contractual terms at issue here. In any event,
+Coventry, joined by the United States as amicus curiae,
+urges that the rule published by OPM in 2015 leaves no
+room for doubt that insurance-contract terms providing for
+subrogation and reimbursement fall within §8902(m)(1)’s
+preemptive scope. See supra, at 3. Deference is due to
+OPM’s reading, Coventry and the United States assert,
+under Chevron U. S. A. Inc. v. Natural Resources Defense
+Council, Inc., 467 U. S. 837 (1984). In Nevils’ view, by
+contrast, §8902(m)(1) does not preempt state antisubroga-
+tion and antireimbursement laws in light of the presump-
+tion against preemption. Given that presumption, Nevils
+maintains, OPM’s rule is not entitled to deference.
+Though we have called Nevils’ construction “plausible,”
+McVeigh, 547 U. S., at 698, the reading advanced by Cov-
+entry and the United States best comports with
+§8902(m)(1)’s text, context, and purpose.
+                               A
+   Contractual provisions for subrogation and reimburse-
+ment “relate to . . . payments with respect to benefits”
+
+
+                    Cite as: 581 U. S. ____ (2017)         7
+                         Opinion of the Court
+because subrogation and reimbursement rights yield just
+such payments. When a carrier exercises its right to
+either reimbursement or subrogation, it receives from
+either the beneficiary or a third party “payment” respect-
+ing the benefits the carrier had previously paid. The
+carrier’s very provision of benefits triggers the right to
+payment. See Tr. of Oral Arg. 31; Helfrich, 804 F. 3d, at
+1106; Bell, 823 F. 3d, at 1204.
+   Congress’ use of the expansive phrase “relate to” shores
+up that understanding. We have “repeatedly recognized”
+that the phrase “relate to” in a preemption clause “ex-
+press[es] a broad pre-emptive purpose.” Morales v. Trans
+World Airlines, Inc., 504 U. S. 374, 383 (1992); accord
+Northwest, Inc. v. Ginsberg, 572 U. S. ___, ___, ___ (2014)
+(slip op., at 5, 9). Congress characteristically employs the
+phrase to reach any subject that has “a connection with, or
+reference to,” the topics the statute enumerates. Morales,
+504 U. S., at 384. The phrase therefore weighs against
+Nevils’ effort to narrow the term “payments” to exclude
+payments that occur “long after” a carrier’s provision of
+benefits (Brief for Respondent 27 (quoting McVeigh, 547
+U. S., at 697)). See Nevils I, 418 S. W. 3d, at 460 (Wilson,
+J., concurring); cf. Hillman v. Maretta, 569 U. S. ___, ___
+(2013) (slip op., at 10) (in the Federal Employees’ Group
+Life Insurance Act context, it “makes no difference”
+whether state law withholds benefits in the first instance
+or instead takes them away after they have been paid).
+Given language notably “expansive [in] sweep,” Morales,
+504 U. S., at 384 (internal quotation marks omitted),
+Nevils’ argument that Congress intended to preempt only
+state coverage requirements (e.g., for acupuncture and
+chiropractic services, see Brief for Respondent 36) also
+miscarries.
+   The statutory context and purpose reinforce our conclu-
+sion. FEHBA concerns “benefits from a federal health
+insurance plan for federal employees that arise from a
+
+
+8      COVENTRY HEALTH CARE OF MO., INC. v. NEVILS
+                      Opinion of the Court
+federal law” in an area with a “long history of federal
+involvement.” Bell, 823 F. 3d, at 1202. Strong and “dis-
+tinctly federal interests are involved,” McVeigh, 547 U. S.,
+at 696, in uniform administration of the program, free
+from state interference, particularly in regard to coverage,
+benefits, and payments. The Federal Government, more-
+over, has a significant financial stake. OPM estimates
+that, in 2014 alone, FEHBA “carriers were reimbursed by
+approximately $126 million in subrogation recoveries.” 80
+Fed. Reg. 29203. Such “recoveries translate to premium
+cost savings for the federal government and [FEHBA]
+enrollees.” Ibid.
+                               B
+  Invoking our suggestion in McVeigh that §8902(m)(1)
+has two “plausible” interpretations, 547 U. S., at 698,
+Nevils nonetheless urges us to apply a presumption
+against preemption because §8902(m)(1) does not clearly
+cover contractual terms pertaining to subrogation and
+reimbursement. This argument is blind to McVeigh’s
+context.
+  In McVeigh, we considered the discrete question whether
+28 U. S. C. §1331 gives federal courts subject-matter
+jurisdiction over FEHBA reimbursement actions. See 547
+U. S., at 683. Our principal holding was that §1331 did
+not confer federal jurisdiction. Ibid.; see Bell, 823 F. 3d, at
+1205.
+  The carrier in McVeigh, as part of its argument in favor
+of federal jurisdiction, asserted that §8902(m)(1) itself
+conferred federal jurisdiction. See 547 U. S., at 697. In
+responding to that assertion, we summarized competing
+interpretations of §8902(m)(1) advanced in briefing, read-
+ings that map closely onto the parties’ positions here. See
+ibid. (carrier and United States as amicus curiae urged
+interpretation similar to Coventry’s; an amicus brief in
+support of beneficiary offered interpretation similar to
+
+
+                     Cite as: 581 U. S. ____ (2017)                     9
+                          Opinion of the Court
+Nevils’).
+   We made no choice between the two interpretations
+set out in McVeigh, however, because the answer made
+no difference to the question there presented. Id., at
+698. “[E]ven if FEHBA’s preemption provision reaches
+contract-based reimbursement claims,” we explained, “that
+provision is not sufficiently broad to confer federal juris-
+diction.” Ibid. Because §8902(m)(1) is a “choice-of-law
+prescription,” not a “jurisdiction-conferring provision,” id.,
+at 697, we had no cause to consider §8902(m)(1)’s text,
+context, and purpose, as we do today, see supra, at 6–8.3
+                                   III
+   Nevils further contends that, if §8902(m)(1) covers
+subrogation and reimbursement clauses in OPM contracts,
+then the statute itself would violate the Supremacy Clause
+by assigning preemptive effect to the terms of a contract,
+not to the laws of the United States. We conclude, however,
+that the statute, not a contract, strips state law of its
+force.
+   Without §8902(m)(1), there would be no preemption of
+state insurance law. FEHBA contract terms have preemp-
+tive force only as they “relate to the nature, provision, or
+extent of coverage or benefits (including payments with
+respect to benefits),” §8902(m)(1)—i.e., when the contract
+terms fall within the statute’s preemptive scope. It is
+therefore the statute that “ensures that [FEHBA contract]
+terms will be uniformly enforceable nationwide, notwith-
+standing any state law relating to health insurance or
+plans.” Brief for United States as Amicus Curiae 28 (in-
+ternal quotation marks omitted).
+   Many other federal statutes preempt state law in this
+way, leaving the context-specific scope of preemption to
+——————
+  3 Because the statute alone resolves this dispute, we need not consider
+whether Chevron deference attaches to OPM’s 2015 rule.
+
+
+10      COVENTRY HEALTH CARE OF MO., INC. v. NEVILS
+                          Opinion of the Court
+contractual terms. The Employee Retirement Income
+Security Act of 1974 (ERISA), 29 U. S. C. §1001 et seq., for
+example, preempts “any and all State laws insofar as
+they . . . relate to any employee benefit plan.” §1144(a).
+And the Federal Arbitration Act (FAA), 9 U. S. C. §1
+et seq., limits the grounds for denying enforcement of
+“written provision[s] in . . . contract[s]” providing for arbi-
+tration, thereby preempting state laws that would other-
+wise interfere with such contracts. §2. This Court has
+several times held that those statutes preempt state law,
+see, e.g., Gobeille v. Liberty Mut. Ins. Co., 577 U. S. ___,
+___–___ (2016) (slip op., at 5–12) (ERISA); Marmet Health
+Care Center, Inc. v. Brown, 565 U. S. 530, 532–534 (2012)
+(per curiam) (FAA), and Nevils does not contend that
+those measures violate the Supremacy Clause, see Brief
+for Respondent 22.
+   Nevils instead attempts to distinguish those other stat-
+utes by highlighting a particular textual feature of
+§8902(m)(1): Section 8902(m)(1) states that the “terms of
+any contract” between OPM and a carrier “shall supersede
+and preempt” certain state or local laws. (Emphasis added.)
+That formulation, Nevils asserts, violates the Supremacy
+Clause’s mandate that only the “Laws of the United
+States” may reign supreme over state law. U. S. Const.,
+Art. VI, cl. 2 (emphasis added). Nevils’ argument elevates
+semantics over substance. While Congress’ formulation
+might differ from the phrasing of other statutes,
+§8902(m)(1) manifests the same intent to preempt state
+law.4 Because we do not require Congress to employ a
+——————
+  4 Congress’ choice of language is not unique to §8902(m)(1). Several
+related statutes governing federal-employee and military-member
+benefits employ similar formulations. See §8959 (“The terms of any
+contract that relate to the nature, provision, or extent of coverage or
+benefits (including payments with respect to benefits) shall supersede
+and preempt any State or local law, or any regulation issued thereun-
+der, which relates to dental benefits, insurance, plans, or contracts.”);
+
+
+                      Cite as: 581 U. S. ____ (2017)                  11
+                           Opinion of the Court
+particular linguistic formulation when preempting state
+law, Nevils’ Supremacy Clause challenge fails.5
+                              *     *      *
+   For the reasons stated, the judgment of the Supreme
+Court of Missouri is reversed, and the case is remanded
+for further proceedings not inconsistent with this opinion.
+                                                      It is so ordered.
+   JUSTICE GORSUCH took no part in the consideration or
+decision of this case.
+——————
+§8989 (same for vision); §9005(a) (same for long-term care); 10 U. S. C.
+§1103(a) (certain state laws “shall not apply to any contract entered
+into pursuant to this chapter”).
+  5 Nevils’ speculation about the Government’s outsourcing preemption
+to private entities, see Brief for Respondent 24, is far afield from the
+matter before us. This case involves only Congress’ preemption of state
+insurance laws to ensure that the terms in contracts negotiated by
+OPM, a federal agency, operate free from state interference.
+
+
+                  Cite as: 581 U. S. ____ (2017)          1
+                     THOMAS, J., concurring
+SUPREME COURT OF THE UNITED STATES
+                           _________________
+                            No. 16–149
+                           _________________
+ COVENTRY HEALTH CARE OF MISSOURI, INC., FKA
+      GROUP HEALTH PLAN, INC., PETITIONER v.
+                       JODIE NEVILS
+    ON WRIT OF CERTIORARI TO THE SUPREME COURT OF
+                           MISSOURI
+                         [April 18, 2017]
+  JUSTICE THOMAS, concurring.
+  I join the opinion of the Court with one reservation. A
+statute that confers on an executive agency the power to
+enter into contracts that pre-empt state law—such as the
+Federal Employee Health Benefits Act of 1959, 5 U. S. C.
+§8902—might unlawfully delegate legislative power to the
+President insofar as the statute fails sufficiently to con-
+strain the President’s contracting discretion. See Depart-
+ment of Transportation v. Association of American Rail-
+roads, 575 U. S. ___, ___–___ (2015) (THOMAS, J.,
+concurring in judgment) (slip op., at 11–22); see also
+Whitman v. American Trucking Assns., Inc., 531 U. S. 457,
+472 (2001). Respondent, however, failed to make that
+argument. The Court therefore appropriately leaves that
+issue to be decided, if at all, on remand.

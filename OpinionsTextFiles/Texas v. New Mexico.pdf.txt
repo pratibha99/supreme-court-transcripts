@@ -1,0 +1,343 @@
+(Slip Opinion)                OCTOBER TERM, 2017                                    1
+                                         Syllabus
+          NOTE: Where it is feasible, a syllabus (headnote) will be released, as is
+        being done in connection with this case, at the time the opinion is issued.
+        The syllabus constitutes no part of the opinion of the Court but has been
+        prepared by the Reporter of Decisions for the convenience of the reader.
+        See United States v. Detroit Timber & Lumber Co., 200 U. S. 321, 337.
+SUPREME COURT OF THE UNITED STATES
+                                         Syllabus
+                    TEXAS v. NEW MEXICO ET AL.
+          ON EXCEPTIONS TO REPORT OF SPECIAL MASTER
+     No. 141, Orig. Argued January 8, 2018—Decided March 5, 2018
+To resolve their disputes over water rights in the Rio Grande, Colorado,
+   New Mexico, and Texas, with Congress’s approval, signed the Rio
+   Grande Compact. The Compact requires Colorado to deliver a speci-
+   fied amount of water annually to New Mexico at the state line and
+   directs New Mexico to deliver a specified amount of water to the Ele-
+   phant Butte Reservoir. The Reservoir was completed in 1916 as part
+   of the Federal Government’s Rio Grande Project and plays a central
+   role in fulfilling the United States’s obligations to supply water under
+   a 1906 treaty with Mexico as well as under several agreements with
+   downstream water districts in New Mexico and Texas (Downstream
+   Contracts).
+      Texas brought this original action complaining that New Mexico
+   has violated the Compact by allowing downstream New Mexico users
+   to siphon off water below the Reservoir in ways not anticipated in the
+   Downstream Contracts. The United States intervened and filed a
+   complaint with parallel allegations. The Special Master filed a report
+   recommending that the United States’s complaint be dismissed in
+   part because the Compact does not confer on the United States the
+   power to enforce its terms. This Court agreed to hear two exceptions
+   to the report concerning the scope of the claims the United States can
+   assert here: The United States says it may pursue claims for Com-
+   pact violations; Colorado says the United States should be permitted
+   to pursue claims only to the extent they arise under the 1906 treaty
+   with Mexico.
+Held: The United States may pursue the Compact claims it has pleaded
+   in this original action. This Court, using its unique authority to mold
+   original actions, see Kansas v. Nebraska, 574 U. S. ___, ___, has
+   sometimes permitted the federal government to participate in com-
+   pact suits to defend “distinctively federal interests” that a normal lit-
+
+
+2                          TEXAS  v. NEW MEXICO
+                                  Syllabus
+  igant might not be permitted to pursue in traditional litigation, Mary-
+  land v. Louisiana, 451 U. S. 725, 745, n. 21. While this permission
+  should not be confused with license, several considerations taken col-
+  lectively lead to the conclusion that the United States may pursue
+  the particular claims it has pleaded in this case. First, the Compact
+  is inextricably intertwined with the Rio Grande Project and the
+  Downstream Contracts. Second, New Mexico has conceded in plead-
+  ings and at oral argument that the United States plays an integral
+  role in the Compact’s operation. Third, a breach of the Compact
+  could jeopardize the federal government’s ability to satisfy its treaty
+  obligations to Mexico. Fourth, the United States has asserted its
+  Compact claims in an existing action brought by Texas, seeking sub-
+  stantially the same relief and without that State’s objection. This
+  case does not present the question whether the United States could
+  initiate litigation to force a State to perform its obligations under the
+  Compact or expand the scope of an existing controversy between
+  States. Pp. 4–7.
+United States’s exception sustained; all other exceptions overruled; and
+  case remanded.
+GORSUCH, J., delivered the opinion for a unanimous Court.
+
+
+                         Cite as: 583 U. S. ____ (2018)                            1
+                               Opinion of the Court
+      NOTICE: This opinion is subject to formal revision before publication in the
+      preliminary print of the United States Reports. Readers are requested to
+      notify the Reporter of Decisions, Supreme Court of the United States, Wash-
+      ington, D. C. 20543, of any typographical or other formal errors, in order
+      that corrections may be made before the preliminary print goes to press.
+SUPREME COURT OF THE UNITED STATES
+                                     _________________
+                                    No. 141, Orig.
+                                     _________________
+        STATE OF TEXAS, PLAINTIFF v. STATE OF
+         NEW MEXICO AND STATE OF COLORADO
+        ON EXCEPTIONS TO REPORT OF SPECIAL MASTER
+                                   [March 5, 2018]
+   JUSTICE GORSUCH delivered the opinion of the Court.
+   Will Rogers reportedly called the Rio Grande “the only
+river I ever saw that needed irrigation.” In its long jour-
+ney from the Colorado Rockies to the Gulf of Mexico, many
+and sometimes competing demands are made on the riv-
+er’s resources. In an effort to reconcile some of those
+demands, Colorado, New Mexico, and Texas, acting with
+the federal government’s assent, signed the Rio Grande
+Compact in the 1930s. In today’s lawsuit, Texas claims
+that New Mexico has defied the Compact. But at this
+stage in the proceedings we face only a preliminary and
+narrow question: May the United States, as an intervenor,
+assert essentially the same claims Texas already has? We
+believe it may.
+   Like its namesake, the Rio Grande Compact took a long
+and circuitous route to ratification. Its roots trace perhaps
+to the 1890s, when Mexico complained to the United
+States that increasing demands on the river upstream left
+little for those below the border. The federal government
+responded by proposing, among other things, to build a
+reservoir and guarantee Mexico a regular and regulated
+release of water. Eventually, the government identified a
+
+
+2                    TEXAS v. NEW MEXICO
+                       Opinion of the Court
+potential dam site near Elephant Butte, New Mexico,
+about 105 miles north of the Texas state line. The gov-
+ernment presented this suggestion to representatives of
+Mexico and the affected States in a 1904 “ ‘Irrigation Con-
+gress,’ ” where it was “ ‘heartily endorse[d] and ap-
+prove[d].’ ” Official Proceedings of the Twelfth National
+Irrigation Congress 107 (G. Mitchell ed. 1905). So, in
+1906, the United States agreed by treaty to deliver 60,000
+acre-feet of water annually to Mexico upon completion of
+the new reservoir. Convention Between the United States
+and Mexico Providing for the Equitable Distribution of the
+Waters of the Rio Grande for Irrigation Purposes, 34 Stat.
+2953. After obtaining the necessary water rights, the
+United States began construction of the dam in 1910 and
+completed it in 1916 as part of a broader infrastructure
+development known as the Rio Grande Project.
+   But that still left the problem of resolving similar dis-
+putes among the various States. After a number of interim
+agreements and impasses, the affected parties eventu-
+ally (and nearly simultaneously) negotiated several
+agreements. And here again the Rio Grande Project and
+its Elephant Butte Reservoir played a central role. In the
+first set of agreements, the federal government promised
+to supply water from the Reservoir to downstream water
+districts with 155,000 irrigable acres in New Mexico and
+Texas. In turn, the water districts agreed to pay charges
+in proportion to the percentage of the total acres lying in
+each State—roughly 57% for New Mexico and 43% for
+Texas. We will call those agreements the “Downstream
+Contracts.” Additionally, Colorado, New Mexico, and
+Texas concluded the Rio Grande Compact, which Congress
+approved in 1939. Act of May 31, 1939, 53 Stat. 785. In
+the Compact, the parties indicated that nothing in their
+agreement should be “construed as affecting” the federal
+government’s treaty duties to deliver promised water to
+Mexico, but only as resolving disputes among themselves.
+
+
+                      Cite as: 583 U. S. ____ (2018)                    3
+                           Opinion of the Court
+Id., at 792. Toward that end, the Compact required Colo-
+rado to deliver a specified amount of water annually to
+New Mexico at the state line. Id., at 787–788. But then,
+instead of similarly requiring New Mexico to deliver a
+specified amount of water annually to the Texas state line,
+the Compact directed New Mexico to deliver water to the
+Reservoir. Id., at 788.* In isolation, this might have
+seemed a curious choice, for a promise to deliver water to a
+reservoir more than 100 miles inside New Mexico would
+seemingly secure nothing for Texas. But the choice made
+all the sense in the world in light of the simultaneously
+negotiated Downstream Contracts that promised Texas
+water districts a certain amount of water every year from
+the Reservoir’s resources.
+   Fast forward to this dispute. Texas filed an original
+action before this Court complaining that New Mexico has
+violated the Compact. According to Texas, New Mexico is
+effectively breaching its Compact duty to deliver water to
+the Reservoir by allowing downstream New Mexico users
+to siphon off water below the Reservoir in ways the Down-
+stream Contracts do not anticipate. After we permitted
+the United States to intervene, it also filed a complaint
+with allegations that parallel Texas’s. In response to
+these complaints, New Mexico filed a motion to dismiss. A
+Special Master we appointed to consider the case received
+briefing, heard argument, and eventually issued an in-
+terim report recommending that we deny New Mexico’s
+motion to dismiss Texas’s complaint. We accepted that
+recommendation. At the same time, the Master recom-
+——————
+  * To be precise, the Compact originally required New Mexico to deliver
+water to a measuring station at San Marcial, New Mexico, upstream
+of the Elephant Butte Reservoir. 53 Stat. 788. But the Compact also
+established something called the Rio Grande Compact Commission and
+gave it the power to administer the Compact in various ways. Id., at
+791. In 1948, that Commission relocated the spot for measuring the
+delivery obligation from the measuring station to the Reservoir itself.
+
+
+4                   TEXAS v. NEW MEXICO
+                       Opinion of the Court
+mended that we dismiss in part the complaint filed by the
+United States. The Master reasoned, in pertinent part,
+that the Compact does not confer on the United States the
+power to enforce its terms. In response to the Master’s
+report, the parties filed a number of exceptions. We
+agreed to hear two of these exceptions—one by the United
+States and one by Colorado—concerning the scope of the
+claims the United States can assert in this original action.
+The United States says it may pursue claims for violations
+of the Compact itself; Colorado says the United States
+should be permitted to pursue claims only to the extent
+they arise under the 1906 treaty with Mexico.
+    Our analysis begins with the Constitution. Its Compact
+Clause provides that “[n]o State shall, without the Con-
+sent of Congress, . . . enter into any Agreement or Com-
+pact with another State.” Art. I, §10, cl. 3. Congress’s
+approval serves to “prevent any compact or agreement
+between any two States, which might affect injuriously the
+interests of the others.” Florida v. Georgia, 17 How. 478,
+494 (1855). It also ensures that the Legislature can “check
+any infringement of the rights of the national govern-
+ment.” 3 J. Story, Commentaries on the Constitution of
+the United States §1397, p. 272 (1833) (in subsequent
+editions, §1403). So, for example, if a proposed interstate
+agreement might lead to friction with a foreign country or
+injure the interests of another region of our own, Congress
+may withhold its approval. But once Congress gives its
+consent, a compact between States—like any other federal
+statute—becomes the law of the land. Texas v. New Mexico,
+462 U. S. 554, 564 (1983).
+    Our role in compact cases differs from our role in ordi-
+nary litigation. The Constitution endows this Court with
+original jurisdiction over disputes between the States. See
+Art. III, §2. And this Court’s role in these cases is to serve
+“ ‘as a substitute for the diplomatic settlement of contro-
+versies between sovereigns and a possible resort to force.’ ”
+
+
+                   Cite as: 583 U. S. ____ (2018)          5
+                        Opinion of the Court
+Kansas v. Nebraska, 574 U. S. ___, ___ (2015) (slip op., at
+6) (quoting North Dakota v. Minnesota, 263 U. S. 365,
+372–373 (1923)). As a result, the Court may, “[i]n this
+singular sphere, . . . ‘regulate and mould the process it
+uses in such a manner as in its judgment will best pro-
+mote the purposes of justice.’ ” 574 U. S., at ___–___ (slip
+op., at 6–7) (quoting Kentucky v. Dennison, 24 How. 66, 98
+(1861)).
+   Using that special authority, we have sometimes per-
+mitted the federal government to participate in compact
+suits to defend “distinctively federal interests” that a
+normal litigant might not be permitted to pursue in tradi-
+tional litigation. Maryland v. Louisiana, 451 U. S. 725,
+745, n. 21 (1981). At the same time, our permission
+should not be confused for license. Viewed from some
+sufficiently abstract level of generality, almost any com-
+pact between the States will touch on some concern of the
+national government—foreign affairs, interstate com-
+merce, taxing and spending. No doubt that is the very
+reason why the Constitution requires congressional ratifi-
+cation of state compacts. But just because Congress en-
+joys a special role in approving interstate agreements, it
+does not necessarily follow that the United States has
+blanket authority to intervene in cases concerning the
+construction of those agreements.
+   Still, bearing in mind our unique authority to mold
+original actions, several considerations taken collectively
+persuade us that the United States may pursue the par-
+ticular claims it has pleaded in this case:
+   First, the Compact is inextricably intertwined with the
+Rio Grande Project and the Downstream Contracts. The
+Compact indicates that its purpose is to “effec[t] an equi-
+table apportionment” of “the waters of the Rio Grande”
+between the affected States. 53 Stat. 785. Yet it can
+achieve that purpose only because, by the time the Com-
+pact was executed and enacted, the United States had
+
+
+6                    TEXAS v. NEW MEXICO
+                       Opinion of the Court
+negotiated and approved the Downstream Contracts, in
+which it assumed a legal responsibility to deliver a certain
+amount of water to Texas. In this way, the United States
+might be said to serve, through the Downstream Con-
+tracts, as a sort of “ ‘agent’ of the Compact, charged with
+assuring that the Compact’s equitable apportionment” to
+Texas and part of New Mexico “is, in fact, made.” Texas’s
+Reply to Exceptions to the First Interim Report of the
+Special Master 40. Or by way of another rough analogy,
+the Compact could be thought implicitly to incorporate the
+Downstream Contracts by reference. Cf. 11 R. Lord, Wil-
+liston on Contracts §30:26 (4th ed. 2017). However de-
+scribed, it is clear enough that the federal government has
+an interest in seeing that water is deposited in the Reser-
+voir consistent with the Compact’s terms. That is what
+allows the United States to meet its duties under the
+Downstream Contracts, which are themselves essential to
+the fulfillment of the Compact’s expressly stated purpose.
+   Second, New Mexico has conceded that the United
+States plays an integral role in the Compact’s operation.
+Early in these proceedings, it argued that the federal
+government was an indispensable party to this lawsuit
+because it is “responsible for . . . delivery of . . . water” as
+required by the Downstream Contracts and anticipated by
+the Compact. Brief in Opposition 33; ibid. (“[T]he entry of
+a Decree in accordance with Texas’ Prayer for Relief would
+necessarily affect the United States’ interests in the [Rio
+Grande] Project” contract). And at oral argument, New
+Mexico contended that the federal government is so inte-
+grally a part of the Compact’s operation that a State could
+sue the United States under the Compact for interfering
+with its operation. Tr. of Oral Arg. 59.
+   Third, a breach of the Compact could jeopardize the
+federal government’s ability to satisfy its treaty obliga-
+tions. See Sanitary Dist. of Chicago v. United States, 266
+U. S. 405, 423–425 (1925) (recognizing the strong interests
+
+
+                  Cite as: 583 U. S. ____ (2018)                 7
+                       Opinion of the Court
+of the United States in preventing interference with its
+treaty obligations). Our treaty with Mexico requires the
+federal government to deliver 60,000 acre-feet of water
+annually from the Elephant Butte Reservoir. And to fill
+that Reservoir the Compact obliges New Mexico to deliver
+a specified amount of water to the facility. So a failure by
+New Mexico to meet its Compact obligations could directly
+impair the federal government’s ability to perform its
+obligations under the treaty. Now the Compact says
+plainly that it may not be “construed as affecting the
+obligations of the United States of America to Mexico”
+under existing treaties. 53 Stat. 792. But that means
+only that the Compact seeks to avoid impairing the federal
+government’s treaty obligations. Permitting the United
+States to proceed here will allow it to ensure that those
+obligations are, in fact, honored.
+   Fourth, the United States has asserted its Compact
+claims in an existing action brought by Texas, seeking
+substantially the same relief and without that State’s
+objection. This case does not present the question whether
+the United States could initiate litigation to force a State
+to perform its obligations under the Compact or expand
+the scope of an existing controversy between States.
+   Taken together, we are persuaded these factors favor
+allowing the United States to pursue the Compact claims
+it has pleaded in this original action. Nothing in our
+opinion should be taken to suggest whether a different
+result would obtain in the absence of any of the considera-
+tions we have outlined or in the presence of additional,
+countervailing considerations. The United States’s excep-
+tion is sustained, all other exceptions are overruled, and
+the case is remanded to the Special Master for further
+proceedings consistent with this opinion.
+                                                 It is so ordered.

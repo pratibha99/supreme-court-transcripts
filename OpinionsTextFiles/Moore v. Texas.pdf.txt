@@ -1,0 +1,504 @@
+                   Cite as: 586 U. S. ____ (2019)           1
+                            Per Curiam
+SUPREME COURT OF THE UNITED STATES
+            BOBBY JAMES MOORE v. TEXAS
+  ON PETITION FOR WRIT OF CERTIORARI TO THE COURT OF
+                 CRIMINAL APPEALS OF TEXAS
+              No. 18–443.   Decided February 19, 2019
+   PER CURIAM.
+   In 2015, the Texas Court of Criminal Appeals held that
+petitioner, Bobby James Moore, did not have intellectual
+disability and consequently was eligible for the death
+penalty. Ex parte Moore, 470 S. W. 3d 481, 527–528
+(Ex parte Moore I). We previously considered the lawful-
+ness of that determination, vacated the appeals court’s
+decision, and remanded the case for further consideration
+of the issue. Moore v. Texas, 581 U. S. ___, ___ (2017) (slip
+op., at 18). The appeals court subsequently reconsidered
+the matter but reached the same conclusion. Ex parte
+Moore, 548 S. W. 3d 552, 573 (Tex. Crim. App. 2018)
+(Ex parte Moore II). We again review its decision, and we
+reverse its determination.
+                                 I
+   When we first heard this case, in Moore, we noted that
+the state trial court (a state habeas court) “received affi-
+davits and heard testimony from Moore’s family members,
+former counsel, and a number of court-appointed mental-
+health experts.” 581 U. S., at ___ (slip op., at 3). We
+described the evidence as “reveal[ing]” the following:
+     “Moore had significant mental and social difficulties
+     beginning at an early age. At 13, Moore lacked basic
+     understanding of the days of the week, the months of
+     the year, and the seasons; he could scarcely tell time
+     or comprehend the standards of measure or the basic
+     principle that subtraction is the reverse of addition.
+     At school, because of his limited ability to read and
+
+
+2                      MOORE v. TEXAS
+                          Per Curiam
+     write, Moore could not keep up with lessons. Often,
+     he was separated from the rest of the class and told to
+     draw pictures. Moore’s father, teachers, and peers
+     called him ‘stupid’ for his slow reading and speech.
+     After failing every subject in the ninth grade, Moore
+     dropped out of high school. Cast out of his home, he
+     survived on the streets, eating from trash cans, even
+     after two bouts of food poisoning.” Ibid. (citations
+     omitted).
+   On the basis of this and other evidence, the trial court
+found that Moore had intellectual disability and thus was
+ineligible for the death penalty under Atkins v. Virginia,
+536 U. S. 304 (2002). App. to Pet. for Cert. 310a–311a.
+The Texas Court of Criminal Appeals reversed that de-
+termination, Ex parte Moore I, 470 S. W. 3d 481, and we
+reviewed its decision, Moore, 581 U. S. ___.
+   At the outset of our opinion, we recognized as valid the
+three underlying legal criteria that both the trial court
+and appeals court had applied. Id., at ___–___ (slip op., at
+3–4) (citing American Association on Intellectual and
+Developmental Disabilities, Intellectual Disability: Defini-
+tion, Classification, and Systems of Supports (11th ed.
+2010) (AAIDD–11); American Psychiatric Association,
+Diagnostic and Statistical Manual of Mental Disorders
+(5th ed. 2013) (DSM–5)). To make a finding of intellectual
+disability, a court must see: (1) deficits in intellectual
+functioning—primarily a test-related criterion, see DSM–
+5, at 37; (2) adaptive deficits, “assessed using both clinical
+evaluation and individualized . . . measures,” ibid.; and (3)
+the onset of these deficits while the defendant was still a
+minor, id., at 38. With respect to the first criterion, we
+wrote that Moore’s intellectual testing indicated his was a
+borderline case, but that he had demonstrated sufficient
+intellectual-functioning deficits to require consideration of
+the second criterion—adaptive functioning. Moore, 581
+
+
+                    Cite as: 586 U. S. ____ (2019)           3
+                             Per Curiam
+U. S., at ___–___ (slip op., at 10–12). With respect to the
+third criterion, we found general agreement that any onset
+took place when Moore was a minor. Id., at ___, n. 3 (slip
+op., at 4, n. 3).
+   But there was significant disagreement between the
+state courts about whether Moore had the adaptive defi-
+cits needed for intellectual disability. “In determining the
+significance of adaptive deficits, clinicians look to whether
+an individual’s adaptive performance falls two or more
+standard deviations below the mean in any of the three
+adaptive skill sets (conceptual, social, and practical).” Id.,
+at ___ (slip op., at 4) (citing AAIDD–11, at 43). Based on
+the evidence before it, the trial court found that “Moore’s
+performance fell roughly two standard deviations below
+the mean in all three skill categories.” 581 U. S., at ___
+(slip op., at 4); see App. to Pet. for Cert. 309a. Reversing
+that decision, the appeals court held that Moore had “not
+proven by a preponderance of the evidence” that he pos-
+sessed the requisite adaptive deficits, and thus was eligi-
+ble for the death penalty. Ex parte Moore I, 470 S. W. 3d,
+at 520. We disagreed with the appeals court’s adaptive-
+functioning analysis, however, and identified at least five
+errors.
+   First, the Texas Court of Criminal Appeals “overempha-
+sized Moore’s perceived adaptive strengths.” Moore, 581
+U. S., at ___ (slip op., at 12). “But the medical community,”
+we said, “focuses the adaptive-functioning inquiry on
+adaptive deficits.” Ibid.
+   Second, the appeals court “stressed Moore’s improved
+behavior in prison.” Id., at ___ (slip op., at 13). But
+“[c]linicians . . . caution against reliance on adaptive
+strengths developed ‘in a controlled setting,’ as a prison
+surely is.” Ibid. (quoting DSM–5, at 38).
+   Third, the appeals court “concluded that Moore’s record
+of academic failure, . . . childhood abuse[,] and suffer-
+ing . . . detracted from a determination that his intellectual
+
+
+4                      MOORE v. TEXAS
+                           Per Curiam
+and adaptive deficits were related.” 581 U. S., at ___ (slip
+op., at 13). But “in the medical community,” those “trau-
+matic experiences” are considered “ ‘risk factors’ for intel-
+lectual disability.” Ibid. (quoting AAIDD–11, at 59–60).
+   Fourth, the Texas Court of Criminal Appeals required
+“Moore to show that his adaptive deficits were not related
+to ‘a personality disorder.’ ” 581 U. S., at ___ (slip op., at
+14) (quoting Ex parte Moore I, 470 S. W. 3d, at 488). But
+clinicians recognize that the “existence of a personality
+disorder or mental-health issue . . . is ‘not evidence that a
+person does not also have intellectual disability.’ ” 581
+U. S., at ___ (slip op., at 14) (quoting Brief for American
+Psychological Association et al. as Amici Curiae in Moore
+v. Texas, O. T. 2016, No. 15–797, p. 19).
+   Fifth, the appeals court directed state courts, when
+examining adaptive deficits, to rely upon certain factors
+set forth in a Texas case called Ex parte Briseno, 135 S. W.
+3d 1 (Tex. Crim. App. 2004). Ex parte Moore I, 470 S. W.
+3d, at 486, 489. The Briseno factors were: whether “those
+who knew the person best during the developmental
+stage” thought of him as “mentally retarded”; whether he
+could “formulat[e] plans” and “car[ry] them through”;
+whether his conduct showed “leadership”; whether he
+showed a “rational and appropriate” “response to external
+stimuli”; whether he could answer questions “coherently”
+and “rationally”; whether he could “hide facts or lie effec-
+tively”; and whether the commission of his offense re-
+quired “forethought, planning, and complex execution of
+purpose.” 135 S. W. 3d, at 8–9.
+   We criticized the use of these factors both because they
+had no grounding in prevailing medical practice, and
+because they invited “lay perceptions of intellectual dis-
+ability” and “lay stereotypes” to guide assessment of intel-
+lectual disability. Moore, 581 U. S., at ___ (slip op., at 15).
+Emphasizing the Briseno factors over clinical factors, we
+said, “ ‘creat[es] an unacceptable risk that persons with
+
+
+                    Cite as: 586 U. S. ____ (2019)            5
+                             Per Curiam
+intellectual disability will be executed.’ ” 581 U. S., at ___
+(slip op., at 14) (quoting Hall v. Florida, 572 U. S. 701, 704
+(2014)). While our decisions in “Atkins and Hall left to the
+States ‘the task of developing appropriate ways to enforce’
+the restriction on executing the intellectually disabled,”
+581 U. S., at ___ (slip op., at 9) (quoting Hall, 572 U. S., at
+719), a court’s intellectual disability determination “must
+be ‘informed by the medical community’s diagnostic
+framework,’ ” 581 U. S., at ___ (slip op., at 9) (quoting Hall,
+572 U. S., at 721).
+   Three Members of this Court dissented from the major-
+ity’s treatment of Moore’s intellectual functioning and with
+aspects of its adaptive-functioning analysis, but all agreed
+about the impropriety of the Briseno factors. As THE
+CHIEF JUSTICE wrote in his dissenting opinion, the Briseno
+factors were “an unacceptable method of enforcing the
+guarantee of Atkins” and the Texas Court of Criminal
+Appeals “therefore erred in using them to analyze adap-
+tive deficits.”     Moore, 581 U. S., at ___ (opinion of
+ROBERTS, C. J.) (slip op., at 1).
+   For the reasons we have described, the Court set aside
+the judgment of the appeals court and remanded the case
+“for further proceedings not inconsistent with this opin-
+ion.” Id., at ___ (slip op., at 18).
+                                 II
+   On remand the Texas Court of Criminal Appeals recon-
+sidered the appeal and reached the same basic conclusion,
+namely, that Moore had not demonstrated intellectual
+disability. Ex parte Moore II, 548 S. W. 3d, at 555. The
+court again noted the three basic criteria: intellectual-
+functioning deficits, adaptive deficits, and early onset. Id.,
+at 560–562. But this time it focused almost exclusively on
+the second criterion, adaptive deficits. The court said
+that, in doing so, it would “abandon reliance on the
+Briseno evidentiary factors.” Id., at 560. It would instead
+
+
+6                      MOORE v. TEXAS
+                          Per Curiam
+use “ ‘current medical diagnostic standards’ ” set forth in
+the American Psychiatric Association’s DSM–5. Id., at
+559–560. In applying those standards to the trial court
+record, it found the State’s expert witness, Dr. Kristi
+Compton, “ ‘far more credible and reliable’ ” than the other
+experts considered by the trial court. Id., at 562. (As in
+our last opinion, we neither second nor second-guess that
+judgment.) And, as we have said, it reached the same
+conclusion it had before.
+  Moore has now filed a petition for certiorari in which he
+argues that the trial court record demonstrates his intel-
+lectual disability. He asks us to reverse the appeals
+court’s contrary holding. Pet. for Cert. 2. The prosecutor,
+the district attorney of Harris County, “agrees with the
+petitioner that he is intellectually disabled and cannot be
+executed.” Brief in Opposition 9. The American Psycho-
+logical Association (APA), American Bar Association
+(ABA), and various individuals have also filed amicus
+curiae briefs supporting the position of Moore and the
+prosecutor. Brief for APA et al. as Amici Curiae; Brief for
+ABA as Amicus Curiae; Brief for Donald B. Ayer et al. as
+Amici Curiae. The Attorney General of Texas, however,
+has filed a motion for leave to intervene, and asks us to
+deny Moore’s petition. Motion for Leave to Intervene as a
+Respondent.
+                              III
+  After reviewing the trial court record and the court of
+appeals’ opinion, we agree with Moore that the appeals
+court’s determination is inconsistent with our opinion in
+Moore. We have found in its opinion too many instances
+in which, with small variations, it repeats the analysis we
+previously found wanting, and these same parts are criti-
+cal to its ultimate conclusion.
+  For one thing, the court of appeals again relied less
+upon the adaptive deficits to which the trial court had
+
+
+                  Cite as: 586 U. S. ____ (2019)              7
+                           Per Curiam
+referred than upon Moore’s apparent adaptive strengths.
+See Moore, 581 U. S., at ___ (slip op., at 12) (criticizing the
+appeals court’s “overemphas[is]” upon Moore’s “perceived
+adaptive strengths”); supra, at 3. The appeals court’s
+discussion of Moore’s “[c]ommunication [s]kills” does not
+discuss the evidence relied upon by the trial court.
+Ex parte Moore II, 548 S. W. 3d, at 563–565. That evi-
+dence includes the young Moore’s inability to understand
+and answer family members, even a failure on occasion to
+respond to his own name. App. to Pet. for Cert. 289a–
+290a. Its review of Moore’s “[r]eading and [w]riting” refers
+to deficits only in observing that “in prison, [Moore] pro-
+gressed from being illiterate to being able to write at a
+seventh-grade level.” Ex parte Moore II, 548 S. W. 3d, at
+565. But the trial court heard, among other things, evi-
+dence that in school Moore was made to draw pictures
+when other children were reading, and that by sixth grade
+Moore struggled to read at a second-grade level. App. to
+Pet. for Cert. 290a, 295a.
+  Instead, the appeals court emphasized Moore’s capacity
+to communicate, read, and write based in part on pro se
+papers Moore filed in court. Ex parte Moore II, 548 S. W.
+3d, at 565–566. That evidence is relevant, but it lacks
+convincing strength without a determination about
+whether Moore wrote the papers on his own, a finding that
+the court of appeals declined to make. Rather, the court
+dismissed the possibility of outside help: Even if other
+inmates “composed” these papers, it said, Moore’s “ability
+to copy such documents by hand” was “within the realm of
+only a few intellectually disabled people.” Id., at 565.
+Similarly, the court of appeals stressed Moore’s “coherent”
+testimony in various proceedings, but acknowledged that
+Moore had “a lawyer to coach him” in all but one. Id., at
+564, and n. 95. As for that pro se hearing, the court ob-
+served that Moore read letters into the record “without
+any apparent difficulty.” Ibid.
+
+
+8                      MOORE v. TEXAS
+                          Per Curiam
+   For another thing, the court of appeals relied heavily
+upon adaptive improvements made in prison. See Moore,
+581 U. S., at ___ (slip op., at 13) (“caution[ing] against
+reliance on adaptive strengths developed” in “prison”);
+supra, at 3. It concluded that Moore has command of
+elementary math, but its examples concern trips to the
+prison commissary, commissary purchases, and the like.
+Ex parte Moore II, 548 S. W. 3d, at 566–569. It deter-
+mined that Moore had shown leadership ability in prison
+by refusing, on occasion, “to mop up some spilled oat-
+meal,” shave, get a haircut, or sit down. Id., at 570–571,
+and n. 149. And as we have said, it stressed correspond-
+ence written in prison. Id., at 565. The length and detail
+of the court’s discussion on these points is difficult to
+square with our caution against relying on prison-based
+development.
+   Further, the court of appeals concluded that Moore
+failed to show that the “cause of [his] deficient social be-
+havior was related to any deficits in general mental abili-
+ties” rather than “emotional problems.” Id., at 570. But in
+our last review, we said that the court of appeals had
+“departed from clinical practice” when it required Moore to
+prove that his “problems in kindergarten” stemmed from
+his intellectual disability, rather than “ ‘emotional prob-
+lems.’ ” Moore, 581 U. S., at ___ (slip op., at 14) (quoting
+Ex parte Moore I, 470 S. W. 3d, at 488, 526)). And we
+pointed to an amicus brief in which the APA explained
+that a personality disorder or mental-health issue is “not
+evidence that a person does not also have intellectual
+disability.” 581 U. S., at ___ (slip op., at 14) (quoting Brief
+for APA et al. as Amici Curiae in No. 15–797, at 19).
+   Finally, despite the court of appeals’ statement that it
+would “abandon reliance on the Briseno evidentiary fac-
+tors,” Ex parte Moore II, 548 S. W. 3d, at 560, it seems to
+have used many of those factors in reaching its conclusion.
+See supra, at 4 (detailing those factors). Thus, Briseno
+
+
+                    Cite as: 586 U. S. ____ (2019)          9
+                             Per Curiam
+asked whether the “offense require[d] forethought, plan-
+ning, and complex execution of purpose.” 135 S. W. 3d, at
+9. The court of appeals wrote that Moore’s crime required
+“a level of planning and forethought.” Ex parte Moore II,
+548 S. W. 3d, at 572, 603 (observing that Moore “w[ore] a
+wig, conceal[ed] the weapon, and fle[d]” after the crime).
+   Briseno asked whether the defendant could “respond
+coherently, rationally, and on point to oral and written
+questions.” 135 S. W. 3d, at 8. The court of appeals found
+that Moore “responded rationally and coherently to ques-
+tions.” Ex parte Moore II, 548 S. W. 3d, at 564.
+   And Briseno asked whether the defendant’s “conduct
+show[s] leadership or . . . that he is led around by others.”
+135 S. W. 3d, at 8. The court of appeals wrote that
+Moore’s “refus[al] to mop up some spilled oatmeal” (and
+other such behavior) showed that he “influences others
+and stands up to authority.” Ex parte Moore II, 548 S. W.
+3d, at 570–571.
+   Of course, clinicians also ask questions to which the
+court of appeals’ statements might be relevant. See
+AAIDD–11, at 44 (noting that how a person “follows rules”
+and “obeys laws” can bear on assessment of her social
+skills). But the similarity of language and content be-
+tween Briseno’s factors and the court of appeals’ state-
+ments suggests that Briseno continues to “pervasively
+infec[t] the [the appeals courts’] analysis.” Moore, 581
+U. S., at ___ (slip op., at 18).
+   To be sure, the court of appeals opinion is not identical
+to the opinion we considered in Moore. There are sentences
+here and there suggesting other modes of analysis con-
+sistent with what we said. But there are also sentences
+here and there suggesting reliance upon what we earlier
+called “lay stereotypes of the intellectually disabled.” Id.,
+at ___ (slip op., at 15). Compare Ex parte Moore II, 548 S.
+W. 3d, at 570–571 (finding evidence that Moore “had a
+girlfriend” and a job as tending to show he lacks intellec-
+
+
+10                     MOORE v. TEXAS
+                           Per Curiam
+tual disability), with AAIDD–11, at 151 (criticizing the
+“incorrect stereotypes” that persons with intellectual
+disability “never have friends, jobs, spouses, or children”),
+and Brief for APA et al. as Amici Curiae 8 (“[I]t is estimated
+that between nine and forty percent of persons with in-
+tellectual disability have some form of paid employment”).
+   We conclude that the appeals court’s opinion, when
+taken as a whole and when read in the light both of our
+prior opinion and the trial court record, rests upon analy-
+sis too much of which too closely resembles what we previ-
+ously found improper. And extricating that analysis from
+the opinion leaves too little that might warrant reaching a
+different conclusion than did the trial court. We conse-
+quently agree with Moore and the prosecutor that, on the
+basis of the trial court record, Moore has shown he is a
+person with intellectual disability.
+                         *      *     *
+   The petition for certiorari is granted. The Attorney
+General of Texas’ motion to intervene is denied; we have
+considered that filing as an amicus brief. The judgment of
+the Texas Court of Criminal Appeals is reversed, and the
+case is remanded for further proceedings not inconsistent
+with this opinion.
+                                             It is so ordered.
+
+
+                   Cite as: 586 U. S. ____ (2019)          1
+                     ROBERTS, C. J., concurring
+SUPREME COURT OF THE UNITED STATES
+             BOBBY JAMES MOORE v. TEXAS
+  ON PETITION FOR WRIT OF CERTIORARI TO THE COURT OF
+                 CRIMINAL APPEALS OF TEXAS
+              No. 18–443.   Decided February 19, 2019
+  CHIEF JUSTICE ROBERTS, concurring.
+  When this case was before us two years ago, I wrote in
+dissent that the majority’s articulation of how courts
+should enforce the requirements of Atkins v. Virginia, 536
+U. S. 304 (2002), lacked clarity. Moore v. Texas, 581 U. S.
+___, ___–___ (2017) (slip op., at 10–11). It still does. But
+putting aside the difficulties of applying Moore in other
+cases, it is easy to see that the Texas Court of Criminal
+Appeals misapplied it here. On remand, the court re-
+peated the same errors that this Court previously con-
+demned—if not quite in haec verba, certainly in substance.
+The court repeated its improper reliance on the factors
+articulated in Ex parte Briseno, 135 S. W. 3d 1, 8 (Tex.
+Crim. App. 2004), and again emphasized Moore’s adaptive
+strengths rather than his deficits. That did not pass
+muster under this Court’s analysis last time. It still
+doesn’t. For those reasons, I join the Court’s opinion
+reversing the judgment below.
+
+
+                     Cite as: 586 U. S. ____ (2019)            1
+                          ALITO, J., dissenting
+SUPREME COURT OF THE UNITED STATES
+              BOBBY JAMES MOORE v. TEXAS
+  ON PETITION FOR WRIT OF CERTIORARI TO THE COURT OF
+                   CRIMINAL APPEALS OF TEXAS
+               No. 18–443.    Decided February 19, 2019
+   JUSTICE ALITO, with whom JUSTICE THOMAS and
+JUSTICE GORSUCH join, dissenting.
+   Two years ago, this Court vacated a judgment of the
+Texas Court of Criminal Appeals holding that Bobby
+James Moore was not intellectually disabled and was
+therefore eligible for the death penalty. Moore v. Texas,
+581 U. S. ___ (2017). While the Court divided on the
+appropriate disposition, both the majority and the dissent
+agreed that the Court of Criminal Appeals should have
+assessed Moore’s claim of intellectual disability under
+contemporary standards rather than applying the outdated
+evidentiary factors laid out in Ex parte Briseno, 135 S. W.
+3d 1, 8 (Tex. Crim. App. 2004). Moore, 581 U. S., at ___
+(slip op., at 2); id., at ___ (ROBERTS, C. J., dissenting) (slip
+op., at 1). On remand, the Court of Criminal Appeals
+adopted the leading contemporary clinical standards for
+assessing intellectual disability, applied those standards
+to the record, and once again determined that Moore is
+eligible for the death penalty. Ex parte Moore, 548 S. W.
+3d 552, 555 (2018).
+   Today, the Court reverses that most recent decision,
+holding that the Court of Criminal Appeals failed to follow
+our decision in Moore. Such a failure would be under-
+standable given the “lack of guidance [Moore] offers to
+States seeking to enforce the holding of Atkins.” Moore,
+581 U. S., at ___ (ROBERTS, C. J., dissenting) (slip op., at
+10). Indeed, each of the errors that the majority ascribes
+to the state court’s decision is traceable to Moore’s failure
+to provide a clear rule. For example, the majority faults
+
+
+2                         MOORE v. TEXAS
+                          ALITO, J., dissenting
+the Court of Criminal Appeals for “rel[ying] less upon the
+adaptive deficits . . . than upon Moore’s apparent adaptive
+strengths,” ante, at 6–7, and for “rel[ying] heavily upon
+adaptive improvements made in prison,” ante, at 8. But in
+Moore, we said only that a court ought not “overempha-
+siz[e]” adaptive strengths or place too much “stres[s]” on
+improved behavior in prison. This left “the line between
+the permissible—consideration, maybe even emphasis—
+and the forbidden—‘overemphasis’—. . . not only thin, but
+totally undefined . . . .”           Moore, 581 U. S., at ___
+(ROBERTS, C. J., dissenting) (slip op., at 11). The major-
+ity’s belief that the state court failed to follow Moore on
+remand merely proves that “[n]either the Court’s articula-
+tion of this standard [in Moore] nor its application sheds
+any light on what it means.” Id., at ___ (ROBERTS, C. J.,
+dissenting) (slip op., at 10).
+   Having concluded that the Court of Criminal Appeals
+failed to apply the standard allegedly set out in Moore, the
+Court today takes it upon itself to correct these factual
+findings and reverse the judgment.* This is not our role.
+“We do not grant a certiorari to review evidence and dis-
+cuss specific facts.” United States v. Johnston, 268 U. S.
+220, 227 (1925); see also Salazar-Limon v. Houston, 581
+U. S. ___, ___ (2017) (ALITO, J., concurring in denial of
+certiorari) (slip op., at 2) (“[W]e rarely grant review where
+the thrust of the claim is that a lower court simply erred
+in applying a settled rule of law to the facts of a particular
+case”). If the Court is convinced that the Court of Crimi-
+nal Appeals made a legal error, it should vacate the judg-
+——————
+  * The Court excuses its usurpation of the factfinding role by con-
+trasting the conclusions of “the trial court,” ante, at 6–7, 10, with the
+views of “the court of appeals,” ante, at 7–9. But in Texas habeas
+proceedings, the Texas Court of Criminal Appeals is “the ultimate
+factfinder” and has authority to accept, alter, or reject the “recommen-
+dation” of the habeas court. Ex parte Reed, 271 S. W. 3d 698, 727
+(2008).
+
+
+                  Cite as: 586 U. S. ____ (2019)            3
+                       ALITO, J., dissenting
+ment below, pronounce the standard that we failed to
+provide in Moore, and remand for the state court to apply
+that standard. The Court’s decision, instead, to issue a
+summary reversal belies our role as “a court of review, not
+of first view.” Cutter v. Wilkinson, 544 U. S. 709, 718, n. 7
+(2005).
+   The Court’s foray into factfinding is an unsound depar-
+ture from our usual practice. The error in this litigation
+was not the state court’s decision on remand but our own
+failure to provide a coherent rule of decision in Moore. I
+would deny the petition for a writ of certiorari. I certainly
+would not summarily reverse and make our own finding of
+fact without even giving the State the opportunity to brief
+and argue the question. I therefore respectfully dissent.

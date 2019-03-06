@@ -1,0 +1,1375 @@
+(Slip Opinion)                OCTOBER TERM, 2018                                    1
+                                         Syllabus
+          NOTE: Where it is feasible, a syllabus (headnote) will be released, as is
+        being done in connection with this case, at the time the opinion is issued.
+        The syllabus constitutes no part of the opinion of the Court but has been
+        prepared by the Reporter of Decisions for the convenience of the reader.
+        See United States v. Detroit Timber & Lumber Co., 200 U. S. 321, 337.
+SUPREME COURT OF THE UNITED STATES
+                                         Syllabus
+                                GARZA v. IDAHO
+          CERTIORARI TO THE SUPREME COURT OF IDAHO
+  No. 17–1026. Argued October 30, 2018—Decided February 27, 2019
+Petitioner Gilberto Garza, Jr., signed two plea agreements, each arising
+   from state criminal charges and each containing a clause stating that
+   Garza waived his right to appeal. Shortly after sentencing, Garza
+   told his trial counsel that he wished to appeal. Instead of filing a no-
+   tice of appeal, counsel informed Garza that an appeal would be “prob-
+   lematic” given Garza’s appeal waiver. After the time period for Gar-
+   za to preserve an appeal lapsed, he sought state postconviction relief,
+   alleging that his trial counsel had rendered ineffective assistance by
+   failing to file a notice of appeal despite his repeated requests. The
+   Idaho trial court denied relief, and the Idaho Court of Appeals af-
+   firmed. Also affirming, the Idaho Supreme Court held that Garza
+   could not show the requisite deficient performance by counsel and re-
+   sulting prejudice. In doing so, the court concluded that the presump-
+   tion of prejudice recognized in Roe v. Flores-Ortega, 528 U. S. 470,
+   when trial counsel fails to file an appeal as instructed does not apply
+   when the defendant has agreed to an appeal waiver.
+Held: Flores-Ortega’s presumption of prejudice applies regardless of
+   whether a defendant has signed an appeal waiver. Pp. 3–14.
+      (a) Under Strickland v. Washington, 466 U. S. 668, a defendant
+   who claims ineffective assistance of counsel must prove (1) “that
+   counsel’s representation fell below an objective standard of reasona-
+   bleness,” id., at 687–688, and (2) that any such deficiency was “preju-
+   dicial to the defense,” id., at 692. However, “prejudice is presumed”
+   in “certain Sixth Amendment contexts,” ibid., such as “when counsel’s
+   constitutionally deficient performance deprives a defendant of an ap-
+   peal that he otherwise would have taken,” Flores-Ortega, 528 U. S.,
+   at 484. Pp. 3–4.
+      (b) This case hinges on two procedural devices: appeal waivers and
+   notices of appeal. No appeal waiver serves as an absolute bar to all
+
+
+2                           GARZA v. IDAHO
+                                 Syllabus
+  appellate claims. Because a plea agreement is essentially a contract,
+  it does not bar claims outside its scope. And, like any contract, the
+  language of appeal waivers can vary widely, leaving many types of
+  claims unwaived. A waived appellate claim may also proceed if the
+  prosecution forfeits or waives the waiver or if the Government
+  breaches the agreement. Separately, some claims are treated as un-
+  waiveable. Most fundamentally, courts agree that defendants retain
+  the right to challenge whether the waiver itself was knowing and
+  voluntary.
+     The filing of a notice of appeal is “a purely ministerial task that
+  imposes no great burden on counsel.” Flores-Ortega, 528 U. S., at
+  474. Filing requirements reflect that appellate claims are likely to be
+  ill defined or unknown at the filing stage. And within the division of
+  labor between defendants and their attorneys, the “ultimate authori-
+  ty” to decide whether to “take an appeal” belongs to the accused.
+  Jones v. Barnes, 463 U. S. 745, 751. Pp. 4–7.
+     (c) Garza’s attorney rendered deficient performance by not filing a
+  notice of appeal in light of Garza’s clear requests. Given the possibil-
+  ity that a defendant will end up raising claims beyond an appeal
+  waiver’s scope, simply filing a notice of appeal does not necessarily
+  breach a plea agreement. Thus, counsel’s choice to override Garza’s
+  instructions was not a strategic one. In any event, the bare decision
+  whether to appeal is ultimately the defendant’s to make. Pp. 7–8.
+     (d) Because there is no dispute that Garza wished to appeal, a di-
+  rect application of Flores-Ortega’s language resolves this case. Flo-
+  res-Ortega reasoned that because a presumption of prejudice applies
+  whenever “ ‘the accused is denied counsel at a critical stage,’ ” it
+  makes greater sense to presume prejudice when counsel’s deficiency
+  forfeits an “appellate proceeding altogether.” 528 U. S., at 483. Be-
+  cause Garza retained a right to appeal at least some issues despite
+  his waivers, he had a right to a proceeding and was denied that pro-
+  ceeding altogether as a result of counsel’s deficient performance.
+  That he surrendered many claims by signing appeal waivers does not
+  change things. First, the presumption of prejudice does not bend be-
+  cause a particular defendant seems to have had poor prospects. See,
+  e.g., Jae Lee v. United States, 582 U. S. ___, ___. Second, while the
+  defendant in Flores-Ortega did not sign an appeal waiver, he did
+  plead guilty, which “reduces the scope of potentially appealable is-
+  sues” on its own. 528 U. S., at 480. Pp. 8–10.
+     (e) Contrary to the argument by Idaho and the U. S. Government,
+  as amicus, that Garza never “had a right” to his appeal and thus that
+  any deficient performance by counsel could not have caused the loss
+  of any such appeal, Garza did retain a right to his appeal; he simply
+  had fewer possible claims than some other appellants. The Govern-
+
+
+                      Cite as: 586 U. S. ____ (2019)                    3
+                                 Syllabus
+  ment also proposes a rule that would require a defendant to show—
+  on a case-by-case basis—that he would have presented claims that
+  would have been considered by the appellate court on the merits.
+  This Court, however, has already rejected attempts to condition the
+  restoration of a defendant’s appellate rights forfeited by ineffective
+  counsel on proof that the defendant’s appeal had merit. See, e.g., Ro-
+  driquez v. United States, 395 U. S. 327, 330. Moreover, it is not the
+  defendant’s role to decide what arguments to press, making it espe-
+  cially improper to impose that role upon the defendant simply be-
+  cause his opportunity to appeal was relinquished by deficient coun-
+  sel. And because there is no right to counsel in postconviction
+  proceedings and, thus, most applicants proceed pro se, the Govern-
+  ment’s proposal would be unfair, ill advised, and unworkable.
+  Pp. 10–14.
+162 Idaho 791, 405 P. 3d 576, reversed and remanded.
+  SOTOMAYOR, J., delivered the opinion of the Court, in which ROBERTS,
+C. J., and GINSBURG, BREYER, KAGAN, and KAVANAUGH, JJ., joined.
+THOMAS, J., filed a dissenting opinion, in which GORSUCH, J., joined, and
+in which ALITO, J., joined as to Parts I and II.
+
+
+                         Cite as: 586 U. S. ____ (2019)                            1
+                               Opinion of the Court
+      NOTICE: This opinion is subject to formal revision before publication in the
+      preliminary print of the United States Reports. Readers are requested to
+      notify the Reporter of Decisions, Supreme Court of the United States, Wash-
+      ington, D. C. 20543, of any typographical or other formal errors, in order
+      that corrections may be made before the preliminary print goes to press.
+SUPREME COURT OF THE UNITED STATES
+                                     _________________
+                                     No. 17–1026
+                                     _________________
+     GILBERTO GARZA, JR., PETITIONER v. IDAHO
+ ON WRIT OF CERTIORARI TO THE SUPREME COURT OF IDAHO
+                                [February 27, 2019]
+   JUSTICE SOTOMAYOR delivered the opinion of the Court.
+   In Roe v. Flores-Ortega, 528 U. S. 470 (2000), this Court
+held that when an attorney’s deficient performance costs a
+defendant an appeal that the defendant would have oth-
+erwise pursued, prejudice to the defendant should be
+presumed “with no further showing from the defendant of
+the merits of his underlying claims.” Id., at 484. This
+case asks whether that rule applies even when the de-
+fendant has, in the course of pleading guilty, signed what
+is often called an “appeal waiver”—that is, an agreement
+forgoing certain, but not all, possible appellate claims. We
+hold that the presumption of prejudice recognized in Flores-
+Ortega applies regardless of whether the defendant has
+signed an appeal waiver.
+                                             I
+   In early 2015, petitioner Gilberto Garza, Jr., signed two
+plea agreements, each arising from criminal charges
+brought by the State of Idaho. Each agreement included a
+clause stating that Garza “waive[d] his right to appeal.”
+App. to Pet. for Cert. 44a, 49a. The Idaho trial court
+accepted the agreements and sentenced Garza to terms of
+prison in accordance with the agreements.
+   Shortly after sentencing, Garza told his trial counsel
+
+
+2                            GARZA v. IDAHO
+                           Opinion of the Court
+that he wished to appeal.1 In the days that followed, he
+would later attest, Garza “continuously reminded” his
+attorney of this directive “via phone calls and letters,”
+Record 210, and Garza’s trial counsel acknowledged in his
+own affidavit that Garza had “told me he wanted to appeal
+the sentence(s) of the court,” id., at 151.2 Garza’s trial
+counsel, however, did not file a notice of appeal. Instead,
+counsel “informed Mr. Garza that an appeal was problem-
+atic because he waived his right to appeal.” Ibid. The
+period of time for Garza’s appeal to be preserved came and
+went with no notice having been filed on Garza’s behalf.
+    Roughly four months after sentencing, Garza sought
+postconviction relief in Idaho state court. As relevant
+here, Garza alleged that his trial counsel rendered ineffec-
+tive assistance by failing to file notices of appeal despite
+Garza’s requests. The Idaho trial court denied relief, and
+both the Idaho Court of Appeals and the Idaho Supreme
+Court affirmed that decision. See 162 Idaho 791, 793, 405
+P. 3d 576, 578 (2017). The Idaho Supreme Court ruled
+that Garza, given the appeal waivers, needed to show both
+deficient performance and resulting prejudice; it concluded
+that he could not. See id., at 798, 405 P. 3d, at 583.
+    In ruling that Garza needed to show prejudice, the
+Idaho Supreme Court acknowledged that it was aligning
+itself with the minority position among courts. For exam-
+——————
+   1 The record suggests that Garza may have been confused as to
+whether he had waived his appellate rights in the first place. See
+Record 97 (answering “No” on a court advisory form asking whether
+Garza had “waived [his] right to appeal [his] judgment of conviction
+and sentence as part of [his] plea agreement”); see also id., at 118, 121,
+132 (showing that Garza’s sentencing judge and judgments of convic-
+tion provided, despite the appeal waiver, generalized notice of a “right
+to appeal”). Because our ruling does not turn on these facts, we do not
+address them further.
+   2 Garza’s affidavit states that he wished to argue, at least in part,
+that he “was persuaded to plead guilty by [the] prosecuting attorney
+and [his] counsel which was not voluntarily [sic].” Id., at 210.
+
+
+                      Cite as: 586 U. S. ____ (2019)                     3
+                           Opinion of the Court
+ple, 8 of the 10 Federal Courts of Appeals to have consid-
+ered the question have applied Flores-Ortega’s presump-
+tion of prejudice even when a defendant has signed an
+appeal waiver.3 162 Idaho, at 795, 405 P. 3d, at 580.
+   We granted certiorari to resolve the split of authority.
+585 U. S. ___ (2018). We now reverse.
+                                    II
+                                    A
+   The Sixth Amendment guarantees criminal defendants
+“the right . . . to have the Assistance of Counsel for [their]
+defence.” The right to counsel includes “ ‘the right to the
+effective assistance of counsel.’ ” Strickland v. Washing-
+ton, 466 U. S. 668, 686 (1984) (quoting McMann v. Rich-
+ardson, 397 U. S. 759, 771, n. 14 (1970)). Under Strick-
+land, a defendant who claims ineffective assistance of
+counsel must prove (1) “that counsel’s representation fell
+below an objective standard of reasonableness,” 466 U. S.,
+at 687–688, and (2) that any such deficiency was “prejudi-
+cial to the defense,” id., at 692.
+   “In certain Sixth Amendment contexts,” however, “prej-
+udice is presumed.” Ibid. For example, no showing of
+prejudice is necessary “if the accused is denied counsel at
+a critical stage of his trial,” United States v. Cronic, 466
+——————
+  3 Compare Campbell v. United States, 686 F. 3d 353, 359 (CA6 2012);
+Watson v. United States, 493 F. 3d 960, 964 (CA8 2007); United States
+v. Poindexter, 492 F. 3d 263, 273 (CA4 2007); United States v. Tapp,
+491 F. 3d 263, 266 (CA5 2007); Campusano v. United States, 442 F. 3d
+770, 775 (CA2 2006); Gomez-Diaz v. United States, 433 F. 3d 788, 791–
+794 (CA11 2005); United States v. Sandoval-Lopez, 409 F. 3d 1193,
+1195–1199 (CA9 2005); United States v. Garrett, 402 F. 3d 1262, 1266–
+1267 (CA10 2005), with Nunez v. United States, 546 F. 3d 450, 455
+(CA7 2008); United States v. Mabry, 536 F. 3d 231, 241 (CA3 2008). At
+least two state courts have declined to apply Flores-Ortega in the face of
+appeal waivers. See Buettner v. State, 382 Mont. 410, 363 P. 3d 1147
+(2015) (Table); Stewart v. United States, 37 A. 3d 870, 877 (D. C. 2012);
+see also Kargus v. State, 284 Kan. 908, 922, 928, 169 P. 3d 307, 316,
+320 (2007).
+
+
+4                            GARZA v. IDAHO
+                           Opinion of the Court
+U. S. 648, 659 (1984), or left “entirely without the assis-
+tance of counsel on appeal,” Penson v. Ohio, 488 U. S. 75,
+88 (1988). Similarly, prejudice is presumed “if counsel
+entirely fails to subject the prosecution’s case to meaning-
+ful adversarial testing.” Cronic, 466 U. S., at 659. And,
+most relevant here, prejudice is presumed “when counsel’s
+constitutionally deficient performance deprives a defend-
+ant of an appeal that he otherwise would have taken.”
+Flores-Ortega, 528 U. S., at 484. We hold today that this
+final presumption applies even when the defendant has
+signed an appeal waiver.
+                                    B
+    It is helpful, in analyzing Garza’s case, to first address
+two procedural devices on which the case hinges: appeal
+waivers and notices of appeal.
+                                    1
+    We begin with the term “appeal waivers.” While the
+term is useful shorthand for clauses like those in Garza’s
+plea agreements, it can misleadingly suggest a monolithic
+end to all appellate rights.4 In fact, however, no appeal
+waiver serves as an absolute bar to all appellate claims.
+    As courts widely agree, “[a] valid and enforceable appeal
+waiver . . . only precludes challenges that fall within its
+scope.” United States v. Hardman, 778 F. 3d 896, 899
+(CA11 2014); see also ibid., n. 2 (collecting cases from the
+——————
+   4 While this Court has never recognized a “constitutional right to an
+appeal,” it has “held that if an appeal is open to those who can pay for
+it, an appeal must be provided for an indigent.” Jones v. Barnes, 463
+U. S. 745, 751 (1983); see also Douglas v. California, 372 U. S. 353
+(1963); Griffin v. Illinois, 351 U. S. 12, 18 (1956) (plurality opinion).
+Today, criminal defendants in nearly all States have a right to appeal
+either by statute or by court rule. See generally Robertson, The Right
+To Appeal, 91 N. C. L. Rev. 1219, 1222, and n. 8 (2013). Criminal
+defendants in federal court have appellate rights under 18 U. S. C.
+§3742(a) and 28 U. S. C. §1291.
+
+
+                       Cite as: 586 U. S. ____ (2019)                   5
+                            Opinion of the Court
+11 other Federal Courts of Appeals with criminal jurisdic-
+tion); State v. Patton, 287 Kan. 200, 228–229, 195 P. 3d
+753, 771 (2008). That an appeal waiver does not bar
+claims outside its scope follows from the fact that,
+“[a]lthough the analogy may not hold in all respects, plea
+bargains are essentially contracts.” Puckett v. United
+States, 556 U. S. 129, 137 (2009).
+    As with any type of contract, the language of appeal
+waivers can vary widely, with some waiver clauses leaving
+many types of claims unwaived.5 Additionally, even a
+waived appellate claim can still go forward if the prosecu-
+tion forfeits or waives the waiver. E.g., United States v.
+Story, 439 F. 3d 226, 231 (CA5 2006). Accordingly, a de-
+fendant who has signed an appeal waiver does not, in
+directing counsel to file a notice of appeal, necessarily
+undertake a quixotic or frivolous quest.
+    Separately, all jurisdictions appear to treat at least some
+claims as unwaiveable. Most fundamentally, courts agree
+that defendants retain the right to challenge whether the
+waiver itself is valid and enforceable—for example, on the
+grounds that it was unknowing or involuntary.6 Conse-
+——————
+   5 See generally Brief for Idaho Association of Criminal Defense Law-
+yers et al. as Amici Curiae 6–10 (collecting examples of appeal waivers
+that allowed challenges to the defendant’s sentence or conviction or
+allowed claims based on prosecutorial misconduct or changes in law).
+   6 See, e.g., United States v. Brown, 892 F. 3d 385, 394 (CADC 2018)
+(“Like all other courts of appeals, our circuit holds that a defendant
+‘may waive his right to appeal his sentence as long as his decision is
+knowing, intelligent, and voluntary’ ”); Spann v. State, 704 N. W. 2d
+486, 491 (Minn. 2005) (“Jurisdictions allowing a defendant to waive his
+or her right to appeal a conviction require that the waiver be made
+‘intelligently, voluntarily, and with an understanding of the conse-
+quences’ ”). Lower courts have also applied exceptions for other kinds of
+claims, including “claims that a sentence is based on race discrimina-
+tion, exceeds the statutory maximum authorized, or is the product of
+ineffective assistance of counsel.” King & O’Neill, Appeal Waivers and
+the Future of Sentencing Policy, 55 Duke L. J. 209, 224 (2005) (collect-
+ing federal cases); see also, e.g., United States v. Puentes-Hurtado, 794
+
+
+6                          GARZA v. IDAHO
+                          Opinion of the Court
+quently, while signing an appeal waiver means giving up
+some, many, or even most appellate claims, some claims
+nevertheless remain.
+                                    2
+   It is also important to consider what it means—and does
+not mean—for trial counsel to file a notice of appeal.
+   “Filing such a notice is a purely ministerial task that
+imposes no great burden on counsel.” Flores-Ortega, 528
+U. S., at 474. It typically takes place during a compressed
+window: 42 days in Idaho, for example, and just 14 days in
+federal court. See Idaho Rule App. Proc. 14(a) (2017); Fed.
+Rule App. Proc. 4(b)(1)(A). By the time this window has
+closed, the defendant likely will not yet have important
+documents from the trial court, such as transcripts of key
+proceedings, see, e.g., Idaho Rules App. Proc. 19 and 25;
+Fed. Rule App. Proc. 10(b), and may well be in custody,
+making communication with counsel difficult, see Peguero
+v. United States, 526 U. S. 23, 26 (1999). And because
+some defendants receive new counsel for their appeals, the
+lawyer responsible for deciding which appellate claims to
+raise may not yet even be involved in the case.
+   Filing requirements reflect that claims are, accordingly,
+likely to be ill defined or unknown at this stage. In the
+federal system, for example, a notice of appeal need only
+identify who is appealing; what “judgment, order, or
+part thereof” is being appealed; and “the court to
+which the appeal is taken.” Fed. Rule App. Proc. 3(c)(1).
+Generally speaking, state requirements are similarly
+——————
+F. 3d 1278, 1284 (CA11 2015) (“[A]ppellate review is also permitted
+when a defendant claims that the government breached the very plea
+agreement which purports to bar him from appealing or collaterally
+attacking his conviction and sentence”); State v. Dye, 291 Neb. 989, 999,
+870 N. W. 2d 628, 634 (2015) (holding that appeal waivers are subject
+to a “miscarriage of justice” exception). We make no statement today
+on what particular exceptions may be required.
+
+
+                       Cite as: 586 U. S. ____ (2019)                 7
+                            Opinion of the Court
+nonsubstantive.7
+   A notice of appeal also fits within a broader division of
+labor between defendants and their attorneys. While “the
+accused has the ultimate authority” to decide whether to
+“take an appeal,” the choice of what specific arguments to
+make within that appeal belongs to appellate counsel.
+Jones v. Barnes, 463 U. S. 745, 751 (1983); see also McCoy
+v. Louisiana, 584 U. S. ___, ___ (2018) (slip op., at 6). In
+other words, filing a notice of appeal is, generally speak-
+ing, a simple, nonsubstantive act that is within the de-
+fendant’s prerogative.
+                                     C
+   With that context in mind, we turn to the precise legal
+issues here. As an initial matter, we note that Garza’s
+attorney rendered deficient performance by not filing the
+notice of appeal in light of Garza’s clear requests. As this
+Court explained in Flores-Ortega:
+         “We have long held that a lawyer who disregards
+      specific instructions from the defendant to file a notice
+      of appeal acts in a manner that is professionally un-
+      reasonable. This is so because a defendant who in-
+      structs counsel to initiate an appeal reasonably relies
+      upon counsel to file the necessary notice. Counsel’s
+      failure to do so cannot be considered a strategic deci-
+      sion; filing a notice of appeal is a purely ministerial
+      task, and the failure to file reflects inattention to the
+      defendant’s wishes.” 528 U. S., at 477 (citations omit-
+      ted); see also id., at 478.
+——————
+  7 E.g., Miss. Rule Crim. Proc. 29.1(b) (2017); Ohio Rule App. Proc.
+3(D) (Lexis 2017). While Idaho requires a notice of appeal to “contain
+substantially . . . [a] preliminary statement of the issues on appeal
+which the appellant then intends to assert in the appeal,” the Rule in
+question also makes clear that “any such list of issues on appeal shall
+not prevent the appellant from asserting other issues on appeal.” Idaho
+Rule App. Proc. 17(f ).
+
+
+8                          GARZA v. IDAHO
+                          Opinion of the Court
+   Idaho maintains that the risk of breaching the defend-
+ant’s plea agreement renders counsel’s choice to override
+the defendant’s instructions a strategic one. See Strick-
+land, 466 U. S., at 690–691 (“[S]trategic choices made
+after thorough investigation of law and facts relevant to
+plausible options are virtually unchallengeable . . . ”). That
+is not so. While we do not address what constitutes a
+defendant’s breach of an appeal waiver or any responsibil-
+ity counsel may have to discuss the potential consequences
+of such a breach, it should be clear from the foregoing that
+simply filing a notice of appeal does not necessarily breach
+a plea agreement, given the possibility that the defendant
+will end up raising claims beyond the waiver’s scope. And
+in any event, the bare decision whether to appeal is ulti-
+mately the defendant’s, not counsel’s, to make.8 See
+McCoy, 584 U. S., at ___ (slip op., at 6); Barnes, 463 U. S.,
+at 751. Where, as here, a defendant has expressly re-
+quested an appeal, counsel performs deficiently by disre-
+garding the defendant’s instructions.9
+                                    D
+   We now address the crux of this case: whether Flores-
+Ortega’s presumption of prejudice applies despite an ap-
+peal waiver. The holding, principles, and facts of Flores-
+——————
+  8 That does not mean, of course, that appellate counsel must then
+make unsupportable arguments. After an appeal has been preserved
+and counsel has reviewed the case, counsel may always, in keeping
+with longstanding precedent, “advise the court and request permission
+to withdraw,” while filing “a brief referring to anything in the record
+that might arguably support the appeal.” Anders v. California, 386
+U. S. 738, 744 (1967). The existence of this procedure reinforces that a
+defendant’s appellate rights should not hinge “on appointed counsel’s
+bare assertion that he or she is of the opinion that there is no merit to
+the appeal.” Penson v. Ohio, 488 U. S. 75, 80 (1988).
+  9 We leave undisturbed today Flores-Ortega’s separate discussion of
+how to approach situations in which a defendant’s wishes are less clear.
+See 528 U. S., at 478–481.
+
+
+                      Cite as: 586 U. S. ____ (2019)                    9
+                           Opinion of the Court
+Ortega show why that presumption applies equally here.
+    With regard to prejudice, Flores-Ortega held that, to
+succeed in an ineffective-assistance claim in this context, a
+defendant need make only one showing: “that, but for
+counsel’s deficient failure to consult with him about an
+appeal, he would have timely appealed.” 528 U. S., at 484.
+So long as a defendant can show that “counsel’s constitu-
+tionally deficient performance deprive[d him] of an appeal
+that he otherwise would have taken,” courts are to “pre-
+sum[e] prejudice with no further showing from the de-
+fendant of the merits of his underlying claims.” Ibid.
+Because there is no dispute here that Garza wished to
+appeal, see supra, at 2, a direct application of Flores-
+Ortega’s language resolves this case. See 528 U. S., at
+484.
+    Flores-Ortega’s reasoning shows why an appeal waiver
+does not complicate this straightforward application. That
+case, like this one, involves a lawyer who forfeited an
+appellate proceeding by failing to file a notice of appeal.
+Id., at 473–475. As the Court explained, given that past
+precedents call for a presumption of prejudice whenever
+“ ‘the accused is denied counsel at a critical stage,’ ” it
+makes even greater sense to presume prejudice when
+counsel’s deficiency forfeits an “appellate proceeding alto-
+gether.” Id., at 483. After all, there is no disciplined way
+to “accord any ‘presumption of reliability’. . . to judicial
+proceedings that never took place.” Ibid. (quoting Smith
+v. Robbins, 528 U. S. 259, 286 (2000)).
+    That rationale applies just as well here because, as
+discussed supra, at 4–6, Garza retained a right to appeal
+at least some issues despite the waivers he signed.10 In
+other words, Garza had a right to a proceeding, and he
+——————
+   10 Or the State might not have invoked the waiver at all. E.g., United
+States v. Archie, 771 F. 3d 217, 223, n. 2 (CA4 2014); State v. Rendon,
+2012 WL 9492805, *1, n. 1 (Idaho Ct. App., May 11, 2012).
+
+
+10                     GARZA v. IDAHO
+                      Opinion of the Court
+was denied that proceeding altogether as a result of coun-
+sel’s deficient performance.
+   That Garza surrendered many claims by signing his
+appeal waivers does not change things. First, this Court
+has made clear that when deficient counsel causes the loss
+of an entire proceeding, it will not bend the presumption-
+of-prejudice rule simply because a particular defendant
+seems to have had poor prospects. See, e.g., Jae Lee v.
+United States, 582 U. S. ___, ___ (2017) (slip op., at 9). We
+hew to that principle again here.
+   Second, while the defendant in Flores-Ortega did not
+sign an appeal waiver, he did plead guilty, and—as the
+Court pointed out—“a guilty plea reduces the scope of
+potentially appealable issues” on its own. See 528 U. S.,
+at 480. In other words, with regard to the defendant’s
+appellate prospects, Flores-Ortega presented at most a
+difference of degree, not kind, and prescribed a presump-
+tion of prejudice regardless of how many appellate claims
+were foreclosed. See id., at 484. We do no different today.
+   Instead, we reaffirm that, “when counsel’s constitution-
+ally deficient performance deprives a defendant of an
+appeal that he otherwise would have taken, the defendant
+has made out a successful ineffective assistance of counsel
+claim entitling him to an appeal,” with no need for a “fur-
+ther showing” of his claims’ merit, ibid., regardless of
+whether the defendant has signed an appeal waiver.
+                              III
+   Flores-Ortega states, in one sentence, that the loss of the
+“entire [appellate] proceeding itself, which a defendant
+wanted at the time and to which he had a right, . . . de-
+mands a presumption of prejudice.” Id., at 483. Idaho and
+the U. S. Government, participating as an amicus on
+Idaho’s behalf, seize on this language, asserting that
+Garza never “had a right” to his appeal and thus that any
+deficient performance by counsel could not have caused
+
+
+                      Cite as: 586 U. S. ____ (2019)                 11
+                           Opinion of the Court
+the loss of any such appeal. See Brief for Respondent 11,
+23–26; Brief for United States as Amicus Curiae 7, 13, 21–
+22. These arguments miss the point. Garza did retain a
+right to his appeal; he simply had fewer possible claims
+than some other appellants. Especially because so much
+is unknown at the notice-of-appeal stage, see supra, at 6–
+7, it is wholly speculative to say that counsel’s deficiency
+forfeits no proceeding to which a defendant like Garza has
+a right.11
+   The Government also takes its causation argument one
+step further. Arguing that, in the appeal-waiver context,
+“a generalized request that an attorney file an appeal . . .
+is not enough to show that appellate merits review would
+have followed,” Brief for United States as Amicus Curiae
+22, the Government proposes a rule that would require a
+defendant to show—on a “case-specific” basis, id., at 23—
+either (1) “that he in fact requested, or at least expressed
+interest in, an appeal on a non-waived issue,” id., at 21–
+22, or alternatively (2) “ ‘that there were nonfrivolous
+grounds for appeal’ despite the waiver,” id., at 22 (quoting
+Flores-Ortega, 528 U. S., at 485). We decline this sugges-
+tion, because it cannot be squared with our precedent and
+would likely prove both unfair and inefficient in practice.
+   This Court has already rejected attempts to condition
+the restoration of a defendant’s appellate rights forfeited
+by ineffective counsel on proof that the defendant’s appeal
+had merit. In Flores-Ortega, the Court explained that
+prejudice should be presumed “with no further showing
+from the defendant of the merits of his underlying claims.”
+——————
+  11 The possibility that an appellate court confronted with a waived
+claim (and a motion to enforce the waiver) would technically “dismiss
+the appeal without reaching the merits,” see Brief for United States as
+Amicus Curiae 17; see also Brief for Respondent 26, does not alter this
+conclusion. Whatever the label, the defendant loses the opportunity to
+raise any appellate claims at all—including those that would, or at
+least could, be heard on the merits.
+
+
+12                         GARZA v. IDAHO
+                         Opinion of the Court
+Id., at 484; see also id., at 486. In Rodriquez v. United
+States, 395 U. S. 327 (1969), similarly, the Court rejected a
+rule that required a defendant whose appeal had been
+forfeited by counsel “to specify the points he would raise
+were his right to appeal reinstated.” Id., at 330. So too
+here.
+   Moreover, while it is the defendant’s prerogative whether
+to appeal, it is not the defendant’s role to decide what
+arguments to press. See Barnes, 463 U. S., at 751, 754.
+That makes it especially improper to impose that role
+upon the defendant simply because his opportunity to
+appeal was relinquished by deficient counsel. “Those
+whose right to appeal has been frustrated should be treated
+exactly like any other appellants; they should not be
+given an additional hurdle to clear just because their
+rights were violated at some earlier stage in the proceed-
+ings.” Rodriquez, 395 U. S., at 330. We accordingly de-
+cline to place a pleading barrier between a defendant and
+an opportunity to appeal that he never should have lost.
+   Meanwhile, the Government’s assumption that un-
+waived claims can reliably be distinguished from waived
+claims through case-by-case postconviction review is dubi-
+ous. There is no right to counsel in postconviction pro-
+ceedings, see Pennsylvania v. Finley, 481 U. S. 551, 555
+(1987), and most applicants proceed pro se.12 That means
+that the Government effectively puts its faith in asking
+“an indigent, perhaps pro se, defendant to demonstrate
+that his hypothetical appeal might have had merit before
+any advocate has ever reviewed the record in his case in
+search of potentially meritorious grounds for appeal,”
+Flores-Ortega, 528 U. S., at 486. We have already ex-
+——————
+  12 For example, researchers have found that over 90% of noncapital
+federal habeas petitioners proceed without counsel. See N. King et al.,
+Final Technical Report: Habeas Litigation in U. S. District Courts 23
+(2007).
+
+
+                         Cite as: 586 U. S. ____ (2019)                 13
+                              Opinion of the Court
+plained why this would be “unfair” and ill advised. See
+ibid.; see also Rodriquez, 395 U. S., at 330. Compounding
+the trouble, defendants would be asked to make these
+showings in the face of the heightened standards and
+related hurdles that attend many postconviction proceed-
+ings. See, e.g., 28 U. S. C. §§2254, 2255; see also Brief for
+Idaho Association of Criminal Defense Lawyers et al. as
+Amici Curiae 22–25.
+   The Government’s proposal is also unworkable. For one,
+it would be difficult and time consuming for a postconvic-
+tion court to determine—perhaps years later—what appel-
+late claims a defendant was contemplating at the time of
+conviction.13 Moreover, because most postconviction peti-
+tioners will be pro se, courts would regularly have to parse
+both (1) what claims a pro se defendant seeks to raise and
+(2) whether each plausibly invoked claim is subject to the
+defendant’s appeal waiver (which can be complex, see
+supra, at 4–6), all without the assistance of counseled
+briefing. We are not persuaded that this would be a more
+efficient or trustworthy process than the one we reaffirm
+today.
+   The more administrable and workable rule, rather, is
+the one compelled by our precedent: When counsel’s defi-
+cient performance forfeits an appeal that a defendant
+otherwise would have taken, the defendant gets a new
+opportunity to appeal. That is the rule already in use in 8
+of the 10 Federal Circuits to have considered the question,
+see supra, at 3, and n. 3, and neither Idaho nor its amici
+have pointed us to any evidence that it has proved un-
+manageable there.14 That rule does no more than restore
+——————
+  13 To the extent relief would turn on what precisely a defendant said
+to counsel regarding specific claims, moreover, Garza rightly points out
+the serious risk of “causing indigent defendants to forfeit their rights
+simply because they did not know what words to use.” Reply Brief 17.
+  14 It is, of course, inevitable that some defendants under this rule will
+seek to raise issues that are within the scope of their appeal waivers.
+
+
+14                           GARZA v. IDAHO
+                           Opinion of the Court
+the status quo that existed before counsel’s deficient per-
+formance forfeited the appeal, and it allows an appellate
+court to consider the appeal as that court otherwise would
+have done—on direct review, and assisted by counsel’s
+briefing.
+                                    IV
+   We hold today that the presumption of prejudice recog-
+nized in Flores-Ortega applies regardless of whether a
+defendant has signed an appeal waiver. This ruling fol-
+lows squarely from Flores-Ortega and from the fact that
+even the broadest appeal waiver does not deprive a de-
+fendant of all appellate claims. Accordingly where, as
+here, an attorney performed deficiently in failing to file a
+notice of appeal despite the defendant’s express instruc-
+tions, prejudice is presumed “with no further showing
+from the defendant of the merits of his underlying claims.”
+See Flores-Ortega, 528 U. S., at 484.
+   The judgment of the Supreme Court of Idaho is there-
+fore reversed, and the case is remanded for further pro-
+ceedings not inconsistent with this opinion.
+                                                    It is so ordered.
+——————
+We are confident that courts can continue to deal efficiently with such
+cases via summary dispositions and the procedures outlined in Anders.
+See 386 U. S., at 744; n. 9, supra.
+
+
+                   Cite as: 586 U. S. ____ (2019)          1
+                       THOMAS, J., dissenting
+SUPREME COURT OF THE UNITED STATES
+                            _________________
+                            No. 17–1026
+                            _________________
+     GILBERTO GARZA, JR., PETITIONER v. IDAHO
+ ON WRIT OF CERTIORARI TO THE SUPREME COURT OF IDAHO
+                        [February 27, 2019]
+   JUSTICE THOMAS, with whom JUSTICE GORSUCH joins,
+and with whom JUSTICE ALITO joins as to Parts I and II,
+dissenting.
+   Petitioner Gilberto Garza avoided a potential life sen-
+tence by negotiating with the State of Idaho for reduced
+charges and a 10-year sentence. In exchange, Garza
+waived several constitutional and statutory rights, includ-
+ing “his right to appeal.” App. to Pet. for Cert. 44a, 49a.
+Despite this express waiver, Garza asked his attorney to
+challenge on appeal the very sentence for which he had
+bargained. Garza’s counsel quite reasonably declined to
+file an appeal for that purpose, recognizing that his client
+had waived this right and that filing an appeal would
+potentially jeopardize his plea bargain. Yet, the majority
+finds Garza’s counsel constitutionally ineffective, holding
+that an attorney’s performance is per se deficient and
+per se prejudicial any time the attorney declines a criminal
+defendant’s request to appeal an issue that the defendant
+has waived. In effect, this results in a “defendant-always-
+wins” rule that has no basis in Roe v. Flores-Ortega, 528
+U. S. 470 (2000), or our other ineffective-assistance prece-
+dents, and certainly no basis in the original meaning of
+the Sixth Amendment. I respectfully dissent.
+                                    I
+   In 2015, in accordance with two plea agreements, Garza
+
+
+2                            GARZA v. IDAHO
+                          THOMAS, J., dissenting
+entered an Alford1 plea to aggravated assault and pleaded
+guilty to possession with intent to deliver methampheta-
+mine. Under the terms of the plea agreements, Idaho
+agreed not to (1) file additional burglary and grand theft
+charges; (2) refer Garza for federal prosecution on a charge
+of unlawful possession of ammunition by a felon, see 18
+U. S. C. §922(g)(1); or (3) seek a “Persistent violator”
+sentencing enhancement that would expose Garza to a
+potential life sentence, see Idaho Code Ann. §19–2514
+(2017). In exchange, Garza agreed to “ ‘waiv[e] his right to
+appeal’ ” and his right to file a motion for correction or
+reduction of his sentence.2 Ante, at 2. And both parties
+agreed to specific sentences totaling 10 years of imprison-
+ment, which would be binding on the District Court if it
+accepted the plea agreements. See Idaho Crim. Rules
+11(f )(1)(C) and (f )(3) (2017) (allowing parties to agree to
+a binding sentence). Thus, the judge could impose no
+sentence other than the 10 years for which Garza had
+——————
+  1 See North Carolina v. Alford, 400 U. S. 25, 37–38 (1970) (permitting
+courts to accept guilty pleas where defendants admit that there is a
+factual basis for the plea, but do not admit actual guilt).
+  2 The majority questions the validity of Garza’s appellate waivers by
+suggesting that “Garza may have been confused as to whether he had
+waived his appellate rights in the first place.” Ante, at 2, n. 1. I read
+the record differently. It is true that, in the guilty form related to his
+possession charge, Garza checked “no” as to whether he was waiving
+his appeal rights. But, in the guilty form related to his aggravated-
+assault charge, he checked “yes” to waiving his appeal rights. And at
+the plea hearing for that offense, he acknowledged under oath that he
+understood all the questions, had received enough time with the guilty
+form, and answered each question honestly. He also acknowledged at
+the sentencing hearing for both offenses that he would be “go[ing] away
+for ten years,” as negotiated for in the signed plea agreements that
+included the appeal waivers. Record 131. Finally, the trial court in
+postconviction proceedings concluded that Garza had never contended
+“at any stage of these post-conviction cases” that “he did not appreciate
+or understand the appeal waivers when he entered his pleas.” Id.,
+at 185.
+
+
+                        Cite as: 586 U. S. ____ (2019)                    3
+                            THOMAS, J., dissenting
+bargained.3
+    The trial court accepted the plea agreements and, as
+required, sentenced Garza to 10 years’ imprisonment.
+However, the court noted that if the cases had been “con-
+sidered individually,” a “harsher sentence” might have
+been warranted due to Garza’s “history of violent crime”
+and the “gratuitous aggression” displayed by Garza in the
+aggravated-assault case. Record 336.
+    Four months later, Garza filed the petitions for postcon-
+viction relief at issue here. Among other things, he
+claimed that his pleas were not voluntary and that his
+counsel had been constitutionally ineffective for failing to
+file an appeal despite repeated requests that he do so. For
+relief, Garza requested that his sentences “run concur-
+rent.” Id., at 207. The trial court appointed counsel to
+pursue Garza’s collateral challenges. It subsequently
+dismissed Garza’s claim that his plea was involuntary
+for “lack of supporting evidence,” but it allowed the
+ineffective-assistance claim to proceed. App. to Pet for
+Cert. 3a, 29a.
+    In response to Garza’s ineffective-assistance claim,
+Idaho submitted an affidavit from Garza’s trial counsel,
+which stated, “Garza indicated to me that he knew he
+agreed not to appeal his sentence(s) but he told me that he
+wanted to appeal the sentence(s)” anyway. Record 151.
+The trial counsel explained that he did not honor that
+request because “Garza received the sentence(s) he bar-
+gained for in his [Idaho Criminal Rule] 11(f )(1)(c) Agree-
+ment,” and he told Garza “that an appeal was problematic
+because he waived his right to appeal in his Rule 11
+agreements.” Ibid. Garza, through his newly appointed
+——————
+   3 See id., at 96, 108 (“I understand that my plea agreement is a bind-
+ing plea agreement. This means that if the district court does not
+impose the specific sentence as recommended by both parties, I will be
+allowed to withdraw my plea of guilty pursuant to Rule 11(d)(4) of the
+Idaho Criminal Rules and proceed to a jury trial”); see also id., at 128.
+
+
+4                       GARZA v. IDAHO
+                       THOMAS, J., dissenting
+collateral counsel, admitted that the appeal waiver “was
+by the book,” that he “received exactly what he bargained
+for in exchange for his plea,” and that there was “no ambi-
+guity” as to the appropriate sentence. Id., at 161–162,
+276–277. Garza also conceded that, if forced to identify an
+issue he would raise on appeal, “[t]he only issue that could
+be identified is sentencing review.” Id., at 176, 371.
+   The trial court granted summary judgment to Idaho. It
+explained that Garza needed to identify “non-frivolous
+grounds for contending on appeal either that (i) the appeal
+waiver is invalid or unenforceable, or (ii) the issues he
+wants to pursue on appeal are outside the waiver’s scope.”
+App. to Pet. for Cert. 38a. The Idaho Court of Appeals and
+the Idaho Supreme Court affirmed. Notably, the Idaho
+Supreme Court declined to presume negligent perfor-
+mance because state law imposes a duty on counsel not to
+file frivolous litigation and to avoid taking actions that
+will jeopardize the benefit his client gained from the plea
+bargain. The Idaho Supreme Court also found Flores-
+Ortega inapplicable, reasoning that once a defendant
+waives his appellate rights, he no longer has a right to an
+appellate proceeding at all.
+                                II
+   As with most ineffective-assistance claims, a defendant
+seeking to show that counsel was constitutionally ineffec-
+tive for failing to file an appeal must show deficient per-
+formance and prejudice. Strickland v. Washington, 466
+U. S. 668, 687 (1984). Relying on Flores-Ortega, the ma-
+jority finds that Garza has satisfied both prongs. In so
+holding, it adopts a rule whereby a criminal defendant’s
+invocation of the words “I want to appeal” can undo all
+sworn attestations to the contrary and resurrect waived
+statutory rights.
+   This rule is neither compelled by precedent nor con-
+sistent with the use of appeal waivers in plea bargaining.
+
+
+                   Cite as: 586 U. S. ____ (2019)               5
+                       THOMAS, J., dissenting
+In my view, a defendant who has executed an appeal
+waiver cannot show prejudice arising from his counsel’s
+decision not to appeal unless he (1) identifies claims he
+would have pursued that were outside the appeal waiver;
+(2) shows that the plea was involuntary or unknowing; or
+(3) establishes that the government breached the plea
+agreement. Garza has not made any such showing, so he
+cannot establish prejudice. Furthermore, because Garza’s
+counsel acted reasonably, Garza also cannot establish
+deficient performance. I would therefore affirm.
+                                 A
+   The majority relies on Flores-Ortega to create its new
+rule, but if anything, that decision undermines the majori-
+ty’s per se approach. In Flores-Ortega, the defendant
+pleaded guilty to second-degree murder without waiving
+any of his appellate rights. 528 U. S., at 473–474. On
+federal collateral review, the defendant alleged that his
+counsel was ineffective for failing to file a notice of appeal
+after she promised to do so. Id., at 474. The record con-
+tained conflicting evidence as to whether the defendant
+had communicated his desire to appeal, and the District
+Court concluded that he failed to carry his burden. Id., at
+475. The Ninth Circuit reversed, reasoning that “a habeas
+petitioner need only show that his counsel’s failure to file
+a notice of appeal was without the petitioner’s consent.”
+Id., at 475–476.
+   This Court reversed. We first concluded that the Ninth
+Circuit’s rule “effectively impose[d] an obligation on coun-
+sel in all cases either (1) to file a notice of appeal, or (2) to
+discuss the possibility of an appeal with the defendant,
+ascertain his wishes, and act accordingly.” Id., at 478. We
+rejected “this per se rule as inconsistent with Strickland’s
+holding that ‘the performance inquiry must be whether
+counsel’s assistance was reasonable considering all the
+circumstances.’ ” Ibid. (quoting 466 U. S., at 688). We also
+
+
+6                       GARZA v. IDAHO
+                      THOMAS, J., dissenting
+faulted the Ninth Circuit for “fail[ing] to engage in the
+circumstance-specific reasonableness inquiry required by
+Strickland.” 528 U. S., at 478. We concluded that this
+failure “alone mandates vacatur and remand.” Ibid.
+   We further explained that counsel’s failure to consult
+with the client about an appeal constitutes deficient per-
+formance only when counsel should have consulted. Id., at
+479. The Court was clear: “We cannot say, as a constitu-
+tional matter, that in every case counsel’s failure to con-
+sult with the defendant about an appeal is necessarily
+unreasonable.” Ibid. In determining whether counsel has
+a duty to consult, we stated that “a highly relevant factor
+in this inquiry will be whether the conviction follows a
+trial or guilty plea, both because a guilty plea reduces the
+scope of potentially appealable issues and because such a
+plea may indicate that the defendant seeks an end to
+judicial proceedings.” Id., at 480. Finally, “[e]ven in cases
+when the defendant pleads guilty, the court must consider
+such factors as whether the defendant received the sen-
+tence bargained for as part of the plea and whether the
+plea expressly reserved or waived some or all appeal
+rights.” Ibid. We rejected the argument that choosing not
+to consult was outside the scope of valid, strategic deci-
+sionmaking, as “we have consistently declined to impose
+mechanical rules on counsel.” Id., at 481. In sum, we
+“reject[ed] a bright-line rule that counsel must always
+consult with the defendant regarding an appeal” and
+instructed courts to evaluate whether the decision to
+consult was “reasonable” under the circumstances. Id., at
+480–481.
+   We also rejected the Ninth Circuit’s “per se prejudice
+rule” because it “ignore[d] the critical requirement that
+counsel’s deficient performance must actually cause the
+forfeiture of the defendant’s appeal.” Id., at 484. We held
+that, “to show prejudice in these circumstances, a defend-
+ant must demonstrate that there is a reasonable probabil-
+
+
+                  Cite as: 586 U. S. ____ (2019)              7
+                      THOMAS, J., dissenting
+ity that, but for counsel’s deficient failure to consult with
+him about an appeal, he would have timely appealed.”
+Ibid. After the defendant makes that showing, we held
+that he was entitled to a presumption of prejudice because
+he was denied counsel during the entire appellate proceed-
+ing, rendering it presumptively unreliable. Id., at 483–
+485.
+   The Court purports to follow Flores-Ortega, but glosses
+over the important factual and legal differences between
+that case and this one. The most obvious difference is also
+the most crucial: There was no appellate waiver in Flores-
+Ortega. The proximate cause of the defendant’s failure to
+appeal in that case was his counsel’s failure to file one.
+Not so here. Garza knowingly waived his appeal rights
+and never expressed a desire to withdraw his plea. It was
+thus Garza’s agreement to waive his appeal rights, not his
+attorney’s actions, that caused the forfeiture of his appeal.
+Thus, Flores-Ortega is inapposite.
+                                B
+   Because Flores-Ortega does not control cases involving
+defendants who voluntarily waive their appeal rights, this
+case should be resolved based on a straightforward appli-
+cation of Strickland. Under that framework, Garza has
+failed to demonstrate either (1) that his counsel was defi-
+cient or (2) that he was prejudiced in any way by that
+alleged deficiency.
+                                1
+   As to deficiency, “[n]o particular set of detailed rules for
+counsel’s conduct can satisfactorily take account of the
+variety of circumstances faced by defense counsel.” Strick-
+land, 466 U. S., at 688–689. Accordingly, “[ j]udicial scru-
+tiny of counsel’s performance must be highly deferential”
+and focus on “the reasonableness of counsel’s challenged
+conduct on the facts of the particular case.” Id., at 689–
+
+
+8                         GARZA v. IDAHO
+                        THOMAS, J., dissenting
+690.
+   Counsel’s choice not to appeal Garza’s sentence—the
+only issue Garza asked his counsel to challenge—was not
+only not deficient, it was the only professionally reasona-
+ble course of action for counsel under the circumstances.
+That is because filing an appeal would have been worse
+than pointless even judging by Garza’s own express de-
+sires; it would have created serious risks for Garza while
+having no chance at all of achieving Garza’s stated goals
+for an appeal. Garza had pleaded guilty under Rule 11,
+expressly waived his right to appeal his sentence, and
+stated that his desire in appealing was to have his consec-
+utive sentences “r[u]n concurrent.” Record 207. But that
+kind of appeal challenges the defining feature of a Rule 11
+plea: the agreed-upon sentence from which the trial court
+has no discretion to deviate. Here, that sentence includes
+the consecutive sentences that Garza agreed to, then
+sought to challenge. Had Garza’s counsel reflexively filed
+an appeal and triggered resentencing, Garza might have
+faced life in prison, especially in light of the trial court’s
+concern that the agreed-upon sentence (from which it
+could not deviate under Rule 11) might have been too
+lenient. And Garza’s admissions at the plea hearings and
+his written plea form could have been (and thus likely
+would have been) used against him if he had proceeded to
+trial on any additional charges filed by the State after
+breaching the plea agreements. See id., at 104 (“[S]hould
+the court reinstate a plea of not guilty on his behalf, the
+State will use Defendant’s testimony during his entry of
+plea of guilty and his written plea form, during the State’s
+case at trial”); id., at 92 (same).
+   Under these circumstances, it is eminently reasonable
+for an attorney to “respec[t] his client’s formal waiver of
+appeal” and uphold his duty “to avoid taking steps that
+will cost the client the benefit of the plea bargain.” Nunez
+v. United States, 546 F. 3d 450, 453, 455 (CA7 2008)
+
+
+                   Cite as: 586 U. S. ____ (2019)          9
+                       THOMAS, J., dissenting
+(Easterbrook, C. J.). And because filing an appeal places
+the defendant’s plea agreement in jeopardy, an attorney’s
+decision not to file in the face of an appellate waiver does
+not amount to the failure to perform “a purely ministerial
+task” that “cannot be considered a strategic decision.”
+Flores-Ortega, 528 U. S., at 477. Even where state law or
+a plea agreement preserves limited appeal rights, an
+attorney does not fail to “show up for appeal” by declining
+to challenge a waived issue. Nunez, supra, at 454.
+   The deficiency analysis in this case would likely be
+different if Garza had informed his counsel that he desired
+to breach the plea agreements and file an appeal—despite
+the waiver and in full awareness of the associated risks—
+for the sake of an identified goal that had any hope of
+being advanced by the filing of an appeal. But the record
+shows that Garza simply sought a more lenient sentence.
+Since that goal could not be advanced by an appeal in this
+case, counsel had no duty to file one. The Constitution
+does not compel attorneys to take irrational means to their
+client’s stated ends when doing so only courts disaster.
+   Garza ultimately faults his plea-stage attorney for
+failing to put his plea agreements in jeopardy. But I have
+no doubt that if a similarly situated attorney breached a
+plea agreement by appealing a waived issue and subjected
+his client to an increased prison term, that defendant
+would argue that his counsel was ineffective for filing the
+appeal. What Garza wants—and what the majority gives
+him—is a per se deficiency rule ensuring that criminal
+defendants can always blame their plea-stage counsel on
+collateral review, even where they did not ask counsel to
+appeal nonwaived claims or breach the plea agreement for
+the sake of some further (achievable) goal. Declining to
+file an appeal under these circumstances is reasonable,
+not deficient.
+
+
+10                      GARZA v. IDAHO
+                      THOMAS, J., dissenting
+                               2
+   As for prejudice, Garza cannot benefit from a presumed-
+prejudice finding since he cannot establish that his coun-
+sel caused the forfeiture of his appeal, as Flores-Ortega
+requires. Garza knowingly and voluntarily bargained
+away his right to appeal in exchange for a lower sentence.
+If any prejudice resulted from that decision, it cannot be
+attributed to his counsel.
+   It does not matter that certain appellate issues—
+specifically, (1) the voluntariness of the plea agreement
+and (2) a breach of the agreement by the State—are not
+waivable. Garza did not ask his counsel to appeal those
+issues. In fact, Garza has not identified any nonwaived
+issue that he would have brought on direct appeal; he
+simply identified “sentencing review” as his primary objec-
+tive. Moreover, declining to file an appeal raising these
+nonwaivable claims is unlikely to be prejudicial; this Court
+has repeatedly stated that collateral review is a better
+avenue to address involuntariness and ineffective-
+assistance claims, as these claims often require extra-
+record materials and present conflicts with counsel. See
+generally Massaro v. United States, 538 U. S. 500 (2003).
+   The Court’s decision in McCoy v. Louisiana, 584 U. S.
+___ (2018), does not change the analysis. McCoy acknowl-
+edges that some decisions are “reserved for the client,”
+including the decision whether to “forgo an appeal.” Id., at
+___ (slip op., at 6). But Garza exercised his right to decide
+whether to appeal. He chose not to when he entered the
+plea agreements. Like many constitutional and statutory
+rights, the right to appeal can be waived by the defendant,
+and once that choice is finally made, the defendant is
+bound by the decision and cannot fault his attorney for the
+self-inflicted prejudicial effects that he suffers. For in-
+stance, a defendant cannot waive his right against self-
+incrimination by testifying at his trial, and then claim
+that his attorney prejudiced him by not moving to strike
+
+
+                  Cite as: 586 U. S. ____ (2019)            11
+                      THOMAS, J., dissenting
+his damaging testimony from the record. Nor can a de-
+fendant waive his right to a jury trial, and then later claim
+prejudice when his attorney declines to seek a mistrial on
+the ground that the judge found him guilty. In the same
+way, Garza was not prejudiced by his attorney’s refusal to
+file an appeal challenging his sentence, a right that he had
+expressly waived. The lack of prejudice is especially pro-
+nounced in this case, as Garza’s instruction to appeal did
+not acknowledge that he wanted to challenge or rescind
+the plea agreements.
+                                C
+   There is no persuasive reason to depart from an ordi-
+nary Strickland analysis in cases involving an attorney’s
+decision to honor his client’s agreement to waive his ap-
+peal rights. Garza contends that it is unfair to require
+pro se defendants to identify the issues they would have
+raised on appeal. But pro se defendants always bear the
+burden of showing ineffective assistance of counsel; I see
+no reason why this kind of ineffective-assistance claim
+should be any different. Regardless, Garza’s fairness
+argument rings hollow because Garza has been represented
+by counsel at every stage of this collateral litigation and
+has yet to articulate a single nonfrivolous, nonwaived
+issue that he would have raised on appeal. His inability to
+identify any issues that he preserved simply underscores
+the fact that he waived them all.
+   The Court’s rule may be easy to “administ[er],” ante, at
+13, but it undermines the finality of criminal judgments—
+a primary purpose of plea agreements—and disadvantages
+the public by allowing defendants to relitigate issues that
+they waived in exchange for substantial benefits. The
+Court’s rule also burdens the appellate courts that must
+address the new, meritless appeals authorized by today’s
+decision. And, ironically, the Court’s rule may prejudice
+the defendants it is designed to help, as prosecutors may
+
+
+12                      GARZA v. IDAHO
+                      THOMAS, J., dissenting
+understandably be less willing to offer generous plea
+agreements when courts refuse to afford the government
+the benefit of its bargain—fewer resources spent defending
+appeals.
+   Finally, because Garza’s requested relief is categorically
+barred by the plea agreements, the majority offers Garza
+an appeal he is certain to lose. And should Garza accept
+the majority’s invitation, he could give up much more. If
+Garza appeals his sentence and thereby breaches his plea
+agreements, Idaho will be free to file additional charges
+against him, argue for a “Persistent violator” sentencing
+enhancement that could land him in prison for life, and
+refer him for federal prosecution. It simply defies logic to
+describe counsel’s attempt to avoid those consequences as
+deficient or prejudicial.
+                              III
+   In addition to breaking from this Court’s precedent,
+today’s decision moves the Court another step further
+from the original meaning of the Sixth Amendment. The
+Sixth Amendment provides that, “[i]n all criminal prosecu-
+tions, the accused shall enjoy the right . . . to have the
+Assistance of Counsel for his defence.” That provision “as
+originally understood and ratified meant only that a de-
+fendant had a right to employ counsel, or to use volun-
+teered services of counsel.” Padilla v. Kentucky, 559 U. S.
+356, 389 (2010) (Scalia, J., dissenting). Yet, the Court has
+read the Constitution to require not only a right to counsel
+at taxpayers’ expense, but a right to effective counsel. The
+result is that convicted criminals can relitigate their trial
+and appellate claims through collateral challenges
+couched as ineffective-assistance-of-counsel claims. Be-
+cause little available evidence suggests that this reading is
+correct as an original matter, the Court should tread
+carefully before extending our precedents in this area.
+
+
+                   Cite as: 586 U. S. ____ (2019)         13
+                       THOMAS, J., dissenting
+                                 A
+  The Sixth Amendment right to the assistance of counsel
+grew out of the Founders’ reaction to the English common-
+law rule that denied counsel for treason and felony offenses
+with respect to issues of fact, while allowing counsel for
+misdemeanors. See 4 W. Blackstone, Commentaries on
+the Laws of England 349–350 (1769); 1 J. Stephen, A
+History of the Criminal Law of England 341 (1883); Powell
+v. Alabama, 287 U. S. 45, 60 (1932) (“Originally, in Eng-
+land, a person charged with treason or felony was denied
+the aid of counsel, except in respect of legal questions
+which the accused himself might suggest”). It was not
+until 1696 that England created a narrow exception to this
+rule for individuals accused of treason or misprision of
+treason—by statute, Parliament provided both that the
+accused may retain counsel and that the court must ap-
+point counsel if requested. 7 & 8 Will. 3, ch.3, §1. Only in
+1836 did England permit all criminally accused to appear
+and defend with counsel, and even then it did not require
+court-appointed counsel at government expense. 6 & 7
+Will. 4, ch. 114, §1. It would be another 67 years—112
+years after the ratification of the Sixth Amendment,
+and 35 years after the ratification of the Fourteenth
+Amendment—before England provided court-appointed
+counsel for all felonies. Poor Prisoners’ Defence Act, 1903,
+3 Edw. 7, ch. 38, §1.
+  The traditional common-law rule that there was no
+right to assistance of counsel for felony offenses received
+widespread criticism. As Blackstone noted, this rule
+“seems to be not at all of a piece with the rest of the hu-
+mane treatment of prisoners by the English law.” 4
+Blackstone, Commentaries on the Laws of England, at
+349; see ibid. (“[U]pon what face of reason can that assis-
+tance be denied to save the life of a man, which yet is
+allowed him in prosecutions for every petty trespass”).
+The founding generation apparently shared this senti-
+
+
+14                         GARZA v. IDAHO
+                          THOMAS, J., dissenting
+ment, as most States adopted some kind of statutory or
+constitutional provision providing the accused the right to
+retain counsel. W. Beaney, The Right to Counsel in Amer-
+ican Courts 14–22 (1955). In fact, at least 12 of the 13
+States at the ratification of the Constitution had rejected
+the English common-law rule, providing for the right to
+counsel in at least some circumstances. See Powell, 287
+U. S., at 64–65; id., at 61–64 (surveying the States’ right-
+to-counsel provisions); see also Betts v. Brady, 316 U. S.
+455, 465–467 (1942) (discussing early state constitutional
+provisions), overruled by Gideon v. Wainwright, 372 U. S.
+335 (1963).         Read against this backdrop, the Sixth
+Amendment appears to have been understood at the time
+of ratification as a rejection of the English common-law
+rule that prohibited counsel, not as a guarantee of
+government-funded counsel.
+    This understanding—that the Sixth Amendment did not
+require appointed counsel for defendants—persisted in the
+Court’s jurisprudence for nearly 150 years. See United
+States v. Van Duzee, 140 U. S. 169, 173 (1891) (“There is,
+however, no general obligation on the part of the govern-
+ment [to] retain counsel for defendants or prisoners”); Bute
+v. Illinois, 333 U. S. 640, 661, n. 17 (1948) (“It is probably
+safe to say that from its adoption in 1791 until 1938, the
+right conferred on the accused by the Sixth Amendment
+. . . was not regarded as imposing on the trial judge in a
+Federal court the duty to appoint counsel for an indigent
+defendant”). Nor evidently was there any suggestion that
+defendants could mount a constitutional attack based on
+their counsel’s failure to render effective assistance.4
+——————
+   4 A defendant could bring a state-law tort action against his attorney.
+As one commentator explained:
+   “An attorney is bound to exercise such skill, care and diligence in any
+matter entrusted to him, as members of the legal profession commonly
+possess and exercise in such matters. . . . He will be liable if his client’s
+interests suffer on account of his failure to understand and apply those
+
+
+                      Cite as: 586 U. S. ____ (2019)                   15
+                          THOMAS, J., dissenting
+   The Court began shifting direction in 1932, when it
+suggested that a right to appointed counsel might exist in
+at least some capital cases, albeit as a right guaranteed by
+the Due Process Clause. Powell, supra, at 71. Soon there-
+after, the Court held that the Sixth Amendment secures a
+right to court-appointed counsel in all federal criminal
+cases. Johnson v. Zerbst, 304 U. S. 458, 462–463 (1938).
+And in 1963, the Court applied this categorical rule to the
+States through the Fourteenth Amendment, stating “that
+in our adversary system of criminal justice, any person
+haled into court, who is too poor to hire a lawyer, cannot
+be assured a fair trial unless counsel is provided for him.”
+Gideon, supra, at 344. Neither of these opinions attempted
+to square the expansive rights they recognized with the
+original meaning of the “right . . . to have the Assistance of
+Counsel.” Amdt. 6.
+                                    B
+   After the Court announced a constitutional right to
+appointed counsel rooted in the Sixth Amendment, it went
+on to fashion a constitutional new-trial remedy for cases in
+which counsel performed poorly. The Courts of Appeals
+had initially adopted a “farce and mockery” standard that
+they rooted in the Due Process Clause. This standard
+permitted a defendant to make out an ineffective-
+assistance claim only “where the circumstances surround-
+ing the trial shocked the conscience of the court and made
+the proceedings a farce and a mockery of justice.” Diggs v.
+——————
+rules and principles of law that are well established and clearly defined
+in the elementary books, or which have been declared in adjudged cases
+that have been duly reported and published a sufficient length of time
+to have become known to those who exercise reasonable diligence in
+keeping pace with the literature of the profession.” T. Cooley, Law of
+Torts *779 (footnotes omitted).
+  Thus, reasonable choices not clearly foreclosed by law or precedent
+would apparently permit an attorney to successfully defend against the
+suit.
+
+
+16                      GARZA v. IDAHO
+                      THOMAS, J., dissenting
+Welch, 148 F. 2d 667, 670 (CADC 1945); see Bottiglio v.
+United States, 431 F. 2d 930, 931 (CA1 1970) (per curiam);
+Williams v. Beto, 354 F. 2d 698, 704 (CA5 1965); Frand v.
+United States, 301 F. 2d 102, 103 (CA10 1962); O’Malley v.
+United States, 285 F. 2d 733, 734 (CA6 1961); Snead v.
+Smyth, 273 F. 2d 838, 842 (CA4 1959); Cofield v. United
+States, 263 F. 2d 686, 689 (CA9), vacated on other
+grounds, 360 U. S. 472 (1959); Johnston v. United States,
+254 F. 2d 239, 240 (CA8 1958); United States ex rel. Feeley
+v. Ragen, 166 F. 2d 976, 980–981 (CA7 1948); United
+States v. Wight, 176 F. 2d 376, 379 (CA2 1949).
+   Beginning in 1970, the Courts of Appeals moved from
+the “farce and mockery” standard to a “reasonable compe-
+tence” standard. See Trapnell v. United States, 725 F. 2d
+149, 151–152 (CA2 1983) (collecting cases). That same
+year, this Court similarly held that defendants are “enti-
+tled to the effective assistance of competent counsel,”
+defined as receipt of legal advice that is “within the range
+of competence demanded of attorneys in criminal cases.”
+McMann v. Richardson, 397 U. S. 759, 771 (1970).
+   Then, in Strickland, the Court crafted the current
+standard for evaluating claims of ineffective assistance of
+counsel. Without discussing the original meaning of the
+Sixth Amendment, the Court stated that “[t]he Sixth
+Amendment recognizes the right to the assistance of coun-
+sel because it envisions counsel’s playing a role that is
+critical to the ability of the adversarial system to produce
+just results.” 466 U. S., at 685. The Court thus held that,
+to succeed on an ineffective-assistance claim, the defend-
+ant must show (1) “that counsel’s representation fell below
+an objective standard of reasonableness” and (2) “that
+there is a reasonable probability that, but for counsel’s
+unprofessional errors, the result of the proceeding would
+have been different.” Id., at 688, 694. The Court applies
+this standard in most situations, but, as it does today, it
+has also created an increasing number of per se rules in
+
+
+                  Cite as: 586 U. S. ____ (2019)          17
+                      THOMAS, J., dissenting
+lieu of applying Strickland’s fact-specific inquiry, thereby
+departing even further from the original meaning of the
+Sixth Amendment.
+   There are a few problems with these precedents that
+should cause us to pause before extending them. First, the
+ineffective-assistance standard apparently originated not
+in the Sixth Amendment, but in our Due Process Clause
+jurisprudence. See McMann, supra, at 771, n. 14. Second,
+“[t]he Constitution, by its terms, does not mandate any
+particular remedy for violations of its own provisions.”
+United States v. Gonzalez-Lopez, 548 U. S. 140, 157 (2006)
+(ALITO, J., dissenting); cf. Collins v. Virginia, 584 U. S.
+___, ___–___ (2018) (THOMAS, J., concurring) (slip op., at
+2–5) (explaining that the exclusionary rule is not required
+by the Fourth Amendment). Strickland does not explain
+how the Constitution requires a new trial for violations of
+any right to counsel.
+   Third, our precedents seek to use the Sixth Amendment
+right to counsel to achieve an end it is not designed to
+guarantee. The right to counsel is not an assurance of
+an error-free trial or even a reliable result. It ensures
+fairness in a single respect: permitting the accused to
+employ the services of an attorney. The structural protec-
+tions provided in the Sixth Amendment certainly seek to
+promote reliable criminal proceedings, but there is no
+substantive right to a particular level of reliability. In
+assuming otherwise, our ever-growing right-to-counsel
+precedents directly conflict with the government’s legiti-
+mate interest in the finality of criminal judgments. I
+would proceed with far more caution than the Court has
+traditionally demonstrated in this area.
+                                C
+   The Court should hesitate before further extending our
+precedents and imposing additional costs on the taxpayers
+
+
+18                           GARZA v. IDAHO
+                           THOMAS, J., dissenting
+and the Judiciary.5 History proves that the States and the
+Federal Government are capable of making the policy
+determinations necessary to assign public resources for
+appointed counsel. The Court has acknowledged as much.
+Betts, 316 U. S., at 471 (declining to extend the right to
+counsel to the States because “the matter has generally
+been deemed one of legislative policy”). Before the Court
+decided Gideon, the Court noted that “most of the States
+have by legislation authorized or even required the courts
+to assign counsel for the defense of indigent and unrepre-
+sented prisoners. As to capital cases, all the States so
+provide. Thirty-four States so provide for felonies and 28
+for misdemeanors.” Bute, 333 U. S., at 663 (internal quo-
+tation marks omitted). It is beyond our constitutionally
+prescribed role to make these policy choices ourselves.
+Even if we adhere to this line of precedents, our dubious
+authority in this area should give us pause before we
+extend these precedents further.
+——————
+  5 In 2018, the Federal Government’s budget for defense counsel had
+grown to more than $1 billion. See Consolidated Appropriations Act,
+2018, Pub. L. 115–141, Div. E, Tit. III, 132 Stat. 348. And the collateral
+challenges produced by the Court’s right-to-counsel jurisprudence
+consume much of the federal courts’ resources.            Cf. Statistical
+Tables for the Federal Judiciary—June 2018, Table B–7 (for 12-month
+period ending June 30, 2018, roughly 24% of appeals filed in the courts
+of appeals—8,914 of 37,487—were categorized as “Habeas Corpus” or
+“Motions to Vacate Sentence”) https://www.uscourts.gov/statistics-
+reports/statistical-tables-federal-judiciary-june-2018 (as last visited
+Feb. 25, 2019); id., Table C–2 (22,478 of 281,202 cases filed in federal
+district court, or roughly 8%).

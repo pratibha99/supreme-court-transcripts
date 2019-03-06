@@ -1,0 +1,1573 @@
+(Slip Opinion)                 OCTOBER TERM, 2017                                    1
+                                          Syllabus
+           NOTE: Where it is feasible, a syllabus (headnote) will be released, as is
+         being done in connection with this case, at the time the opinion is issued.
+         The syllabus constitutes no part of the opinion of the Court but has been
+         prepared by the Reporter of Decisions for the convenience of the reader.
+         See United States v. Detroit Timber & Lumber Co., 200 U. S. 321, 337.
+SUPREME COURT OF THE UNITED STATES
+                                          Syllabus
+                    GILL ET AL. v. WHITFORD ET AL.
+APPEAL FROM THE UNITED STATES DISTRICT COURT FOR THE
+                     WESTERN DISTRICT OF WISCONSIN
+      No. 16–1161. Argued October 3, 2017—Decided June 18, 2018
+Members of the Wisconsin Legislature are elected from single-member
+   legislative districts. Under the Wisconsin Constitution, the legisla-
+   ture must redraw the boundaries of those districts following each
+   census. After the 2010 census, the legislature passed a new district-
+   ing plan known as Act 43. Twelve Democratic voters, the plaintiffs in
+   this case, alleged that Act 43 harms the Democratic Party’s ability to
+   convert Democratic votes into Democratic seats in the legislature.
+   They asserted that Act 43 does this by “cracking” certain Democratic
+   voters among different districts in which those voters fail to achieve
+   electoral majorities and “packing” other Democratic voters in a few
+   districts in which Democratic candidates win by large margins. The
+   plaintiffs argued that the degree to which packing and cracking has
+   favored one political party over another can be measured by an “effi-
+   ciency gap” that compares each party’s respective “wasted” votes—
+   i.e., votes cast for a losing candidate or for a winning candidate in ex-
+   cess of what that candidate needs to win—across all legislative dis-
+   tricts. The plaintiffs claimed that the statewide enforcement of Act
+   43 generated an excess of wasted Democratic votes, thereby violating
+   the plaintiffs’ First Amendment right of association and their Four-
+   teenth Amendment right to equal protection. The defendants, sever-
+   al members of the state election commission, moved to dismiss the
+   plaintiffs’ claims. They argued that the plaintiffs lacked standing to
+   challenge the constitutionality of Act 43 as a whole because, as indi-
+   vidual voters, their legally protected interests extend only to the
+   makeup of the legislative district in which they vote. The three-judge
+   District Court denied the defendants’ motion and, following a trial,
+   concluded that Act 43 was an unconstitutional partisan gerrymander.
+   Regarding standing, the court held that the plaintiffs had suffered a
+
+
+2                           GILL v. WHITFORD
+                                  Syllabus
+  particularized injury to their equal protection rights.
+Held: The plaintiffs have failed to demonstrate Article III standing.
+  Pp. 8–22.
+     (a) Over the past five decades this Court has repeatedly been asked
+  to decide what judicially enforceable limits, if any, the Constitution
+  sets on partisan gerrymandering. Previous attempts at an answer
+  have left few clear landmarks for addressing the question and have
+  generated conflicting views both of how to conceive of the injury aris-
+  ing from partisan gerrymandering and of the appropriate role for the
+  Federal Judiciary in remedying that injury. See Gaffney v. Cum-
+  mings, 412 U. S. 735, Davis v. Bandemer, 478 U. S. 109, Vieth v. Ju-
+  belirer, 541 U. S. 267, and League of United Latin American Citizens
+  v. Perry, 548 U. S. 399. Pp. 8–12.
+     (b) A plaintiff may not invoke federal-court jurisdiction unless he
+  can show “a personal stake in the outcome of the controversy,” Baker
+  v. Carr, 369 U. S. 186, 204. That requirement ensures that federal
+  courts “exercise power that is judicial in nature,” Lance v. Coffman,
+  549 U. S. 437, 439, 441. To meet that requirement, a plaintiff must
+  show an injury in fact—his pleading and proof that he has suffered
+  the “invasion of a legally protected interest” that is “concrete and
+  particularized,” i.e., which “affect[s] the plaintiff in a personal and
+  individual way.” Lujan v. Defenders of Wildlife, 504 U. S. 555, 560,
+  and n. 1.
+     The right to vote is “individual and personal in nature,” Reynolds v.
+  Sims, 377 U. S. 533, 561, and “voters who allege facts showing disad-
+  vantage to themselves as individuals have standing to sue” to remedy
+  that disadvantage, Baker, 369 U. S., at 206. The plaintiffs here al-
+  leged that they suffered such injury from partisan gerrymandering,
+  which works through the “cracking” and “packing” of voters. To the
+  extent that the plaintiffs’ alleged harm is the dilution of their votes,
+  that injury is district specific. An individual voter in Wisconsin is
+  placed in a single district. He votes for a single representative. The
+  boundaries of the district, and the composition of its voters, deter-
+  mine whether and to what extent a particular voter is packed or
+  cracked. A plaintiff who complains of gerrymandering, but who does
+  not live in a gerrymandered district, “assert[s] only a generalized
+  grievance against governmental conduct of which he or she does not
+  approve.” United States v. Hays, 515 U. S. 737, 745.
+     The plaintiffs argue that their claim, like the claims presented in
+  Baker and Reynolds, is statewide in nature. But the holdings in
+  those cases were expressly premised on the understanding that the
+  injuries giving rise to those claims were “individual and personal in
+  nature,” Reynolds, 377 U. S., at 561, because the claims were brought
+  by voters who alleged “facts showing disadvantage to themselves as
+
+
+                      Cite as: 585 U. S. ____ (2018)                     3
+                                Syllabus
+individuals,” Baker, 369 U. S., at 206. The plaintiffs’ mistaken in-
+sistence that the claims in Baker and Reynolds were “statewide in
+nature” rests on a failure to distinguish injury from remedy. In those
+malapportionment cases, the only way to vindicate an individual
+plaintiff’s right to an equally weighted vote was through a wholesale
+“restructuring of the geographical distribution of seats in a state leg-
+islature.” Reynolds, 377 U. S., at 561. Here, the plaintiffs’ claims
+turn on allegations that their votes have been diluted. Because that
+harm arises from the particular composition of the voter’s own dis-
+trict, remedying the harm does not necessarily require restructuring
+all of the State’s legislative districts. It requires revising only such
+districts as are necessary to reshape the voter’s district. This fits the
+rule that a “remedy must of course be limited to the inadequacy that
+produced the injury in fact that the plaintiff has established.” Lewis
+v. Casey, 518 U. S. 343, 357.
+   The plaintiffs argue that their legal injury also extends to the
+statewide harm to their interest “in their collective representation in
+the legislature,” and in influencing the legislature’s overall “composi-
+tion and policymaking.” Brief for Appellees 31. To date, however,
+the Court has not found that this presents an individual and personal
+injury of the kind required for Article III standing. A citizen’s inter-
+est in the overall composition of the legislature is embodied in his
+right to vote for his representative. The harm asserted by the plain-
+tiffs in this case is best understood as arising from a burden on their
+own votes. Pp. 12–17.
+   (c) Four of the plaintiffs in this case pleaded such a particularized
+burden. But as their case progressed to trial, they failed to pursue
+their allegations of individual harm. They instead rested their case
+on their theory of statewide injury to Wisconsin Democrats, in sup-
+port of which they offered three kinds of evidence. First, they pre-
+sented testimony pointing to the lead plaintiff’s hope of achieving a
+Democratic majority in the legislature. Under the Court’s cases to
+date, that is a collective political interest, not an individual legal in-
+terest. Second, they produced evidence regarding the mapmakers’
+deliberations as they drew district lines. The District Court relied on
+this evidence in concluding that those mapmakers sought to under-
+stand the partisan effect of the maps they were drawing. But the
+plaintiffs’ establishment of injury in fact turns on effect, not intent,
+and requires a showing of a burden on the plaintiffs’ votes that is “ac-
+tual or imminent, not ‘conjectural’ or ‘hypothetical.’ ” Defenders of
+Wildlife, 504 U. S., at 560. Third, the plaintiffs presented partisan-
+asymmetry studies showing that Act 43 had skewed Wisconsin’s
+statewide map in favor of Republicans. Those studies do not address
+the effect that a gerrymander has on the votes of particular citizens.
+
+
+4                           GILL v. WHITFORD
+                                  Syllabus
+   They measure instead the effect that a gerrymander has on the for-
+   tunes of political parties. That shortcoming confirms the fundamen-
+   tal problem with the plaintiffs’ case as presented on this record. It is
+   a case about group political interests, not individual legal rights.
+   Pp. 17–21.
+      (d) Where a plaintiff has failed to demonstrate standing, this Court
+   usually directs dismissal. See, e.g., DaimlerChrysler Corp. v. Cuno,
+   547 U. S. 332, 354. Here, however, where the case concerns an un-
+   settled kind of claim that the Court has not agreed upon, the con-
+   tours and justiciability of which are unresolved, the case is remanded
+   to the District Court to give the plaintiffs an opportunity to prove
+   concrete and particularized injuries using evidence that would tend
+   to demonstrate a burden on their individual votes. Cf. Alabama Leg-
+   islative Black Caucus v. Alabama, 575 U. S. ___, ___. Pp. 21–22.
+ 218 F. Supp. 3d 837, vacated and remanded.
+   ROBERTS, C. J., delivered the opinion of the Court, in which KENNEDY,
+GINSBURG, BREYER, ALITO, SOTOMAYOR, and KAGAN, JJ., joined, and in
+which THOMAS and GORSUCH, JJ., joined except as to Part III. KAGAN,
+J., filed a concurring opinion, in which GINSBURG, BREYER, and SO-
+TOMAYOR, JJ., joined. THOMAS, J., filed an opinion concurring in part
+and concurring in the judgment, in which GORSUCH, J., joined.
+
+
+                         Cite as: 585 U. S. ____ (2018)                            1
+                               Opinion of the Court
+      NOTICE: This opinion is subject to formal revision before publication in the
+      preliminary print of the United States Reports. Readers are requested to
+      notify the Reporter of Decisions, Supreme Court of the United States, Wash­
+      ington, D. C. 20543, of any typographical or other formal errors, in order
+      that corrections may be made before the preliminary print goes to press.
+SUPREME COURT OF THE UNITED STATES
+                                     _________________
+                                     No. 16–1161
+                                     _________________
+         BEVERLY R. GILL, ET AL., APPELLANTS v.
+                     WILLIAM WHITFORD, ET AL.
+ ON APPEAL FROM THE UNITED STATES DISTRICT COURT FOR
+               THE WESTERN DISTRICT OF WISCONSIN
+                                   [June 18, 2018]
+   CHIEF JUSTICE ROBERTS delivered the opinion of the
+Court.
+   The State of Wisconsin, like most other States, entrusts
+to its legislature the periodic task of redrawing the bound­
+aries of the State’s legislative districts. A group of Wis­
+consin Democratic voters filed a complaint in the District
+Court, alleging that the legislature carried out this task
+with an eye to diminishing the ability of Wisconsin Demo­
+crats to convert Democratic votes into Democratic seats in
+the legislature. The plaintiffs asserted that, in so doing,
+the legislature had infringed their rights under the First
+and Fourteenth Amendments.
+   But a plaintiff seeking relief in federal court must first
+demonstrate that he has standing to do so, including that
+he has “a personal stake in the outcome,” Baker v. Carr,
+369 U. S. 186, 204 (1962), distinct from a “generally avail­
+able grievance about government,” Lance v. Coffman, 549
+U. S. 437, 439 (2007) (per curiam). That threshold re­
+quirement “ensures that we act as judges, and do not
+engage in policymaking properly left to elected representa­
+tives.” Hollingsworth v. Perry, 570 U. S. 693, 700 (2013).
+
+
+2                    GILL v. WHITFORD
+                      Opinion of the Court
+Certain of the plaintiffs before us alleged that they had
+such a personal stake in this case, but never followed up
+with the requisite proof. The District Court and this
+Court therefore lack the power to resolve their claims. We
+vacate the judgment and remand the case for further
+proceedings, in the course of which those plaintiffs may
+attempt to demonstrate standing in accord with the analy­
+sis in this opinion.
+                               I
+   Wisconsin’s Legislature consists of a State Assembly
+and a State Senate. Wis. Const., Art. IV, §1. The 99
+members of the Assembly are chosen from single districts
+that must “consist of contiguous territory and be in as
+compact form as practicable.” §4. State senators are
+likewise chosen from single-member districts, which are
+laid on top of the State Assembly districts so that three
+Assembly districts form one Senate district. See §5; Wis.
+Stat. §4.001 (2011).
+   The Wisconsin Constitution gives the legislature the
+responsibility to “apportion and district anew the mem­
+bers of the senate and assembly” at the first session fol­
+lowing each census. Art. IV, §3. In recent decades, how­
+ever, that responsibility has just as often been taken up by
+federal courts. Following the census in 1980, 1990, and
+2000, federal courts drew the State’s legislative districts
+when the Legislature and the Governor—split on party
+lines—were unable to agree on new districting plans. The
+Legislature has broken the logjam just twice in the last 40
+years. In 1983, a Democratic Legislature passed, and a
+Democratic Governor signed, a new districting plan that
+remained in effect until the 1990 census. See 1983 Wis.
+Laws ch. 4. In 2011, a Republican Legislature passed, and
+a Republican Governor signed, the districting plan at issue
+here, known as Act 43. See Wis. Stat. §§ 4.009, 4.01–4.99;
+2011 Wis. Laws ch. 4. Following the passage of Act 43,
+
+
+                  Cite as: 585 U. S. ____ (2018)            3
+                       Opinion of the Court
+Republicans won majorities in the State Assembly in the
+2012 and 2014 elections. In 2012, Republicans won 60
+Assembly seats with 48.6% of the two-party statewide vote
+for Assembly candidates. In 2014, Republicans won 63
+Assembly seats with 52% of the statewide vote. 218
+F. Supp. 3d 837, 853 (WD Wis. 2016).
+  In July 2015, twelve Wisconsin voters filed a complaint
+in the Western District of Wisconsin challenging Act 43.
+The plaintiffs identified themselves as “supporters of the
+public policies espoused by the Democratic Party and of
+Democratic Party candidates.” 1 App. 32, Complaint ¶15.
+They alleged that Act 43 is a partisan gerrymander that
+“unfairly favor[s] Republican voters and candidates,” and
+that it does so by “cracking” and “packing” Democratic
+voters around Wisconsin. Id., at 28–30, ¶¶5–7. As they
+explained:
+     “Cracking means dividing a party’s supporters among
+     multiple districts so that they fall short of a majority
+     in each one. Packing means concentrating one party’s
+     backers in a few districts that they win by overwhelm­
+     ing margins.” Id., at 29, ¶5.
+Four of the plaintiffs—Mary Lynne Donohue, Wendy Sue
+Johnson, Janet Mitchell, and Jerome Wallace—alleged
+that they lived in State Assembly districts where Demo­
+crats have been cracked or packed. Id., at 34–36, ¶¶20,
+23, 24, 26; see id., at 50–53, ¶¶60–70 (describing packing
+and cracking in Assembly Districts 22, 26, 66, and 91). All
+of the plaintiffs also alleged that, regardless of “whether
+they themselves reside in a district that has been packed
+or cracked,” they have been “harmed by the manipulation
+of district boundaries” because Democrats statewide “do
+not have the same opportunity provided to Republicans to
+elect representatives of their choice to the Assembly.” Id.,
+at 33, ¶16.
+  The plaintiffs argued that, on a statewide level, the
+
+
+4                     GILL v. WHITFORD
+                       Opinion of the Court
+degree to which packing and cracking has favored one
+party over another can be measured by a single calcula­
+tion: an “efficiency gap” that compares each party’s respec­
+tive “wasted” votes across all legislative districts. “Wasted”
+votes are those cast for a losing candidate or for a win-
+ning candidate in excess of what that candidate needs
+to win. Id., at 28–29, ¶5. The plaintiffs alleged that Act
+43 resulted in an unusually large efficiency gap that fa­
+vored Republicans. Id., at 30, ¶7. They also submitted a
+“Demonstration Plan” that, they asserted, met all of the
+legal criteria for apportionment, but was at the same time
+“almost perfectly balanced in its partisan consequences.”
+Id., at 31, ¶10. They argued that because Act 43 gener-
+ated a large and unnecessary efficiency gap in favor of Re-
+publicans, it violated the First Amendment right of associ­
+ation of Wisconsin Democratic voters and their Fourteenth
+Amendment right to equal protection. The plaintiffs
+named several members of the state election commission
+as defendants in the action. Id., at 36, ¶¶28–30.
+   The election officials moved to dismiss the complaint.
+They argued, among other things, that the plaintiffs
+lacked standing to challenge the constitutionality of Act 43
+as a whole because, as individual voters, their legally
+protected interests extend only to the makeup of the legis­
+lative districts in which they vote. A three-judge panel of
+the District Court, see 28 U. S. C. §2284(a), denied the
+defendants’ motion. In the District Court’s view, the
+plaintiffs “identif[ied] their injury as not simply their
+inability to elect a representative in their own districts,
+but also their reduced opportunity to be represented by
+Democratic legislators across the state.” Whitford v.
+Nichol, 151 F. Supp. 3d 918, 924 (WD Wis. 2015). It there­
+fore followed, in the District Court’s opinion, that
+“[b]ecause plaintiffs’ alleged injury in this case relates to
+their statewide representation, . . . they should be permit­
+ted to bring a statewide claim.” Id., at 926.
+
+
+                   Cite as: 585 U. S. ____ (2018)            5
+                        Opinion of the Court
+   The case proceeded to trial, where the plaintiffs pre­
+sented testimony from four fact witnesses. The first was
+lead plaintiff William Whitford, a retired law professor at
+the University of Wisconsin in Madison. Whitford testi­
+fied that he lives in Madison in the 76th Assembly Dis­
+trict, and acknowledged on cross-examination that this is,
+under any plausible circumstances, a heavily Democratic
+district. Under Act 43, the Democratic share of the As­
+sembly vote in Whitford’s district is 81.9%; under the
+plaintiffs’ ideal map—their Demonstration Plan—the
+projected Democratic share of the Assembly vote in Whit­
+ford’s district would be 82%. 147 Record 35–36. Whitford
+therefore conceded that Act 43 had not “affected [his]
+ability to vote for and elect a Democrat in [his] district.”
+Id., at 37. Whitford testified that he had nevertheless
+suffered a harm “relate[d] to [his] ability to engage in
+campaign activity to achieve a majority in the Assembly
+and the Senate.” Ibid. As he explained, “[t]he only practi­
+cal way to accomplish my policy objectives is to get a
+majority of the Democrats in the Assembly and the Senate
+ideally in order to get the legislative product I prefer.” Id.,
+at 33.
+   The plaintiffs also presented the testimony of legislative
+aides Adam Foltz and Tad Ottman, as well as that of
+Professor Ronald Gaddie, a political scientist who helped
+design the Act 43 districting map, regarding how that map
+was designed and adopted. In particular, Professor Gad-
+die testified about his creation of what he and the District
+Court called “S curves”: color-coded tables of the estimated
+partisan skew of different draft redistricting maps. See
+218 F. Supp. 3d, at 850, 858. The colors corresponded
+with assessments regarding whether different districts
+tilted Republican or Democratic under various statewide
+political scenarios. The S curve for the map that was
+eventually adopted projected that “Republicans would
+maintain a majority under any likely voting scenario,”
+
+
+6                       GILL v. WHITFORD
+                        Opinion of the Court
+with Democrats needing 54% of the statewide vote to
+secure a majority in the legislature. Id., at 852.
+   Finally, the parties presented testimony from four ex­
+pert witnesses. The plaintiffs’ experts, Professor Kenneth
+Mayer and Professor Simon Jackman, opined that—
+according to their efficiency-gap analyses—the Act 43 map
+would systematically favor Republicans for the duration of
+the decade. See id., at 859–861. The defendants’ experts,
+Professor Nicholas Goedert and Sean Trende, opined that
+efficiency gaps alone are unreliable measures of durable
+partisan advantage, and that the political geography of
+Wisconsin currently favors Republicans because Demo­
+crats—who tend to be clustered in large cities—are ineffi­
+ciently distributed in many parts of Wisconsin for purposes
+of winning elections. See id., at 861–862.
+   At the close of evidence, the District Court concluded—
+over the dissent of Judge Griesbach—that the plaintiffs
+had proved a violation of the First and Fourteenth
+Amendments. The court set out a three-part test for
+identifying unconstitutional gerrymanders: A redistricting
+map violates the First Amendment and the Equal Protec­
+tion Clause of the Fourteenth Amendment if it “(1) is
+intended to place a severe impediment on the effectiveness
+of the votes of individual citizens on the basis of their
+political affiliation, (2) has that effect, and (3) cannot be
+justified on other, legitimate legislative grounds.” Id.,
+at 884.
+   The court went on to find, based on evidence concerning
+the manner in which Act 43 had been adopted, that “one of
+the purposes of Act 43 was to secure Republican control of
+the Assembly under any likely future electoral scenario for
+the remainder of the decade.” Id., at 896. It also found
+that the “more efficient distribution of Republican voters
+has allowed the Republican Party to translate its votes
+into seats with significantly greater ease and to achieve—
+and preserve—control of the Wisconsin legislature.” Id.,
+
+
+                  Cite as: 585 U. S. ____ (2018)              7
+                       Opinion of the Court
+at 905. As to the third prong of its test, the District Court
+concluded that the burdens the Act 43 map imposed on
+Democrats could not be explained by “legitimate state
+prerogatives [or] neutral factors.” Id., at 911. The court
+recognized that “Wisconsin’s political geography, particu­
+larly the high concentration of Democratic voters in urban
+centers like Milwaukee and Madison, affords the Republi­
+can Party a natural, but modest, advantage in the district­
+ing process,” but found that this inherent geographic
+disparity did not account for the magnitude of the Repub­
+lican advantage. Id., at 921, 924.
+   Regarding standing, the court held that the plaintiffs
+had a “cognizable equal protection right against state-
+imposed barriers on [their] ability to vote effectively for
+the party of [their] choice.” Id., at 928. It concluded that
+Act 43 “prevent[ed] Wisconsin Democrats from being able
+to translate their votes into seats as effectively as Wiscon­
+sin Republicans,” and that “Wisconsin Democrats, there­
+fore, have suffered a personal injury to their Equal Protec­
+tion rights.” Ibid. The court turned away the defendants’
+argument that the plaintiffs’ injury was not sufficiently
+particularized by finding that “[t]he harm that the plain­
+tiffs have experienced . . . is one shared by Democratic
+voters in the State of Wisconsin. The dilution of their
+votes is both personal and acute.” Id., at 930.
+   Judge Griesbach dissented. He wrote that, under this
+Court’s existing precedents, “partisan intent” to benefit
+one party rather than the other in districting “is not ille­
+gal, but is simply the consequence of assigning the task of
+redistricting to the political branches.” Id., at 939. He
+observed that the plaintiffs had not attempted to prove
+that “specific districts . . . had been gerrymandered,” but
+rather had “relied on statewide data and calculations.”
+Ibid. And he argued that the plaintiffs’ proof, resting as it
+did on statewide data, had “no relevance to any gerryman­
+dering injury alleged by a voter in a single district.” Id., at
+
+
+8                     GILL v. WHITFORD
+                      Opinion of the Court
+952. On that basis, Judge Griesbach would have entered
+judgment for the defendants.
+  The District Court enjoined the defendants from using
+the Act 43 map in future elections and ordered them to
+have a remedial districting plan in place no later than
+November 1, 2017. The defendants appealed directly to
+this Court, as provided under 28 U. S. C. §1253. We
+stayed the District Court’s judgment and postponed con­
+sideration of our jurisdiction. 582 U. S. ___ (2017).
+                               II
+                               A
+  Over the past five decades this Court has been repeat­
+edly asked to decide what judicially enforceable limits, if
+any, the Constitution sets on the gerrymandering of voters
+along partisan lines. Our previous attempts at an answer
+have left few clear landmarks for addressing the question.
+What our precedents have to say on the topic is, however,
+instructive as to the myriad competing considerations that
+partisan gerrymandering claims involve. Our efforts to
+sort through those considerations have generated conflict­
+ing views both of how to conceive of the injury arising from
+partisan gerrymandering and of the appropriate role for
+the Federal Judiciary in remedying that injury.
+  Our first consideration of a partisan gerrymandering
+claim came in Gaffney v. Cummings, 412 U. S. 735 (1973).
+There a group of plaintiffs challenged the constitutionality
+of a Connecticut redistricting plan that “consciously and
+overtly adopted and followed a policy of ‘political fairness,’
+which aimed at a rough scheme of proportional represen­
+tation of the two major political parties.” Id., at 738. To
+that end, the redistricting plan broke up numerous towns,
+“wiggl[ing] and joggl[ing]” district boundary lines in order
+to “ferret out pockets of each party’s strength.” Id., at 738,
+and n. 3, 752, n. 18. The plaintiffs argued that, notwith­
+standing the rough population equality of the districts, the
+
+
+                   Cite as: 585 U. S. ____ (2018)           9
+                        Opinion of the Court
+plan was unconstitutional because its consciously political
+design was “nothing less than a gigantic political gerry­
+mander.” Id., at 752. This Court rejected that claim. We
+reasoned that it would be “idle” to hold that “any political
+consideration taken into account in fashioning a reappor­
+tionment plan is sufficient to invalidate it,” because dis­
+tricting “inevitably has and is intended to have substan­
+tial political consequences.” Id., at 752–753.
+   Thirteen years later came Davis v. Bandemer, 478 U. S.
+109 (1986). Unlike the bipartisan gerrymander at issue in
+Gaffney, the allegation in Bandemer was that Indiana
+Republicans had gerrymandered Indiana’s legislative
+districts “to favor Republican incumbents and candidates
+and to disadvantage Democratic voters” through what the
+plaintiffs called the “stacking” (packing) and “splitting”
+(cracking) of Democrats. 478 U. S., at 116–117 (plurality
+opinion). A majority of the Court agreed that the case
+before it was justiciable. Id., at 125, 127. The Court could
+not, however, settle on a standard for what constitutes an
+unconstitutional partisan gerrymander.
+   Four Justices would have required the Bandemer plain­
+tiffs to “prove both intentional discrimination against an
+identifiable political group and an actual discriminatory
+effect on that group.” Id., at 127. In that plurality’s view,
+the plaintiffs had failed to make a sufficient showing on
+the latter point because their evidence of unfavorable
+election results for Democrats was limited to a single
+election cycle. See id., at 135.
+   Three Justices, concurring in the judgment, would have
+held that the “Equal Protection Clause does not supply
+judicially manageable standards for resolving purely
+political gerrymandering claims.” Id., at 147 (opinion of
+O’Connor, J.). Justice O’Connor took issue, in particular,
+with the plurality’s focus on factual questions concerning
+“statewide electoral success.” Id., at 158. She warned
+that allowing district courts to “strike down apportion­
+
+
+10                     GILL v. WHITFORD
+                       Opinion of the Court
+ment plans on the basis of their prognostications as to the
+outcome of future elections or future apportionments
+invites ‘findings’ on matters as to which neither judges nor
+anyone else can have any confidence.” Id., at 160.
+   Justice Powell, joined by Justice Stevens, concurred in
+part and dissented in part. In his view, the plaintiffs’
+claim was not simply that their “voting strength was
+diluted statewide,” but rather that “certain key districts
+were grotesquely gerrymandered to enhance the election
+prospects of Republican candidates.” Id., at 162, 169.
+Thus, he would have focused on the question “whether the
+boundaries of the voting districts have been distorted
+deliberately and arbitrarily to achieve illegitimate ends.”
+Id., at 165.
+   Eighteen years later, we revisited the issue in Vieth v.
+Jubelirer, 541 U. S. 267 (2004). In that case the plaintiffs
+argued that Pennsylvania’s Legislature had created “me­
+andering and irregular” congressional districts that “ig­
+nored all traditional redistricting criteria, including the
+preservation of local government boundaries,” in order to
+provide an advantage to Republican candidates for Con­
+gress.     Id., at 272–273 (plurality opinion) (brackets
+omitted).
+   The Vieth Court broke down on numerous lines. Writ­
+ing for a four-Justice plurality, Justice Scalia would have
+held that the plaintiffs’ claims were nonjusticiable because
+there was no “judicially discernible and manageable
+standard” by which to decide them. Id., at 306. On those
+grounds, the plurality affirmed the dismissal of the claims.
+Ibid. JUSTICE KENNEDY concurred in the judgment. He
+noted that “there are yet no agreed upon substantive
+principles of fairness in districting,” and that, consequently,
+“we have no basis on which to define clear, manageable,
+and politically neutral standards for measuring the par­
+ticular burden” on constitutional rights. Id., at 307–308.
+He rejected the principle advanced by the plaintiffs—that
+
+
+                   Cite as: 585 U. S. ____ (2018)           11
+                        Opinion of the Court
+“a majority of voters in [Pennsylvania] should be able to
+elect a majority of [Pennsylvania’s] congressional delega­
+tion”—as a “precept” for which there is “no authority.” Id.,
+at 308. Yet JUSTICE KENNEDY recognized the possibility
+that “in another case a standard might emerge that suit-
+ably demonstrates how an apportionment’s de facto incor­
+poration of partisan classifications burdens” representa­
+tional rights. Id., at 312.
+   Four Justices dissented in three different opinions.
+Justice Stevens would have permitted the plaintiffs’
+claims to proceed on a district-by-district basis, using a
+legal standard similar to the standard for racial gerry­
+mandering set forth in Shaw v. Hunt, 517 U. S. 899
+(1996). See 541 U. S., at 335–336, 339. Under this stand­
+ard, any district with a “bizarre shape” for which the only
+possible explanation was “a naked desire to increase parti­
+san strength” would be found unconstitutional under the
+Equal Protection Clause. Id., at 339. Justice Souter,
+joined by JUSTICE GINSBURG, agreed that a plaintiff alleg­
+ing unconstitutional partisan gerrymandering should
+proceed on a district-by-district basis, as “we would be able
+to call more readily on some existing law when we defined
+what is suspect at the district level.” See id., at 346–347.
+   JUSTICE BREYER dissented on still other grounds. In his
+view, the drawing of single-member legislative districts—
+even according to traditional criteria—is “rarely . . . politi­
+cally neutral.” Id., at 359. He therefore would have dis­
+tinguished between gerrymandering for passing political
+advantage and gerrymandering leading to the “unjustified
+entrenchment” of a political party. Id., at 360–361.
+   The Court last took up this question in League of United
+Latin American Citizens v. Perry, 548 U. S. 399 (2006)
+(LULAC). The plaintiffs there challenged a mid-decade
+redistricting map passed by the Texas Legislature. As in
+Vieth, a majority of the Court could find no justiciable
+standard by which to resolve the plaintiffs’ partisan ger­
+
+
+12                     GILL v. WHITFORD
+                       Opinion of the Court
+rymandering claims. Relevant to this case, an amicus
+brief in support of the LULAC plaintiffs proposed a “sym­
+metry standard” to “measure partisan bias” by comparing
+how the two major political parties “would fare hypotheti­
+cally if they each . . . received a given percentage of the
+vote.” 548 U. S., at 419 (opinion of KENNEDY, J.). JUSTICE
+KENNEDY noted some wariness at the prospect of “adopt­
+ing a constitutional standard that invalidates a map based
+on unfair results that would occur in a hypothetical state
+of affairs.” Id., at 420. Aside from that problem, he wrote,
+the partisan bias standard shed no light on “how much
+partisan dominance is too much.”            Ibid.    JUSTICE
+KENNEDY therefore concluded that “asymmetry alone is
+not a reliable measure of unconstitutional partisanship.”
+Ibid.
+   Justice Stevens would have found that the Texas map
+was a partisan gerrymander based in part on the asym­
+metric advantage it conferred on Republicans in convert­
+ing votes to seats. Id., at 466–467, 471–473 (opinion
+concurring in part and dissenting in part). Justice Souter,
+writing for himself and JUSTICE GINSBURG, noted that he
+would not “rule out the utility of a criterion of symmetry,”
+and that “further attention could be devoted to the admin­
+istrability of such a criterion at all levels of redistricting
+and its review.” Id., at 483–484 (opinion concurring in
+part and dissenting in part).
+                                B
+   At argument on appeal in this case, counsel for the
+plaintiffs argued that this Court can address the problem
+of partisan gerrymandering because it must: The Court
+should exercise its power here because it is the “only
+institution in the United States” capable of “solv[ing] this
+problem.” Tr. of Oral Arg. 62. Such invitations must be
+answered with care. “Failure of political will does not
+justify unconstitutional remedies.” Clinton v. City of New
+
+
+                   Cite as: 585 U. S. ____ (2018)            13
+                        Opinion of the Court
+York, 524 U. S. 417, 449 (1998) (KENNEDY, J., concurring).
+Our power as judges to “say what the law is,” Marbury v.
+Madison, 1 Cranch 137, 177 (1803), rests not on the de­
+fault of politically accountable officers, but is instead
+grounded in and limited by the necessity of resolving,
+according to legal principles, a plaintiff ’s particular claim
+of legal right.
+   Our considerable efforts in Gaffney, Bandemer, Vieth,
+and LULAC leave unresolved whether such claims may be
+brought in cases involving allegations of partisan gerry­
+mandering. In particular, two threshold questions re­
+main: what is necessary to show standing in a case of this
+sort, and whether those claims are justiciable. Here we do
+not decide the latter question because the plaintiffs in this
+case have not shown standing under the theory upon
+which they based their claims for relief.
+   To ensure that the Federal Judiciary respects “the
+proper—and properly limited—role of the courts in a
+democratic society,” Allen v. Wright, 468 U. S. 737, 750
+(1984), a plaintiff may not invoke federal-court jurisdiction
+unless he can show “a personal stake in the outcome of the
+controversy.” Baker, 369 U. S., at 204. A federal court is
+not “a forum for generalized grievances,” and the require­
+ment of such a personal stake “ensures that courts exer­
+cise power that is judicial in nature.” Lance, 549 U. S., at
+439, 441. We enforce that requirement by insisting that a
+plaintiff satisfy the familiar three-part test for Article III
+standing: that he “(1) suffered an injury in fact, (2) that is
+fairly traceable to the challenged conduct of the defendant,
+and (3) that is likely to be redressed by a favorable judicial
+decision.” Spokeo, Inc. v. Robins, 578 U. S. ___, ___ (2016)
+(slip op., at 6). Foremost among these requirements is
+injury in fact—a plaintiff ’s pleading and proof that he has
+suffered the “invasion of a legally protected interest” that
+is “concrete and particularized,” i.e., which “affect[s] the
+plaintiff in a personal and individual way.” Lujan v.
+
+
+14                     GILL v. WHITFORD
+                       Opinion of the Court
+Defenders of Wildlife, 504 U. S. 555, 560, and n. 1 (1992).
+   We have long recognized that a person’s right to vote is
+“individual and personal in nature.” Reynolds v. Sims,
+377 U. S. 533, 561 (1964). Thus, “voters who allege facts
+showing disadvantage to themselves as individuals have
+standing to sue” to remedy that disadvantage. Baker, 369
+U. S., at 206. The plaintiffs in this case alleged that they
+suffered such injury from partisan gerrymandering, which
+works through “packing” and “cracking” voters of one
+party to disadvantage those voters. 1 App. 28–29, 32–33,
+Complaint ¶¶5, 15. That is, the plaintiffs claim a consti­
+tutional right not to be placed in legislative districts delib­
+erately designed to “waste” their votes in elections where
+their chosen candidates will win in landslides (packing) or
+are destined to lose by closer margins (cracking). Id., at
+32–33, ¶15.
+   To the extent the plaintiffs’ alleged harm is the dilution
+of their votes, that injury is district specific. An individual
+voter in Wisconsin is placed in a single district. He votes
+for a single representative. The boundaries of the district,
+and the composition of its voters, determine whether and
+to what extent a particular voter is packed or cracked.
+This “disadvantage to [the voter] as [an] individual[ ],”
+Baker, 369 U. S., at 206, therefore results from the bound­
+aries of the particular district in which he resides. And a
+plaintiff ’s remedy must be “limited to the inadequacy that
+produced [his] injury in fact.” Lewis v. Casey, 518 U. S.
+343, 357 (1996). In this case the remedy that is proper
+and sufficient lies in the revision of the boundaries of the
+individual’s own district.
+   For similar reasons, we have held that a plaintiff who
+alleges that he is the object of a racial gerrymander—a
+drawing of district lines on the basis of race—has standing
+to assert only that his own district has been so gerryman­
+dered. See United States v. Hays, 515 U. S. 737, 744–745
+(1995). A plaintiff who complains of gerrymandering, but
+
+
+                   Cite as: 585 U. S. ____ (2018)          15
+                        Opinion of the Court
+who does not live in a gerrymandered district, “assert[s]
+only a generalized grievance against governmental con­
+duct of which he or she does not approve.” Id., at 745.
+Plaintiffs who complain of racial gerrymandering in their
+State cannot sue to invalidate the whole State’s legislative
+districting map; such complaints must proceed “district­
+by-district.” Alabama Legislative Black Caucus v. Ala­
+bama, 575 U. S. ___, ___ (2015) (slip op., at 6).
+   The plaintiffs argue that their claim of statewide injury
+is analogous to the claims presented in Baker and Reyn­
+olds, which they assert were “statewide in nature” because
+they rested on allegations that “districts throughout a
+state [had] been malapportioned.” Brief for Appellees 29.
+But, as we have already noted, the holdings in Baker and
+Reynolds were expressly premised on the understanding
+that the injuries giving rise to those claims were “individ­
+ual and personal in nature,” Reynolds, 377 U. S., at 561,
+because the claims were brought by voters who alleged
+“facts showing disadvantage to themselves as individuals,”
+Baker, 369 U. S., at 206.
+   The plaintiffs’ mistaken insistence that the claims in
+Baker and Reynolds were “statewide in nature” rests on a
+failure to distinguish injury from remedy. In those mal­
+apportionment cases, the only way to vindicate an indi­
+vidual plaintiff ’s right to an equally weighted vote was
+through a wholesale “restructuring of the geographical
+distribution of seats in a state legislature.” Reynolds, 377
+U. S., at 561; see, e.g., Moss v. Burkhart, 220 F. Supp. 149,
+156–160 (WD Okla. 1963) (directing the county-by-county
+reapportionment of the Oklahoma Legislature), aff ’d
+sub nom. Williams v. Moss, 378 U. S. 558 (1964) ( per
+curiam).
+   Here, the plaintiffs’ partisan gerrymandering claims
+turn on allegations that their votes have been diluted.
+That harm arises from the particular composition of the
+voter’s own district, which causes his vote—having been
+
+
+16                     GILL v. WHITFORD
+                       Opinion of the Court
+packed or cracked—to carry less weight than it would
+carry in another, hypothetical district. Remedying the
+individual voter’s harm, therefore, does not necessarily
+require restructuring all of the State’s legislative districts.
+It requires revising only such districts as are necessary to
+reshape the voter’s district—so that the voter may be
+unpacked or uncracked, as the case may be. Cf. Alabama
+Legislative Black Caucus, 575 U. S., at ___ (slip op., at 7).
+This fits the rule that a “remedy must of course be limited
+to the inadequacy that produced the injury in fact that the
+plaintiff has established.” Lewis, 518 U. S., at 357.
+   The plaintiffs argue that their legal injury is not limited
+to the injury that they have suffered as individual voters,
+but extends also to the statewide harm to their interest “in
+their collective representation in the legislature,” and in
+influencing the legislature’s overall “composition and
+policymaking.” Brief for Appellees 31. But our cases to
+date have not found that this presents an individual and
+personal injury of the kind required for Article III stand­
+ing. On the facts of this case, the plaintiffs may not rely
+on “the kind of undifferentiated, generalized grievance
+about the conduct of government that we have refused to
+countenance in the past.” Lance, 549 U. S., at 442. A
+citizen’s interest in the overall composition of the legisla­
+ture is embodied in his right to vote for his representative.
+And the citizen’s abstract interest in policies adopted by
+the legislature on the facts here is a nonjusticiable “gen­
+eral interest common to all members of the public.”
+Ex parte Lévitt, 302 U. S. 633, 634 (1937) (per curiam).
+   We leave for another day consideration of other possible
+theories of harm not presented here and whether those
+theories might present justiciable claims giving rise to
+statewide remedies. JUSTICE KAGAN’S concurring opinion
+endeavors to address “other kinds of constitutional harm,”
+see post, at 8, perhaps involving different kinds of plain­
+tiffs, see post, at 9, and differently alleged burdens, see
+
+
+                   Cite as: 585 U. S. ____ (2018)          17
+                        Opinion of the Court
+ibid. But the opinion of the Court rests on the under­
+standing that we lack jurisdiction to decide this case,
+much less to draw speculative and advisory conclusions
+regarding others. See Public Workers v. Mitchell, 330
+U. S. 75, 90 (1947) (noting that courts must “respect the
+limits of [their] unique authority” and engage in “[j]udicial
+exposition . . . only when necessary to decide definite
+issues between litigants”). The reasoning of this Court
+with respect to the disposition of this case is set forth in
+this opinion and none other. And the sum of the standing
+principles articulated here, as applied to this case, is that
+the harm asserted by the plaintiffs is best understood as
+arising from a burden on those plaintiffs’ own votes. In
+this gerrymandering context that burden arises through a
+voter’s placement in a “cracked” or “packed” district.
+                                 C
+  Four of the plaintiffs in this case—Mary Lynne
+Donohue, Wendy Sue Johnson, Janet Mitchell, and Je­
+rome Wallace—pleaded a particularized burden along
+such lines. They alleged that Act 43 had “dilut[ed] the
+influence” of their votes as a result of packing or cracking
+in their legislative districts. See 1 App. 34–36, Complaint
+¶¶20, 23, 24, 26. The facts necessary to establish stand­
+ing, however, must not only be alleged at the pleading
+stage, but also proved at trial. See Defenders of Wildlife,
+504 U. S., at 561. As the proceedings in the District Court
+progressed to trial, the plaintiffs failed to meaningfully
+pursue their allegations of individual harm. The plaintiffs
+did not seek to show such requisite harm since, on this
+record, it appears that not a single plaintiff sought to
+prove that he or she lives in a cracked or packed district.
+They instead rested their case at trial—and their argu­
+ments before this Court—on their theory of statewide
+injury to Wisconsin Democrats, in support of which they
+offered three kinds of evidence.
+
+
+18                      GILL v. WHITFORD
+                        Opinion of the Court
+   First, the plaintiffs presented the testimony of the lead
+plaintiff, Professor Whitford. But Whitford’s testimony
+does not support any claim of packing or cracking of him­
+self as a voter. Indeed, Whitford expressly acknowledged
+that Act 43 did not affect the weight of his vote. 147 Rec­
+ord 37. His testimony points merely to his hope of achiev­
+ing a Democratic majority in the legislature—what the
+plaintiffs describe here as their shared interest in the
+composition of “the legislature as a whole.” Brief for Ap­
+pellees 32. Under our cases to date, that is a collective
+political interest, not an individual legal interest, and the
+Court must be cautious that it does not become “a forum
+for generalized grievances.” Lance, 549 U. S., at 439, 441.
+   Second, the plaintiffs provided evidence regarding the
+mapmakers’ deliberations as they drew district lines. As
+the District Court recounted, the plaintiffs’ evidence
+showed that the mapmakers “test[ed] the partisan
+makeup and performance of districts as they might be
+configured in different ways.” 218 F. Supp. 3d, at 891.
+Each of the mapmakers’ alternative configurations came
+with a table that listed the number of “Safe” and “Lean”
+seats for each party, as well as “Swing” seats. Ibid. The
+mapmakers also labeled certain districts as ones in which
+“GOP seats [would be] strengthened a lot,” id., at 893; 2
+App. 344, or which would result in “Statistical Pick Ups”
+for Republicans. 218 F. Supp. 3d, at 893 (alterations
+omitted). And they identified still other districts in which
+“GOP seats [would be] strengthened a little,” “weakened a
+little,” or were “likely lost.” Ibid.
+   The District Court relied upon this evidence in conclud­
+ing that, “from the outset of the redistricting process, the
+drafters sought to understand the partisan effect of the
+maps they were drawing.” Id., at 895. That evidence may
+well be pertinent with respect to any ultimate determina­
+tion whether the plaintiffs may prevail in their claims
+against the defendants, assuming such claims present a
+
+
+                  Cite as: 585 U. S. ____ (2018)           19
+                       Opinion of the Court
+justiciable controversy. But the question at this point is
+whether the plaintiffs have established injury in fact.
+That turns on effect, not intent, and requires a showing of
+a burden on the plaintiffs’ votes that is “actual or immi­
+nent, not ‘conjectural’ or ‘hypothetical.’ ” Defenders of
+Wildlife, 504 U. S., at 560.
+  Third, the plaintiffs offered evidence concerning the
+impact that Act 43 had in skewing Wisconsin’s statewide
+political map in favor of Republicans. This evidence,
+which made up the heart of the plaintiffs’ case, was de­
+rived from partisan-asymmetry studies similar to those
+discussed in LULAC. The plaintiffs contend that these
+studies measure deviations from “partisan symmetry,”
+which they describe as the “social scientific tenet that
+[districting] maps should treat parties symmetrically.”
+Brief for Appellees 37. In the District Court, the plaintiffs’
+case rested largely on a particular measure of partisan
+asymmetry—the “efficiency gap” of wasted votes. See
+supra, at 3–4. That measure was first developed in two
+academic articles published shortly before the initiation of
+this lawsuit. See Stephanopoulos & McGhee, Partisan
+Gerrymandering and the Efficiency Gap, 82 U. Chi.
+L. Rev. 831 (2015); McGhee, Measuring Partisan Bias in
+Single-Member District Electoral Systems, 39 Leg. Studies
+Q. 55 (2014).
+  The plaintiffs asserted in their complaint that the “effi­
+ciency gap captures in a single number all of a district
+plan’s cracking and packing.” 1 App. 28–29, Complaint ¶5
+(emphasis deleted). That number is calculated by sub­
+tracting the statewide sum of one party’s wasted votes
+from the statewide sum of the other party’s wasted votes
+and dividing the result by the statewide sum of all votes
+cast, where “wasted votes” are defined as all votes cast for
+a losing candidate and all votes cast for a winning candi­
+date beyond the 50% plus one that ensures victory. See
+Brief for Eric McGhee as Amicus Curiae 6, and n. 3. The
+
+
+20                     GILL v. WHITFORD
+                       Opinion of the Court
+larger the number produced by that calculation, the greater
+the asymmetry between the parties in their efficiency in
+converting votes into legislative seats. Though they take
+no firm position on the matter, the plaintiffs have suggested
+that an efficiency gap in the range of 7% to 10% should
+trigger constitutional scrutiny. See Brief for Appellees
+52–53, and n. 17.
+   The plaintiffs and their amici curiae promise us that the
+efficiency gap and similar measures of partisan asym­
+metry will allow the federal courts—armed with just “a
+pencil and paper or a hand calculator”—to finally solve the
+problem of partisan gerrymandering that has confounded
+the Court for decades. Brief for Heather K. Gerken et al.
+as Amici Curiae 27 (citing Wang, Let Math Save Our
+Democracy, N. Y. Times, Dec. 5, 2015). We need not doubt
+the plaintiffs’ math. The difficulty for standing purposes
+is that these calculations are an average measure. They
+do not address the effect that a gerrymander has on the
+votes of particular citizens. Partisan-asymmetry metrics
+such as the efficiency gap measure something else en-
+tirely: the effect that a gerrymander has on the fortunes of
+political parties.
+   Consider the situation of Professor Whitford, who lives
+in District 76, where, defendants contend, Democrats are
+“naturally” packed due to their geographic concentration,
+with that of plaintiff Mary Lynne Donohue, who lives in
+Assembly District 26 in Sheboygan, where Democrats like
+her have allegedly been deliberately cracked. By all ac­
+counts, Act 43 has not affected Whitford’s individual vote
+for his Assembly representative—even plaintiffs’ own
+demonstration map resulted in a virtually identical dis­
+trict for him. Donohue, on the other hand, alleges that Act
+43 burdened her individual vote. Yet neither the effi-
+ciency gap nor the other measures of partisan asymmetry
+offered by the plaintiffs are capable of telling the differ­
+ence between what Act 43 did to Whitford and what it did
+
+
+                    Cite as: 585 U. S. ____ (2018)          21
+                         Opinion of the Court
+to Donohue. The single statewide measure of partisan
+advantage delivered by the efficiency gap treats Whitford
+and Donohue as indistinguishable, even though their
+individual situations are quite different.
+   That shortcoming confirms the fundamental problem
+with the plaintiffs’ case as presented on this record. It is a
+case about group political interests, not individual legal
+rights. But this Court is not responsible for vindicating
+generalized partisan preferences. The Court’s constitu­
+tionally prescribed role is to vindicate the individual rights
+of the people appearing before it.
+                                 III
+   In cases where a plaintiff fails to demonstrate Article III
+standing, we usually direct the dismissal of the plaintiff ’s
+claims. See, e.g., DaimlerChrysler Corp. v. Cuno, 547 U. S.
+332, 354 (2006). This is not the usual case. It concerns an
+unsettled kind of claim this Court has not agreed upon,
+the contours and justiciability of which are unresolved.
+Under the circumstances, and in light of the plaintiffs’
+allegations that Donohue, Johnson, Mitchell, and Wallace
+live in districts where Democrats like them have been
+packed or cracked, we decline to direct dismissal.
+   We therefore remand the case to the District Court so
+that the plaintiffs may have an opportunity to prove con­
+crete and particularized injuries using evidence—unlike
+the bulk of the evidence presented thus far—that would
+tend to demonstrate a burden on their individual votes.
+Cf. Alabama Legislative Black Caucus, 575 U. S., at ___
+(slip op., at 8) (remanding for further consideration of the
+plaintiffs’ gerrymandering claims on a district-by-district
+basis). We express no view on the merits of the plaintiffs’
+case. We caution, however, that “standing is not dis­
+pensed in gross”: A plaintiff ’s remedy must be tailored to
+redress the plaintiff ’s particular injury. Cuno, 547 U. S.,
+at 353.
+
+
+22                  GILL v. WHITFORD
+                    Opinion of the Court
+   The judgment of the District Court is vacated, and the
+case is remanded for further proceedings consistent with
+this opinion.
+                                          It is so ordered.
+
+
+                   Cite as: 585 U. S. ____ (2018)           1
+                       KAGAN, J., concurring
+SUPREME COURT OF THE UNITED STATES
+                            _________________
+                            No. 16–1161
+                            _________________
+        BEVERLY R. GILL, ET AL., APPELLANTS v.
+               WILLIAM WHITFORD, ET AL.
+ ON APPEAL FROM THE UNITED STATES DISTRICT COURT FOR
+            THE WESTERN DISTRICT OF WISCONSIN
+                          [June 18, 2018]
+   JUSTICE    KAGAN, with whom JUSTICE GINSBURG,
+JUSTICE BREYER, and JUSTICE SOTOMAYOR join,
+concurring.
+   The Court holds today that a plaintiff asserting a parti­
+san gerrymandering claim based on a theory of vote dilu­
+tion must prove that she lives in a packed or cracked
+district in order to establish standing. See ante, at 14–17.
+The Court also holds that none of the plaintiffs here have
+yet made that required showing. See ante, at 17.
+   I agree with both conclusions, and with the Court’s
+decision to remand this case to allow the plaintiffs to prove
+that they live in packed or cracked districts, see ante, at
+21. I write to address in more detail what kind of evidence
+the present plaintiffs (or any additional ones) must offer to
+support that allegation. And I write to make some obser­
+vations about what would happen if they succeed in prov­
+ing standing—that is, about how their vote dilution case
+could then proceed on the merits. The key point is that
+the case could go forward in much the same way it did
+below: Given the charges of statewide packing and crack­
+ing, affecting a slew of districts and residents, the chal­
+lengers could make use of statewide evidence and seek a
+statewide remedy.
+   I also write separately because I think the plaintiffs
+may have wanted to do more than present a vote dilution
+
+
+2                     GILL v. WHITFORD
+                      KAGAN, J., concurring
+theory. Partisan gerrymandering no doubt burdens indi­
+vidual votes, but it also causes other harms. And at some
+points in this litigation, the plaintiffs complained of a
+different injury—an infringement of their First Amend­
+ment right of association. The Court rightly does not
+address that alternative argument: The plaintiffs did not
+advance it with sufficient clarity or concreteness to make
+it a real part of the case. But because on remand they
+may well develop the associational theory, I address the
+standing requirement that would then apply. As I’ll ex­
+plain, a plaintiff presenting such a theory would not need
+to show that her particular voting district was packed or
+cracked for standing purposes because that fact would
+bear no connection to her substantive claim. Indeed,
+everything about the litigation of that claim—from stand­
+ing on down to remedy—would be statewide in nature.
+   Partisan gerrymandering, as this Court has recognized,
+is “incompatible with democratic principles.” Arizona
+State Legislature v. Arizona Independent Redistricting
+Comm’n, 576 U. S. ___, ___ (2015) (slip op., at 1) (quoting
+Vieth v. Jubelirer, 541 U. S. 267, 292 (2004) (plurality
+opinion); alterations omitted). More effectively every day,
+that practice enables politicians to entrench themselves in
+power against the people’s will. And only the courts can
+do anything to remedy the problem, because gerrymanders
+benefit those who control the political branches. None of
+those facts gives judges any excuse to disregard Article
+III’s demands. The Court is right to say they were not met
+here. But partisan gerrymandering injures enough indi­
+viduals and organizations in enough concrete ways
+to ensure that standing requirements, properly applied,
+will not often or long prevent courts from reaching the
+merits of cases like this one. Or from insisting, when
+they do, that partisan officials stop degrading the nation’s
+democracy.
+
+
+                  Cite as: 585 U. S. ____ (2018)            3
+                      KAGAN, J., concurring
+                                I
+   As the Court explains, the plaintiffs’ theory in this case
+focuses on vote dilution. See ante, at 15 (“Here, the plain­
+tiffs’ partisan gerrymandering claims turn on allegations
+that their votes have been diluted”); see also ante, at 14,
+16–17. That is, the plaintiffs assert that Wisconsin’s State
+Assembly Map has caused their votes “to carry less weight
+than [they] would carry in another, hypothetical district.”
+Ante, at 16. And the mechanism used to wreak that harm
+is “packing” and “cracking.” Ante, at 14. In a relatively
+few districts, the mapmakers packed supermajorities of
+Democratic voters—well beyond the number needed for a
+Democratic candidate to prevail. And in many more dis­
+tricts, dispersed throughout the State, the mapmakers
+cracked Democratic voters—spreading them sufficiently
+thin to prevent them from electing their preferred candi­
+dates. The result of both practices is to “waste” Demo­
+crats’ votes. Ibid.
+   The harm of vote dilution, as this Court has long stated,
+is “individual and personal in nature.” Reynolds v. Sims,
+377 U. S. 533, 561 (1964); see ante, at 15. It arises when
+an election practice—most commonly, the drawing of
+district lines—devalues one citizen’s vote as compared to
+others. Of course, such practices invariably affect more
+than one citizen at a time. For example, our original one-
+person, one-vote cases considered how malapportioned
+maps “contract[ed] the value” of urban citizens’ votes
+while “expand[ing]” the value of rural citizens’ votes.
+Wesberry v. Sanders, 376 U. S. 1, 7 (1964). But we under­
+stood the injury as giving diminished weight to each par­
+ticular vote, even if millions were so touched. In such
+cases, a voter living in an overpopulated district suffered
+“disadvantage to [herself] as [an] individual[ ]”: Her vote
+counted for less than the votes of other citizens in her
+State. Baker v. Carr, 369 U. S. 186, 206 (1962); see ante,
+at 15. And that kind of disadvantage is what a plaintiff
+
+
+4                     GILL v. WHITFORD
+                      KAGAN, J., concurring
+asserting a vote dilution claim—in the one-person, one-
+vote context or any other—always alleges.
+   To have standing to bring a partisan gerrymandering
+claim based on vote dilution, then, a plaintiff must prove
+that the value of her own vote has been “contract[ed].”
+Wesberry, 376 U. S., at 7. And that entails showing, as the
+Court holds, that she lives in a district that has been
+either packed or cracked. See ante, at 17. For packing
+and cracking are the ways in which a partisan gerryman­
+der dilutes votes. Cf. Voinovich v. Quilter, 507 U. S. 146,
+153–154 (1993) (explaining that packing or cracking can
+also support racial vote dilution claims). Consider the
+perfect form of each variety. When a voter resides in a
+packed district, her preferred candidate will win no matter
+what; when a voter lives in a cracked district, her chosen
+candidate stands no chance of prevailing. But either way,
+such a citizen’s vote carries less weight—has less conse­
+quence—than it would under a neutrally drawn map. See
+ante, at 14, 16. So when she shows that her district has
+been packed or cracked, she proves, as she must to estab­
+lish standing, that she is “among the injured.” Lujan v.
+Defenders of Wildlife, 504 U. S. 555, 563 (1992) (quoting
+Sierra Club v. Morton, 405 U. S. 727, 735 (1972)); see ante,
+at 17.
+   In many partisan gerrymandering cases, that threshold
+showing will not be hard to make. Among other ways of
+proving packing or cracking, a plaintiff could produce an
+alternative map (or set of alternative maps)—comparably
+consistent with traditional districting principles—under
+which her vote would carry more weight. Cf. Ante, at 20
+(suggesting how an alternative map may shed light on
+vote dilution or its absence); Easley v. Cromartie, 532 U. S.
+234, 258 (2001) (discussing the use of alternative maps as
+evidence in a racial gerrymandering case); Cooper v. Har-
+ris, 581 U. S. ___, ___–___ (2017) (slip op., at 28–34)
+(same); Brief for Political Geography Scholars as Amici
+
+
+                   Cite as: 585 U. S. ____ (2018)          5
+                       KAGAN, J., concurring
+Curiae 12–14 (describing computer simulation techniques
+for devising alternative maps). For example, a Democratic
+plaintiff living in a 75%-Democratic district could prove
+she was packed by presenting a different map, drawn
+without a focus on partisan advantage, that would place
+her in a 60%-Democratic district. Or conversely, a Demo­
+cratic plaintiff residing in a 35%-Democratic district could
+prove she was cracked by offering an alternative, neutrally
+drawn map putting her in a 50–50 district. The precise
+numbers are of no import. The point is that the plaintiff
+can show, through drawing alternative district lines, that
+partisan-based packing or cracking diluted her vote.
+   Here, the Court is right that the plaintiffs have so far
+failed to make such a showing. See ante, at 17–20. Wil­
+liam Whitford was the only plaintiff to testify at trial
+about the alleged gerrymander’s effects. He expressly
+acknowledged that his district would be materially identi­
+cal under any conceivable map, whether or not drawn to
+achieve partisan advantage. See ante, at 18, 20. That
+means Wisconsin’s plan could not have diluted Whitford’s
+own vote. So whatever other claims he might have, see
+infra, at 8–9, Whitford is not “among the injured” in a vote
+dilution challenge. Lujan, 504 U. S., at 563 (quoting
+Sierra Club, 405 U. S., at 735). Four other plaintiffs
+differed from Whitford by alleging in the complaint that
+they lived in packed or cracked districts. But for whatever
+reason, they failed to back up those allegations with evi­
+dence as the suit proceeded. See ante, at 17. So they too
+did not show the injury—a less valuable vote—central to
+their vote dilution theory.
+   That problem, however, may be readily fixable. The
+Court properly remands this case to the District Court “so
+that the plaintiffs may have an opportunity” to “demon­
+strate a burden on their individual votes.” Ante, at 21.
+That means the plaintiffs—both the four who initially
+made those assertions and any others (current or newly
+
+
+6                     GILL v. WHITFORD
+                      KAGAN, J., concurring
+joined)—now can introduce evidence that their individual
+districts were packed or cracked. And if the plaintiffs’
+more general charges have a basis in fact, that evidence
+may well be at hand. Recall that the plaintiffs here al­
+leged—and the District Court found, see 218 F. Supp. 3d
+837, 896 (WD Wis. 2016)—that a unified Republican gov­
+ernment set out to ensure that Republicans would control
+as many State Assembly seats as possible over a decade
+(five consecutive election cycles). To that end, the gov­
+ernment allegedly packed and cracked Democrats
+throughout the State, not just in a particular district (see,
+e.g., Benisek v. Lamone, No. 17–333) or region. Assuming
+that is true, the plaintiffs should have a mass of packing
+and cracking proof, which they can now also present in
+district-by-district form to support their standing. In
+other words, a plaintiff residing in each affected district
+can show, through an alternative map or other evidence,
+that packing or cracking indeed occurred there. And if (or
+to the extent) that test is met, the court can proceed to
+decide all distinctive merits issues and award appropriate
+remedies.
+   When the court addresses those merits questions, it can
+consider statewide (as well as local) evidence. Of course,
+the court below and others like it are currently debating,
+without guidance from this Court, what elements make up
+a vote dilution claim in the partisan gerrymandering
+context. But assume that the plaintiffs must prove illicit
+partisan intent—a purpose to dilute Democrats’ votes in
+drawing district lines. The plaintiffs could then offer
+evidence about the mapmakers’ goals in formulating the
+entire statewide map (which would predictably carry down
+to individual districting decisions). So, for example, the
+plaintiffs here introduced proof that the mapmakers
+looked to partisan voting data when drawing districts
+throughout the State—and that they graded draft maps
+according to the amount of advantage those maps con­
+
+
+                   Cite as: 585 U. S. ____ (2018)           7
+                       KAGAN, J., concurring
+ferred on Republicans. See 218 F. Supp. 3d, at 890–896.
+This Court has explicitly recognized the relevance of such
+statewide evidence in addressing racial gerrymandering
+claims of a district-specific nature. “Voters,” we held, “of
+course[ ] can present statewide evidence in order to prove
+racial gerrymandering in a particular district.” Alabama
+Legislative Black Caucus v. Alabama, 575 U. S. ___, ___
+(2015) (slip op., at 7). And in particular, “[s]uch evidence
+is perfectly relevant” to showing that mapmakers had an
+invidious “motive” in drawing the lines of “multiple dis­
+tricts in the State.” Id., at ___ (slip op., at 10). The same
+should be true for partisan gerrymandering.
+   Similarly, cases like this one might warrant a statewide
+remedy. Suppose that mapmakers pack or crack a critical
+mass of State Assembly districts all across the State to
+elect as many Republican politicians as possible. And
+suppose plaintiffs residing in those districts prevail in a
+suit challenging that gerrymander on a vote dilution
+theory. The plaintiffs might then receive exactly the relief
+sought in this case. To be sure, remedying each plaintiff ’s
+vote dilution injury “requires revising only such districts
+as are necessary to reshape [that plaintiff ’s] district—so
+that the [plaintiff] may be unpacked or uncracked, as the
+case may be.” Ante, at 16. But with enough plaintiffs
+joined together—attacking all the packed and cracked
+districts in a statewide gerrymander—those obligatory
+revisions could amount to a wholesale restructuring of the
+State’s districting plan. The Court recognizes as much. It
+states that a proper remedy in a vote dilution case “does
+not necessarily require restructuring all of the State’s
+legislative districts.” Ibid. (emphasis added). Not neces­
+sarily—but possibly. It all depends on how much redis­
+tricting is needed to cure all the packing and cracking that
+the mapmakers have done.
+
+
+8                      GILL v. WHITFORD
+                      KAGAN, J., concurring
+                               II
+   Everything said so far relates only to suits alleging that
+a partisan gerrymander dilutes individual votes. That is
+the way the Court sees this litigation. See ante, at 14–17.
+And as I’ll discuss, that is the most reasonable view. See
+infra, at 10–11. But partisan gerrymanders inflict other
+kinds of constitutional harm as well. Among those inju­
+ries, partisan gerrymanders may infringe the First
+Amendment rights of association held by parties, other
+political organizations, and their members. The plaintiffs
+here have sometimes pointed to that kind of harm. To the
+extent they meant to do so, and choose to do so on remand,
+their associational claim would occasion a different stand­
+ing inquiry than the one in the Court’s opinion.
+   JUSTICE KENNEDY explained the First Amendment
+associational injury deriving from a partisan gerrymander
+in his concurring opinion in Vieth, 541 U. S. 267. “Repre­
+sentative democracy,” JUSTICE KENNEDY pointed out, is
+today “unimaginable without the ability of citizens to band
+together” to advance their political beliefs. Id., at 314
+(opinion concurring in judgment) (quoting California
+Democratic Party v. Jones, 530 U. S. 567, 574 (2000)).
+That means significant “First Amendment concerns arise”
+when a State purposely “subject[s] a group of voters or
+their party to disfavored treatment.” 541 U. S., at 314.
+Such action “burden[s] a group of voters’ representational
+rights.” Ibid.; see id., at 315 (similarly describing the
+“burden[] on a disfavored party and its voters” and the
+“burden [on] a group’s representational rights”). And it
+does so because of their “political association,” “participa­
+tion in the electoral process,” “voting history,” or “expres­
+sion of political views.” Id., at 314–315.
+   As so formulated, the associational harm of a partisan
+gerrymander is distinct from vote dilution. Consider an
+active member of the Democratic Party in Wisconsin who
+resides in a district that a partisan gerrymander has left
+
+
+                   Cite as: 585 U. S. ____ (2018)           9
+                       KAGAN, J., concurring
+untouched (neither packed nor cracked). His individual
+vote carries no less weight than it did before. But if the
+gerrymander ravaged the party he works to support, then
+he indeed suffers harm, as do all other involved members
+of that party. This is the kind of “burden” to “a group of
+voters’ representational rights” JUSTICE KENNEDY spoke
+of. Id., at 314. Members of the “disfavored party” in the
+State, id., at 315, deprived of their natural political
+strength by a partisan gerrymander, may face difficulties
+fundraising, registering voters, attracting volunteers,
+generating support from independents, and recruiting
+candidates to run for office (not to mention eventually
+accomplishing their policy objectives). See Anderson v.
+Celebrezze, 460 U. S. 780, 791–792, and n. 12 (1983) (con­
+cluding that similar harms inflicted by a state election law
+amounted to a “burden imposed on . . . associational
+rights”). And what is true for party members may be
+doubly true for party officials and triply true for the party
+itself (or for related organizations). Cf. California Demo-
+cratic Party, 530 U. S., at 586 (holding that a state law
+violated state political parties’ First Amendment rights of
+association). By placing a state party at an enduring
+electoral disadvantage, the gerrymander weakens its
+capacity to perform all its functions.
+   And if that is the essence of the harm alleged, then the
+standing analysis should differ from the one the Court
+applies. Standing, we have long held, “turns on the nature
+and source of the claim asserted.” Warth v. Seldin, 422
+U. S. 490, 500 (1975). Indeed, that idea lies at the root of
+today’s opinion. It is because the Court views the harm
+alleged as vote dilution that it (rightly) insists that each
+plaintiff show packing or cracking in her own district to
+establish her standing. See ante, at 14–17; supra, at 3–4.
+But when the harm alleged is not district specific, the
+proof needed for standing should not be district specific
+either. And the associational injury flowing from a
+
+
+10                    GILL v. WHITFORD
+                      KAGAN, J., concurring
+statewide partisan gerrymander, whether alleged by a
+party member or the party itself, has nothing to do with
+the packing or cracking of any single district’s lines. The
+complaint in such a case is instead that the gerrymander
+has burdened the ability of like-minded people across the
+State to affiliate in a political party and carry out that
+organization’s activities and objects. See supra, at 8–9.
+Because a plaintiff can have that complaint without living
+in a packed or cracked district, she need not show what
+the Court demands today for a vote dilution claim. Or
+said otherwise: Because on this alternative theory, the
+valued association and the injury to it are statewide, so too
+is the relevant standing requirement.
+   On occasion, the plaintiffs here have indicated that they
+have an associational claim in mind. In addition to re­
+peatedly alleging vote dilution, their complaint asserted in
+general terms that Wisconsin’s districting plan infringes
+their “First Amendment right to freely associate with each
+other without discrimination by the State based on that
+association.” 1 App. 61, Complaint ¶91. Similarly, the
+plaintiffs noted before this Court that “[b]eyond diluting
+votes, partisan gerrymandering offends First Amendment
+values by penalizing citizens because of . . . their associa­
+tion with a political party.” Brief for Appellees 36 (inter­
+nal quotation marks omitted). And finally, the plaintiffs’
+evidence of partisan asymmetry well fits a suit alleging
+associational injury (although, as noted below, that was
+not how it was used, see infra, at 11). As the Court points
+out, what those statistical metrics best measure is a ger­
+rymander’s effect “on the fortunes of political parties” and
+those associated with them. Ante, at 20.
+   In the end, though, I think the plaintiffs did not suffi­
+ciently advance a First Amendment associational theory to
+avoid the Court’s holding on standing. Despite referring
+to that theory in their complaint, the plaintiffs tried this
+case as though it were about vote dilution alone. Their
+
+
+                  Cite as: 585 U. S. ____ (2018)           11
+                      KAGAN, J., concurring
+testimony and other evidence went toward establishing
+the effects of rampant packing and cracking on the value
+of individual citizens’ votes. Even their proof of partisan
+asymmetry was used for that purpose—although as noted
+above, it could easily have supported the alternative the-
+ory of associational harm, see supra, at 10. The plaintiffs
+joining in this suit do not include the State Democratic
+Party (or any related statewide organization). They did
+not emphasize their membership in that party, or their
+activities supporting it. And they did not speak to any
+tangible associational burdens—ways the gerrymander
+had debilitated their party or weakened its ability to carry
+out its core functions and purposes, see supra, at 8–9.
+Even in this Court, when disputing the State’s argument
+that they lacked standing, the plaintiffs reiterated their
+suit’s core theory: that the gerrymander “intentionally,
+severely, durably, and unjustifiably dilutes Democratic
+votes.” Brief for Appellees 29–30. Given that theory, the
+plaintiffs needed to show that their own votes were indeed
+diluted in order to establish standing.
+    But nothing in the Court’s opinion prevents the plain­
+tiffs on remand from pursuing an associational claim, or
+from satisfying the different standing requirement that
+theory would entail. The Court’s opinion is about a suit
+challenging a partisan gerrymander on a particular
+ground—that it dilutes the votes of individual citizens.
+That opinion “leave[s] for another day consideration of
+other possible theories of harm not presented here and
+whether those theories might present justiciable claims
+giving rise to statewide remedies.” Ante, at 16. And in
+particular, it leaves for another day the theory of harm
+advanced by JUSTICE KENNEDY in Vieth: that a partisan
+gerrymander interferes with the vital “ability of citizens to
+band together” to further their political beliefs. 541 U. S.,
+at 314 (quoting California Democratic Party, 530 U. S., at
+574). Nothing about that injury is “generalized” or “ab­
+
+
+12                    GILL v. WHITFORD
+                      KAGAN, J., concurring
+stract,” as the Court says is true of the plaintiffs’ dissatis­
+faction with the “overall composition of the legislature.”
+Ante, at 16. A suit raising an associational theory com­
+plains of concrete “burdens on a disfavored party” and its
+members as they pursue their political interests and goals.
+Vieth, 541 U. S., at 315 (opinion of KENNEDY, J.); see
+supra, at 8–9. And when the suit alleges that a gerry­
+mander has imposed those burdens on a statewide basis,
+then its litigation should be statewide too—as to standing,
+liability, and remedy alike.
+                              III
+   Partisan gerrymandering jeopardizes “[t]he ordered
+working of our Republic, and of the democratic process.”
+Vieth, 541 U. S., at 316 (opinion of KENNEDY, J.). It en-
+ables a party that happens to be in power at the right time
+to entrench itself there for a decade or more, no matter
+what the voters would prefer. At its most extreme, the
+practice amounts to “rigging elections.” Id., at 317 (inter­
+nal quotation marks omitted). It thus violates the most
+fundamental of all democratic principles—that “the voters
+should choose their representatives, not the other way
+around.” Arizona State Legislature, 576 U. S., at ___ (slip
+op., at 35) (quoting Berman, Managing Gerrymandering,
+83 Texas L. Rev. 781 (2005)).
+   And the evils of gerrymandering seep into the legisla­
+tive process itself. Among the amicus briefs in this case
+are two from bipartisan groups of congressional members
+and state legislators. They know that both parties gerry­
+mander. And they know the consequences. The congres­
+sional brief describes a “cascade of negative results” from
+excessive partisan gerrymandering: indifference to swing
+voters and their views; extreme political positioning de­
+signed to placate the party’s base and fend off primary
+challenges; the devaluing of negotiation and compromise;
+and the impossibility of reaching pragmatic, bipartisan
+
+
+                   Cite as: 585 U. S. ____ (2018)           13
+                       KAGAN, J., concurring
+solutions to the nation’s problems. Brief for Bipartisan
+Group of Current and Former Members of Congress as
+Amici Curiae 4; see id., at 10–23. The state legislators tell
+a similar story. In their view, partisan gerrymandering
+has “sounded the death-knell of bipartisanship,” creating a
+legislative environment that is “toxic” and “tribal[ ].” Brief
+for Bipartisan Group of 65 Current and Former State
+Legislators as Amici Curiae 6, 25.
+   I doubt James Madison would have been surprised.
+What, he asked when championing the Constitution,
+would make the House of Representatives work? The
+House must be structured, he answered, to instill in its
+members “an habitual recollection of their dependence on
+the people.” The Federalist No. 57, p. 352 (C. Rossiter ed.
+1961). Legislators must be “compelled to anticipate the
+moment” when their “exercise of [power] is to be re­
+viewed.” Ibid. When that moment does not come—when
+legislators can entrench themselves in office despite the
+people’s will—the foundation of effective democratic gov­
+ernance dissolves.
+   And our history offers little comfort. Yes, partisan
+gerrymandering goes back to the Republic’s earliest days;
+and yes, American democracy has survived. But technol­
+ogy makes today’s gerrymandering altogether different
+from the crude linedrawing of the past. New redistricting
+software enables pinpoint precision in designing districts.
+With such tools, mapmakers can capture every last bit of
+partisan advantage, while still meeting traditional dis­
+tricting requirements (compactness, contiguity, and the
+like). See Brief for Political Science Professors as Amici
+Curiae 28. Gerrymanders have thus become ever more
+extreme and durable, insulating officeholders against all
+but the most titanic shifts in the political tides. The 2010
+redistricting cycle produced some of the worst partisan
+gerrymanders on record. Id., at 3. The technology will
+only get better, so the 2020 cycle will only get worse.
+
+
+14                    GILL v. WHITFORD
+                     KAGAN, J., concurring
+   Courts have a critical role to play in curbing partisan
+gerrymandering. Over fifty years ago, we committed to
+providing judicial review in the redistricting arena, be­
+cause we understood that “a denial of constitutionally
+protected rights demands judicial protection.” Reynolds,
+377 U. S., at 566. Indeed, the need for judicial review is at
+its most urgent in these cases. For here, politicians’ incen­
+tives conflict with voters’ interests, leaving citizens with­
+out any political remedy for their constitutional harms. Of
+course, their dire need provides no warrant for courts to
+disregard Article III. Because of the way this suit was
+litigated, I agree that the plaintiffs have so far failed to
+establish their standing to sue, and I fully concur in the
+Court’s opinion. But of one thing we may unfortunately be
+sure. Courts—and in particular this Court—will again be
+called on to redress extreme partisan gerrymanders. I am
+hopeful we will then step up to our responsibility to vindi­
+cate the Constitution against a contrary law.
+
+
+                  Cite as: 585 U. S. ____ (2018)            1
+                      Opinion of THOMAS, J.
+SUPREME COURT OF THE UNITED STATES
+                           _________________
+                           No. 16–1161
+                           _________________
+       BEVERLY R. GILL, ET AL., APPELLANTS v.
+               WILLIAM WHITFORD, ET AL.
+ ON APPEAL FROM THE UNITED STATES DISTRICT COURT FOR
+           THE WESTERN DISTRICT OF WISCONSIN
+                         [June 18, 2018]
+  JUSTICE THOMAS, with whom JUSTICE GORSUCH joins,
+concurring in part and concurring in the judgment.
+  I join Parts I and II of the Court’s opinion because I
+agree that the plaintiffs have failed to prove Article III
+standing. I do not join Part III, which gives the plaintiffs
+another chance to prove their standing on remand. When
+a plaintiff lacks standing, our ordinary practice is to re-
+mand the case with instructions to dismiss for lack of
+jurisdiction. E.g., Lance v. Coffman, 549 U. S. 437, 442
+(2007) (per curiam); DaimlerChrysler Corp. v. Cuno, 547
+U. S. 332, 354 (2006); United States v. Hays, 515 U. S. 737,
+747 (1995). The Court departs from our usual practice
+because this is supposedly “not the usual case.” Ante, at
+21. But there is nothing unusual about it. As the Court
+explains, the plaintiffs’ lack of standing follows from long-
+established principles of law. See ante, at 13–17. After a
+year and a half of litigation in the District Court, includ-
+ing a 4-day trial, the plaintiffs had a more-than-ample
+opportunity to prove their standing under these principles.
+They failed to do so. Accordingly, I would have remanded
+this case with instructions to dismiss.

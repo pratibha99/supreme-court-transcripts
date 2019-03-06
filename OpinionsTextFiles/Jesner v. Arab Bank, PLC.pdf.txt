@@ -1,0 +1,3620 @@
+(Slip Opinion)                OCTOBER TERM, 2017                                    1
+                                         Syllabus
+          NOTE: Where it is feasible, a syllabus (headnote) will be released, as is
+        being done in connection with this case, at the time the opinion is issued.
+        The syllabus constitutes no part of the opinion of the Court but has been
+        prepared by the Reporter of Decisions for the convenience of the reader.
+        See United States v. Detroit Timber & Lumber Co., 200 U. S. 321, 337.
+SUPREME COURT OF THE UNITED STATES
+                                         Syllabus
+                 JESNER ET AL. v. ARAB BANK, PLC
+ CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR
+                              THE SECOND CIRCUIT
+      No. 16–499.      Argued October 11, 2017—Decided April 24, 2018
+Petitioners filed suits under the Alien Tort Statute (ATS), alleging that
+   they, or the persons on whose behalf they assert claims, were injured
+   or killed by terrorist acts committed abroad, and that those acts were
+   in part caused or facilitated by respondent Arab Bank, PLC, a Jorda-
+   nian financial institution with a branch in New York. They seek to
+   impose liability on the bank for the conduct of its human agents, in-
+   cluding high-ranking bank officials. They claim that the bank used
+   its New York branch to clear dollar-denominated transactions that
+   benefited terrorists through the Clearing House Interbank Payments
+   System (CHIPS) and to launder money for a Texas-based charity al-
+   legedly affiliated with Hamas. While the litigation was pending, this
+   Court held, in Kiobel v. Royal Dutch Petroleum Co., 569 U. S. 108,
+   that the ATS does not extend to suits against foreign corporations
+   when “all the relevant conduct took place outside the United States,”
+   id., at 124, but it left unresolved the Second Circuit’s broader holding
+   in its Kiobel decision: that foreign corporations may not be sued un-
+   der the ATS. Deeming that broader holding binding precedent, the
+   District Court dismissed petitioners’ ATS claims and the Second Cir-
+   cuit affirmed.
+Held: The judgment is affirmed.
+808 F. 3d 144, affirmed.
+      JUSTICE KENNEDY delivered the opinion of the Court with respect to
+   Parts I, II–B–1, and II–C, concluding that foreign corporations may
+   not be defendants in suits brought under the ATS. Pp. 6–11, 18–19,
+   and 25–27.
+      (a) The Judiciary Act of 1789 included what is now known as the
+   ATS, which provides: “The district courts shall have original jurisdic-
+   tion of any civil action by an alien for a tort only, committed in viola-
+
+
+2                     JESNER v. ARAB BANK, PLC
+                                  Syllabus
+  tion of the law of nations or a treaty of the United States.” 28
+  U. S. C. §1350. The ATS is “strictly jurisdictional” and does not by its
+  own terms provide or delineate the definition of a cause of action for
+  international-law violations. Sosa v. Alvarez-Machain, 542 U. S. 692,
+  713–714. It was enacted against the backdrop of the general common
+  law, which in 1789 recognized a limited category of “torts in violation
+  of the law of nations,” id., at 714; and one of its principal objectives
+  was to avoid foreign entanglements by ensuring the availability of a
+  federal forum where the failure to have one might cause another na-
+  tion to hold the United States responsible for an injury to a foreign
+  citizen, see id., at 715–719. The ATS was invoked but a few times
+  over its first 190 years, but with the evolving recognition—e.g., in the
+  Nuremberg trials—that certain crimes against humanity violate
+  basic precepts of international law, courts began to give some redress
+  for violations of clear and unambiguous international human-rights
+  protections. After the Second Circuit first permitted plaintiffs to
+  bring ATS actions based on modern human-rights laws, Congress en-
+  acted the Torture Victim Protection Act of 1991 (TVPA), creating an
+  express cause of action for victims of torture and extrajudicial killing
+  in violation of international law. ATS suits became more frequent;
+  and modern ATS litigation has the potential to involve groups of for-
+  eign plaintiffs suing foreign corporations in the United States for al-
+  leged human-rights violations in other nations. In Sosa, the Court
+  held that in certain narrow circumstances courts may recognize a
+  common-law cause of action for claims based on the present-day law
+  of nations, 542 U. S., at 732, but it explicitly held that ATS litigation
+  implicates serious separation-of-powers and foreign-relations con-
+  cerns, id., at 727–728. The Court subsequently held in Kiobel that
+  “the presumption against extraterritoriality applies to [ATS] claims,”
+  569 U. S., at 124, and that even claims that “touch and concern the
+  territory of the United States . . . must do so with sufficient force to
+  displace” that presumption, id., at 124–125. Pp. 6–11.
+     (b) Sosa is consistent with this Court’s general reluctance to extend
+  judicially created private rights of action. Recent precedents cast
+  doubt on courts’ authority to extend or create private causes of action,
+  even in the realm of domestic law, rather than leaving such decisions
+  to the Legislature, which is better positioned “to consider if the public
+  interest would be served by imposing a new substantive legal liabil-
+  ity,” Ziglar v. Abbasi, 582 U. S. ___, ___ (internal quotation marks
+  omitted). This caution extends to the question whether the courts
+  should exercise the judicial authority to mandate a rule imposing lia-
+  bility upon artificial entities like corporations. Thus, in Correctional
+  Services Corp. v. Malesko, 534 U. S. 61, 72, the Court concluded that
+  Congress, not the courts, should decide whether corporate defendants
+
+
+                     Cite as: 584 U. S. ____ (2018)                      3
+                                Syllabus
+could be held liable in actions under Bivens v. Six Unknown Fed.
+Narcotics Agents, 403 U. S. 388.
+   Neither the language of the ATS nor precedent supports an excep-
+tion to these general principles in this context. Separation-of-powers
+concerns that counsel against courts creating private rights of action
+apply with particular force in the context of the ATS, which impli-
+cates foreign-policy concerns that are the province of the political
+branches. And courts must exercise “great caution” before recogniz-
+ing new forms of liability under the ATS. Sosa, supra, at 728. The
+question whether a proper application of Sosa would preclude courts
+from ever recognizing new ATS causes of action need not be decided
+here, for either way it would be inappropriate for courts to extend
+ATS liability to foreign corporations absent further action from Con-
+gress. Pp. 18–19.
+   (c) The ATS was intended to promote harmony in international re-
+lations by ensuring foreign plaintiffs a remedy for international-law
+violations when the absence of such a remedy might provoke foreign
+nations to hold the United States accountable. But here, and in simi-
+lar cases, the opposite is occurring. Petitioners are foreign nationals
+seeking millions of dollars in damages from a major Jordanian finan-
+cial institution for injuries suffered in attacks by foreign terrorists in
+the Middle East. The only alleged connections to the United States
+are the CHIPS transactions in Arab Bank’s New York branch and a
+brief allegation about a charity in Texas. At a minimum, the rela-
+tively minor connection between the terrorist attacks and the alleged
+conduct in the United States illustrates the perils of extending the
+scope of ATS liability to foreign multinational corporations like Arab
+Bank.
+   For 13 years, this litigation has caused considerable diplomatic
+tensions with Jordan, a critical ally that considers the litigation an
+affront to its sovereignty. And this is not the first time that a foreign
+sovereign has raised objections to ATS litigation in this Court. See
+Sosa, supra, at 733, n. 21. These are the very foreign-relations ten-
+sions the First Congress sought to avoid.
+   Nor are the courts well suited to make the required policy judg-
+ments implicated by foreign corporate liability. Like the presumption
+against extraterritoriality, judicial caution under Sosa “guards
+against our courts triggering . . . serious foreign policy consequences,
+and instead defers such decisions, quite appropriately, to the political
+branches.” Kiobel, supra, at 124. Accordingly, the Court holds that
+foreign corporations may not be defendants in suits brought under
+the ATS. Pp. 25–27.
+   JUSTICE KENNEDY, joined by THE CHIEF JUSTICE and JUSTICE THOM-
+AS, concluded in Parts II–A, II–B–2, II–B–3, and III:
+
+
+4                      JESNER v. ARAB BANK, PLC
+                                  Syllabus
+     (a) Before recognizing an ATS common-law action, federal courts
+  must apply the two-part test announced in Sosa. The threshold
+  question is whether a plaintiff can demonstrate that the alleged vio-
+  lation is “ ‘of a norm that is specific, universal, and obligatory.’ ” 542
+  U. S., at 732. Assuming that such a norm can control, it must be de-
+  termined whether allowing the case to proceed under the ATS is a
+  proper exercise of judicial discretion or whether caution requires the
+  political branches to grant specific authority before corporate liability
+  can be imposed. Id., at 732–733, and nn. 20–21. With regard to the
+  first Sosa question, the Court need not resolve whether corporate lia-
+  bility is a question governed by international law or whether that law
+  imposes liability on corporations, because, as shown by the parties’
+  opposing arguments, there is at least sufficient doubt on the point to
+  turn to Sosa’s second question: whether the Judiciary must defer to
+  Congress to determine in the first instance whether that universal
+  norm has been recognized and, if so, whether it should be enforced in
+  ATS suits. Pp. 11–18.
+     (b) Especially here, in the realm of international law, it is im-
+  portant to look to analogous statutes for guidance on the appropriate
+  boundaries of judge-made causes of action. The logical statutory
+  analogy for an ATS common-law action is the TVPA—the only ATS
+  cause of action created by Congress rather than the courts. Drafted
+  as “an unambiguous and modern basis for [an ATS] cause of action,”
+  H. R. Rep. No. 102–367, p. 3, the TVPA reflects Congress’ considered
+  judgment of the proper structure for such an action. Absent a com-
+  pelling justification, courts should not deviate from that model. Rel-
+  evant here, the TVPA limits liability to “individuals,” a term which
+  unambiguously limits liability to natural persons, Mohamad v. Pales-
+  tinian Authority, 566 U. S. 449, 453–456. Congress’ decision to ex-
+  clude liability for corporations in TVPA actions is all but dispositive
+  in this case. Pp. 19–23.
+     (c) Other considerations relevant to the exercise of judicial discre-
+  tion also counsel against allowing liability under the ATS for foreign
+  corporations, absent congressional instructions. Corporate liability
+  under the ATS has not been shown to be essential to serving that
+  statute’s goals, the ATS will seldom be the only way for plaintiffs to
+  hold the perpetrators liable, and plaintiffs still can sue the individual
+  corporate employees responsible for a violation of international law
+  under the ATS. That the corporate form can be an instrument for in-
+  flicting grave harm and suffering poses serious and complex ques-
+  tions for the international community and for Congress. And this
+  complexity makes it all the more important that Congress determine
+  whether victims of human-rights abuses may sue foreign corpora-
+  tions in federal court. Pp. 23–25.
+
+
+                     Cite as: 584 U. S. ____ (2018)                    5
+                                Syllabus
+   (d) In making its determination, Congress might decide that viola-
+tions of international law do, or should, impose that liability to en-
+sure that corporations make every effort to deter human-rights viola-
+tions, and so that compensation for injured persons will be a cost of
+doing business. Or Congress could conclude that neutral judicial
+safeguards may not be ensured in every country and that, as a recip-
+rocal matter, ATS liability for foreign corporations should be subject
+to some limitations or preconditions. Finally, Congress might find
+that corporate liability should be limited to cases where a corpora-
+tion’s management was actively complicit in the crime. Pp. 27–29.
+   JUSTICE ALITO concluded that the outcome in this case is justified
+not only by “judicial caution” but also by the separation of powers.
+Assuming that Sosa v. Alvarez-Machain, 542 U. S. 692, correctly held
+that federal courts, exercising their authority in limited circumstanc-
+es to make federal common law, may create causes of action under
+the ATS, this Court should not create such causes of action against
+foreign corporate defendants. The objective for courts in any case re-
+quiring the creation of federal common law must be “to find the rule
+that will best effectuate the federal policy.” Textile Workers v. Lin-
+coln Mills of Ala., 353 U. S. 448, 457. The First Congress enacted the
+ATS to help the United States avoid diplomatic friction. Putting that
+objective together with the rules governing federal common law gen-
+erally, the following principle emerges: Federal courts should decline
+to create federal common law causes of action whenever doing so
+would not materially advance the ATS’s objective of avoiding diplo-
+matic strife. Applying that principle here, it is clear that courts
+should not create causes of action under the ATS against foreign cor-
+porate defendants. Customary international law does not generally
+require corporate liability, so declining to create it under the ATS
+cannot give other nations just cause for complaint against the United
+States. To the contrary, creating causes of action against foreign cor-
+porations under the ATS may instead provoke exactly the sort of dip-
+lomatic strife inimical to the statute’s fundamental purpose. Pp. 1–7.
+   JUSTICE GORSUCH concluded that there are two more fundamental
+reasons why this lawsuit should be dismissed. Pp. 1–14.
+   (a) This Court has suggested that Congress originally enacted the
+ATS to afford federal courts jurisdiction to hear tort claims related to
+three violations of international law that were already embodied in
+English common law: violations of safe conducts extended to aliens,
+interference with ambassadors, and piracy. Sosa v. Alvarez-Machain,
+542 U. S. 692, 715. Here, the plaintiffs seek much more. They want
+the federal courts to recognize a new cause of action, one that did not
+exist at the time of the statute’s adoption, one that Congress has nev-
+er authorized. They find support in a passage suggesting that the
+
+
+6                     JESNER v. ARAB BANK, PLC
+                                 Syllabus
+  ATS may afford federal judges “discretion [to] conside[r] [creating]
+  new cause[s] of action” if they “rest on a norm of international char-
+  acter accepted by the civilized world and defined with a specificity
+  comparable to the features of the [three specified] 18th-century”
+  torts. Id., at 725. This is doubtful, for the people’s elected represent-
+  atives, not judges, make the laws that govern them. But even accept-
+  ing Sosa’s framework, a proper application of that framework would
+  preclude courts from recognizing any new causes of action under the
+  ATS. When courts are confronted with a request to fashion a new
+  cause of action, “separation-of-powers principles are or should be cen-
+  tral to the analysis.” Ziglar v. Abbasi, 582 U. S. ___, ___. The first
+  and most important question is whether Congress or the courts
+  should decide, and the right answer “most often will be Congress.”
+  Ibid. There is no reason to make a special exception for the ATS,
+  which was designed as “a jurisdictional statute creating no new caus-
+  es of action.” Sosa, 542 U. S., at 724. The context in which any Sosa
+  discretion would be exercised confirms the wisdom of restraint. The
+  “practical consequences” that might follow a decision to create a new
+  ATS cause of action, see id., at 732–733, would likely involve ques-
+  tions of foreign affairs and national security—matters implicating the
+  expertise and authority not of the Judiciary but of the political
+  branches. Pp. 2–5.
+     (b) Another independent problem is that this suit is by foreigners
+  against a foreigner over the meaning of international norms. The
+  original understanding of the ATS, which was but one clause in one
+  section of the Judiciary Act of 1789, likely would have required a do-
+  mestic defendant in order to comply with the requirements of the Di-
+  versity-of-Citizenship Clause of Article III. Precedent interpreting a
+  neighboring provision of the Judiciary Act confirms that conclusion.
+  See Mossman v. Higginson, 4 Dall. 12, 14. In any event, separation-
+  of-powers limits on the judicial function and deference to the political
+  branches should lead federal courts to require a domestic defendant
+  before agreeing to exercise any Sosa-generated discretion to entertain
+  an ATS suit. Pp. 5–14.
+  KENNEDY, J., announced the judgment of the Court and delivered the
+opinion of the Court with respect to Parts I, II–B–1, and II–C, in which
+ROBERTS, C. J., and THOMAS, ALITO, and GORSUCH, JJ., joined, and an
+opinion with respect to Parts II–A, II–B–2, II–B–3, and III, in which
+ROBERTS, C. J., and THOMAS, J., joined. THOMAS, J., filed a concurring
+opinion. ALITO, J., and GORSUCH, J., filed opinions concurring in part
+and concurring in the judgment. SOTOMAYOR, J., filed a dissenting
+opinion, in which GINSBURG, BREYER, and KAGAN, JJ., joined.
+
+
+                        Cite as: 584 U. S. ____ (2018)                            1
+                              Opinion of the Court
+     NOTICE: This opinion is subject to formal revision before publication in the
+     preliminary print of the United States Reports. Readers are requested to
+     notify the Reporter of Decisions, Supreme Court of the United States, Wash-
+     ington, D. C. 20543, of any typographical or other formal errors, in order
+     that corrections may be made before the preliminary print goes to press.
+SUPREME COURT OF THE UNITED STATES
+                                    _________________
+                                     No. 16–499
+                                    _________________
+        JOSEPH JESNER, ET AL., PETITIONERS v.
+                             ARAB BANK, PLC
+  ON WRIT OF CERTIORARI TO THE UNITED STATES COURT OF
+                 APPEALS FOR THE SECOND CIRCUIT
+                                  [April 24, 2018]
+   JUSTICE KENNEDY announced the judgment of the Court
+and delivered the opinion of the Court with respect to
+Parts I, II–B–1, and II–C, and an opinion with respect to
+Parts II–A, II–B–2, II–B–3, and III, in which THE CHIEF
+JUSTICE and JUSTICE THOMAS join.
+   Petitioners in this case, or the persons on whose behalf
+petitioners now assert claims, allegedly were injured or
+killed by terrorist acts committed abroad. Those terrorist
+acts, it is contended, were in part caused or facilitated by a
+foreign corporation. Petitioners now seek to impose liabil-
+ity on the foreign corporation for the conduct of its human
+agents, including its then-chairman and other high-
+ranking management officials. The suits were filed in a
+United States District Court under the Alien Tort Statute,
+commonly referred to as the ATS. See 28 U. S. C. §1350.
+   The foreign corporation charged with liability in these
+ATS suits is Arab Bank, PLC; and it is respondent here.
+Some of Arab Bank’s officials, it is alleged, allowed the
+Bank to be used to transfer funds to terrorist groups in the
+Middle East, which in turn enabled or facilitated criminal
+acts of terrorism, causing the deaths or injuries for which
+
+
+2                 JESNER v. ARAB BANK, PLC
+                      Opinion of the Court
+petitioners now seek compensation. Petitioners seek to
+prove Arab Bank helped the terrorists receive the moneys
+in part by means of currency clearances and bank transac-
+tions passing through its New York City offices, all by
+means of electronic transfers.
+   It is assumed here that those individuals who inflicted
+death or injury by terrorism committed crimes in violation
+of well-settled, fundamental precepts of international law,
+precepts essential for basic human-rights protections. It is
+assumed as well that individuals who knowingly and
+purposefully facilitated banking transactions to aid, en-
+able, or facilitate the terrorist acts would themselves be
+committing crimes under the same international-law
+prohibitions.
+   Petitioners contend that international and domestic
+laws impose responsibility and liability on a corporation if
+its human agents use the corporation to commit crimes in
+violation of international laws that protect human rights.
+The question here is whether the Judiciary has the au-
+thority, in an ATS action, to make that determination and
+then to enforce that liability in ATS suits, all without any
+explicit authorization from Congress to do so.
+   The answer turns upon the proper interpretation and
+implementation of the ATS. The statute provides: “The
+district courts shall have original jurisdiction of any civil
+action by an alien for a tort only, committed in violation of
+the law of nations or a treaty of the United States.” §1350.
+The Court must first ask whether the law of nations im-
+poses liability on corporations for human-rights violations
+committed by its employees. The Court must also ask
+whether it has authority and discretion in an ATS suit to
+impose liability on a corporation without a specific direc-
+tion from Congress to do so.
+
+
+                  Cite as: 584 U. S. ____ (2018)          3
+                       Opinion of the Court
+                                I
+                                A
+  Petitioners are plaintiffs in five ATS lawsuits filed
+against Arab Bank in the United States District Court for
+the Eastern District of New York. The suits were filed
+between 2004 and 2010.
+  A significant majority of the plaintiffs in these law-
+suits—about 6,000 of them—are foreign nationals whose
+claims arise under the ATS. These foreign nationals are
+petitioners here. They allege that they or their family
+members were injured by terrorist attacks in the Middle
+East over a 10-year period. Two of the five lawsuits also
+included claims brought by American nationals under the
+Anti-Terrorism Act, 18 U. S. C. §2333(a), but those claims
+are not at issue.
+  Arab Bank is a major Jordanian financial institution
+with branches throughout the world, including in New
+York. According to the Kingdom of Jordan, Arab Bank
+“accounts for between one-fifth and one-third of the total
+market capitalization of the Amman Stock Exchange.”
+Brief for Hashemite Kingdom of Jordan as Amicus Curiae
+2. Petitioners allege that Arab Bank helped finance at-
+tacks by Hamas and other terrorist groups. Among other
+claims, petitioners allege that Arab Bank maintained
+bank accounts for terrorists and their front groups and
+allowed the accounts to be used to pay the families of
+suicide bombers.
+  Most of petitioners’ allegations involve conduct that
+occurred in the Middle East. Yet petitioners allege as well
+that Arab Bank used its New York branch to clear dollar-
+denominated transactions through the Clearing House
+Interbank Payments System. That elaborate system is
+commonly referred to as CHIPS. It is alleged that some of
+these CHIPS transactions benefited terrorists.
+  Foreign banks often use dollar-clearing transactions to
+facilitate currency exchanges or to make payments in
+
+
+4                  JESNER v. ARAB BANK, PLC
+                       Opinion of the Court
+dollars from one foreign bank account to another. Arab
+Bank and certain amici point out that CHIPS transactions
+are enormous both in volume and in dollar amounts. The
+transactions occur predominantly in the United States but
+are used by major banks both in the United States and
+abroad. The CHIPS system is used for dollar-denominated
+transactions and for transactions where the dollar is used
+as an intermediate currency to facilitate a currency ex-
+change. Brief for Institute of International Bankers as
+Amicus Curiae 12–13, and n. 8. In New York each day, on
+average, about 440,000 of these transfers occur, in dollar
+amounts totaling about $1.5 trillion. Id., at 14. The
+“clearance activity is an entirely mechanical function; it
+occurs without human intervention in the proverbial ‘blink
+of an eye.’ ” Ibid. There seems to be no dispute that the
+speed and volume of these transactions are such that
+individual supervision is simply not a systemic reality. As
+noted below, substantial regulations govern these transac-
+tions, both in the United States and in Jordan.
+   In addition to the dollar-clearing transactions, petition-
+ers allege that Arab Bank’s New York branch was used to
+launder money for the Holy Land Foundation for Relief
+and Development (HLF), a Texas-based charity that peti-
+tioners say is affiliated with Hamas. According to peti-
+tioners, Arab Bank used its New York branch to facilitate
+the transfer of funds from HLF to the bank accounts of
+terrorist-affiliated charities in the Middle East.
+   During the pendency of this litigation, there was an
+unrelated case that also implicated the issue whether the
+ATS is applicable to suits in this country against foreign
+corporations. See Kiobel v. Royal Dutch Petroleum Co.,
+621 F. 3d 111 (CA2 2010). That suit worked its way
+through the trial court and the Court of Appeals for the
+Second Circuit. The Kiobel litigation did not involve bank-
+ing transactions. Its allegations were that holding compa-
+nies incorporated in the Netherlands and the United
+
+
+                   Cite as: 584 U. S. ____ (2018)           5
+                        Opinion of the Court
+Kingdom had, through a Nigerian subsidiary, aided and
+abetted the Nigerian Government in human-rights abuses.
+Id., at 123. In Kiobel, the Court of Appeals held that the
+ATS does not extend to suits against corporations. Id., at
+120. This Court granted certiorari in Kiobel. 565 U. S.
+961 (2011).
+   After additional briefing and reargument in Kiobel, this
+Court held that, given all the circumstances, the suit could
+not be maintained under the ATS. Kiobel v. Royal Dutch
+Petroleum Co., 569 U. S. 108, 114, 124–125 (2013). The
+rationale of the holding, however, was not that the ATS
+does not extend to suits against foreign corporations. That
+question was left unresolved. The Court ruled, instead,
+that “all the relevant conduct took place outside the United
+States.” Id., at 124. Dismissal of the action was required
+based on the presumption against extraterritorial applica-
+tion of statutes.
+   So while this Court in Kiobel affirmed the ruling that
+the action there could not be maintained, it did not ad-
+dress the broader holding of the Court of Appeals that
+dismissal was required because corporations may not be
+sued under the ATS. Still, the courts of the Second Circuit
+deemed that broader holding to be binding precedent. As
+a consequence, in the instant case the District Court dis-
+missed petitioners’ ATS claims based on the earlier Kiobel
+holding in the Court of Appeals; and on review of the
+dismissal order the Court of Appeals, also adhering to its
+earlier holding, affirmed. In re Arab Bank, PLC Alien Tort
+Statute Litigation, 808 F. 3d 144 (2015). This Court
+granted certiorari in the instant case. 581 U. S. ___
+(2017).
+   Since the Court of Appeals relied on its Kiobel holding in
+the instant case, it is instructive to begin with an analysis
+of that decision. The majority opinion in Kiobel, written
+by Judge Cabranes, held that the ATS does not apply to
+alleged international-law violations by a corporation. 621
+
+
+6                  JESNER v. ARAB BANK, PLC
+                       Opinion of the Court
+F. 3d, at 120. Judge Cabranes relied in large part on the
+fact that international criminal tribunals have consistently
+limited their jurisdiction to natural persons. Id., at 132–
+137.
+    Judge Leval filed a separate opinion. He concurred in
+the judgment on other grounds but disagreed with the
+proposition that the foreign corporation was not subject to
+suit under the ATS. Id., at 196. Judge Leval conceded
+that “international law, of its own force, imposes no liabili-
+ties on corporations or other private juridical entities.”
+Id., at 186. But he reasoned that corporate liability for
+violations of international law is an issue of “civil compen-
+satory liability” that international law leaves to individual
+nations. Ibid. Later decisions in the Courts of Appeals for
+the Seventh, Ninth, and District of Columbia Circuits
+agreed with Judge Leval and held that corporations can be
+subject to suit under the ATS. See Flomo v. Firestone Nat.
+Rubber Co., 643 F. 3d 1013, 1017–1021 (CA7 2011); Doe I
+v. Nestle USA, Inc., 766 F. 3d 1013, 1020–1022 (CA9
+2014); Doe VIII v. Exxon Mobil Corp., 654 F. 3d 11, 40–55
+(CADC 2011), vacated on other grounds, 527 Fed. Appx. 7
+(CADC 2013).         The respective opinions by Judges
+Cabranes and Leval are scholarly and extensive, providing
+significant guidance for this Court in the case now before
+it.
+    With this background, it is now proper to turn to the
+history of the ATS and the decisions interpreting it.
+                                B
+    Under the Articles of Confederation, the Continental
+Congress lacked authority to “ ‘cause infractions of trea-
+ties, or of the law of nations to be punished.’ ” Sosa v.
+Alvarez-Machain, 542 U. S. 692, 716 (2004) (quoting J.
+Madison, Journal of the Constitutional Convention 60 (E.
+Scott ed. 1893)). The Continental Congress urged the
+States to authorize suits for damages sustained by foreign
+
+
+                   Cite as: 584 U. S. ____ (2018)              7
+                        Opinion of the Court
+citizens as a result of violations of international law;
+but the state courts’ vindication of the law of nations
+remained unsatisfactory. Concerns with the consequent
+international-relations tensions “persisted through the
+time of the Constitutional Convention.” 542 U. S., at 717.
+   Under the Articles of Confederation, the inability of the
+central government to ensure adequate remedies for for-
+eign citizens caused substantial foreign-relations prob-
+lems. In 1784, the French Minister lodged a protest with
+the Continental Congress after a French adventurer, the
+Chevalier de Longchamps, assaulted the Secretary of the
+French Legation in Philadelphia. See Kiobel, 569 U. S., at
+120. A few years later, a New York constable caused an
+international incident when he entered the house of the
+Dutch Ambassador and arrested one of his servants. Ibid.
+Under the Articles of Confederation, there was no national
+forum available to resolve disputes like these under any
+binding laws that were or could be enacted or enforced by
+a central government.
+   The Framers addressed these matters at the 1787 Phil-
+adelphia Convention; and, as a result, Article III of the
+Constitution extends the federal judicial power to “all
+cases affecting ambassadors, other public ministers and
+consuls,” and “to controversies . . . between a state, or the
+citizens thereof, and foreign states, citizens, or subjects.”
+§2. The First Congress passed a statute to implement
+these provisions: The Judiciary Act of 1789 authorized
+federal jurisdiction over suits involving disputes between
+aliens and United States citizens and suits involving
+diplomats. §§9, 11, 1 Stat. 76–79.
+   The Judiciary Act also included what is now the statute
+known as the ATS. §9, id., at 76. As noted, the ATS is
+central to this case and its brief text bears repeating. Its
+full text is: “The district courts shall have original jurisdic-
+tion of any civil action by an alien for a tort only, commit-
+ted in violation of the law of nations or a treaty of the
+
+
+8                  JESNER v. ARAB BANK, PLC
+                       Opinion of the Court
+United States.” 28 U. S. C. §1350.
+   The ATS is “strictly jurisdictional” and does not by its
+own terms provide or delineate the definition of a cause of
+action for violations of international law. Sosa, 542 U. S.,
+at 713–714. But the statute was not enacted to sit on a
+shelf awaiting further legislation. Id., at 714. Rather,
+Congress enacted it against the backdrop of the general
+common law, which in 1789 recognized a limited category
+of “torts in violation of the law of nations.” Ibid.
+   In the 18th century, international law primarily gov-
+erned relationships between and among nation-states, but
+in a few instances it governed individual conduct occurring
+outside national borders (for example, “disputes relating to
+prizes, to shipwrecks, to hostages, and ransom bills”). Id.,
+at 714–715 (internal quotation marks omitted). There
+was, furthermore, a narrow domain in which “rules bind-
+ing individuals for the benefit of other individuals over-
+lapped with” the rules governing the relationships be-
+tween nation-states. Id., at 715. As understood by
+Blackstone, this domain included “three specific offenses
+against the law of nations addressed by the criminal law
+of England: violation of safe conducts, infringement of the
+rights of ambassadors, and piracy.” Ibid. (citing 4 W.
+Blackstone, Commentaries on the Laws of England 68
+(1769)). “It was this narrow set of violations of the law of
+nations, admitting of a judicial remedy and at the same
+time threatening serious consequences in international
+affairs, that was probably on the minds of the men who
+drafted the ATS.” 542 U. S., at 715.
+   This history teaches that Congress drafted the ATS “to
+furnish jurisdiction for a relatively modest set of actions
+alleging violations of the law of nations.” Id., at 720. The
+principal objective of the statute, when first enacted, was
+to avoid foreign entanglements by ensuring the availabil-
+ity of a federal forum where the failure to provide one
+might cause another nation to hold the United States
+
+
+                   Cite as: 584 U. S. ____ (2018)          9
+                        Opinion of the Court
+responsible for an injury to a foreign citizen. See id., at
+715–719; Kiobel, 569 U. S., at 123–124.
+   Over the first 190 years or so after its enactment, the
+ATS was invoked but a few times. Yet with the evolving
+recognition—for instance, in the Nuremberg trials after
+World War II—that certain acts constituting crimes
+against humanity are in violation of basic precepts of
+international law, courts began to give some redress for
+violations of international human-rights protections that
+are clear and unambiguous. In the modern era this began
+with the decision of the Court of Appeals for the Second
+Circuit in Filartiga v. Pena-Irala, 630 F. 2d 876 (1980).
+   In Filartiga, it was alleged that a young man had been
+tortured and murdered by Paraguayan police officers, and
+that an officer named Pena-Irala was one of the supervi-
+sors and perpetrators. Some members of the victim’s
+family were in the United States on visas. When they
+discovered that Pena-Irala himself was living in New
+York, they filed suit against him. The action, seeking
+damages for the suffering and death he allegedly had
+caused, was filed in the United States District Court for
+the Eastern District of New York. The Court of Appeals
+found that there was jurisdiction under the ATS. For this
+holding it relied upon the universal acknowledgment that
+acts of official torture are contrary to the law of nations.
+Id., at 890. This Court did not review that decision.
+   In the midst of debates in the courts of appeals over
+whether the court in Filartiga was correct in holding that
+plaintiffs could bring ATS actions based on modern human-
+rights laws absent an express cause of action created
+by an additional statute, Congress enacted the Torture
+Victim Protection Act of 1991 (TVPA), 106 Stat. 73, note
+following 28 U. S. C. §1350. H. R. Rep. No. 102–367,
+pp. 3–4 (1991) (H. R. Rep.) (citing Tel-Oren v. Libyan Arab
+Republic, 726 F. 2d 774 (CADC 1984)); S. Rep. No. 102–
+249, pp. 3–5 (1991) (S. Rep.) (same). The TVPA—which is
+
+
+10                 JESNER v. ARAB BANK, PLC
+                       Opinion of the Court
+codified as a note following the ATS—creates an express
+cause of action for victims of torture and extrajudicial
+killing in violation of international law.
+   After Filartiga and the TVPA, ATS lawsuits became
+more frequent. Modern ATS litigation has the potential to
+involve large groups of foreign plaintiffs suing foreign
+corporations in the United States for alleged human-rights
+violations in other nations. For example, in Kiobel the
+plaintiffs were Nigerian nationals who sued Dutch, Brit-
+ish, and Nigerian corporations for alleged crimes in Nige-
+ria. 569 U. S., at 111–112. The extent and scope of this
+litigation in United States courts have resulted in criti-
+cism here and abroad. See id., at 124 (noting objections to
+ATS litigation by Canada, Germany, Indonesia, Papua
+New Guinea, South Africa, Switzerland, and the United
+Kingdom).
+   In Sosa, the Court considered the question whether
+courts may recognize new, enforceable international
+norms in ATS lawsuits. 542 U. S., at 730–731. The Sosa
+Court acknowledged the decisions made in Filartiga and
+similar cases; and it held that in certain narrow circum-
+stances courts may recognize a common-law cause of
+action for claims based on the present-day law of nations,
+in addition to the “historical paradigms familiar when
+§1350 was enacted.” 542 U. S., at 732. The Court was
+quite explicit, however, in holding that ATS litigation
+implicates serious separation-of-powers and foreign-
+relations concerns. Id., at 727–728. Thus, ATS claims
+must be “subject to vigilant doorkeeping.” Id., at 729.
+   This Court next addressed the ATS in Kiobel, the case
+already noted. There, this Court held that “the presump-
+tion against extraterritoriality applies to claims under the
+ATS, and that nothing in the statute rebuts the presump-
+tion.” 569 U. S., at 124. The Court added that “even
+where the claims touch and concern the territory of the
+United States, they must do so with sufficient force to
+
+
+                   Cite as: 584 U. S. ____ (2018)           11
+                        OpinionofofKthe
+                      Opinion           Court
+                                     ENNEDY, J.
+displace the presumption against extraterritorial applica-
+tion.” Id., at 124–125.
+                                  II
+   With these principles in mind, this Court now must
+decide whether common-law liability under the ATS ex-
+tends to a foreign corporate defendant. It could be argued,
+under the Court’s holding in Kiobel, that even if, under
+accepted principles of international law and federal com-
+mon law, corporations are subject to ATS liability for
+human-rights crimes committed by their human agents, in
+this case the activities of the defendant corporation and
+the alleged actions of its employees have insufficient
+connections to the United States to subject it to jurisdic-
+tion under the ATS. Various amici urge this as a rationale
+to affirm here, while the Government argues that the
+Court should remand this case so the Court of Appeals can
+address the issue in the first instance. There are substan-
+tial arguments on both sides of that question; but it is not
+the question on which this Court granted certiorari, nor is
+it the question that has divided the Courts of Appeals.
+   The question whether foreign corporations are subject to
+liability under the ATS should be addressed; for, if there is
+no liability for Arab Bank, the lengthy and costly litigation
+concerning whether corporate contacts like those alleged
+here suffice to impose liability would be pointless. In
+addition, a remand to the Court of Appeals would require
+prolonging litigation that already has caused significant
+diplomatic tensions with Jordan for more than a decade.
+So it is proper for this Court to decide whether corpora-
+tions, or at least foreign corporations, are subject to liabil-
+ity in an ATS suit filed in a United States district court.
+   Before recognizing a common-law action under the ATS,
+federal courts must apply the test announced in Sosa. An
+initial, threshold question is whether a plaintiff can
+demonstrate that the alleged violation is “of a norm that is
+
+
+12                JESNER v. ARAB BANK, PLC
+                       OpinionofofKthe
+                      Opinion          Court
+                                   ENNEDY , J.
+specific, universal, and obligatory.” 542 U. S., at 732
+(internal quotation marks omitted). And even assuming
+that, under international law, there is a specific norm that
+can be controlling, it must be determined further whether
+allowing this case to proceed under the ATS is a proper
+exercise of judicial discretion, or instead whether caution
+requires the political branches to grant specific authority
+before corporate liability can be imposed. See id., at 732–
+733, and nn. 20–21. “[T]he potential implications for the
+foreign relations of the United States of recognizing such
+causes should make courts particularly wary of impinging
+on the discretion of the Legislative and           Executive
+Branches in managing foreign affairs.” Id., at 727.
+   It must be said that some of the considerations that
+pertain to determining whether there is a specific, univer-
+sal, and obligatory norm that is established under interna-
+tional law are applicable as well in determining whether
+deference must be given to the political branches. For
+instance, the fact that the charters of some international
+tribunals and the provisions of some congressional stat-
+utes addressing international human-rights violations are
+specifically limited to individual wrongdoers, and thus
+foreclose corporate liability, has significant bearing both
+on the content of the norm being asserted and the question
+whether courts should defer to Congress. The two inquir-
+ies inform each other and are, to that extent, not altogether
+discrete.
+   With that introduction, it is proper now to turn first to
+the question whether there is an international-law norm
+imposing liability on corporations for acts of their employ-
+ees that contravene fundamental human rights.
+                                 A
+   Petitioners and Arab Bank disagree as to whether cor-
+porate liability is a question of international law or only a
+question of judicial authority and discretion under domes-
+
+
+                    Cite as: 584 U. S. ____ (2018)          13
+                         OpinionofofKthe
+                       Opinion           Court
+                                     ENNEDY , J.
+tic law. The dispute centers on a footnote in Sosa. In the
+course of holding that international norms must be “suffi-
+ciently definite to support a cause of action,” the Court in
+Sosa noted that a “related consideration is whether inter-
+national law extends the scope of liability for a violation of
+a given norm to the perpetrator being sued, if the defend-
+ant is a private actor such as a corporation or individual.”
+Id., at 732, and n. 20.
+   In the Court of Appeals’ decision in Kiobel, the majority
+opinion by Judge Cabranes interpreted footnote 20 to
+mean that corporate defendants may be held liable under
+the ATS only if there is a specific, universal, and obligatory
+norm that corporations are liable for violations of interna-
+tional law. 621 F. 3d, at 127. In Judge Cabranes’ view,
+“[i]nternational law is not silent on the question of the
+subjects of international law—that is, those that, to vary-
+ing extents, have legal status, personality, rights, and
+duties under international law,” “[n]or does international
+law leave to individual States the responsibility of defin-
+ing those subjects.” Id., at 126 (internal quotation marks
+omitted). There is considerable force and weight to the
+position articulated by Judge Cabranes. And, assuming
+the Court of Appeals was correct that under Sosa corpo-
+rate liability is a question of international law, there is an
+equally strong argument that petitioners cannot satisfy
+the high bar of demonstrating a specific, universal, and
+obligatory norm of liability for corporations. Indeed,
+Judge Leval agreed with the conclusion that international
+law does “not provide for any form of liability of corpora-
+tions.” Kiobel, 621 F. 3d, at 186.
+                                   1
+   In modern times, there is no doubt, of course, that “the
+international community has come to recognize the com-
+mon danger posed by the flagrant disregard of basic hu-
+man rights,” leading “the nations of the world to recognize
+
+
+14                JESNER v. ARAB BANK, PLC
+                      OpinionofofKthe
+                     Opinion          Court
+                                  ENNEDY , J.
+that respect for fundamental human rights is in their
+individual and collective interest.” Filartiga, 630 F. 2d, at
+890. That principle and commitment support the conclu-
+sion that human-rights norms must bind the individual
+men and women responsible for committing humanity’s
+most terrible crimes, not just nation-states in their inter-
+actions with one another. “The singular achievement of
+international law since the Second World War has come in
+the area of human rights,” where international law now
+imposes duties on individuals as well as nation-states.
+Kiobel, 621 F. 3d, at 118.
+   It does not follow, however, that current principles of
+international law extend liability—civil or criminal—for
+human-rights violations to corporations or other artificial
+entities. This is confirmed by the fact that the charters of
+respective international criminal tribunals often exclude
+corporations from their jurisdictional reach.
+   The Charter for the Nuremberg Tribunal, created by the
+Allies after World War II, provided that the Tribunal had
+jurisdiction over natural persons only. See Agreement for
+Prosecution and Punishment of Major War Criminals of
+the European Axis, Art. 6, Aug. 8, 1945, 59 Stat. 1547,
+E. A. S. 472. Later, a United States Military Tribunal
+prosecuted 24 executives of the German corporation IG
+Farben. 7 Trials of War Criminals Before the Nuernberg
+Military Tribunals Under Control Council Law No. 10,
+pp. 11–60 (1952) (The Farben Case). Among other crimes,
+Farben’s employees had operated a slave-labor camp at
+Auschwitz and “knowingly and intentionally manufac-
+tured and provided” the poison gas used in the Nazi death
+chambers. Kiobel, 621 F. 3d, at 135. Although the Mili-
+tary Tribunal “used the term ‘Farben’ as descriptive of the
+instrumentality of cohesion in the name of which” the
+crimes were committed, the Tribunal noted that “corpora-
+tions act through individuals.” 8 The Farben Case, at
+1153. Farben itself was not held liable. See ibid.
+
+
+                   Cite as: 584 U. S. ____ (2018)           15
+                        OpinionofofKthe
+                      Opinion           Court
+                                    ENNEDY , J.
+   The jurisdictional reach of more recent international
+tribunals also has been limited to “natural persons.” See
+Statute of the International Criminal Tribunal for the
+Former Yugoslavia, S. C. Res. 827 (May 25, 1993), adopt-
+ing U. N. Secretary-General Rep. Pursuant to Paragraph 2
+of Security Council Resolution 808, Art. 6, U. N. Doc.
+S/25704 (May 3, 1993); Statute of the International Tribu-
+nal for Rwanda, Art. 5, S. C. Res. 955, Art. 5 (Nov. 8,
+1994). The Rome Statute of the International Criminal
+Court, for example, limits that tribunal’s jurisdiction to
+“natural persons.” See Rome Statute of the International
+Criminal Court, Art. 25(1), July 17, 1998, 2187 U. N. T. S.
+90. The drafters of the Rome Statute considered, but
+rejected, a proposal to give the International Criminal
+Court jurisdiction over corporations. Eser, Individual
+Criminal Responsibility, in 1 Rome Statute of the Interna-
+tional Criminal Court 767, 778–779 (A. Cassese et al. eds.
+2002).
+   The international community’s conscious decision to
+limit the authority of these international tribunals to
+natural persons counsels against a broad holding that
+there is a specific, universal, and obligatory norm of corpo-
+rate liability under currently prevailing international law.
+                                  2
+   In light of the sources just discussed, the sources peti-
+tioners rely on to support their contention that liability for
+corporations is well established as a matter of interna-
+tional law lend weak support to their position.
+   Petitioners first point to the International Convention
+for the Suppression of the Financing of Terrorism. This
+Convention imposes an obligation on “Each State Party”
+“to enable a legal entity located in its territory or orga-
+nized under its laws to be held liable when a person re-
+sponsible for the management or control of that legal
+entity has, in that capacity,” violated the Convention.
+
+
+16                 JESNER v. ARAB BANK, PLC
+                       OpinionofofKthe
+                      Opinion          Court
+                                   ENNEDY , J.
+International Convention for the Suppression of the Fi-
+nancing of Terrorism, Dec. 9, 1999, S. Treaty Doc. No.
+106–49, 2178 U. N. T. S. 232. But by its terms the Con-
+vention imposes its obligations only on nation-states “to
+enable” corporations to be held liable in certain circum-
+stances under domestic law. The United States and other
+nations, including Jordan, may fulfill their obligations
+under the Convention by adopting detailed regulatory
+regimes governing financial institutions. See, e.g., 18
+U. S. C. §2333(a) (private right of action under the Anti-
+Terrorism Act); 31 U. S. C. §5311 et seq. (Bank Secrecy
+Act); 31 CFR pt. 595 (2017) (Terrorism Sanctions Regula-
+tions); Brief for Central Bank of Jordan as Amicus Curiae
+5 (describing Jordan’s “comprehensive approach to pre-
+venting money laundering and terrorist financing”). The
+Convention neither requires nor authorizes courts, with-
+out congressional authorization, to displace those detailed
+regulatory regimes by allowing common-law actions under
+the ATS. And nothing in the Convention’s text requires
+signatories to hold corporations liable in common-law tort
+actions raising claims under international law.
+   In addition, petitioners and their amici cite a few cases
+from other nations and the Special Tribunal for Lebanon
+that, according to petitioners, are examples of corporations
+being held liable for violations of international law. E.g.,
+Brief for Petitioners 50–51. Yet even assuming that these
+cases are relevant examples, at most they demonstrate
+that corporate liability might be permissible under inter-
+national law in some circumstances. That falls far short of
+establishing a specific, universal, and obligatory norm of
+corporate liability.
+   It must be remembered that international law is distinct
+from domestic law in its domain as well as its objectives.
+International human-rights norms prohibit acts repug-
+nant to all civilized peoples—crimes like genocide, torture,
+and slavery, that make their perpetrators “enem[ies] of all
+
+
+                   Cite as: 584 U. S. ____ (2018)           17
+                        OpinionofofKthe
+                      Opinion           Court
+                                    ENNEDY , J.
+mankind.” Sosa, 542 U. S., at 732 (internal quotation
+marks omitted). In the American legal system, of course,
+corporations are often subject to liability for the conduct of
+their human employees, and so it may seem necessary and
+natural that corporate entities are liable for violations of
+international law under the ATS. It is true, furthermore,
+that the enormity of the offenses that can be committed
+against persons in violation of international human-rights
+protections can be cited to show that corporations should
+be subject to liability for the crimes of their human agents.
+But the international community has not yet taken that
+step, at least in the specific, universal, and obligatory
+manner required by Sosa. Indeed, there is precedent to
+the contrary in the statement during the Nuremberg
+proceedings that “[c]rimes against international law are
+committed by men, not by abstract entities, and only by
+punishing individuals who commit such crimes can the
+provisions of international law be enforced.” The Nurn-
+berg Trial, 6 F. R. D. 69, 110 (1946).
+   Petitioners also contend that international law leaves
+questions of remedies open for determination under do-
+mestic law. As they see it, corporate liability is a remedial
+consideration, not a substantive principle that must be
+supported by a universal and obligatory norm if it is to be
+implemented under the ATS. According to petitioners,
+footnote 20 in Sosa does no more than recognize the dis-
+tinction in international law between state and private
+actors. But, as just explained, there is a similar distinc-
+tion in international law between corporations and natu-
+ral persons. And it is far from obvious why the question
+whether corporations may be held liable for the interna-
+tional crimes of their employees is a mere question of
+remedy.
+   In any event, the Court need not resolve the questions
+whether corporate liability is a question that is governed
+by international law, or, if so, whether international law
+
+
+18                 JESNER v. ARAB BANK, PLC
+                       Opinion of the Court
+imposes liability on corporations. There is at least suffi-
+cient doubt on the point to turn to Sosa’s second ques-
+tion—whether the Judiciary must defer to Congress,
+allowing it to determine in the first instance whether that
+universal norm has been recognized and, if so, whether it
+is prudent and necessary to direct its enforcement in suits
+under the ATS.
+                                B
+                                1
+   Sosa is consistent with this Court’s general reluctance
+to extend judicially created private rights of action. The
+Court’s recent precedents cast doubt on the authority of
+courts to extend or create private causes of action even in
+the realm of domestic law, where this Court has “recently
+and repeatedly said that a decision to create a private
+right of action is one better left to legislative judgment in
+the great majority of cases.” 542 U. S., at 727 (citing Cor-
+rectional Services Corp. v. Malesko, 534 U. S. 61, 68 (2001);
+Alexander v. Sandoval, 532 U. S. 275, 286–287 (2001)).
+That is because “the Legislature is in the better position to
+consider if the public interest would be served by imposing
+a new substantive legal liability.” Ziglar v. Abbasi, 582
+U. S. ___, ___ (2017) (slip op., at 12) (internal quotation
+marks omitted). Thus, “if there are sound reasons to think
+Congress might doubt the efficacy or necessity of a dam-
+ages remedy, . . . courts must refrain from creating the
+remedy in order to respect the role of Congress.” Id., at
+___ (slip op., at 13).
+   This caution extends to the question whether the courts
+should exercise the judicial authority to mandate a rule
+that imposes liability upon artificial entities like corpora-
+tions. Thus, in Malesko the Court held that corporate
+defendants may not be held liable in Bivens actions. See
+Bivens v. Six Unknown Fed. Narcotics Agents, 403 U. S.
+388 (1971). Allowing corporate liability would have been a
+
+
+                    Cite as: 584 U. S. ____ (2018)          19
+                         OpinionofofKthe
+                       Opinion           Court
+                                     ENNEDY , J.
+“marked extension” of Bivens that was unnecessary to
+advance its purpose of holding individual officers respon-
+sible for “engaging in unconstitutional wrongdoing.”
+Malesko, 534 U. S., at 74. Whether corporate defendants
+should be subject to suit was “a question for Congress, not
+us, to decide.” Id., at 72.
+   Neither the language of the ATS nor the precedents
+interpreting it support an exception to these general prin-
+ciples in this context. In fact, the separation-of-powers
+concerns that counsel against courts creating private
+rights of action apply with particular force in the context
+of the ATS. See infra, at 25–26. The political branches,
+not the Judiciary, have the responsibility and institutional
+capacity to weigh foreign-policy concerns. See Kiobel, 569
+U. S., at 116–117. That the ATS implicates foreign rela-
+tions “is itself a reason for a high bar to new private causes
+of action for violating international law.” Sosa, supra,
+at 727.
+   In Sosa, the Court emphasized that federal courts must
+exercise “great caution” before recognizing new forms of
+liability under the ATS. 542 U. S., at 728. In light of the
+foreign-policy and separation-of-powers concerns inherent
+in ATS litigation, there is an argument that a proper
+application of Sosa would preclude courts from ever recog-
+nizing any new causes of action under the ATS. But the
+Court need not resolve that question in this case. Either
+way, absent further action from Congress it would be
+inappropriate for courts to extend ATS liability to foreign
+corporations.
+                                   2
+   Even in areas less fraught with foreign-policy conse-
+quences, the Court looks to analogous statutes for guid-
+ance on the appropriate boundaries of judge-made causes
+of action. See, e.g., Miles v. Apex Marine Corp., 498 U. S.
+19, 24 (1990); Blue Chip Stamps v. Manor Drug Stores,
+
+
+20                 JESNER v. ARAB BANK, PLC
+                        OpinionofofKthe
+                       Opinion          Court
+                                    ENNEDY , J.
+421 U. S. 723, 736 (1975). Doing so is even more im-
+portant in the realm of international law, where “the
+general practice has been to look for legislative guidance
+before exercising innovative authority over substantive
+law.” Sosa, supra, at 726.
+   Here, the logical place to look for a statutory analogy to
+an ATS common-law action is the TVPA—the only cause
+of action under the ATS created by Congress rather than
+the courts. As explained above, Congress drafted the
+TVPA to “establish an unambiguous and modern basis for
+a cause of action” under the ATS. H. R. Rep., at 3; S. Rep.,
+at 4–5. Congress took care to delineate the TVPA’s
+boundaries. In doing so, it could weigh the foreign-policy
+implications of its rule. Among other things, Congress
+specified who may be liable, created an exhaustion re-
+quirement, and established a limitations period. Kiobel,
+569 U. S., at 117. In Kiobel, the Court recognized that
+“[e]ach of these decisions carries with it significant foreign
+policy implications.” Ibid. The TVPA reflects Congress’
+considered judgment of the proper structure for a right of
+action under the ATS. Absent a compelling justification,
+courts should not deviate from that model.
+   The key feature of the TVPA for this case is that it
+limits liability to “individuals,” which, the Court has held,
+unambiguously limits liability to natural persons. Mo-
+hamad v. Palestinian Authority, 566 U. S. 449, 453–456
+(2012). Congress’ decision to exclude liability for corpora-
+tions in actions brought under the TVPA is all but disposi-
+tive of the present case. That decision illustrates that
+significant foreign-policy implications require the courts to
+draw a careful balance in defining the scope of actions
+under the ATS. It would be inconsistent with that balance
+to create a remedy broader than the one created by Con-
+gress. Indeed, it “would be remarkable to take a more
+aggressive role in exercising a jurisdiction that remained
+largely in shadow for much of the prior two centuries.”
+
+
+                   Cite as: 584 U. S. ____ (2018)         21
+                        OpinionofofKthe
+                      Opinion           Court
+                                    ENNEDY , J.
+Sosa, supra, at 726.
+   According to petitioners, the TVPA is not a useful
+guidepost because Congress limited liability under that
+statute to “individuals” out of concern for the sovereign
+immunity of foreign governmental entities, not out of
+general hesitation about corporate liability under the ATS.
+The argument seems to run as follows: The TVPA provides
+a right of action to victims of torture and extrajudicial
+killing, and under international law those human-rights
+violations require state action. For a corporation’s em-
+ployees to violate these norms therefore would require the
+corporation to be an instrumentality of a foreign state or
+other sovereign entity. That concern is absent, petitioners
+insist, for crimes that lack a state-action requirement—for
+example, genocide, slavery, or, in the present case, the
+financing of terrorists.
+   At least two flaws inhere in this argument. First, in
+Mohamad the Court unanimously rejected petitioners’
+account of the TVPA’s legislative history. 566 U. S., at
+453, 458–460. The Court instead read that history to
+demonstrate that Congress acted to exclude all corporate
+entities, not just the sovereign ones. Id., at 459–460 (cit-
+ing Hearing and Markup on H. R. 1417 before the House
+Committee on Foreign Affairs and Its Subcommittee on
+Human Rights and International Organizations, 100th
+Cong., 2d Sess., 87–88 (1988)); see also 566 U. S., at 461–
+462 (BREYER, J., concurring). Second, even for international-
+law norms that do not require state action, plaintiffs
+can still use corporations as surrogate defendants to
+challenge the conduct of foreign governments. In Kiobel,
+for example, the plaintiffs sought to hold a corporate
+defendant liable for “aiding and abetting the Nigerian
+Government in committing,” among other things, “crimes
+against humanity.” 569 U. S., at 114; see also, e.g., Sarei
+v. Rio Tinto, PLC, 671 F. 3d 736, 761–763 (CA9 2011) (en
+banc) (corporate defendant allegedly used Papua New
+
+
+22                JESNER v. ARAB BANK, PLC
+                      OpinionofofKthe
+                     Opinion          Court
+                                  ENNEDY , J.
+Guinea’s military to commit genocide), vacated and re-
+manded, 569 U. S. 945 (2013).
+   Petitioners contend that, instead of the TVPA, the most
+analogous statute here is the Anti-Terrorism Act. That
+Act does permit suits against corporate entities. See 18
+U. S. C. §§ 2331(3), 2333(d)(2). In fact, in these suits some
+of the foreign plaintiffs joined their claims to those of
+United States nationals suing Arab Bank under the Anti-
+Terrorism Act. But the Anti-Terrorism Act provides a
+cause of action only to “national[s] of the United States,”
+and their “estate, survivors, or heirs.” §2333(a). In con-
+trast, the ATS is available only for claims brought by “an
+alien.” 28 U. S. C. §1350. A statute that excludes foreign
+nationals (with the possible exception of foreign survivors
+or heirs) is an inapt analogy for a common-law cause of
+action that provides a remedy for foreign nationals only.
+   To the extent, furthermore, that the Anti-Terrorism Act
+is relevant it suggests that there should be no common-
+law action under the ATS for allegations like petitioners’.
+Otherwise, foreign plaintiffs could bypass Congress’ ex-
+press limitations on liability under the Anti-Terrorism Act
+simply by bringing an ATS lawsuit. The Anti-Terrorism
+Act, as mentioned above, is part of a comprehensive statu-
+tory and regulatory regime that prohibits terrorism and
+terrorism financing. The detailed regulatory structures
+prescribed by Congress and the federal agencies charged
+with oversight of financial institutions reflect the careful
+deliberation of the political branches on when, and how,
+banks should be held liable for the financing of terrorism.
+It would be inappropriate for courts to displace this con-
+sidered statutory and regulatory structure by holding
+banks subject to common-law liability in actions filed
+under the ATS.
+   In any event, even if the Anti-Terrorism Act were a
+suitable model for an ATS suit, Congress’ decision in the
+TVPA to limit liability to individuals still demonstrates
+
+
+                    Cite as: 584 U. S. ____ (2018)           23
+                         OpinionofofKthe
+                       Opinion           Court
+                                     ENNEDY , J.
+that there are two reasonable choices. In this area, that is
+dispositive—Congress, not the Judiciary, must decide
+whether to expand the scope of liability under the ATS to
+include foreign corporations.
+                                   3
+   Other considerations relevant to the exercise of judicial
+discretion also counsel against allowing liability under the
+ATS for foreign corporations, absent instructions from
+Congress to do so. It has not been shown that corporate
+liability under the ATS is essential to serve the goals of
+the statute. As to the question of adequate remedies, the
+ATS will seldom be the only way for plaintiffs to hold the
+perpetrators liable. See, e.g., 18 U. S. C. §1091 (criminal
+prohibition on genocide); §1595 (civil remedy for victims of
+slavery). And plaintiffs still can sue the individual corpo-
+rate employees responsible for a violation of international
+law under the ATS. If the Court were to hold that foreign
+corporations have liability for international-law violations,
+then plaintiffs may well ignore the human perpetrators
+and concentrate instead on multinational corporate
+entities.
+   As explained above, in the context of criminal tribunals
+international law itself generally limits liability to natural
+persons. Although the Court need not decide whether the
+seeming absence of a specific, universal, and obligatory
+norm of corporate liability under international law by
+itself forecloses petitioners’ claims against Arab Bank, or
+whether this is an issue governed by international law,
+the lack of a clear and well-established international-law
+rule is of critical relevance in determining whether courts
+should extend ATS liability to foreign corporations without
+specific congressional authorization to do so. That is
+especially so in light of the TVPA’s limitation of liability to
+natural persons, which parallels the distinction between
+corporations and individuals in international law.
+
+
+24                  JESNER v. ARAB BANK, PLC
+                         OpinionofofKthe
+                        Opinion          Court
+                                     ENNEDY , J.
+   If, moreover, the Court were to hold that foreign corpo-
+rations may be held liable under the ATS, that precedent-
+setting principle “would imply that other nations, also
+applying the law of nations, could hale our [corporations]
+into their courts for alleged violations of the law of na-
+tions.” Kiobel, 569 U. S., at 124. This judicially mandated
+doctrine, in turn, could subject American corporations to
+an immediate, constant risk of claims seeking to impose
+massive liability for the alleged conduct of their employees
+and subsidiaries around the world, all as determined in
+foreign courts, thereby “hinder[ing] global investment in
+developing economies, where it is most needed.” Brief for
+United States as Amicus Curiae in American Isuzu Mo-
+tors, Inc. v. Ntsebeza, O. T. 2007, No. 07–919, p. 20 (inter-
+nal quotation marks omitted).
+   In other words, allowing plaintiffs to sue foreign corpo-
+rations under the ATS could establish a precedent that
+discourages American corporations from investing abroad,
+including in developing economies where the host govern-
+ment might have a history of alleged human-rights viola-
+tions, or where judicial systems might lack the safeguards
+of United States courts. And, in consequence, that often
+might deter the active corporate investment that contrib-
+utes to the economic development that so often is an es-
+sential foundation for human rights.
+   It is also true, of course, that natural persons can and do
+use corporations for sinister purposes, including conduct
+that violates international law. That the corporate form
+can be an instrument for inflicting grave harm and suffer-
+ing poses serious and complex questions both for the in-
+ternational community and for Congress. So there are
+strong arguments for permitting the victims to seek relief
+from corporations themselves. Yet the urgency and com-
+plexity of this problem make it all the more important that
+Congress determine whether victims of human-rights
+abuses may sue foreign corporations in federal courts in
+
+
+                  Cite as: 584 U. S. ____ (2018)          25
+                       Opinion of the Court
+the United States. Congress, not the Judiciary, is the
+branch with “the facilities necessary to make fairly such
+an important policy decision where the possibilities of
+international discord are so evident and retaliative action
+so certain.” Kiobel, 569 U. S., at 116 (internal quotation
+marks omitted). As noted further below, there are many
+delicate and important considerations that Congress is in
+a better position to examine in determining whether and
+how best to impose corporate liability. And, as the TVPA
+illustrates, Congress is well aware of the necessity of
+clarifying the proper scope of liability under the ATS in a
+timely way.
+                                C
+   The ATS was intended to promote harmony in interna-
+tional relations by ensuring foreign plaintiffs a remedy for
+international-law violations in circumstances where the
+absence of such a remedy might provoke foreign nations to
+hold the United States accountable. Brief for United
+States as Amicus Curiae 7. But here, and in similar cases,
+the opposite is occurring.
+   Petitioners are foreign nationals seeking hundreds of
+millions of dollars in damages from a major Jordanian
+financial institution for injuries suffered in attacks by
+foreign terrorists in the Middle East. The only alleged
+connections to the United States are the CHIPS transac-
+tions in Arab Bank’s New York branch and a brief allega-
+tion regarding a charity in Texas. The Court of Appeals
+did not address, and the Court need not now decide,
+whether these allegations are sufficient to “touch and
+concern” the United States under Kiobel. See 569 U. S., at
+124–125.
+   At a minimum, the relatively minor connection between
+the terrorist attacks at issue in this case and the alleged
+conduct in the United States well illustrates the perils of
+extending the scope of ATS liability to foreign multina-
+
+
+26                JESNER v. ARAB BANK, PLC
+                       Opinion of the Court
+tional corporations like Arab Bank. For 13 years, this
+litigation has “caused significant diplomatic tensions” with
+Jordan, a critical ally in one of the world’s most sensitive
+regions. Brief for United States as Amicus Curiae 30.
+“Jordan is a key counterterrorism partner, especially in
+the global campaign to defeat the Islamic State in Iraq
+and Syria.” Id., at 31. The United States explains that
+Arab Bank itself is “a constructive partner with the
+United States in working to prevent terrorist financing.” Id.,
+at 32 (internal quotation marks omitted). Jordan consid-
+ers the instant litigation to be a “grave affront” to its
+sovereignty. See Brief for Hashemite Kingdom of Jordan
+as Amicus Curiae 3; see ibid. (“By exposing Arab Bank to
+massive liability, this suit thus threatens to destabilize
+Jordan’s economy and undermine its cooperation with the
+United States”).
+   This is not the first time, furthermore, that a foreign
+sovereign has appeared in this Court to note its objections
+to ATS litigation. Sosa, 542 U. S., at 733, n. 21 (noting
+objections by the European Commission and South Africa);
+Brief for the Federal Republic of Germany as Amicus
+Curiae in Kiobel v. Royal Dutch Petroleum Co., O. T. 2012,
+No. 10–1491, p. 1; Brief for the Government of the United
+Kingdom of Great Britain and Northern Ireland and the
+Kingdom of the Netherlands as Amici Curiae in No. 10–
+1491, p. 3. These are the very foreign-relations tensions
+the First Congress sought to avoid.
+   Petitioners insist that whatever the faults of this litiga-
+tion—for example, its tenuous connections to the United
+States and the prolonged diplomatic disruptions it has
+caused—the fact that Arab Bank is a foreign corporate
+entity, as distinct from a natural person, is not one of
+them. That misses the point. As demonstrated by this
+litigation, foreign corporate defendants create unique
+problems. And courts are not well suited to make the
+required policy judgments that are implicated by corporate
+
+
+                    Cite as: 584 U. S. ____ (2018)         27
+                         OpinionofofKthe
+                       Opinion           Court
+                                     ENNEDY , J.
+liability in cases like this one.
+   Like the presumption against extraterritoriality, judi-
+cial caution under Sosa “guards against our courts trigger-
+ing . . . serious foreign policy consequences, and instead
+defers such decisions, quite appropriately, to the political
+branches.” Kiobel, 569 U. S., at 124. If, in light of all the
+concerns that must be weighed before imposing liability on
+foreign corporations via ATS suits, the Court were to hold
+that it has the discretion to make that determination, then
+the cautionary language of Sosa would be little more than
+empty rhetoric. Accordingly, the Court holds that foreign
+corporations may not be defendants in suits brought under
+the ATS.
+                                  III
+   With the ATS, the First Congress provided a federal
+remedy for a narrow category of international-law viola-
+tions committed by individuals. Whether, more than two
+centuries on, a similar remedy should be available against
+foreign corporations is similarly a decision that Congress
+must make.
+   The political branches can determine, referring to inter-
+national law to the extent they deem proper, whether to
+impose liability for human-rights violations upon foreign
+corporations in this Nation’s courts, and, conversely, that
+courts in other countries should be able to hold United
+States corporations liable. Congress might determine that
+violations of international law do, or should, impose that
+liability to ensure that corporations make every effort to
+deter human-rights violations, and so that, even when
+those efforts cannot be faulted, compensation for injured
+persons will be a cost of doing business. If Congress and
+the Executive were to determine that corporations should
+be liable for violations of international law, that decision
+would have special power and force because it would be
+made by the branches most immediately responsive to,
+
+
+28                  JESNER v. ARAB BANK, PLC
+                        OpinionofofKthe
+                       Opinion          Court
+                                    ENNEDY , J.
+and accountable to, the electorate.
+   It is still another possibility that, in the careful exercise
+of its expertise in the field of foreign affairs, Congress
+might conclude that neutral judicial safeguards may not
+be ensured in every country; and so, as a reciprocal mat-
+ter, it could determine that liability of foreign corporations
+under the ATS should be subject to some limitations or
+preconditions. Congress might deem this more careful
+course to be the best way to encourage American corpora-
+tions to undertake the extensive investments and foreign
+operations that can be an important beginning point for
+creating the infrastructures that allow human rights, as
+well as judicial safeguards, to emerge. These delicate
+judgments, involving a balance that it is the prerogative of
+the political branches to make, especially in the field of
+foreign affairs, would, once again, also be entitled to spe-
+cial respect, especially because those careful distinctions
+might themselves advance the Rule of Law. All this un-
+derscores the important separation-of-powers concerns
+that require the Judiciary to refrain from making these
+kinds of decisions under the ATS. The political branches,
+moreover, surely are better positioned than the Judiciary
+to determine if corporate liability would, or would not,
+create special risks of disrupting good relations with for-
+eign governments.
+   Finally, Congress might find that corporate liability
+should be limited to cases where a corporation’s manage-
+ment was actively complicit in the crime. Cf. ALI, Model
+Penal Code §2.07(1)(c) (1985) (a corporation may be held
+criminally liable where “the commission of the offense was
+authorized, requested, commanded, performed or recklessly
+tolerated by the board of directors or by a high managerial
+agent acting on behalf of the corporation within the scope
+of his office or employment”). Again, the political branches
+are better equipped to make the preliminary findings
+and consequent conclusions that should inform this
+
+
+                   Cite as: 584 U. S. ____ (2018)                29
+                        OpinionofofKthe
+                      Opinion           Court
+                                    ENNEDY , J.
+determination.
+  These and other considerations that must shape and
+instruct the formulation of principles of international and
+domestic law are matters that the political branches are in
+the better position to define and articulate. For these
+reasons, judicial deference requires that any imposition of
+corporate liability on foreign corporations for violations of
+international law must be determined in the first instance
+by the political branches of the Government.
+  The judgment of the Court of Appeals is affirmed.
+                                                  It is so ordered.
+
+
+                  Cite as: 584 U. S. ____ (2018)            1
+                     THOMAS, J., concurring
+SUPREME COURT OF THE UNITED STATES
+                           _________________
+                            No. 16–499
+                           _________________
+       JOSEPH JESNER, ET AL., PETITIONERS v.
+                     ARAB BANK, PLC
+ ON WRIT OF CERTIORARI TO THE UNITED STATES COURT OF
+             APPEALS FOR THE SECOND CIRCUIT
+                         [April 24, 2018]
+  JUSTICE THOMAS, concurring.
+  I join the Court’s opinion in full because it correctly
+applies our precedents. I also agree with the points raised
+by my concurring colleagues. Courts should not be in the
+business of creating new causes of action under the Alien
+Tort Statute, see post, at 2–5 (GORSUCH, J., concurring in
+part and concurring in judgment), especially when it risks
+international strife, see post, at 3–7 (ALITO, J., concurring
+in part and concurring in judgment). And the Alien Tort
+Statute likely does not apply to suits between foreign
+plaintiffs and foreign defendants. See post, at 5–14 (opin-
+ion of GORSUCH, J.).
+
+
+                   Cite as: 584 U. S. ____ (2018)            1
+                        Opinion of ALITO, J.
+SUPREME COURT OF THE UNITED STATES
+                            _________________
+                             No. 16–499
+                            _________________
+        JOSEPH JESNER, ET AL., PETITIONERS v.
+                      ARAB BANK, PLC
+ ON WRIT OF CERTIORARI TO THE UNITED STATES COURT OF
+              APPEALS FOR THE SECOND CIRCUIT
+                          [April 24, 2018]
+   JUSTICE ALITO, concurring in part and concurring in the
+judgment.
+   Creating causes of action under the Alien Tort Statute
+against foreign corporate defendants would precipitate
+exactly the sort of diplomatic strife that the law was en-
+acted to prevent. As a result, I agree with the Court that
+we should not take that step, and I join Parts I, II–B–1,
+and II–C of the opinion of the Court. I write separately to
+elaborate on why that outcome is compelled not only by
+“judicial caution,” ante, at 27 (majority opinion), but also
+by the separation of powers.
+                                    I
+   The ATS is a jurisdictional statute. It provides that
+“[t]he district courts shall have original jurisdiction of any
+civil action by an alien for a tort only, committed in viola-
+tion of the law of nations or a treaty of the United States.”
+28 U. S. C. §1350. By its terms, the ATS does not create
+any causes of action.
+   In Sosa v. Alvarez-Machain, 542 U. S. 692 (2004), how-
+ever, this Court nevertheless held that federal courts,
+exercising their authority in limited circumstances to
+make federal common law, may create causes of action
+that aliens may assert under the ATS. That holding takes
+some explaining.
+
+
+2                 JESNER v. ARAB BANK, PLC
+                       Opinion of ALITO, J.
+   According to Sosa, when the First Congress enacted the
+ATS in 1789, it assumed that the statute would “have
+practical effect the moment it became law” because the
+general common law “would provide a cause of action for
+[a] modest number of international law violations.” Id., at
+724. That assumption, however, depended on the contin-
+ued existence of the general common law. And in 1938—a
+century and a half after Congress enacted the ATS—this
+Court rejected the “fallacy” underlying the general com-
+mon law, declaring definitively that “[t]here is no federal
+general common law.” Erie R. Co. v. Tompkins, 304 U. S.
+64, 78, 79 (1938). That left the ATS in an awkward spot:
+Congress had not created any causes of action for the
+statute on the assumption that litigants would use those
+provided by the general common law, but now the general
+common law was no more.
+   In Sosa, this Court did its best to resolve that problem.
+“[I]t would be unreasonable to assume,” the Court ex-
+plained, “that the First Congress would have expected
+federal courts to lose all capacity to recognize enforceable
+international norms simply because the [general] common
+law might lose some metaphysical cachet on the road to
+modern realism.” 542 U. S., at 730. Although the general
+common law was gone, the Court concluded, federal courts
+could still exercise their authority to create so-called “fed-
+eral common law” for those “ ‘few and restricted’ ” areas “in
+which Congress has given the courts the power to develop
+substantive law.” Texas Industries, Inc. v. Radcliff Mate-
+rials, Inc., 451 U. S. 630, 640 (1981). Sosa interpreted the
+ATS as conferring such authorization.
+   As a result, Sosa held that federal courts, subject to
+certain conditions, may “recognize private causes of action
+[under the ATS] for certain torts in violation of the law of
+nations.” 542 U. S., at 724. But before doing so, Sosa
+stressed, courts should follow a two-step process. First,
+they should ensure that the contemplated cause of action
+
+
+                      Cite as: 584 U. S. ____ (2018)                    3
+                           Opinion of ALITO, J.
+reflects an international law norm that is “ ‘specific, uni-
+versal and obligatory.’ ” Id., at 732. Second, if a suitable
+norm is identified, federal courts should decide whether
+there is any other reason to limit “the availability of re-
+lief.” Id., at 733, n. 21.
+                                     II
+   For the reasons articulated by Justice Scalia in Sosa
+and by JUSTICE GORSUCH today, I am not certain that
+Sosa was correctly decided. See id., at 739–751 (Scalia, J.,
+dissenting); post, at 2–5 (GORSUCH, J., concurring in part
+and concurring in judgment). But even taking that deci-
+sion on its own terms, this Court should not create causes
+of action under the ATS against foreign corporate defend-
+ants. As part of Sosa’s second step, a court should decline
+to create a cause of action as a matter of federal common
+law where the result would be to further, not avoid, dip-
+lomatic strife. Properly applied, that rule easily resolves
+the question presented by this case.*
+   Sosa interpreted the ATS to authorize the federal courts
+to create causes of action as a matter of federal common
+law. We have repeatedly emphasized that “in fashioning
+federal [common law] principles to govern areas left open
+by Congress, our function is to effectuate congressional
+policy.” United States v. Kimbell Foods, Inc., 440 U. S.
+715, 738 (1979). Fidelity to congressional policy is not
+only prudent but necessary: Going beyond the bounds of
+Congress’s authorization would mean unconstitutionally
+usurping part of the “legislative Powers.” U. S. Const.,
+Art. I, §1. Accordingly, the objective for courts in every
+case requiring the creation of federal common law must be
+——————
+   * Because this case involves a foreign corporation, we have no need to
+reach the question whether an alien may sue a United States corpora-
+tion under the ATS. And since such a suit may generally be brought in
+federal court based on diversity jurisdiction, 28 U. S. C. §1332(a)(2), it
+is unclear why ATS jurisdiction would be needed in that situation.
+
+
+4                 JESNER v. ARAB BANK, PLC
+                       Opinion of ALITO, J.
+“to find the rule that will best effectuate the federal policy.”
+Textile Workers v. Lincoln Mills of Ala., 353 U. S. 448,
+457 (1957).
+   The ATS was meant to help the United States avoid
+diplomatic friction. The First Congress enacted the law to
+provide a forum for adjudicating that “narrow set of viola-
+tions of the law of nations” that, if left unaddressed,
+“threaten[ed] serious consequences” for the United States.
+Sosa, 542 U. S., at 715; see also Brief for Professors of
+International Law et al. as Amici Curiae 7–12. Specifically,
+the First Congress was concerned about offenses like
+piracy, violation of safe conducts, and infringement of the
+rights of ambassadors, each of which “if not adequately
+redressed could rise to an issue of war.” Sosa, supra, at
+715. That threat was existentially terrifying for the young
+Nation. See Kiobel v. Royal Dutch Petroleum Co., 569
+U. S. 108, 123–124 (2013). To minimize the danger, the
+First Congress enacted the ATS, “ensur[ing] that the
+United States could provide a forum for adjudicating such
+incidents” and thus helping the Nation avoid further
+diplomatic imbroglios. Id., at 124; see ante, at 25 (majority
+opinion).
+   Putting that objective together with the rules governing
+federal common law generally, the following principle
+emerges: Federal courts should decline to create federal
+common law causes of action under Sosa’s second step
+whenever doing so would not materially advance the
+ATS’s objective of avoiding diplomatic strife. And apply-
+ing that principle here, it is clear that federal courts
+should not create causes of action under the ATS against
+foreign corporate defendants. All parties agree that cus-
+tomary international law does not require corporate liabil-
+ity as a general matter. See Brief for Petitioners 30; Brief
+for Respondent 22; see also ante, at 17 (plurality opinion);
+post, at 3–4 (SOTOMAYOR, J., dissenting). But if customary
+international law does not require corporate liability, then
+
+
+                   Cite as: 584 U. S. ____ (2018)           5
+                        Opinion of ALITO, J.
+declining to create it under the ATS cannot give other
+nations just cause for complaint against the United States.
+   To the contrary, ATS suits against foreign corporations
+may provoke—and, indeed, frequently have provoked—
+exactly the sort of diplomatic strife inimical to the funda-
+mental purpose of the ATS. Some foreign states appear to
+interpret international law as foreclosing civil corporate
+liability for violations of the law of nations. See Brief for
+Government of the United Kingdom et al. as Amici Curiae
+in Kiobel v. Royal Dutch Petroleum Co., O. T. 2012, No.
+10–1491, p. 14. Creating ATS causes of action against
+foreign corporate defendants would put the United States
+at odds with these nations. Even when states do not
+object to this sort of corporate liability as a legal matter,
+they may be concerned about ATS suits against their
+corporations for political reasons. For example, Jordan
+considers this suit “a direct affront” to its sovereignty and
+one that “risks destabilizing Jordan’s economy and under-
+cutting one of the most stable and productive alliances the
+United States has in the Middle East.” Brief for Hashe-
+mite Kingdom of Jordan as Amicus Curiae 4. Courting
+these sorts of problems—which seem endemic to ATS
+litigation—was the opposite of what the First Congress
+had in mind.
+   In response, the dissent argues merely that any diplo-
+matic friction “can be addressed with a tool more tailored
+to the source of the problem than a blanket ban on corpo-
+rate liability.” Post, at 19. Even on its own terms, that
+argument is problematic: Many of the “more tailored” tools
+offered by the dissent will still be hotly litigated by ATS
+plaintiffs, and it may be years before incorrect initial
+decisions about their applicability can be reviewed by the
+courts of appeals. See ante, at 11 (plurality opinion).
+   In any event, the dissent misunderstands the relevant
+standard. The question before us is whether the United
+States would be embroiled in fewer international contro-
+
+
+6                 JESNER v. ARAB BANK, PLC
+                       Opinion of ALITO, J.
+versies if we created causes of action under the ATS
+against foreign corporate defendants. Unless corporate
+liability would actively decrease diplomatic disputes, we
+have no authority to act. On that score, the dissent can
+only speculate that declining to create causes of action
+against foreign corporate defendants “might” lead to dip-
+lomatic friction. Post, at 30. But the dissent has no real-
+world examples to support its hunch, and that is not sur-
+prising; the ATS already goes further than any other
+statute in the world in granting aliens the right to sue
+civilly for violations of international law, especially in
+light of the many other avenues for relief available. See
+ante, at 23 (plurality opinion). It would be rather rich for
+any other nation to complain that the ATS does not go far
+enough. Indeed, no country has.
+   Finally, the dissent invokes “the considered judgment of
+the Executive Branch and Congress” that ATS suits
+against foreign corporations are “necessary ‘to help the
+United States avoid diplomatic friction.’ ” Post, at 31,
+n. 13. Tellingly, however, the dissent cannot muster a
+single source that actually supports that bold contention.
+Instead, the dissent immediately retreats to two far more
+modest assertions. First, the dissent observes that the
+Executive Branch has twice suggested that this Court
+should allow causes of action against corporate defendants
+under the ATS. But both times the Executive Branch
+defended that perspective primarily under the first step of
+Sosa; here, however, we are dealing with Sosa’s second
+step, and with the risk of diplomatic friction in particular.
+Second, the dissent also notes that the Executive Branch
+and Congress have each taken steps to hold corporations
+liable for certain acts like terrorism. Post, at 31, n. 13.
+That is, of course, true, but it is also entirely irrelevant.
+Congress and the Executive Branch may be willing to
+trade off the risk of some diplomatic friction in exchange
+for the promotion of other objectives (such as “holding
+
+
+                   Cite as: 584 U. S. ____ (2018)          7
+                        Opinion of ALITO, J.
+foreign corporations to account for certain egregious con-
+duct,” ibid.). That is their prerogative as the political
+branches. But consistent with the separation of powers,
+we have neither the luxury nor the right to make such
+policy decisions ourselves.
+   Creating causes of action under the ATS against foreign
+corporate defendants would be a no-win proposition.
+Foreign corporate liability would not only fail to meaning-
+fully advance the objectives of the ATS, but it would also
+lead to precisely those “serious consequences in interna-
+tional affairs” that the ATS was enacted to avoid. Sosa,
+542 U. S., at 715. Under those circumstances, federal
+courts have a duty to refrain from acting. Although that
+may make it more difficult for aliens to hold foreign corpo-
+rations liable for human rights abuses, we have repeatedly
+rejected the view that the ATS was meant to transform
+the federal courts into forums for the litigation of all hu-
+man rights suits. See ante, at 8–9, 25–27 (majority opin-
+ion); Kiobel, 569 U. S., at 123–124; Sosa, supra, at 715–
+718. Declining to extend the ATS to foreign corporate
+defendants is thus not about “[i]mmunizing corporations
+that violate human rights,” post, at 34, but rather about
+furthering the purpose that the ATS was actually meant
+to serve—avoiding diplomatic strife.
+
+
+                   Cite as: 584 U. S. ____ (2018)          1
+                      Opinion of GORSUCH, J.
+SUPREME COURT OF THE UNITED STATES
+                            _________________
+                             No. 16–499
+                            _________________
+        JOSEPH JESNER, ET AL., PETITIONERS v.
+                      ARAB BANK, PLC
+  ON WRIT OF CERTIORARI TO THE UNITED STATES COURT OF
+              APPEALS FOR THE SECOND CIRCUIT
+                          [April 24, 2018]
+   JUSTICE GORSUCH, concurring in part and concurring in
+the judgment.
+   I am pleased to join the Court’s judgment and Parts I,
+II–B–1, and II–C of its opinion. Respectfully, though, I
+believe there are two more fundamental reasons why this
+lawsuit must be dismissed. A group of foreign plaintiffs
+wants a federal court to invent a new cause of action so
+they can sue another foreigner for allegedly breaching
+international norms. In any other context, a federal judge
+faced with a request like that would know exactly what to
+do with it: dismiss it out of hand. Not because the defend-
+ant happens to be a corporation instead of a human being.
+But because the job of creating new causes of action and
+navigating foreign policy disputes belongs to the political
+branches. For reasons passing understanding, federal
+courts have sometimes treated the Alien Tort Statute as a
+license to overlook these foundational principles. I would
+end ATS exceptionalism. We should refuse invitations to
+create new forms of legal liability. And we should not
+meddle in disputes between foreign citizens over interna-
+tional norms. I write because I am hopeful that courts in
+the future might pause to consider both of these reasons
+for restraint before taking up cases like this one. Whatever
+powers courts may possess in ATS suits, they are powers
+judges should be doubly careful not to abuse.
+
+
+2                JESNER v. ARAB BANK, PLC
+                     Opinion of GORSUCH, J.
+                                I
+  First adopted in 1789, the current version of the ATS
+provides that “[t]he district courts shall have original
+jurisdiction of any civil action by an alien for a tort only,
+committed in violation of the law of nations or a treaty of
+the United States.” 28 U. S. C. §1350. More than two
+hundred years later, the meaning of this terse provision
+has still “proven elusive.” Sosa v. Alvarez-Machain, 542
+U. S. 692, 719 (2004). At the same time, this Court has
+suggested that Congress enacted the statute to afford
+federal courts jurisdiction to hear tort claims related to
+three violations of international law that were already
+embodied in English common law: violations of safe con-
+ducts extended to aliens, interference with ambassadors,
+and piracy. Id., at 715; 4 W. Blackstone, Commentaries on
+the Laws of England 68 (1769) (Blackstone); see also
+Bellia & Clark, The Alien Tort Statute and the Law of
+Nations, 78 U. Chi. L. Rev. 445 (2011) (arguing that the
+ATS meant to supply jurisdiction over a slightly larger set
+of claims involving intentional torts by Americans against
+aliens).
+  In this case, the plaintiffs seek much more. They want
+the federal courts to recognize a new cause of action, one
+that did not exist at the time of the statute’s adoption, one
+that Congress has never authorized. While their request
+might appear inconsistent with Sosa’s explanation of the
+ATS’s modest origin, the plaintiffs say that a caveat later
+in the opinion saves them. They point to a passage where
+the Court went on to suggest that the ATS may also afford
+federal judges “discretion [to] conside[r] [creating] new
+cause[s] of action” if they “rest on a norm of international
+character accepted by the civilized world and defined with
+a specificity comparable to the features of the [three] 18th-
+century” torts the Court already described. 542 U. S., at
+725.
+  I harbor serious doubts about Sosa’s suggestion. In our
+
+
+                   Cite as: 584 U. S. ____ (2018)           3
+                      Opinion of GORSUCH, J.
+democracy the people’s elected representatives make the
+laws that govern them. Judges do not. The Constitution’s
+provisions insulating judges from political accountability
+may promote our ability to render impartial judgments
+in disputes between the people, but they do nothing
+to recommend us as policymakers for a large nation.
+Recognizing just this, our cases have held that when
+confronted with a request to fashion a new cause of action,
+“separation-of-powers principles are or should be central
+to the analysis.” Ziglar v. Abbasi, 582 U. S. ___, ___ (2017)
+(slip op., at 12). The first and most important question in
+that analysis “is ‘who should decide’ . . . , Congress or the
+courts?” and the right answer “most often will be Con-
+gress.” Ibid. Deciding that, henceforth, persons like A
+who engage in certain conduct will be liable to persons like
+B is, in every meaningful sense, just like enacting a new
+law. And in our constitutional order the job of writing new
+laws belongs to Congress, not the courts. Adopting new
+causes of action may have been a “proper function for
+common-law courts,” but it is not appropriate “for federal
+tribunals” mindful of the limits of their constitutional
+authority. Alexander v. Sandoval, 532 U. S. 275, 287
+(2001) (internal quotation marks omitted).
+   Nor can I see any reason to make a special exception for
+the ATS. As Sosa initially acknowledged, the ATS was
+designed as “a jurisdictional statute creating no new
+causes of action.” 542 U. S., at 724; accord, ante, at 8
+(majority opinion). And I would have thought that the end
+of the matter. A statute that creates no new causes of
+action . . . creates no new causes of action. To the extent
+Sosa continued on to claim for federal judges the discre-
+tionary power to create new forms of liability on their own,
+it invaded terrain that belongs to the people’s representa-
+tives and should be promptly returned to them. 542 U. S.,
+at 747 (Scalia, J., concurring in part and concurring in
+
+
+4                    JESNER v. ARAB BANK, PLC
+                         Opinion of GORSUCH, J.
+judgment).1
+    But even accepting Sosa’s framework does not end the
+matter. As the Court acknowledges, there is a strong
+argument that “a proper application of Sosa would pre-
+clude courts from ever recognizing any new causes of
+action under the ATS.” Ante, at 19. I believe that argu-
+ment is correct. For the reasons just described, separation
+of powers considerations ordinarily require us to defer to
+Congress in the creation of new forms of liability. This
+Court hasn’t yet used Sosa’s assertion of discretionary
+authority to recognize a new cause of action, and I cannot
+imagine a sound reason, hundreds of years after the stat-
+ute’s passage, to start now. For a court inclined to claim
+the discretion to enter this field, it is a discretion best
+exercised by staying out of it.
+    The context in which any Sosa discretion would be
+exercised confirms the wisdom of restraint. Sosa acknowl-
+edged that any decision to create a new cause of action
+would “inevitably [involve] an element of judgment about
+the practical consequences” that might follow. Id., at 732–
+733. But because the point of such a claim would be to
+vindicate “a norm of international character,” id., at 725,
+those “practical consequences” would likely involve ques-
+tions of foreign affairs and national security—matters that
+implicate neither judicial expertise nor authority. It is for
+Congress to “define and punish . . . Offences against the
+——————
+   1 The dissent claims that Congress’s decision to give federal courts
+“jurisdiction over claims based on ‘the law of nations,’ ” necessarily
+implies the authority to develop that law. Post, at 16. That does not
+follow. Federal courts have jurisdiction over all kinds of cases—for
+example, those arising under the law of torts or contracts. Yet follow-
+ing our decision in Erie R. Co. v. Tompkins, 304 U. S. 64 (1938), federal
+courts are generally no longer permitted to promulgate new federal
+common law causes of action in those areas. Id., at 75. I can see no
+reason to treat the law of nations differently. See Sosa v. Alvarez-
+Machain, 542 U. S. 692, 744–746 (2004) (Scalia, J., concurring in part
+and concurring in judgment).
+
+
+                   Cite as: 584 U. S. ____ (2018)           5
+                      Opinion of GORSUCH, J.
+Law of Nations” and to regulate foreign commerce. U. S.
+Const., Art. I., §8. And it is for the President to resolve
+diplomatic disputes and command the armed forces. Art.
+II, §§2–3. Foreign policy and national security decisions
+are “delicate, complex, and involve large elements of
+prophecy” for which “the Judiciary has neither aptitude,
+facilities[,] nor responsibility.” Chicago & Southern Air
+Lines, Inc. v. Waterman S. S. Corp., 333 U. S. 103, 111
+(1948) (Jackson, J.). And I find it difficult to imagine a
+case in which a federal court might safely conclude other-
+wise. Take this very lawsuit by way of example. The
+Kingdom of Jordan considers it to be “a ‘grave affront’ to
+its sovereignty,” and the State Department worries about
+its foreign policy implications. Ante, at 26. Whether
+American interests justify the “practical consequence” of
+offending another nation in this way (or in worse ways
+yet) is a question that should be addressed “only by those
+directly responsible to the people whose welfare” such
+decisions “advance or imperil.” Waterman S. S. Corp.,
+supra, at 111. So while I have no quarrel with the dis-
+sent’s observation, post, at 15–16, that lower federal courts
+are not free to overrule Sosa’s framework or treat it as
+optional, I do know that the analysis Sosa requires should
+come out the same way in virtually every case. If Sosa is
+right—and I am sure it is—that federal courts must “inev-
+itably” exercise “an element of judgment” about delicate
+questions of foreign affairs when deciding whether to
+create a new cause of action, then judges should exercise
+good judgment by declining the project before we create
+real trouble.
+                                II
+   Another independent problem lurks here. This is a suit
+by foreigners against a foreigner over the meaning of
+international norms. Respectfully, I do not think the
+original understanding of the ATS or our precedent per-
+
+
+6                     JESNER v. ARAB BANK, PLC
+                          Opinion of GORSUCH, J.
+mits federal courts to hear cases like this. At a minimum,
+both those considerations and simple common sense about
+the limits of the judicial function should lead federal
+courts to require a domestic defendant before agreeing to
+exercise any Sosa-generated discretion to entertain an
+ATS suit.
+    Start with the statute. What we call the Alien Tort
+Statute began as just one clause among many in §9 of the
+Judiciary Act of 1789, which specified the jurisdiction of
+the federal courts. 1 Stat. 76–78. The ATS clause gave
+the district courts “cognizance, concurrent with the courts
+of the several States, or the circuit courts, as the case may
+be, of all causes where an alien sues for a tort only in
+violation of the law of nations or a treaty of the United
+States.”2 Like today’s recodified version, 28 U. S. C.
+——————
+   2 “Sec. 9. And be it further enacted, That the district courts shall
+have, exclusively of the courts of the several States, cognizance of all
+crimes and offences that shall be cognizable under the authority of the
+United States, committed within their respective districts, or upon the
+high seas; where no other punishment than whipping, not exceeding
+thirty stripes, a fine not exceeding one hundred dollars, or a term of
+imprisonment not exceeding six months, is to be inflicted; and shall also
+have exclusive original cognizance of all civil causes of admiralty and
+maritime jurisdiction, including all seizures under laws of impost,
+navigation or trade of the United States, where the seizures are made,
+on waters which are navigable from the sea by vessels of ten or more
+tons burthen, within their respective districts as well as upon the high
+seas; saving to suitors, in all cases, the right of a common law remedy,
+where the common law is competent to give it; and shall also have
+exclusive original cognizance of all seizures on land, or other waters
+than as aforesaid, made, and of all suits for penalties and forfeitures
+incurred, under the laws of the United States. And shall also have
+cognizance, concurrent with the courts of the several States, or the
+circuit courts, as the case may be, of all causes where an alien sues for a
+tort only in violation of the law of nations or a treaty of the United
+States. And shall also have cognizance, concurrent as last mentioned,
+of all suits at common law where the United States sue, and the matter
+in dispute amounts, exclusive of costs, to the sum or value of one
+hundred dollars. And shall also have jurisdiction, exclusively of the
+
+
+                      Cite as: 584 U. S. ____ (2018)                       7
+                          Opinion of GORSUCH, J.
+§1350, the original text of the ATS did not expressly call
+for a U. S. defendant. But I think it likely would have
+been understood to contain such a requirement when
+adopted.
+   That is because the First Congress passed the Judiciary
+Act in the shadow of the Constitution. The Act created the
+federal courts and vested them with statutory authority to
+entertain claims consistent with the newly ratified terms
+of Article III. Meanwhile, under Article III, Congress
+could not have extended to federal courts the power to
+hear just any suit between two aliens (unless, for example,
+one was a diplomat). Diversity of citizenship was re-
+quired. So, because Article III’s diversity-of-citizenship
+clause calls for a U. S. party, and because the ATS clause
+requires an alien plaintiff, it follows that an American
+defendant was needed for an ATS suit to proceed.
+   Precedent confirms this conclusion. In Mossman v.
+Higginson, 4 Dall. 12, 14 (1800), this Court addressed the
+meaning of a neighboring provision of the Judiciary Act.
+Section 11 gave the circuit courts power to hear, among
+other things, civil cases where “an alien is a party.” 1
+Stat. 78. As with §9, you might think §11’s language could
+be read to permit a suit between aliens. Yet this Court
+held §11 must instead be construed to refer only to cases
+“where, indeed, an alien is one party, but a citizen is the
+other.” Mossman, 4 Dall., at 14 (internal quotation marks
+omitted). That was necessary, Mossman explained, to give
+the statute a “constructio[n] consistent” with the diversity-
+jurisdiction clause of Article III. Ibid. And as a matter of
+precedent, I cannot think of a good reason why we would
+now read §9 differently than Mossman read §11. Like
+——————
+courts of the several States, of all suits against consuls or vice-consuls,
+except for offences above the description aforesaid. And the trial of
+issues in fact, in the district courts, in all causes except civil causes of
+admiralty and maritime jurisdiction, shall be by jury.” 1 Stat. 76–77
+(some emphasis added; footnotes omitted).
+
+
+8                 JESNER v. ARAB BANK, PLC
+                      Opinion of GORSUCH, J.
+cases are, after all, supposed to come out alike. See Sarei
+v. Rio Tinto, PLC, 671 F. 3d 736, 828 (CA9 2011) (Ikuta,
+J., dissenting) (“Mossman’s analysis [of §11] is equally
+applicable to [§9]. . . . ATS does not give federal courts
+jurisdiction to hear international law claims between two
+aliens”), vacated and remanded, 569 U. S. 945 (2013).
+   Nor does it appear the ATS meant to rely on any other
+head of Article III jurisdiction. You might wonder, for
+example, if the First Congress considered a “violation of
+the law of nations” to be a violation of, and thus “arise
+under,” federal law. But that does not seem likely. At the
+founding, the law of nations was considered a distinct
+“system of rules, deducible by natural reason, and estab-
+lished by universal consent among the civilized inhabit-
+ants of the world,” 4 Blackstone 66. While this Court has
+called international law “part of our law,” The Paquete
+Habana, 175 U. S. 677, 700 (1900), and a component of the
+“law of the land,” The Nereide, 9 Cranch 388, 423 (1815),
+that simply meant international law was no different than
+the law of torts or contracts—it was “part of the so-called
+general common law,” but not part of federal law. Sosa,
+542 U. S., at 739–740 (opinion of Scalia, J.). See Bradley &
+Goldsmith, Customary International Law as Federal
+Common Law: A Critique of the Modern Position, 110
+Harv. L. Rev. 815, 824, 849–850 (1997); see also Young,
+Sorting Out the Debate Over Customary International
+Law, 42 Va. J. Int’l L. 365, 374–375 (2002). The text of the
+Constitution appears to recognize just this distinction.
+Article I speaks of “Offences against the Law of Nations,”
+while both Article III and Article VI’s Supremacy Clause,
+which defines the scope of pre-emptive federal law, omit
+that phrase while referring to the “Laws of the United
+States.” Congress may act to bring provisions of interna-
+tional law into federal law, but they cannot find their way
+there on their own. “The law of nations is not embodied in
+any provision of the Constitution, nor in any treaty, act of
+
+
+                      Cite as: 584 U. S. ____ (2018)                       9
+                         Opinion of GORSUCH, J.
+Congress, or any authority, or commission derived from
+the United States.” Caperton v. Bowyer, 14 Wall. 216, 228
+(1872).
+   Even so, that hardly left the ATS without important
+work to perform. At the time of the founding, “[i]f a nation
+failed to redress injuries by its citizens upon the citizens of
+another nation, the perpetrators’ nation violated the ‘per-
+fect rights’ of the other nation,” which “provided the of-
+fended nation with just cause for reprisals or war.” Bellia
+& Clark, 78 U. Chi. L. Rev., at 476.3 This reality posed an
+existential threat to the new nation. Under the Articles of
+Confederation, States regularly refused to redress injuries
+their citizens caused foreigners. British creditors, for
+example, often found their efforts to collect debts from
+American debtors thwarted. Id., at 498–501. Seeking to
+remedy these and similar problems, the Continental Con-
+gress in 1781 passed a resolution encouraging the States,
+among other things, to establish tribunals for vindicating
+“offences against the law of nations” and to “authorise
+suits to be instituted for damages by the party injured.”
+Id., at 495–496. But the States did too little, too late. So
+when the framers gathered to write the Constitution they
+included among their chief priorities endowing the national
+——————
+  3 As a leading treatise explained, a sovereign “ought not to suffer his
+subjects to molest the subjects of others, or to do them an injury, much
+less should he permit them audaciously to offend foreign powers.” E. de
+Vattel, 1 The Law of Nations, bk. II, §76, p. 145 (1760). Instead, the
+nation “ought to oblige the guilty to repair the damage, if that be
+possible, to inflict on him an exemplary punishment, or, in short,
+according to the nature of the case, and the circumstances attending it,
+to deliver him up to the offended state there to receive justice.” Ibid. A
+sovereign who “refuses to cause a reparation to be made of the damage
+caused by his subject, or to punish the guilty, or, in short, to deliver him
+up, renders himself in some measure an accomplice in the injury, and
+becomes responsible for it.” Id., §77, at 145; see also Bellia & Clark,
+The Alien Tort Statute and the Law of Nations, 78 U. Chi. L. Rev. 472–
+477 (2011).
+
+
+10                JESNER v. ARAB BANK, PLC
+                      Opinion of GORSUCH, J.
+government with sufficient power to ensure the country’s
+compliance with the law of nations. See 1 Records of the
+Federal Convention of 1787, pp. 24–25 (M. Farrand rev.
+1966).
+   Together with other provisions of the Judiciary Act, the
+ATS served that purpose. The law of nations required
+countries to ensure foreign citizens could obtain redress
+for wrongs committed by domestic defendants, whether
+“through criminal punishment, extradition, or a civil
+remedy.” Bellia & Clark, 78 U. Chi. L. Rev., at 509. Yet
+in 1789 this country had no comprehensive criminal code
+and no extradition treaty with Great Britain. Id., at 509–
+510. Section 11 achieved a partial solution to the problem
+by permitting civil diversity suits in federal court between
+aliens and domestic parties, but that provision required at
+least $500 in controversy. 1 Stat. 78; cf. 28 U. S. C.
+§1332(a) (today’s minimum is $75,000). But, as Professors
+Bellia and Clark have explained, “[h]ad Congress stopped
+there, it would have omitted an important category of law
+of nations violations that threatened the peace of the
+United States: personal injuries that US citizens inflicted
+upon aliens resulting in less than $500 in damages.” 78 U.
+Chi. L. Rev., at 509. So the ATS neatly filled the remain-
+ing gap by allowing aliens to sue in federal court for a tort
+in violation of the law of nations regardless of the amount
+in controversy. One obvious advantage of this solution
+“was that it was self-executing—it placed the burden on
+injured aliens to bring suit and did not require the still-
+forming US government immediately to marshal the
+resources necessary to prosecute crimes” or aid extradi-
+tions. Id., at 510.
+   Any attempt to decipher a cryptic old statute is sure to
+meet with challenges. For example, one could object that
+this reading of the Act does not assign to the ATS the
+work of addressing assaults by aliens against foreign
+ambassadors on our soil, even though Sosa suggested the
+
+
+                  Cite as: 584 U. S. ____ (2018)            11
+                     Opinion of GORSUCH, J.
+statute was enacted partly in response to precisely such a
+case: the “Marbois incident of May 1784, in which a
+French adventurer, De Longchamps, verbally and physi-
+cally assaulted the Secretary of the French Legion in
+Philadelphia.” 542 U. S., at 716. Many thought that the
+States’ failure to provide a forum for relief to the foreign
+minister was a scandal and part of what prompted the
+framers of the Constitution to strengthen the national
+government. Id., at 717; Bellia & Clark, supra, at 467
+(“The Confederation’s inability to remedy or curtail viola-
+tions like these was a significant factor precipitating the
+Federal Convention of 1787”).
+   But worries along these lines may be misplaced. The
+ATS was never meant to serve as a freestanding statute,
+only as one clause in one section of the Judiciary Act. So
+even if you think something in the Judiciary Act must be
+interpreted to address the Marbois incident, that doesn’t
+mean it must be the ATS clause. And, as it happens, a
+different provision of the Act did deal expressly with the
+problem of ambassadorial assaults: Section 13 conferred
+on this Court “original, but not exclusive jurisdiction of all
+suits brought by ambassadors, or other public ministers,
+or in which a consul, or vice consul shall be a party.” 1
+Stat. 80–81. That implemented Article III’s provision
+empowering us to hear suits “affecting Ambassadors, other
+public ministers and Consuls.” §2. And given that §13
+deals with the problem of “ambassadors” so directly, it is
+unclear why we must read §9 to address that same prob-
+lem. See Lee, The Safe-Conduct Theory of the Alien Tort
+Statute, 106 Colum. L. Rev. 830, 855–858 (2006).
+   Along different but similar lines, some might be con-
+cerned that requiring a U. S. defendant in ATS suits
+would leave the problem of piracy inadequately addressed,
+given that Sosa suggested that piracy was one of the three
+offenses the ATS may have meant to capture, and many
+pirates were foreigners. See 542 U. S., at 719. But here
+
+
+12                JESNER v. ARAB BANK, PLC
+                      Opinion of GORSUCH, J.
+the response is much the same. A separate clause of §9
+gave the district courts “exclusive original cognizance of
+all civil causes of admiralty and maritime jurisdiction.” 1
+Stat. 77. That statute has long been given a broad con-
+struction covering “all maritime contracts, torts and inju-
+ries,” DeLovio v. Boit, 7 F. Cas. 418, 442 (No. 3,776) (CC
+Mass. 1815) (Story, J.), along with “prize jurisdiction,
+which probably included almost all ‘piracy’ cases after
+1789,” Lee, supra, at 867. So it is not clear why it’s neces-
+sary to cram the problem of piracy into the ATS. If any-
+thing, it may be necessary not to do so. Structural fea-
+tures of §9 make it at least questionable that both
+provisions were meant to address the same subject matter:
+Cases falling within §9’s ATS clause could also be brought
+in state court or in the circuit courts, 1 Stat. 77, while §9’s
+admiralty jurisdiction was generally exclusive, id., at 76–
+77. See Lee, supra, at 868. And the two provisions also
+called for incompatible procedures: Section 9 required jury
+trials “in all causes except civil causes of admiralty and
+maritime jurisdiction.” 1 Stat. 77 (emphasis added).
+   If doubt lingers on these historical questions, it is a
+doubt that should counsel restraint all the same. Even if
+the ATS might have meant to allow foreign ambassadors
+to sue foreign defendants, or foreign plaintiffs to sue for-
+eign pirates, what would that prove about more mine-run
+cases like ours, where none of those special concerns are
+implicated? There are at least serious historical argu-
+ments suggesting the ATS was not meant to apply to suits
+like this one. And to the extent Sosa affords courts discre-
+tion to proceed, these arguments should inform any deci-
+sion whether to exercise that discretion. In Kiobel v.
+Royal Dutch Petroleum Co., 569 U. S. 108, 116–117 (2013),
+the Court invoked Sosa discretion to refuse to hear cases
+involving foreign conduct. I can see no reason why courts
+should respond differently when it comes to cases involv-
+
+
+                      Cite as: 584 U. S. ____ (2018)                     13
+                         Opinion of GORSUCH, J.
+ing foreign defendants.4
+    Any consideration of Sosa’s discretion must also account
+for proper limits on the judicial function. As discussed
+above, federal courts generally lack the institutional ex-
+pertise and constitutional authority to oversee foreign
+policy and national security, and should be wary of stray-
+ing where they do not belong. See supra, at 4–5. Yet
+there are degrees of institutional incompetence and consti-
+tutional evil. It is one thing for courts to assume the task
+of creating new causes of action to ensure our citizens
+abide by the law of nations and avoid reprisals against
+this country. It is altogether another thing for courts to
+punish foreign parties for conduct that could not be at-
+tributed to the United States and thereby risk reprisals
+against this country. If a foreign state or citizen violates
+an “international norm” in a way that offends another
+foreign state or citizen, the Constitution arms the Presi-
+dent and Congress with ample means to address it. Or, if
+they think best, the political branches may choose to look
+the other way. But in all events, the decision to impose
+sanctions in disputes between foreigners over international
+——————
+   4 The dissent is wrong to suggest, post, at 17, that Sosa “forecloses”
+the possibility of recognizing a U. S.-defendant requirement in ATS
+cases. Sosa said nothing about the subject. And were Sosa taken to
+preclude any future limits on ATS suits it did not itself anticipate, then
+Kiobel must have been wrong to apply the canon against extraterrito-
+rial application to that statute. But that is not so. The dissent also
+observes that Sosa “involved an ATS suit brought by a citizen of Mexico
+against a citizen of Mexico,” and that certain amici in Sosa filed briefs
+arguing that the Court lacked authority over the ATS claims for that
+reason. See post, at 17. But Sosa did not address those arguments;
+questions that “merely lurk in the record are not resolved, and no
+resolution of them may be inferred.” Illinois Bd. of Elections v. Social-
+ist Workers Party, 440 U. S. 173, 183 (1979) (citations and internal
+quotation marks omitted); accord, RJR Nabisco, Inc. v. European
+Community, 579 U. S. ___, ___, n. 10 (2016) (slip op., at 23, n. 10) (issue
+present but unaddressed by the Court in a previous case was not
+implicitly decided).
+
+
+14                JESNER v. ARAB BANK, PLC
+                      Opinion of GORSUCH, J.
+norms is not ours to make. It is a decision that belongs to
+those answerable to the people and assigned by the Con-
+stitution to defend this nation. If they wish our help, they
+are free to enlist it, but we should not ever be in the busi-
+ness of elbowing our way in.
+
+
+                  Cite as: 584 U. S. ____ (2018)             1
+                    SOTOMAYOR, J., dissenting
+SUPREME COURT OF THE UNITED STATES
+                           _________________
+                            No. 16–499
+                           _________________
+       JOSEPH JESNER, ET AL., PETITIONERS v.
+                     ARAB BANK, PLC
+  ON WRIT OF CERTIORARI TO THE UNITED STATES COURT OF
+              APPEALS FOR THE SECOND CIRCUIT
+                         [April 24, 2018]
+   JUSTICE SOTOMAYOR, with whom JUSTICE GINSBURG,
+JUSTICE BREYER, and JUSTICE KAGAN join, dissenting.
+   The Court today holds that the Alien Tort Statute
+(ATS), 28 U. S. C. §1350, categorically forecloses foreign
+corporate liability. In so doing, it absolves corporations
+from responsibility under the ATS for conscience-shocking
+behavior. I disagree both with the Court’s conclusion and
+its analytic approach. The text, history, and purpose of
+the ATS, as well as the long and consistent history of
+corporate liability in tort, confirm that tort claims for law­
+of-nations violations may be brought against corporations
+under the ATS. Nothing about the corporate form in itself
+raises foreign-policy concerns that require the Court, as a
+matter of common-law discretion, to immunize all foreign
+corporations from liability under the ATS, regardless of
+the specific law-of-nations violations alleged. I respectfully
+dissent.
+                                   I
+   The plurality assumes without deciding that whether
+corporations can be permissible defendants under the ATS
+turns on the first step of the two-part inquiry set out in
+Sosa v. Alvarez-Machain, 542 U. S. 692 (2004). But by
+asking whether there is “a specific, universal, and obliga­
+tory norm of liability for corporations” in international
+
+
+2                  JESNER v. ARAB BANK, PLC
+                     SOTOMAYOR, J., dissenting
+law, ante, at 13, the plurality fundamentally misconceives
+how international law works and so misapplies the first
+step of Sosa.
+                                A
+   In Sosa, the Court considered whether a Mexican citizen
+could recover under the ATS for a claim of arbitrary de­
+tention by a Mexican national who had been hired by the
+Drug Enforcement Administration to seize and transport
+him to the United States. See 542 U. S., at 697–698. The
+Court held that the ATS permits federal courts to “recog­
+nize private causes of action for certain torts in violation of
+the law of nations,” id., at 724, without the need for any
+“further congressional action,” id., at 712. The Court then
+articulated a two-step framework to guide that inquiry.
+First, a court must determine whether the particular
+international-law norm alleged to have been violated is
+“accepted by the civilized world and defined with a speci­
+ficity comparable to the features of the 18th-century para­
+digms,” i.e., “violation of safe conducts, infringement of the
+rights of ambassadors, and piracy.” Id., at 724–725. Only
+if the norm is “ ‘specific, universal, and obligatory’ ” may
+federal courts recognize a cause of action for its violation.
+Kiobel v. Royal Dutch Petroleum Co., 569 U. S. 108, 117
+(2013) (quoting Sosa, 542 U. S., at 732). Second, if that
+threshold hurdle is satisfied, a court should consider
+whether allowing a particular case to proceed is an appro­
+priate exercise of judicial discretion. Sosa, 542 U. S., at
+727–728, 732–733, 738. Applying that framework, Sosa
+held that the alleged arbitrary detention claim at issue
+failed at step one because “a single illegal detention of less
+than a day, followed by the transfer of custody to lawful
+authorities and a prompt arraignment, violates no norm of
+customary international law so well defined as to support
+the creation of a federal remedy.” Id., at 738.
+   Sosa’s norm-specific first step is inapposite to the cate­
+
+
+                  Cite as: 584 U. S. ____ (2018)            3
+                    SOTOMAYOR, J., dissenting
+gorical question whether corporations may be sued under
+the ATS as a general matter. International law imposes
+certain obligations that are intended to govern the behav­
+ior of states and private actors. See id., at 714–715; 1
+Restatement (Third) of Foreign Relations Law of the
+United States, pt. II, Introductory Note, pp. 70–71 (1987)
+(Restatement). Among those obligations are substantive
+prohibitions on certain conduct thought to violate human
+rights, such as genocide, slavery, extrajudicial killing, and
+torture. See 2 Restatement §702. Substantive prohibi­
+tions like these are the norms at which Sosa’s step-one
+inquiry is aimed and for which Sosa requires that there be
+sufficient international consensus.
+   Sosa does not, however, demand that there be sufficient
+international consensus with regard to the mechanisms of
+enforcing these norms, for enforcement is not a question
+with which customary international law is concerned.
+Although international law determines what substantive
+conduct violates the law of nations, it leaves the specific
+rules of how to enforce international-law norms and remedy
+their violation to states, which may act to impose liability
+collectively through treaties or independently via their
+domestic legal systems. See, e.g., L. Henkin, Foreign
+Affairs and the United States Constitution 245 (2d ed.
+1996) (“International law itself . . . does not require
+any particular reaction to violations of law”); Denza,
+The Relationship Between International and National
+Law, in International Law 423 (M. Evans ed. 2006)
+(“[I]nternational law does not itself prescribe how it should
+be applied or enforced at the national level”); 1 Restate­
+ment §111, Comment h (“In the absence of special agree­
+ment, it is ordinarily for the United States to decide how it
+will carry out its international obligations”); Brief for
+International Law Scholars as Amici Curiae 9–10.
+   In keeping with the nature of international law, Sosa
+consistently used the word “norm” to refer to substantive
+
+
+4                  JESNER v. ARAB BANK, PLC
+                     SOTOMAYOR, J., dissenting
+conduct. For example, Sosa commands that “federal
+courts should not recognize private claims under federal
+common law for violations of any international law norm
+with less definite content and acceptance among civilized
+nations than the historical paradigms familiar when
+§1350 was enacted.” 542 U. S., at 732. That statement
+would make little sense if “norm” encompassed enforce­
+ment mechanisms like “corporate liability.” Unlike “the
+prohibition on genocide,” “corporate liability” cannot be
+violated. Moreover, “the historical paradigms familiar
+when §1350 was enacted” are all prohibitions on conduct,
+and Sosa clearly contemplated that courts should compare
+the charged conduct with the historical conduct. See ibid.
+(quoting Filartiga v. Pena-Irala, 630 F. 2d 876 (1980),
+where the Court of Appeals for the Second Circuit com­
+pared a “ ‘torturer’ ” to “ ‘the pirate and slave trader before
+him,’ ” id., at 890, and Judge Edwards’ concurrence in Tel-
+Oren v. Libyan Arab Republic, 726 F. 2d 774 (CADC
+1984), which suggested that the “ ‘limits of section 1350’s
+reach’ ” be defined by “ ‘a handful of heinous actions—each
+of which violates definable, universal and obligatory
+norms,’ ” id., at 781). There is no indication in Sosa that
+the Court also intended for courts to undertake the apples-
+to-oranges comparison of the conduct proscribed under
+customary international law and the forms of liability
+available under domestic law.
+   The text of the ATS also reflects this distinction between
+prohibiting conduct and determining enforcement. The
+statute provides: “The district courts shall have original
+jurisdiction of any civil action by an alien for a tort only,
+committed in violation of the law of nations or a treaty of
+the United States.” 28 U. S. C. §1350. The phrase “of the
+law of nations” modifies “violation,” not “civil action.” The
+statutory text thus requires only that the alleged conduct
+be specifically and universally condemned under interna­
+tional law, not that the civil action be of a type that the
+
+
+                   Cite as: 584 U. S. ____ (2018)             5
+                     SOTOMAYOR, J., dissenting
+international community specifically and universally
+practices or endorses.
+                                 B
+                                 1
+   The plurality nonetheless allies itself with the view that
+international law supplies the rule of decision in this case
+based on its reading of footnote 20 in Sosa. That footnote
+sets out “[a] related consideration” to “the determination
+whether a norm is sufficiently definite to support a cause
+of action.” 542 U. S., at 732, and n. 20. In full, it states:
+     “A related consideration is whether international law
+     extends the scope of liability for a violation of a given
+     norm to the perpetrator being sued, if the defendant is
+     a private actor such as a corporation or individual.
+     Compare Tel-Oren v. Libyan Arab Republic, 726 F. 2d
+     774, 791–795 (CADC 1984) (Edwards, J., concurring)
+     (insufficient consensus in 1984 that torture by private
+     actors violates international law), with Kadic v.
+     Karadžić, 70 F. 3d 232, 239–241 (CA2 1995) (suffi­
+     cient consensus in 1995 that genocide by private ac­
+     tors violates international law).” 542 U. S., at 732,
+     n. 20.
+   In the Second Circuit’s decision in Kiobel v. Royal Dutch
+Petroleum, 621 F. 3d 111 (2010), the majority opinion read
+footnote 20 to “requir[e] that [courts] look to international
+law to determine [their] jurisdiction over ATS claims
+against a particular class of defendant, such as corpora­
+tions.” Id., at 127 (emphasis in original). The plurality
+today accords “considerable force and weight to [that]
+position,” ante, at 13, and so proceeds to assess whether
+there exists a specific, universal, and obligatory norm of
+liability for corporations in international law, ante, at 13–
+17. But the Court of Appeals mistook the meaning of
+footnote 20, which simply draws attention to the fact that,
+
+
+6                    JESNER v. ARAB BANK, PLC
+                        SOTOMAYOR, J., dissenting
+under international law, “the distinction between conduct
+that does and conduct that does not violate the law of
+nations can turn on whether the conduct is done by or on
+behalf of a State or by a private actor independently of a
+State.” Kiobel, 621 F. 3d, at 177 (Leval, J., concurring in
+judgment).
+   The international-law norm against genocide, for exam­
+ple, imposes obligations on all actors. Acts of genocide
+thus violate the norm irrespective of whether they are
+committed privately or in concert with the state. See
+Convention on the Prevention and Punishment of the
+Crime of Genocide, Art. II, Dec. 9, 1948, 102 Stat. 3045
+(defining “genocide” as “any of the following acts commit­
+ted with intent to destroy, in whole or in part, a national,
+ethnical, racial or religious group”); see also 18 U. S. C.
+§1091(a) (“Whoever” commits genocide “shall be punished
+as provided in subsection (b)”). In contrast, other norms,
+like the prohibition on torture, require state action. Con­
+duct thus qualifies as torture and violates the norm only
+when done “by or at the instigation of or with the consent
+or acquiescence of a public official or other person acting
+in an official capacity.” Convention Against Torture and
+Other Cruel, Inhuman or Degrading Treatment or Pun­
+ishment, Art. 1, Dec. 10, 1984, S. Treaty Doc. No. 100–20,
+1465 U. N. T. S. 114 (Torture Convention).1
+   Footnote 20 in Sosa flags this distinction and instructs
+courts to consider whether there is “sufficient consensus”
+that, with respect to the particular conduct prohibited
+under “a given norm,” the type of defendant being sued
+can be alleged to have violated that specific norm. 542
+U. S., at 732, n. 20. Because footnote 20 contemplates a
+——————
+  1 This distinction is similar to the state-action doctrine in domestic
+law. The prohibitions in the Bill of Rights, for instance, apply only to
+state actors, whereas the Thirteenth Amendment’s prohibition on
+slavery applies to all actors, state and private. See United States v.
+Kozminski, 487 U. S. 931, 942 (1988).
+
+
+                      Cite as: 584 U. S. ____ (2018)                    7
+                        SOTOMAYOR, J., dissenting
+norm-specific inquiry, not a categorical one, it is irrelevant
+to the categorical question presented here. Assuming the
+prohibition against financing of terrorism is sufficiently
+“specific, universal, and obligatory” to satisfy the first step
+of Sosa, a question on which I would remand to the Court
+of Appeals, nothing in international law suggests a corpo­
+ration may not violate it.2
+——————
+   2 At present, the norm-specific query contemplated by footnote 20 is
+likely resolved simply by considering whether the given international-
+law norm binds only state actors or state and nonstate actors alike,
+because there does not appear to be an international-law norm that
+contemplates a finer distinction between types of private actors. See
+Brief for United States as Amicus Curiae in Kiobel v. Royal Dutch
+Petroleum Co., O. T. 2012, No. 10–1491, p. 20 (“At the present time, the
+United States is not aware of any international-law norm, accepted by
+civilized nations and defined with the degree of specificity required by
+Sosa, that requires, or necessarily contemplates, a distinction between
+natural and juridical actors”); Dodge, Corporate Liability Under Cus­
+tomary International Law, 43 Geo. J. Int’l L. 1045, 1050 (2012) (“None
+of the norms that are actionable under Sosa distinguish between
+natural and juridical persons”).
+   Sosa itself supports the proposition that international law does not
+distinguish between types of private actors, but rather treats natural
+persons and corporations alike. Footnote 20 groups corporations and
+individuals together under the larger category of “private actor.” Sosa,
+542 U. S., at 732, n. 20 (“if the defendant is a private actor such as a
+corporation or an individual”); see also id., at 760 (BREYER, J., concur­
+ring in part and concurring in judgment) (“The norm must extend
+liability to the type of perpetrator (e.g., a private actor) the plaintiff
+seeks to sue” (citing id., at 732, n. 20)). Sosa also describes the two
+Court of Appeals decisions on which it relies as having considered
+whether there was sufficient consensus that particular conduct—
+torture or genocide—“violates international law” when undertaken “by
+private actors.” Id., at 732, n. 20 (discussing Tel-Oren v. Libyan Arab
+Republic, 726 F. 2d 774, 791–795 (CADC 1984) (Edwards, J., concur­
+ring), and Kadic v. Karadžić, 70 F. 3d 232, 239–241 (CA2 1995)). Even
+though the defendant in Kadic was a natural person, see id., at 237,
+and the defendants in Tel-Oren were juridical entities, see 726 F. 2d, at
+775–776, Sosa refers to them all as “private actors,” 542 U. S., at 732,
+n. 20.
+
+
+8                 JESNER v. ARAB BANK, PLC
+                    SOTOMAYOR, J., dissenting
+                              2
+   The plurality briefly acknowledges this critique of its
+reading of footnote 20, but nonetheless assumes the cor­
+rectness of its approach because of its view that there
+exists a “distinction in international law between corpora­
+tions and natural persons.” Ante, at 17. The plurality
+attempts to substantiate this proposition by pointing to
+the charters of certain international criminal tribunals
+and noting that none was given jurisdiction over corporate
+defendants. That argument, however, confuses the sub­
+stance of international law with how it has been enforced
+in particular contexts.
+   Again, the question of who must undertake the prohib­
+ited conduct for there to be a violation of an international-
+law norm is one of international law, but how a particular
+actor is held liable for a given law-of-nations violation
+generally is a question of enforcement left up to individual
+states. Sometimes, states act collectively and establish
+international tribunals to punish certain international-law
+violations. Each such tribunal is individually negotiated,
+and the limitations placed on its jurisdiction are typi-
+cally driven by strategic considerations and resource
+constraints.
+   For example, the Allies elected not to prosecute corpora­
+tions at Nuremberg because of pragmatic factors. Those
+factors included scarce judicial resources, a preference of
+the occupation governments to swiftly dismantle the most
+culpable German companies without destroying Germa­
+ny’s postwar economy, and a desire to focus on establish­
+ing the principle of nonstate criminal responsibility for
+human-rights violations. See Brief for Nuremberg Schol­
+ars as Amici Curiae 4, 11–13.
+   More recently, the delegations that negotiated the Rome
+Statute of the International Criminal Court in the 1990’s
+elected not to extend that tribunal’s jurisdiction to corpo­
+rations in part because states had varying domestic prac­
+
+
+                    Cite as: 584 U. S. ____ (2018)            9
+                     SOTOMAYOR, J., dissenting
+tices as to whether and how to impose criminal liability on
+corporations. See Frulli, Jurisdiction Ratione Personae, in
+1 Rome Statute of the International Criminal Court 527,
+532–533 (A. Cassese et al. eds. 2002); Brief for Ambassa­
+dor David J. Scheffer as Amicus Curiae 8–10.
+   Taken to its natural conclusion, the plurality’s focus on
+the practice of international criminal tribunals would
+prove too much. No international tribunal has been created
+and endowed with the jurisdiction to hold natural persons
+civilly (as opposed to criminally) liable, yet the majority
+and respondent accept that natural persons can be held
+liable under the ATS. See ante, at 26; Tr. of Oral Arg. 62.
+It cannot be persuasive evidence for purposes of ascertain­
+ing the availability of corporate civil liability under the
+ATS, then, that the jurisdiction of the handful of interna­
+tional criminal tribunals that states have seen fit to
+create in the last 75 years has not extended to corporate
+defendants.
+   Ultimately, the evidence on which the plurality relies
+does not prove that international law distinguishes be­
+tween corporations and natural persons as a categorical
+matter. To the contrary, it proves only that states’ collec­
+tive efforts to enforce various international-law norms
+have, to date, often focused on natural rather than corpo­
+rate defendants.
+   In fact, careful review of states’ collective and individual
+enforcement efforts makes clear that corporations are
+subject to certain obligations under international law. For
+instance, the United States Military Tribunal that prose­
+cuted several corporate executives of IG Farben declared
+that corporations could violate international law. See 8
+Trials of War Criminals Before the Nuernberg Military
+Tribunals Under Council Control Law No. 10, p. 1132
+(1952) (“Where private individuals, including juristic
+persons, proceed to exploit the military occupancy by
+acquiring private property against the will and consent of
+
+
+10                    JESNER v. ARAB BANK, PLC
+                        SOTOMAYOR, J., dissenting
+the former owner, such action . . . is in violation of interna­
+tional law”).3 Similarly, the International Criminal Tri­
+bunal for Rwanda found that three nonnatural entities—a
+private radio station, newspaper, and political party—
+were responsible for genocide. See Prosecutor v. Nahimana,
+Case No. ICTR–99–52–T, Judgment and Sentence ¶953
+(Dec. 3, 2003). Most recently, the appeals panel of the
+Special Tribunal for Lebanon held that corporations may
+be prosecuted for contempt. See Prosecutor v. New TV
+S. A. L., Case No. STL–14–05/PT/AP/AR126.1, Decision on
+Interlocutory Appeal Concerning Personal Jurisdiction in
+Contempt Proceedings ¶74 (Oct. 2, 2014).
+    In addition, various international agreements require
+signatory states to impose liability on corporations for
+certain conduct.4 Of particular relevance here, the Inter­
+national Convention for the Suppression of the Financing
+of Terrorism provides: “Any person commits an offence
+within the meaning of this Convention if that person by
+any means, directly or indirectly, unlawfully and wilfully,
+provides or collects funds with the intention that they
+should be used or in the knowledge that they are to be
+used, in full or in part, in order to carry out” an act of
+——————
+   3 The Nuremberg Tribunal also was empowered to adjudicate a form
+of criminal organizational liability, pursuant to which an individual
+member of a convicted organization would face a rebuttable presump­
+tion of guilt in a subsequent proceeding. Brief for Nuremberg Scholars
+as Amici Curiae 4, 20–21 (citing Agreement for the Prosecution and
+Punishment of the Major War Criminals of the European Axis, Aug. 8,
+1945, Arts. 9–10, 59 Stat. 1544, E. A. S. No. 472; see also Brief for
+Nuremberg Scholars 21–22 (citing United States v. Goering, 22 Trial of
+the Major War Criminals Before the International Military Tribunal
+171, 505, 511, 516–517 (Int’l Mil. Trib. 1946) (declaring three organiza­
+tions criminal)).
+   4 See, e.g., United Nations Convention Against Transnational Orga­
+nized Crime, Art. 10(1), Nov. 15, 2000, T. I. A. S. No. 13127, S. Treaty
+Doc. No. 108–16; Convention on Combating Bribery of Foreign Public
+Officials in International Business Transactions, Art. 2, Dec. 17, 1997,
+2802 U. N. T. S. 230.
+
+
+                      Cite as: 584 U. S. ____ (2018)                    11
+                         SOTOMAYOR, J., dissenting
+terrorism. Dec. 9, 1999, Art. 2, S. Treaty Doc. No. 106–49,
+2178 U. N. T. S. 230. It then requires each signatory
+state, “in accordance with its domestic legal principles,” to
+“take the necessary measures to enable a legal entity
+located in its territory or organized under its laws to be
+held liable when a person responsible for the management
+or control of that legal entity has, in that capacity,” violated
+the Convention. Id., Art. 5(1). The Convention provides
+that “[s]uch liability may be criminal, civil, or administra­
+tive,” ibid., so long as the penalties, which can include
+monetary sanctions, are “effective, proportionate and
+dissuasive.” Id., Art. 5(3). The United States is a party to
+the Convention, along with 131 other states.5
+   The plurality dismisses the relevance of this Convention
+because it does not require states parties to hold corpora­
+tions liable in common-law tort actions, but rather permits
+them to “fulfill their obligations . . . by adopting detailed
+regulatory regimes governing financial institutions.” Ante,
+at 16. That critique misses the point. The significance of
+the Convention is that the international community
+agreed that financing terrorism is unacceptable conduct
+and that such conduct violates the Convention when un­
+dertaken by corporations. That the Convention leaves up
+to each state party how to impose liability on corporations,
+e.g., via erecting a regulatory regime, providing for tort
+actions, or imposing criminal sanctions, is unremarkable,6
+and simply reflects that international law sets out stand­
+——————
+  5 See International Convention for the Suppression of the Financing
+of Terrorism, online at https://treaties.un.org/doc/Publication/MTDSG/
+Volume%20II/Chapter%20XVIII/XVIII-11.en.pdf (all Internet materials
+as last visited Apr. 16, 2018).
+  6 The Genocide Convention also does not specifically require that
+states parties recognize tort claims for genocide, but federal courts have
+long permitted such actions under the ATS as a matter of federal
+common law. See, e.g., Kadic, 70 F. 3d, at 236. The same is true of the
+Torture Convention. See, e.g., Filartiga v. Pena-Irala, 630 F. 2d 876,
+885 (CA2 1980).
+
+
+12               JESNER v. ARAB BANK, PLC
+                   SOTOMAYOR, J., dissenting
+ards of conduct and leaves it to individual states to deter­
+mine how best to enforce those standards.
+   Finally, a number of states, acting individually, have
+imposed criminal and civil liability on corporations for
+law-of-nations violations through their domestic legal
+systems. See, e.g., New TV S. A. L., Case No. STL–14–
+05/PT/AP/AR126.1, ¶¶52–55 (listing more than 40 coun­
+tries that provide for corporate criminal liability); A. Ra­
+masastry & R. Thompson, Commerce, Crime and Conflict:
+Legal Remedies for Private Sector Liability for Grave
+Breaches of International Law 22–24 (2006), available at
+https://www.biicl.org/files/4364_536.pdf (noting that 15 of
+16 countries surveyed permit civil claims against corpora­
+tions for human rights violations); Brief for Comparative
+Law Scholars and Practitioners as Amici Curiae 15–19
+(detailing provisions creating corporate civil liability for
+international-law violations in England, France, the Neth­
+erlands, and Canada).
+                              C
+   Instead of asking whether there exists a specific, uni­
+versal, and obligatory norm of corporate liability under
+international law, the relevant inquiry in response to the
+question presented here is whether there is any reason—
+under either international law or our domestic law—to
+distinguish between a corporation and a natural person
+who is alleged to have violated the law of nations under
+the ATS. As explained above, international law provides
+no such reason. See Kiobel, 621 F. 3d, at 175 (Leval, J.,
+concurring in judgment) (“[T]he answer international law
+furnishes is that it takes no position on the question”).
+Nor does domestic law. The text, history, and purpose of
+the ATS plainly support the conclusion that corporations
+may be held liable.
+   Beginning “with the language of the statute itself,”
+United States v. Ron Pair Enterprises, Inc., 489 U. S. 235,
+
+
+                   Cite as: 584 U. S. ____ (2018)          13
+                     SOTOMAYOR, J., dissenting
+241 (1989), two aspects of the text of the ATS make clear
+that the statute allows corporate liability. First, the text
+confers jurisdiction on federal district courts to hear “civil
+action[s]” for “tort[s].” 28 U. S. C. §1350. Where Congress
+uses a term of art like tort, “it presumably knows and
+adopts the cluster of ideas that were attached to [the]
+borrowed word in the body of learning from which it was
+taken and the meaning its use will convey to the judicial
+mind unless otherwise instructed.” Morissette v. United
+States, 342 U. S. 246, 263 (1952).
+   Corporations have long been held liable in tort under
+the federal common law. See Philadelphia, W., & B. R.
+Co. v. Quigley, 21 How. 202, 210 (1859) (“At a very early
+period, it was decided in Great Britain, as well as in the
+United States, that actions might be maintained against
+corporations for torts; and instances may be found, in the
+judicial annals of both countries, of suits for torts arising
+from the acts of their agents, of nearly every variety”);
+Chestnut Hill & Spring House Turnpike Co. v. Rutter, 4
+Serg. & Rawle 6, 17 (Pa. 1818) (“[F]rom the earliest times
+to the present, corporations have been held liable for
+torts”). This Court “has assumed that, when Congress
+creates a tort action, it legislates against a legal back­
+ground of ordinary tort-related . . . rules and consequently
+intends its legislation to incorporate those rules.” Meyer v.
+Holley, 537 U. S. 280, 285 (2003). The presumption, then,
+is that, in providing for “tort” liability, the ATS provides
+for corporate liability.
+   Second, whereas the ATS expressly limits the class of
+permissible plaintiffs to “alien[s],” §1350, it “does not
+distinguish among classes of defendants,” Argentine Re-
+public v. Amerada Hess Shipping Corp., 488 U. S. 428, 438
+(1989). That silence as to defendants cannot be presumed
+to be inadvertent. That is because in the same section of
+the Judiciary Act of 1789 as what is now the ATS, Con­
+gress provided the federal district courts with jurisdiction
+
+
+14                 JESNER v. ARAB BANK, PLC
+                     SOTOMAYOR, J., dissenting
+over “all suits against consuls or vice-consuls.” §9, 1 Stat.
+76–77. Where Congress wanted to limit the range of
+permissible defendants, then, it clearly knew how to do so.
+Russello v. United States, 464 U. S. 16, 23 (1983) (“[W]here
+Congress includes particular language in one section of a
+statute but omits it in another section of the same Act, it
+is generally presumed that Congress acts intentionally
+and purposely in the disparate inclusion or exclusion”
+(internal quotation marks omitted)).
+   Nothing about the historical background against which
+the ATS was enacted rebuts the presumption that the
+statute incorporated the accepted principle of corporate
+liability for tortious conduct. Under the Articles of Con­
+federation, the Continental Congress was unable to pro­
+vide redress to foreign citizens for violations of treaties or
+the law of nations, which threatened to undermine the
+United States’ relationships with other nations. See
+Kiobel, 569 U. S., at 123. The First Congress responded
+with, inter alia, the ATS. Although the two incidents that
+highlighted the need to provide foreign citizens with a
+federal forum in which to pursue their grievances involved
+conflicts between natural persons, see ante, at 7 (majority
+opinion) (describing the assault by a French adventurer on
+the Secretary of the French Legation and the arrest of one
+of the Dutch Ambassador’s servants by a New York con­
+stable), there is “no reason to conclude that the First
+Congress was supremely concerned with the risk that
+natural persons would cause the United States to be
+drawn into foreign entanglements, but was content to
+allow formal legal associations of individuals, i.e., corpora­
+tions, to do so,” Doe v. Exxon Mobil Corp., 654 F. 3d 11, 47
+(CADC 2011), vacated on other grounds, 527 Fed. Appx. 7
+(CADC 2013); see also Brief for United States as Amicus
+Curiae 6 (“The ATS was enacted to ensure a private dam­
+ages remedy for incidents with the potential for serious
+diplomatic consequences, and Congress had no good rea­
+
+
+                    Cite as: 584 U. S. ____ (2018)         15
+                     SOTOMAYOR, J., dissenting
+son to limit the set of possible defendants in such actions
+to potentially judgment-proof individuals”). Indeed, fore­
+closing corporations from liability under the ATS would
+have been at odds with the contemporaneous practice of
+imposing liability for piracy on ships, juridical entities.
+See, e.g., Skinner v. East India Co., 6 State Trials 710, 711
+(1666); The Marianna Flora, 11 Wheat. 1, 40–41 (1826);
+Harmony v. United States, 2 How. 210, 233 (1844).
+   Finally, the conclusion that corporations may be held
+liable under the ATS for violations of the law of nations is
+not of recent vintage. More than a century ago, the Attor­
+ney General acknowledged that corporations could be held
+liable under the ATS. See 26 Op. Atty. Gen. 250, 252
+(1907) (stating that citizens of Mexico could bring a claim
+under the ATS against a corporation, the American Rio
+Grande Land and Irrigation Company, for violating provi­
+sions of a treaty between the United States and Mexico).
+                                 D
+   In his concurrence, JUSTICE GORSUCH urges courts to
+exercise restraint in recognizing causes of action under the
+ATS. But whether the ATS provides a cause of action for
+violations of the norms against genocide, crimes against
+humanity, and financing of terrorism is not the question
+the parties have asked the Court to decide. I therefore see
+no reason why it is necessary to delve into the propriety of
+creating new causes of action. Nevertheless, because I
+disagree with the premises on which the concurrence
+relies, I offer two brief observations.
+   First, JUSTICE GORSUCH says it “pass[es] understand­
+ing” why federal courts have exercised jurisdiction over
+ATS claims raised by foreign plaintiffs against foreign
+defendants for breaches of international norms. See ante,
+at 1 (opinion concurring in part and concurring in judg­
+ment). Modern ATS cases, however, are not being litigated
+against a blank slate. The Court held in Sosa that Con­
+
+
+16                JESNER v. ARAB BANK, PLC
+                    SOTOMAYOR, J., dissenting
+gress authorized the federal courts to “recognize private
+causes of action for certain torts in violation of the law of
+nations,” 542 U. S., at 724, so long as the underlying norm
+had no “less definite content and acceptance among civi­
+lized nations than the historical paradigms familiar when
+§1350 was enacted,” id., at 732. That holding was no mere
+“suggestion,” ante, at 2 (opinion of GORSUCH, J.), as this
+Court has made clear. See Kiobel, 569 U. S., at 116–117.
+   Given that the First Congress authorized suit for viola­
+tions based on “the law of nations” and “treat[ies] of the
+United States,” 28 U. S. C. §1350, it is natural to conclude
+that Congress intended the district courts to consider new
+claims under the law of nations as that law and our Na­
+tion’s treaty obligations continued to develop. If Congress
+intended to limit such cases to violations of safe conduct,
+assaults against ambassadors, piracy, and—as JUSTICE
+GORSUCH suggests may have been the case—“ ‘personal
+injuries that US citizens inflicted upon aliens resulting in
+less than $500 in damages,’ ” ante, at 10 (quoting Bellia &
+Clark, The Alien Tort Statute and the Law of Nations, 78
+U. Chi. L. Rev. 445, 509 (2011)), it easily could have said
+so. Instead, it granted the federal courts jurisdiction over
+claims based on “the law of nations,” a body of law that
+Congress did not understand to be static. See United
+States v. The La Jeune Eugenie, 26 F. Cas. 832, 846 (No.
+15,551) (CC Mass. 1822) (Story, J.) (“What, therefore, the
+law of nations is . . . may be considered as modified by
+practice, or ascertained by the treaties of nations at differ­
+ent periods. It does not follow . . . that because a principle
+cannot be found settled by the consent or practice of na­
+tions at one time, it is to be concluded, that at no subse­
+quent period the principle can be considered as incorpo­
+rated into the public code of nations”).
+   The question for courts considering new ATS claims is,
+“Who are today’s pirates?” Kiobel, 569 U. S., at 129
+(BREYER, J., concurring in judgment). Torturers and those
+
+
+                  Cite as: 584 U. S. ____ (2018)           17
+                    SOTOMAYOR, J., dissenting
+who commit genocide are now fairly viewed, like pirates,
+as “common enemies of all mankind.” Id., at 131 (internal
+quotation marks omitted). On remand, the Court of Ap­
+peals would decide whether the financiers of terrorism are
+the same. The fact that few norms have overcome Sosa’s
+high hurdle is strong evidence that the carefully consid­
+ered standard set forth in that case is generating exactly
+the kind of “judicial caution” the Court stressed as neces­
+sary. See 542 U. S., at 725.
+   Second, the concurrence suggests that federal courts
+may lack jurisdiction to entertain suits between aliens
+based solely on a violation of the law of nations. It con­
+tends that ATS suits between aliens fall under neither the
+federal courts’ diversity jurisdiction nor our federal ques­
+tion jurisdiction. The Court was not unaware of this
+argument when it decided Sosa. As noted, that case in­
+volved an ATS suit brought by a citizen of Mexico against
+a citizen of Mexico, and various amici argued that the
+Court lacked Article III jurisdiction over such suits. See
+Brief for National Foreign Trade Counsel et al. as Amici
+Curiae in Sosa v. Alvarez-Machain, O. T. 2003, No. 03–
+339, pp. 24–25; see also Brief for Washington Legal Foun­
+dation et al. as Amici Curiae in No. 03–339, pp. 14–21.
+The Court nonetheless proceeded to decide the case, which
+it could not have done had it been concerned about its
+Article III power to do so. See Arbaugh v. Y & H Corp.,
+546 U. S. 500, 514 (2006). That decision forecloses the
+argument the concurrence now makes, as Sosa authorized
+courts to “recognize private claims under federal common
+law for violations of ” certain international law norms.
+542 U. S., at 732 (emphasis added); see also id., at 729–
+730 (explaining that, post-Erie R. Co. v. Tompkins, 304
+U. S. 64 (1938), there are “limited enclaves in which federal
+courts may derive from substantive law in a common law
+way,” including the law of nations, and that “it would be
+unreasonable to assume that the First Congress would
+
+
+18                 JESNER v. ARAB BANK, PLC
+                     SOTOMAYOR, J., dissenting
+have expected federal courts to lose all capacity to recog­
+nize enforceable international norms simply because the
+common law might lose some metaphysical cachet on the
+road to modern realism”); Sarei v. Rio Tinto, 671 F. 3d
+736, 749–754 (CA9 2011) (en banc) (discussing Sosa and
+concluding that federal courts have Article III jurisdiction
+to hear ATS cases between aliens), vacated and remanded,
+569 U. S. 945 (2013) (remanding for further consideration
+in light of Kiobel).
+   Sosa was correct as a legal matter. Moreover, our Na­
+tion has an interest not only in providing a remedy when
+our own citizens commit law of nations violations, but also
+in preventing our Nation from serving as a safe harbor
+for today’s pirates. See Kiobel, 569 U. S., at 133–134
+(BREYER, J., concurring in judgment). To that end, Con­
+gress has ratified treaties requiring the United States “to
+punish or extradite offenders, even when the offense was
+not committed . . . by a national.” 1 Restatement §404,
+Reporters’ Note 1, at 255–257; see Torture Convention,
+Arts. 5, 7; Convention on the Prevention and Punishment
+of Crimes Against Internationally Protected Persons,
+Including Diplomatic Agents, Art. 3, Dec. 14, 1973, 28
+U. S. T. 1975, T. I. A. S. No. 8532; Convention for the
+Suppression of Unlawful Acts Against the Safety of Civil
+Aviation, Sept. 23, 1971, 24 U. S. T. 565, T. I. A. S. No.
+7570; Convention for the Suppression of Unlawful Seizure
+of Aircraft, Art. 4, Dec. 16, 1970, 22 U. S. T. 1641,
+T. I. A. S. No. 7192; Geneva Convention Relative to the
+Treatment of Prisoners of War, Art. 129, Aug. 12, 1949, 6
+U. S. T. 3316, T. I. A. S. No. 3364. To the extent suits
+against foreign defendants may lead to international
+friction, that concern is better addressed under the pre­
+sumption the Court established in Kiobel against extrater­
+ritorial application of the ATS, see 569 U. S., at 124–125,
+than it is by relitigating settled precedent.
+
+
+                  Cite as: 584 U. S. ____ (2018)             19
+                    SOTOMAYOR, J., dissenting
+                               II
+  At its second step, Sosa cautions that courts should
+consider whether permitting a case to proceed is an ap­
+propriate exercise of judicial discretion in light of potential
+foreign-policy implications. See 542 U. S., at 727–728,
+732–733, 738. The plurality only assumes without decid­
+ing that international law does not impose liability on
+corporations, so it necessarily proceeds to Sosa’s second
+step. Here, too, its analysis is flawed.
+                                A
+  Nothing about the corporate form in itself justifies
+categorically foreclosing corporate liability in all ATS
+actions. Each source of diplomatic friction that respond­
+ent Arab Bank and the plurality identify can be addressed
+with a tool more tailored to the source of the problem than
+a blanket ban on corporate liability.
+  Arab Bank contends that foreign citizens should not be
+able “to sue a Jordanian corporation in New York for
+events taking place in the Middle East.” Brief for Re­
+spondent 42. The heart of that qualm was already ad­
+dressed in Kiobel, which held that the presumption
+against extraterritoriality applies to the ATS. 569 U. S.,
+at 124. Only where the claims “touch and concern the
+territory of the United States . . . with sufficient force” can
+the presumption be displaced. Id., at 124–125. “[M]ere
+corporate presence” does not suffice. Id., at 125. Thus,
+contrary to the majority’s contention, “the relatively minor
+connection between the terrorist attacks at issue in this
+case and the alleged conduct in the United States” does
+not “well illustrat[e] the perils of extending the scope of
+ATS liability to foreign multinational corporations,” ante,
+at 25, but merely illustrates the risks of extending the
+scope of ATS liability extraterritorially absent sufficient
+connection to the United States.
+  Arab Bank also bemoans the unfairness of being sued
+
+
+20                 JESNER v. ARAB BANK, PLC
+                     SOTOMAYOR, J., dissenting
+when others—namely, the individuals and organizations
+that carried out the terrorist attacks—were “the direct
+cause” of the harm petitioners here suffered. Brief for
+Respondent 41. That complaint, though, is a critique of
+the imposition of liability for financing terrorism, not an
+argument that ATS suits against corporations generally
+necessarily cause diplomatic tensions.
+   Arab Bank further expresses concern that ATS suits are
+being filed against corporations in an effort to recover for
+the bad acts of foreign governments or officials. See id., at
+40. But the Bank’s explanation of this problem reveals
+that the true source of its grievance is the availability of
+aiding and abetting liability. See ibid. (“[N]umerous ATS
+suits have alleged that a corporation has aided or abetted
+bad acts committed by a foreign government and its offi-
+cials” (emphasis in original)); id., at 41 (“[A]iding and
+abetting suits under the ATS have given plaintiffs ‘a clear
+means for effectively circumventing’ critical limits on
+foreign sovereign immunity” (quoting Brief for United
+States as Amicus Curiae in American Isuzu Motors, Inc. v.
+Ntsebeza, O. T. 2007, No. 07–919, p. 15)). The plurality
+too points to an aiding and abetting case to support its
+contention that plaintiffs “use corporations as surrogate
+defendants to challenge the conduct of foreign govern­
+ments.” Ante, at 21 (discussing Kiobel, in which plaintiffs
+sought to hold a corporate defendant liable for “ ‘aiding
+and abetting the Nigerian Government in committing’ ”
+law-of-nations violations (quoting 569 U. S., at 114)). Yet
+not all law-of-nations violations asserted against corpora­
+tions are premised on aiding and abetting liability; it is
+possible for a corporation to violate international-law
+norms independent of a foreign state or foreign state
+officials. In this respect, too, the Court’s rule is ill fitted to
+the problem identified.
+   Notably, even the Hashemite Kingdom of Jordan does
+not argue that there are foreign-policy tensions inherent
+
+
+                      Cite as: 584 U. S. ____ (2018)                   21
+                        SOTOMAYOR, J., dissenting
+in suing a corporation generally. Instead, Jordan contends
+that this particular suit is an affront to its sovereignty
+because of its extraterritorial character and because of the
+role that Arab Bank specifically plays in the Jordanian
+economy. See Brief for Hashemite Kingdom of Jordan as
+Amicus Curiae 6–12.7
+    The majority also cites to instances in which other
+foreign sovereigns have “appeared in this Court to note
+[their] objections to ATS litigation,” ante, at 26, but none
+of those objections was about the availability of corporate
+liability as a general matter. See Sosa, 542 U. S., at 733,
+n. 21 (noting argument of the European Commission that
+“basic principles of international law require that before
+asserting a claim in a foreign forum, the claimant must
+have exhausted any remedies available in the domestic
+legal system, and perhaps in other forums such as inter­
+national claims tribunals”); ibid. (noting objections by
+South Africa to “several class actions seeking damages
+from various corporations alleged to have participated in,
+or abetted, the regime of apartheid” on the basis that the
+cases “interfere[d] with the policy embodied by its Truth
+and Reconciliation Commission”); Brief for Federal Repub­
+lic of Germany as Amicus Curiae in Kiobel v. Royal Dutch
+Petroleum Co., O. T. 2012, No. 10–1491, p. 1 (“The Federal
+Republic of Germany has consistently maintained its
+opposition to overly broad assertions of extraterritorial
+civil jurisdiction arising out of aliens’ claims against for­
+eign defendants for alleged foreign activities that caused
+injury on foreign soil”); Brief for Government of the United
+——————
+   7 Jordan does argue that corporate liability is unavailable under the
+ATS, but that argument is based on its view that there is no universally
+recognized international-law norm of corporate liability, see Brief for
+Hashemite Kingdom of Jordan as Amicus Curiae 12–15, not a conten­
+tion that corporate status alone presents foreign-policy concerns justify­
+ing immunity for all corporations in all ATS suits irrespective of
+circumstance.
+
+
+22                   JESNER v. ARAB BANK, PLC
+                        SOTOMAYOR, J., dissenting
+Kingdom of Great Britain and Northern Ireland et al. as
+Amici Curiae in No. 10–1491, p. 3 (“The Governments
+remain deeply concerned about . . . suits by foreign plain­
+tiffs against foreign defendants for conduct that entirely
+took place in the territory of a foreign sovereign”).
+   As the United States urged at oral argument, when
+international friction arises, a court should respond with
+the doctrine that speaks directly to the friction’s source.
+See Tr. of Oral. Arg. 28 (acknowledging that “ATS litiga­
+tion in recent decades has raised international friction”
+and explaining that “the way to deal with that friction is
+with a doctrine that speaks directly to the international
+entanglement . . . as those questions arise”). In addition to
+the presumption against extraterritoriality, federal courts
+have at their disposal a number of tools to address any
+foreign-relations concerns that an ATS case may raise.
+This Court has held that a federal court may exercise
+personal jurisdiction over a foreign corporate defendant
+only if the corporation is incorporated in the United
+States, has its principal place of business or is otherwise
+at home here, or if the activities giving rise to the lawsuit
+occurred or had their impact here. See Daimler AG v.
+Bauman, 571 U. S. 117 (2014). Courts also can dismiss
+ATS suits for a plaintiff ’s failure to exhaust the remedies
+available in her domestic forum, on forum non conveniens
+grounds, for reasons of international comity, or when
+asked to do so by the State Department. See Kiobel, 569
+U. S., at 133 (BREYER, J., concurring in judgment); Sosa,
+542 U. S., at 733, n. 21.
+   Several of these doctrines might be implicated in this
+case, and I would remand for the Second Circuit to ad­
+dress them in the first instance.8 The majority, however,
+——————
+  8 For instance, the alleged conduct might not sufficiently touch and
+concern the United States to displace the presumption against extra­
+territoriality; the prohibition on terrorism financing might not be a
+
+
+                       Cite as: 584 U. S. ____ (2018)                       23
+                         SOTOMAYOR, J., dissenting
+prefers to use a sledgehammer to crack a nut. I see no
+need for such an ill-fitting and disproportionate response.
+Foreclosing foreign corporate liability in all ATS actions,
+irrespective of circumstance or norm, is simply too broad a
+response to case-specific concerns that can be addressed
+via other means.9
+                                      B
+                                       1
+    The Court urges that “[t]he political branches, not the
+Judiciary, have the responsibility and institutional capacity
+to weigh foreign-policy concerns.” Ante, at 19. I agree
+that the political branches are well poised to assess the
+foreign-policy concerns attending ATS litigation, which is
+why I give significant weight to the fact that the Executive
+Branch, in briefs signed by the Solicitor General and State
+Department Legal Advisor, has twice urged the Court to
+reach exactly the opposite conclusion of the one embraced
+by the majority. See Brief for United States as Amicus
+Curiae 5 (“This Court should vacate the decision below,
+which rests on the mistaken premise that a federal common-
+law claim under the ATS may never be brought against a
+corporation”); Brief for United States as Amicus Curiae in
+Kiobel v. Royal Dutch Petroleum Co., O. T. 2012, No. 10–
+1491, p. 7 (“Courts may recognize corporate liability in
+actions under the ATS as a matter of federal common
+——————
+specific, universal, and obligatory norm warranting recognition under
+the ATS; and petitioners might not be able to prove the requisite mens
+rea. In addition, petitioners have asserted direct, rather than vicarious,
+liability against respondent. A suit based on only vicarious liability
+may raise different questions not presented here.
+   9 The majority’s overly blunt rule is also unlikely to resolve any foreign-
+relations concerns at play in this case. Arab Bank is still being sued
+under the Antiterrorism Act of 1990 for the exact same conduct as
+alleged here. It is also hard to imagine that Jordan would have been
+perfectly content to see the CEO of Arab Bank and high-level officials
+at the New York branch sued under the ATS.
+
+
+24                 JESNER v. ARAB BANK, PLC
+                     SOTOMAYOR, J., dissenting
+law. . . . Sosa’s cautionary admonitions provide no reason
+to depart from the common law on this issue”). At oral
+argument in this case, the United States told the Court
+that it saw no “sound reason to categorically exclude
+corporate liability.” Tr. of Oral Arg. 29. It explained that
+another country would hold the United States accountable
+for not providing a remedy against a corporate defendant
+in a “classic” ATS case, such as one involving a “foreign
+officia[l] injured in the United States,” id., at 32–33, and
+suggested that foreclosing the ability to recover from a
+corporation actually would raise “the possibility of fric­
+tion,” id., at 33. Notably, the Government’s position that
+categorically barring corporate liability under the ATS is
+wrong has been consistent across two administrations led
+by Presidents of different political parties.
+   Likewise, when Members of Congress have weighed in
+on the question whether corporations can be proper de­
+fendants in an ATS suit, it has been to advise the Court
+against the rule it now adopts. See Brief for Sen. Sheldon
+Whitehouse et al. as Amici Curiae 7–11; Brief for Former
+Sen. Arlen Specter et al. as Amici Curiae in Kiobel v.
+Royal Dutch Petroleum Co., O. T. 2012, No. 10–1491,
+pp. 17–18. Congress has also never seen it necessary to
+immunize corporations from ATS liability even though
+corporations have been named as defendants in ATS suits
+for years. See Monessen Southwestern R. Co. v. Morgan,
+486 U. S. 330, 338 (1988) (“Congress’ failure to disturb
+a consistent judicial interpretation of a statute may pro­
+vide some indication that ‘Congress at least acquiesces in,
+and apparently affirms, that [interpretation]’ ” (quoting
+Cannon v. University of Chicago, 441 U. S. 677, 703
+(1979))).
+   Given the deference to the political branches that Sosa
+encourages, I find it puzzling that the Court so eagerly
+departs from the express assessment of the Executive
+Branch and Members of Congress that corporations can be
+
+
+                    Cite as: 584 U. S. ____ (2018)           25
+                     SOTOMAYOR, J., dissenting
+defendants in ATS actions.
+                                  2
+   The plurality instead purports to defer to Congress by
+relying heavily on the Torture Victim Protection Act of
+1991 (TVPA), 106 Stat. 73, note following 28 U. S. C.
+§1350, to support its categorical bar. See ante, at 20. The
+TVPA makes available to all individuals, not just foreign
+citizens, a civil cause of action for torture and extrajudicial
+killing that may be brought against natural persons. See
+Mohamad v. Palestinian Authority, 566 U. S. 449, 451–
+452, 454 (2012). The plurality extrapolates from Congress’
+decision regarding the scope of liability under the TVPA a
+rule that it contends should govern all ATS suits. See
+ante, at 20. But there is no reason to think that because
+Congress saw fit to permit suits only against natural
+persons for two specific law-of-nations violations, Congress
+meant to foreclose corporate liability for all law-of-nations
+violations. The plurality’s contrary conclusion ignores the
+critical textual differences between the ATS and TVPA, as
+well as the TVPA’s legislative history, which emphasizes
+Congress’ intent to leave the ATS undisturbed.
+   On its face, the TVPA is different from the ATS in sev­
+eral significant ways: It is focused on only two law-of­
+nations violations, torture and extrajudicial killing; it
+makes a cause of action available to all individuals, not
+just foreign citizens; and it uses the word “individual” to
+delineate who may be liable. See 28 U. S. C. §1350 note.
+The ATS, by contrast, is concerned with all law-of-nations
+violations generally, makes a cause of action available
+only to foreign citizens, and is silent as to who may be
+liable. Because of the textual differences between the two
+statutes, the Court unanimously concluded in Mohamad
+that the ATS “offers no comparative value” in ascertaining
+the scope of liability under the TVPA. 566 U. S., at 458.
+It makes little sense, then, to conclude that the TVPA has
+
+
+26                   JESNER v. ARAB BANK, PLC
+                       SOTOMAYOR, J., dissenting
+dispositive comparative value in discerning the scope of
+liability under the ATS.
+   Furthermore, Congress repeatedly emphasized in the
+House and Senate Reports on the TVPA that the statute
+was meant to supplement the ATS, not replace or cabin it.
+See H. R. Rep. No. 102–367, pt. 1, p. 3 (1991) (“Section
+1350 has other important uses and should not be replaced.
+There should also, however, be a clear and specific rem­
+edy, not limited to aliens, for torture and extrajudicial
+killing”); id., at 4 (“The TVPA . . . would also enhance the
+remedy already available under section 1350 in an im­
+portant respect: While the [ATS] provides a remedy to
+aliens only, the TVPA would extend a civil remedy also to
+U. S. citizens who may have been tortured abroad”); ibid.
+(“[C]laims based on torture or summary executions do not
+exhaust the list of actions that may appropriately be
+covered b[y] section 1350. That statute should remain
+intact to permit suits based on other norms that already
+exist or may ripen in the future into rules of customary
+international law”); S. Rep. No. 102–249, pp. 4–5 (1991);
+see also Sosa, 542 U. S., at 731 (explaining that the TVPA
+“supplement[ed] the judicial determination” in Filartiga).
+   Lacking any affirmative evidence that Congress’ deci­
+sion to limit liability under the TVPA to natural persons
+indicates a legislative judgment about the proper scope of
+liability in all ATS suits, the plurality focuses its efforts on
+dismissing petitioners’ argument that Congress limited
+TVPA liability to natural persons to harmonize the statute
+with the Foreign Sovereign Immunities Act of 1976
+(FSIA), which generally immunizes foreign states from
+suit. See ante, at 21.10 Contrary to the plurality’s conten­
+——————
+  10 The TVPA requires state action to trigger liability. See 28 U. S. C.
+§1350 note (imposing liability on “[a]n individual who, under actual or
+apparent authority, or color of law, of any foreign nation” subjects an
+individual to torture or extrajudicial killing). Absent a limitation on
+suits against states and state entities, the TVPA arguably would have
+
+
+                       Cite as: 584 U. S. ____ (2018)                  27
+                         SOTOMAYOR, J., dissenting
+tion, however, this Court did not reject petitioners’ account
+of the TVPA’s legislative history in Mohamad. In fact,
+that decision agreed that the legislative history “clarifi[es]
+that the Act does not encompass liability against foreign
+states.” 566 U. S., at 459. What Mohamad rejected was
+the argument that because the TVPA forecloses liability
+against foreign states, it necessarily permits liability
+against corporations.            In concluding that the TVPA
+encompasses only natural persons, Mohamad took no
+position on why Congress excluded organizations from its
+reach.11
+    To infer from the TVPA that no corporation may ever
+be held liable under the ATS for any violation of any
+international-law norm, moreover, ignores that Congress
+has elsewhere imposed liability on corporations for conduct
+prohibited by customary international law. For instance,
+the Antiterrorism Act of 1990 (ATA) created a civil cause
+of action for U. S. nationals injured by an act of interna­
+tional terrorism and expressly provides for corporate
+liability. 18 U. S. C. §2333. That Congress foreclosed
+corporate liability for torture and extrajudicial killing
+claims under the TVPA but permitted corporate liability
+for terrorism-related claims under the ATA is strong
+evidence that Congress exercises its judgment as to the
+appropriateness of corporate liability on a norm-by-norm
+basis, and that courts should do the same when consider­
+ing whether to permit causes of action against corpora­
+——————
+been in conflict with the FSIA.
+   11 Petitioners may be right that Congress limited liability under the
+TVPA to natural persons to harmonize the statute with the FSIA. That
+Congress thought it necessary to achieve that goal by foreclosing
+liability against all organizational defendants, not just those operating
+under the authority of a foreign government, might indicate that
+Congress thought such line drawing would be difficult, or that an
+expansive approach was the cleanest way to avoid the statute becoming
+a backdoor to suits against foreign governments.
+
+
+28                JESNER v. ARAB BANK, PLC
+                    SOTOMAYOR, J., dissenting
+tions for law-of-nations violations under the ATS.
+   The plurality dismisses the ATA as “an inapt analogy”
+because the ATA “provides a cause of action only to ‘na­
+tional[s] of the United States,’ ” whereas the ATS “provides
+a remedy for foreign nationals only.” Ante, at 22 (quoting
+18 U. S. C. §2333(a)). But if encompassing different
+groups of plaintiffs is what makes two statutes poor com­
+parators for each other, the TVPA, too, is an inapt analogy,
+for it permits suits by all individuals, U. S. and foreign
+nationals alike.
+   The plurality also posits that the ATA “suggests that
+there should be no common-law action under the ATS for
+allegations like petitioners’,” ante, at 22, because permit­
+ting such suits would allow foreign plaintiffs to “bypass
+Congress’ express limitations on liability under the [ATA]
+simply by bringing an ATS lawsuit,” ibid. Yet an ATS suit
+alleging terrorism-related conduct does not “bypass” or
+“displace” any “statutory and regulatory structure,” ibid.,
+any more than an ATA suit does. As this case demon­
+strates, U. S. nationals and foreign citizens may bring
+ATA and ATS suits in the same court, at the same time,
+for the same underlying conduct. To the extent the plural­
+ity is suggesting that Congress, in enacting the ATA,
+meant to foreclose ATS suits based on terrorism financing,
+the plurality offers no evidence to support that hypothesis,
+and the legislative history suggests that Congress enacted
+the ATA to provide U. S. citizens with the same remedy
+already available to foreign citizens under the ATS. See
+Hearing on S. 2465 before the Subcommittee on Courts
+and Administrative Practice of the Senate Committee on
+the Judiciary, 101st Cong., 1st Sess., 90 (1990) (testimony
+of Joseph A. Morris) (noting that ATS actions for terrorism
+“would be preserved”).
+   At bottom, the ATS and TVPA are related but distinct
+statutes that coexist independently. There is no basis to
+conclude that the considered judgment Congress made
+
+
+                   Cite as: 584 U. S. ____ (2018)           29
+                     SOTOMAYOR, J., dissenting
+about who should be liable under the TVPA for torture
+and extrajudicial killing should restrict who can be held
+liable under the ATS for other law-of-nations violations,
+particularly where Congress made a different judgment
+about the scope of liability under the ATA for terrorism.
+                                 C
+   Finally, the plurality offers a set of “[o]ther considera­
+tions relevant to the exercise of judicial discretion” that it
+concludes “counsel against allowing liability under the
+ATS for foreign corporations.” Ante, at 23. None is
+persuasive.
+   First, the plurality asserts that “[i]t has not been shown
+that corporate liability under the ATS is essential to serve
+the goals of the statute” because “the ATS will seldom be
+the only way for plaintiffs to hold the perpetrators liable,”
+and because “plaintiffs still can sue the individual corpo­
+rate employees responsible for a violation of international
+law under the ATS.” Ibid. This Court has never previously
+required that, to maintain an ATS action, a plaintiff must
+show that the ATS is the exclusive means by which to hold
+the alleged perpetrator liable and that no relief can be had
+from other parties. Such requirements extend far beyond
+the inquiry Sosa contemplated and are without any basis
+in the statutory text.
+   Moreover, even if there are other grounds on which a
+suit alleging conduct constituting a law-of-nations viola­
+tion can be brought, such as a state-law tort claim, the
+First Congress created the ATS because it wanted foreign
+plaintiffs to be able to bring their claims in federal court
+and sue for law-of-nations violations. A suit for state-law
+battery, even if based on the same alleged conduct, is not
+the equivalent of a federal suit for torture; the latter con­
+tributes to the uptake of international human rights
+
+
+30                    JESNER v. ARAB BANK, PLC
+                        SOTOMAYOR, J., dissenting
+norms, and the former does not.12
+    Furthermore, holding corporations accountable for
+violating the human rights of foreign citizens when those
+violations touch and concern the United States may well
+be necessary to avoid the international tension with which
+the First Congress was concerned. Consider again the
+assault on the Secretary of the French Legation in Phila­
+delphia by a French adventurer. See supra, at 14; ante, at
+7 (majority opinion). Would the diplomatic strife that
+followed really have been any less charged if a corporation
+had sent its agent to accost the Secretary? Or, consider
+piracy. If a corporation owned a fleet of vessels and di­
+rected them to seize other ships in U. S. waters, there no
+doubt would be calls to hold the corporation to account.
+See Kiobel, 621 F. 3d, at 156, and n. 10 (observing that
+“Somali pirates essentially operate as limited partner­
+ships”). Finally, take, for example, a corporation posing as
+a job-placement agency that actually traffics in persons,
+forcibly transporting foreign nationals to the United
+States for exploitation and profiting from their abuse. Not
+only are the individual employees of that business less
+likely to be able fully to compensate successful ATS plain­
+tiffs, but holding only individual employees liable does not
+impose accountability for the institution-wide disregard
+for human rights. Absent a corporate sanction, that harm
+will persist unremedied. Immunizing the corporation from
+suit under the ATS merely because it is a corporation,
+even though the violations stemmed directly from corpo­
+rate policy and practice, might cause serious diplomatic
+——————
+   12 Counsel for Arab Bank acknowledged the symbolic force of ATS
+liability at oral argument. See Tr. of Oral Arg. 60 (“[T]he idea of the
+ATS is . . . not just that you violated a statute, but that you have
+violated some specific universal obligatory norm so you are essentially
+an enemy of mankind. So, as much as my clients would not like to be
+an ATA defendant, they would really, really, really not like to be . . .
+labeled an enemy of mankind”).
+
+
+                       Cite as: 584 U. S. ____ (2018)                    31
+                         SOTOMAYOR, J., dissenting
+friction.13
+    Second, the plurality expresses concern that if foreign
+corporations are subject to liability under the ATS, other
+nations could hale American corporations into court and
+subject them “to an immediate, constant risk of claims
+seeking to impose massive liability for the alleged conduct
+——————
+   13 JUSTICE ALITO, adopting a more absolutist position than the plurality,
+asserts without qualification that “federal courts should not create
+causes of action under the ATS against foreign corporate defendants”
+because doing so “would precipitate . . . diplomatic strife.” Ante, at 1, 4
+(opinion concurring in part and concurring in judgment). The conclu­
+sion that ATS suits against foreign corporate defendants for law-of­
+nations and treaty violations always will cause diplomatic friction, and
+that such suits will never be necessary “to help the United States avoid
+diplomatic friction,” ante, at 4, however, is at odds with the considered
+judgment of the Executive Branch and Congress regarding the im­
+portance of holding foreign corporations to account for certain egregious
+conduct. As noted, see Part II–B–1, supra, the Executive Branch has
+twice urged the Court not to foreclose the ability of foreign nationals to
+sue foreign corporate defendants under the ATS. The United States
+also has ratified several international agreements that require it to
+impose liability on corporations, both foreign and domestic, for certain
+actions, including the financing of terrorism. See supra, at 10–11.
+Congress, too, has expressly authorized civil suits against corporations
+for acts related to terrorism. See 18 U. S. C. §2333. The Executive
+Branch and Congress surely would not have taken these positions,
+entered into these obligations, or made available these causes of action
+if the result were intolerable diplomatic strife.
+   JUSTICE ALITO also faults the lack of “real-world examples” of in­
+stances in which diplomatic friction has resulted from a court’s refusal
+to permit an individual to bring an ATS suit against a foreign corpora­
+tion solely because of the defendant’s status as a foreign juridical
+entity. Ante, at 6. Such refusals, though, have been rare, as no other
+Court of Appeals besides the Second Circuit that has considered the
+question has imposed a bar on corporate liability. Compare Doe v.
+Drummond Co., 782 F. 3d 576, 584 (CA11 2015); Doe I v. Nestle USA,
+Inc., 766 F. 3d 1013, 1022 (CA9 2014); Doe v. Exxon Mobil Corp., 654
+F. 3d 11, 39–57 (CADC 2011), vacated on other grounds, 527 Fed. Appx.
+7 (CADC 2013); Flomo v. Firestone Nat. Rubber Co., 643 F. 3d 1013,
+1017–1021 (CA7 2011), with Kiobel v. Royal Dutch Petroleum, 621 F. 3d
+111, 120 (CA2 2010).
+
+
+32                JESNER v. ARAB BANK, PLC
+                    SOTOMAYOR, J., dissenting
+of their employees and subsidiaries around the world,” a
+prospect that will deter American corporations from in­
+vesting in developing economies. Ante, at 24. The plurality
+offers no empirical evidence to support these alarmist
+conjectures, which is especially telling given that plaintiffs
+have been filing ATS suits against foreign corporations in
+United States courts for years. It does cite to an amicus
+brief for the United States in American Isuzu Motors, Inc.
+v. Ntsebeza, see ante, at 24, but that case was concerned
+with the availability of civil aiding and abetting liability,
+not corporate liability generally, and the United States
+never contended that permitting corporate liability under
+the ATS would undermine global investment. Instead, it
+argued that permitting extraterritorial aiding and abet­
+ting cases would interfere with foreign relations and deter
+“the free flow of trade and investment.” See Brief for
+United States as Amicus Curiae, O. T. 2007, No. 07–919,
+pp. 12–16, 20.      Driven by hypothetical worry about
+besieged American corporations, today’s decision needlessly
+goes much further, encompassing all ATS suits against all
+foreign corporations, not just those cases with extraterri­
+torial dimensions premised on an aiding and abetting
+theory.
+                         *    *       *
+   In sum, international law establishes what conduct
+violates the law of nations, and specifies whether, to con­
+stitute a law-of-nations violation, the alleged conduct must
+be undertaken by a particular type of actor. But it is
+federal common law that determines whether corporations
+may, as a general matter, be held liable in tort for law-of­
+nations violations. Applying that framework here, I would
+hold that the ATS does not categorically foreclose corpo­
+rate liability. Tort actions against corporations have long
+been available under federal common law. Whatever the
+majority might think of the value of modern-day ATS
+
+
+                   Cite as: 584 U. S. ____ (2018)           33
+                     SOTOMAYOR, J., dissenting
+litigation, it has identified nothing to support its conclu­
+sion that “foreign corporate defendants create unique
+problems” that necessitate a categorical rule barring all
+foreign corporate liability. Ante, at 26.
+   Absent any reason to believe that the corporate form in
+itself raises serious foreign-policy concerns, and given the
+repeated urging from the Executive Branch and Members
+of Congress that the Court need not and should not fore­
+close corporate liability, I would reverse the decision of the
+Court of Appeals for the Second Circuit and remand for
+further proceedings, including whether the allegations
+here sufficiently touch and concern the United States, see
+Kiobel, 569 U. S., at 124–125, and whether the international-
+law norms alleged to have been violated by Arab Bank—
+the prohibitions on genocide, crimes against humanity,
+and financing of terrorism—are of sufficiently definite
+content and universal acceptance to give rise to a cause of
+action under the ATS.
+                                III
+   In categorically barring all suits against foreign corpora­
+tions under the ATS, the Court ensures that foreign corpo­
+rations—entities capable of wrongdoing under our domes­
+tic law—remain immune from liability for human rights
+abuses, however egregious they may be.
+   Corporations can be and often are a force for innovation
+and growth. Many of their contributions to society should
+be celebrated. But the unique power that corporations
+wield can be used both for good and for bad. Just as cor­
+porations can increase the capacity for production, so, too,
+some can increase the capacity for suffering. Consider the
+genocide that took upwards of 800,000 lives in Rwanda in
+1994, which was fueled by incendiary rhetoric delivered
+via a private radio station, the Radio Télévision Libre des
+Mille Collines (RTLM). Men spoke the hateful words, but
+
+
+34                    JESNER v. ARAB BANK, PLC
+                        SOTOMAYOR, J., dissenting
+the RTLM made their widespread influence possible.14
+    There can be, and sometimes is, a profit motive for these
+types of abuses. Although the market does not price all
+externalities, the law does. We recognize as much when
+we permit a civil suit to proceed against a paint company
+that long knew its product contained lead yet continued to
+sell it to families, or against an oil company that failed to
+undertake the requisite safety checks on a pipeline that
+subsequently burst. There is no reason why a different
+approach should obtain in the human rights context.
+    Immunizing corporations that violate human rights
+from liability under the ATS undermines the system of
+accountability for law-of-nations violations that the First
+Congress endeavored to impose. It allows these entities to
+take advantage of the significant benefits of the corporate
+form and enjoy fundamental rights, see, e.g., Citizens
+United v. Federal Election Comm’n, 558 U. S. 310 (2010);
+Burwell v. Hobby Lobby Stores, Inc., 573 U. S. ___ (2014),
+without having to shoulder attendant fundamental
+responsibilities.
+    I respectfully dissent.
+——————
+   14 See, e.g., Nahimana v. Prosecutor, Case No. ICTR 99–52–A, Ap­
+peals Judgment ¶176 (Nov. 28, 2007) (upholding finding that the RTLM
+Collines broadcasts “contributed substantially to the killing of Tutsi”);
+G. Prunier, The Rwanda Crisis: History of a Genocide 224 (2d ed. 1999)
+(detailing incitements to murder broadcast on the RTLM, including:
+“ ‘The graves are not yet full. Who is going to do the good work and
+help us fill them completely’ ”); Yanagizawa-Drott, Propaganda and
+Conflict: Evidence From the Rwandan Genocide, 129 Q. J. Econ. 1947,
+1950 (2014) (analyzing village-level data from Rwanda to estimate that
+the RTLM’s transmissions caused 10 percent of the total participation
+in the genocide).

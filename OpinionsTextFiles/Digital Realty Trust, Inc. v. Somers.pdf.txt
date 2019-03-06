@@ -1,0 +1,1075 @@
+(Slip Opinion)                OCTOBER TERM, 2017                                    1
+                                         Syllabus
+          NOTE: Where it is feasible, a syllabus (headnote) will be released, as is
+        being done in connection with this case, at the time the opinion is issued.
+        The syllabus constitutes no part of the opinion of the Court but has been
+        prepared by the Reporter of Decisions for the convenience of the reader.
+        See United States v. Detroit Timber & Lumber Co., 200 U. S. 321, 337.
+SUPREME COURT OF THE UNITED STATES
+                                         Syllabus
+           DIGITAL REALTY TRUST, INC. v. SOMERS
+ CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR
+                               THE NINTH CIRCUIT
+No. 16–1276. Argued November 28, 2017—Decided February 21, 2018
+Endeavoring to root out corporate fraud, Congress passed the Sar-
+   banes-Oxley Act of 2002 (Sarbanes-Oxley) and the 2010 Dodd-Frank
+   Wall Street Reform and Consumer Protection Act (Dodd-Frank).
+   Both Acts shield whistleblowers from retaliation, but they differ in
+   important respects. Sarbanes-Oxley applies to all “employees” who
+   report misconduct to the Securities and Exchange Commission (SEC
+   or Commission), any other federal agency, Congress, or an internal
+   supervisor. 18 U. S. C. §1514A(a)(1). Dodd-Frank defines a “whistle-
+   blower” as “any individual who provides . . . information relating to a
+   violation of the securities laws to the Commission, in a manner estab-
+   lished, by rule or regulation, by the Commission.” 15 U. S. C. §78u–
+   6(a)(6). A whistleblower so defined is eligible for an award if original
+   information provided to the SEC leads to a successful enforcement
+   action. §78u–6(b)–(g). And he or she is protected from retaliation in
+   three situations, see §78u–6(h)(1)(A)(i)–(iii), including for “making
+   disclosures that are required or protected under” Sarbanes-Oxley or
+   other specified laws, §78u–6(h)(1)(A)(iii). Sarbanes-Oxley’s anti-
+   retaliation provision contains an administrative-exhaustion require-
+   ment and a 180-day administrative complaint-filing deadline, see 18
+   U. S. C. §1514A(b)(1)(A), (2)(D), whereas Dodd-Frank permits a whis-
+   tleblower to sue an employer directly in federal district court, with a
+   default six-year limitation period, see §78u–6(h)(1)(B)(i), (iii)(I)(aa).
+      The SEC’s regulations implementing the Dodd-Frank provision
+   contain two discrete whistleblower definitions. For purposes of the
+   award program, Rule 21F–2 requires a whistleblower to “provide the
+   Commission with information” relating to possible securities-law vio-
+   lations. 17 CFR §240.21F–2(a)(1). For purposes of the anti-
+   retaliation protections, however, the Rule does not require SEC re-
+
+
+2             DIGITAL REALTY TRUST, INC. v. SOMERS
+                                   Syllabus
+  porting. See §240.21F–2(b)(1)(i)–(ii).
+     Respondent Paul Somers alleges that petitioner Digital Realty
+  Trust, Inc. (Digital Realty) terminated his employment shortly after
+  he reported to senior management suspected securities-law violations
+  by the company. Somers filed suit, alleging, inter alia, a claim of
+  whistleblower retaliation under Dodd-Frank. Digital Realty moved
+  to dismiss that claim on the ground that Somers was not a whistle-
+  blower under §78u–6(h) because he did not alert the SEC prior to his
+  termination. The District Court denied the motion, and the Ninth
+  Circuit affirmed. The Court of Appeals concluded that §78u–6(h)
+  does not necessitate recourse to the SEC prior to gaining “whistle-
+  blower” status, and it accorded deference to the SEC’s regulation un-
+  der Chevron U. S. A. Inc. v. Natural Resources Defense Council, Inc.,
+  467 U. S. 837.
+Held: Dodd-Frank’s anti-retaliation provision does not extend to an
+  individual, like Somers, who has not reported a violation of the secu-
+  rities laws to the SEC. Pp. 9–19.
+     (a) A statute’s explicit definition must be followed, even if it varies
+  from a term’s ordinary meaning. Burgess v. United States, 553 U. S.
+  124, 130. Section 78u–6(a) instructs that the statute’s definition of
+  “whistleblower” “shall apply” “[i]n this section,” that is, throughout
+  §78u–6. The Court must therefore interpret the term “whistleblower”
+  in §78u–6(h), the anti-retaliation provision, in accordance with that
+  definition.
+     The whistleblower definition operates in conjunction with the three
+  clauses of §78u–6(h)(1)(A) to spell out the provision’s scope. The def-
+  inition first describes who is eligible for protection—namely, a “whis-
+  tleblower” who provides pertinent information “to the Commission.”
+  §78u–6(a)(6). The three clauses then describe what conduct, when
+  engaged in by a “whistleblower,” is shielded from employment dis-
+  crimination. An individual who meets both measures may invoke
+  Dodd-Frank’s protections. But an individual who falls outside the
+  protected category of “whistleblowers” is ineligible to seek redress
+  under the statute, regardless of the conduct in which that individual
+  engages. This reading is reinforced by another whistleblower-
+  protection provision in Dodd-Frank, see 12 U. S. C. §5567(b), which
+  imposes no requirement that information be conveyed to a govern-
+  ment agency. Pp. 9–11.
+     (b) The Court’s understanding is corroborated by Dodd-Frank’s
+  purpose and design. The core objective of Dodd-Frank’s whistleblow-
+  er program is to aid the Commission’s enforcement efforts by “moti-
+  vat[ing] people who know of securities law violations to tell the SEC.”
+  S. Rep. No. 111–176, p. 38 (emphasis added). To that end, Congress
+  provided monetary awards to whistleblowers who furnish actionable
+
+
+                      Cite as: 583 U. S. ____ (2018)                    3
+                                 Syllabus
+information to the Commission. Congress also complemented the fi-
+nancial incentives for SEC reporting by heightening protection
+against retaliation. Pp. 11–12.
+   (c) Somers and the Solicitor General contend that Dodd-Frank’s
+“whistleblower” definition applies only to the statute’s award pro-
+gram and not, as the definition plainly states, to its anti-retaliation
+provision. Their concerns do not support a departure from the statu-
+tory text. Pp. 12–18.
+      (1) They claim that the Court’s reading would vitiate the protec-
+tions of clause (iii) for whistleblowers who make disclosures to per-
+sons and entities other than the SEC. See §78u–6(h)(1)(A)(iii). But
+the plain-text reading of the statute leaves the third clause with sub-
+stantial meaning by protecting a whistleblower who reports miscon-
+duct both to the SEC and to another entity, but suffers retaliation be-
+cause of the latter, non-SEC, disclosure. Pp. 13–15.
+      (2) Nor would the Court’s reading jettison protections for audi-
+tors, attorneys, and other employees who are required to report in-
+formation within the company before making external disclosures.
+Such employees would be shielded as soon as they also provide rele-
+vant information to the Commission. And Congress may well have
+considered adequate the safeguards already afforded to such employ-
+ees by Sarbanes-Oxley. Pp. 15–16.
+      (3) Applying the “whistleblower” definition as written, Somers
+and the Solicitor General further protest, will allow “identical mis-
+conduct” to “go punished or not based on the happenstance of a sepa-
+rate report” to the SEC. Brief for Respondent 37–38. But it is under-
+standable that the statute’s retaliation protections, like its financial
+rewards, would be reserved for employees who have done what Dodd-
+Frank seeks to achieve by reporting information about unlawful ac-
+tivity to the SEC. P. 16.
+      (4) The Solicitor General observes that the statute contains no
+apparent requirement of a “temporal or topical connection between
+the violation reported to the Commission and the internal disclosure
+for which the employee suffers retaliation.” Brief for United States
+as Amicus Curiae 25. The Court need not dwell on related hypotheti-
+cals, which veer far from the case at hand. Pp. 16–18.
+      (5) Finally, the interpretation adopted here would not undermine
+clause (ii) of §78u–6(h)(1)(A), which prohibits retaliation against a
+whistleblower for “initiating, testifying in, or assisting in any investi-
+gation or . . . action of the Commission based upon” information con-
+veyed to the SEC by a whistleblower in accordance with the statute.
+The statute delegates authority to the Commission to establish the
+“manner” in which a whistleblower may provide information to the
+SEC. §78u–6(a)(6). Nothing prevents the Commission from enumer-
+
+
+4             DIGITAL REALTY TRUST, INC. v. SOMERS
+                                 Syllabus
+  ating additional means of SEC reporting, including through testimo-
+  ny protected by clause (ii). P. 18.
+     (d) Because “Congress has directly spoken to the precise question
+  at issue,” Chevron, 467 U. S., at 842, deference is not accorded to the
+  contrary view advanced by the SEC in Rule 21F–2. Pp. 18–19.
+850 F. 3d 1045, reversed and remanded.
+  GINSBURG, J., delivered the opinion of the Court, in which ROBERTS,
+C. J., and KENNEDY, BREYER, SOTOMAYOR, and KAGAN, JJ., joined. SO-
+TOMAYOR, J., filed a concurring opinion, in which BREYER, J., joined.
+THOMAS, J., filed an opinion concurring in part and concurring in the
+judgment, in which ALITO and GORSUCH, JJ., joined.
+
+
+                         Cite as: 583 U. S. ____ (2018)                            1
+                               Opinion of the Court
+      NOTICE: This opinion is subject to formal revision before publication in the
+      preliminary print of the United States Reports. Readers are requested to
+      notify the Reporter of Decisions, Supreme Court of the United States, Wash-
+      ington, D. C. 20543, of any typographical or other formal errors, in order
+      that corrections may be made before the preliminary print goes to press.
+SUPREME COURT OF THE UNITED STATES
+                                     _________________
+                                     No. 16–1276
+                                     _________________
+     DIGITAL REALTY TRUST, INC., PETITIONER v.
+                                PAUL SOMERS
+  ON WRIT OF CERTIORARI TO THE UNITED STATES COURT OF
+                    APPEALS FOR THE NINTH CIRCUIT
+                                [February 21, 2018]
+   JUSTICE GINSBURG delivered the opinion of the Court.
+   Endeavoring to root out corporate fraud, Congress
+passed the Sarbanes-Oxley Act of 2002, 116 Stat. 745
+(Sarbanes-Oxley), and the 2010 Dodd-Frank Wall Street
+Reform and Consumer Protection Act, 124 Stat. 1376
+(Dodd-Frank).             Both Acts shield whistleblowers from
+retaliation, but they differ in important respects. Most
+notably, Sarbanes-Oxley applies to all “employees” who
+report misconduct to the Securities and Exchange Com-
+mission (SEC or Commission), any other federal agency,
+Congress, or an internal supervisor.                                   18 U. S. C.
+§1514A(a)(1). Dodd-Frank delineates a more circum-
+scribed class; it defines “whistleblower” to mean a person
+who provides “information relating to a violation of the
+securities laws to the Commission.” 15 U. S. C. §78u–
+6(a)(6). A whistleblower so defined is eligible for an award
+if original information he or she provides to the SEC leads
+to a successful enforcement action. §78u–6(b)–(g). And,
+most relevant here, a whistleblower is protected from
+retaliation for, inter alia, “making disclosures that are
+required or protected under” Sarbanes-Oxley, the Securi-
+
+
+2          DIGITAL REALTY TRUST, INC. v. SOMERS
+                      Opinion of the Court
+ties Exchange Act of 1934, the criminal anti-retaliation
+proscription at 18 U. S. C. §1513(e), or any other
+law subject to the SEC’s jurisdiction.           15 U. S. C.
+§78u–6(h)(1)(A)(iii).
+   The question presented: Does the anti-retaliation provi-
+sion of Dodd-Frank extend to an individual who has not
+reported a violation of the securities laws to the SEC and
+therefore falls outside the Act’s definition of “whistleblow-
+er”? Pet. for Cert. (I). We answer that question “No”: To
+sue under Dodd-Frank’s anti-retaliation provision, a per-
+son must first “provid[e] . . . information relating to a
+violation of the securities laws to the Commission.”
+§78u–6(a)(6).
+                               I
+                               A
+   “To safeguard investors in public companies and restore
+trust in the financial markets following the collapse of
+Enron Corporation,” Congress enacted Sarbanes-Oxley in
+2002. Lawson v. FMR LLC, 571 U. S. 429, ___ (2014) (slip
+op., at 1). Most pertinent here, Sarbanes-Oxley created
+new protections for employees at risk of retaliation for
+reporting corporate misconduct. See 18 U. S. C. §1514A.
+Section 1514A prohibits certain companies from discharg-
+ing or otherwise “discriminat[ing] against an employee in
+the terms and conditions of employment because” the
+employee “provid[es] information . . . or otherwise assist[s]
+in an investigation regarding any conduct which the em-
+ployee reasonably believes constitutes a violation” of cer-
+tain criminal fraud statutes, any SEC rule or regulation,
+or “any provision of Federal law relating to fraud against
+shareholders.” §1514A(a)(1). An employee qualifies for
+protection when he or she provides information or assis-
+tance either to a federal regulatory or law enforcement
+agency, Congress, or any “person with supervisory author-
+
+
+                          Cite as: 583 U. S. ____ (2018)                   3
+                               Opinion of the Court
+ity over the employee.” §1514A(a)(1)(A)–(C).1
+    To recover under §1514A, an aggrieved employee must
+exhaust administrative remedies by “filing a complaint
+with the Secretary of Labor.” §1514A(b)(1)(A); see Law-
+son, 571 U. S., at ___–___ (slip op., at 5–6). Congress
+prescribed a 180-day limitation period for filing such a
+complaint. §1514A(b)(2)(D). If the agency “does not issue
+a final decision within 180 days of the filing of [a] com-
+plaint, and the [agency’s] delay is not due to bad faith on
+the claimant’s part, the claimant may proceed to federal
+district court for de novo review.” Id., at ___ (slip op., at 6)
+(citing §1514A(b)). An employee who prevails in a pro-
+ceeding under §1514A is “entitled to all relief necessary to
+make the employee whole,” including reinstatement,
+backpay with interest, and any “special damages sus-
+tained as a result of the discrimination,” among such
+damages, litigation costs. §1514A(c).
+                                        B
+                                        1
+    At issue in this case is the Dodd-Frank anti-retaliation
+provision enacted in 2010, eight years after the enactment
+of Sarbanes-Oxley. Passed in the wake of the 2008 finan-
+cial crisis, Dodd-Frank aimed to “promote the financial
+stability of the United States by improving accountability
+and transparency in the financial system.” 124 Stat. 1376.
+    Dodd-Frank responded to numerous perceived short-
+comings in financial regulation. Among them was the
+SEC’s need for additional “power, assistance and money at
+its disposal” to regulate securities markets. S. Rep. No.
+111–176, pp. 36, 37 (2010). To assist the Commission “in
+——————
+   1 Sarbanes-Oxley also prohibits retaliation against an “employee” who
+“file[s], . . . testif[ies], participate[s] in, or otherwise assist[s] in a
+proceeding filed or about to be filed . . . relating to an alleged violation
+of” the same provisions of federal law addressed in 18 U. S. C.
+§1514A(a)(1). See §1514A(a)(2).
+
+
+4           DIGITAL REALTY TRUST, INC. v. SOMERS
+                      Opinion of the Court
+identifying securities law violations,” the Act established
+“a new, robust whistleblower program designed to moti-
+vate people who know of securities law violations to tell
+the SEC.” Id., at 38. And recognizing that “whistleblow-
+ers often face the difficult choice between telling the truth
+and . . . committing ‘career suicide,’ ” Congress sought to
+protect whistleblowers from employment discrimination.
+Id., at 111, 112.
+   Dodd-Frank implemented these goals by adding a new
+provision to the Securities Exchange Act of 1934: 15
+U. S. C. §78u–6. Section 78u–6 begins by defining a
+“whistleblower” as “any individual who provides . . . in-
+formation relating to a violation of the securities laws to
+the Commission, in a manner established, by rule or regu-
+lation, by the Commission.”           §78u–6(a)(6) (emphasis
+added). That definition, the statute directs, “shall apply”
+“[i]n this section”—i.e., throughout §78u–6. §78u–6(a).
+   Section 78u–6 affords covered whistleblowers both
+incentives and protection. First, the section creates an
+award program for “whistleblowers who voluntarily
+provid[e] original information to the Commission that
+le[ads] to the successful enforcement of [a] covered judicial
+or administrative action.” §78u–6(b)(1). A qualifying
+whistleblower is entitled to a cash award of 10 to 30 per-
+cent of the monetary sanctions collected in the enforce-
+ment action. See §78u–6(b)(1)(A)–(B).
+   Second, §78u–6(h) prohibits an employer from discharg-
+ing, harassing, or otherwise discriminating against a
+“whistleblower” “because of any lawful act done by the
+whistleblower” in three situations: first, “in providing
+information to the Commission in accordance with [§78u–
+6],” §78u–6(h)(1)(A)(i); second, “in initiating, testifying in,
+or assisting in any investigation or . . . action of the Com-
+mission based upon” information provided to the SEC in
+accordance with §78u–6, §78u–6(h)(1)(A)(ii); and third, “in
+making disclosures that are required or protected under”
+
+
+                        Cite as: 583 U. S. ____ (2018)                    5
+                             Opinion of the Court
+either Sarbanes-Oxley, the Securities Exchange Act of
+1934, the criminal anti-retaliation prohibition at 18
+U. S. C. §1513(e),2 or “any other law, rule, or regulation
+subject to the jurisdiction of the Commission,” §78u–
+6(h)(1)(A)(iii). Clause (iii), by cross-referencing Sarbanes-
+Oxley and other laws, protects disclosures made to a
+variety of individuals and entities in addition to the SEC.
+For example, the clause shields an employee’s reports of
+wrongdoing to an internal supervisor if the reports are
+independently safeguarded from retaliation under Sarbanes-
+Oxley. See supra, at 2–3.3
+    The recovery procedures under the anti-retaliation
+provisions of Dodd-Frank and Sarbanes-Oxley differ in
+critical respects. First, unlike Sarbanes-Oxley, which
+contains an administrative-exhaustion requirement and a
+180-day administrative complaint-filing deadline, see 18
+U. S. C. §1514A(b)(1)(A), (2)(D), Dodd-Frank permits a
+whistleblower to sue a current or former employer directly
+——————
+   2 Section  1513(e) provides: “Whoever knowingly, with the intent to
+retaliate, takes any action harmful to any person, including interfer-
+ence with the lawful employment or livelihood of any person, for provid-
+ing to a law enforcement officer any truthful information relating to the
+commission or possible commission of any Federal offense, shall be
+fined under this title or imprisoned not more than 10 years, or both.”
+   3 Section 78u–6(h)(1)(A) reads in full:
+   “No employer may discharge, demote, suspend, threaten, harass,
+directly or indirectly, or in any other manner discriminate against, a
+whistleblower in the terms and conditions of employment because of
+any lawful act done by the whistleblower—
+   “(i) in providing information to the Commission in accordance with
+this section;
+   “(ii) in initiating, testifying in, or assisting in any investigation or
+judicial or administrative action of the Commission based upon or
+related to such information; or
+   “(iii) in making disclosures that are required or protected under the
+Sarbanes-Oxley Act of 2002 (15 U. S. C. §7201 et seq.), this chapter,
+including section 78j–l(m) of this title, section 1513(e) of title 18, and
+any other law, rule, or regulation subject to the jurisdiction of the
+Commission.”
+
+
+6            DIGITAL REALTY TRUST, INC. v. SOMERS
+                          Opinion of the Court
+in federal district court, with a default limitation period of
+six years, see §78u–6(h)(1)(B)(i), (iii)(I)(aa). Second, Dodd-
+Frank instructs a court to award to a prevailing plaintiff
+double backpay with interest, see §78u–6(h)(1)(C)(ii),
+while Sarbanes-Oxley limits recovery to actual backpay
+with interest, see 18 U. S. C. §1514A(c)(2)(B). Like Sarbanes-
+Oxley, however, Dodd-Frank authorizes reinstatement
+and compensation for litigation costs, expert witness fees,
+and reasonable attorneys’ fees.                    Compare §78u–
+6(h)(1)(C)(i), (iii), with 18 U. S. C. §1514A(c)(2)(A), (C).4
+                                    2
+   Congress authorized the SEC “to issue such rules and
+regulations as may be necessary or appropriate to imple-
+ment the provisions of [§78u–6] consistent with the pur-
+poses of this section.” §78u–6(j). Pursuant to this author-
+ity, the SEC published a notice of proposed rulemaking to
+“Implemen[t] the Whistleblower Provisions” of Dodd-
+Frank. 75 Fed. Reg. 70488 (2010). Proposed Rule 21F–
+2(a) defined a “whistleblower,” for purposes of both the
+award and anti-retaliation provisions of §78u–6, as one or
+more individuals who “provide the Commission with in-
+formation relating to a potential violation of the securities
+laws.” Id., at 70519 (proposed 17 CFR §240.21F–2(a)).
+The proposed rule, the agency noted, “tracks the statutory
+definition of a ‘whistleblower’ ” by requiring information
+reporting to the SEC itself. 75 Fed. Reg. 70489.
+   In promulgating the final Rule, however, the agency
+changed course. Rule 21F–2, in finished form, contains
+two discrete “whistleblower” definitions. See 17 CFR
+§240.21F–2(a)–(b) (2017). For purposes of the award
+program, the Rule states that “[y]ou are a whistleblower if
+——————
+  4 Unlike Dodd-Frank, Sarbanes-Oxley explicitly entitles a prevailing
+employee to “all relief necessary to make the employee whole,” includ-
+ing “compensation for any special damages sustained as a result of the
+discrimination.” 18 U. S. C. §1514A(c)(1), (2)(C).
+
+
+                      Cite as: 583 U. S. ____ (2018)                     7
+                           Opinion of the Court
+. . . you provide the Commission with information . . .
+relat[ing] to a possible violation of the Federal securities
+laws.” §240.21F–2(a)(1) (emphasis added). The infor-
+mation must be provided to the SEC through its website
+or by mailing or faxing a specified form to the SEC Office
+of the Whistleblower. See ibid.; §240.21F–9(a)(1)–(2).
+    “For purposes of the anti-retaliation protections,” how-
+ever, the Rule states that “[y]ou are a whistleblower if . . .
+[y]ou possess a reasonable belief that the information you
+are providing relates to a possible securities law violation”
+and “[y]ou provide that information in a manner described
+in” clauses (i) through (iii) of §78u–6(h)(1)(A). 17 CFR
+§240.21F–2(b)(1)(i)–(ii). “The anti-retaliation protections
+apply,” the Rule emphasizes, “whether or not you satisfy
+the requirements, procedures and conditions to qualify for
+an award.” §240.21F–2(b)(1)(iii). An individual may
+therefore gain anti-retaliation protection as a “whistle-
+blower” under Rule 21F–2 without providing information
+to the SEC, so long as he or she provides information in a
+manner shielded by one of the anti-retaliation provision’s
+three clauses. For example, a report to a company super-
+visor would qualify if the report garners protection under
+the Sarbanes-Oxley anti-retaliation provision.5
+                                     C
+    Petitioner Digital Realty Trust, Inc. (Digital Realty) is a
+real estate investment trust that owns, acquires, and
+develops data centers. See Brief for Petitioner 3. Digital
+Realty employed respondent Paul Somers as a Vice Presi-
+dent from 2010 to 2014. See 119 F. Supp. 3d 1088, 1092
+(ND Cal. 2015). Somers alleges that Digital Realty termi-
+nated him shortly after he reported to senior management
+suspected securities-law violations by the company. See
+——————
+   5 In 2015, the SEC issued an interpretive rule reiterating that anti-
+retaliation protection is not contingent on a whistleblower’s provision of
+information to the Commission. See 80 Fed. Reg. 47829 (2015).
+
+
+8           DIGITAL REALTY TRUST, INC. v. SOMERS
+                      Opinion of the Court
+ibid. Although nothing impeded him from alerting the
+SEC prior to his termination, he did not do so. See Tr. of
+Oral Arg. 45. Nor did he file an administrative complaint
+within 180 days of his termination, rendering him ineligi-
+ble for relief under Sarbanes-Oxley. See ibid.; 18 U. S. C.
+§1514A(b)(2)(D).
+   Somers brought suit in the United States District Court
+for the Northern District of California alleging, inter alia,
+a claim of whistleblower retaliation under Dodd-Frank.
+Digital Realty moved to dismiss that claim, arguing that
+“Somers does not qualify as a ‘whistleblower’ under [§78u–
+6(h)] because he did not report any alleged law violations
+to the SEC.” 119 F. Supp. 3d, at 1094. The District Court
+denied the motion. Rule 21F–2, the court observed, does
+not necessitate recourse to the SEC prior to gaining “whis-
+tleblower” status under Dodd-Frank. See id., at 1095–
+1096. Finding the statutory scheme ambiguous, the court
+accorded deference to the SEC’s Rule under Chevron
+U. S. A. Inc. v. Natural Resources Defense Council, Inc.,
+467 U. S. 837 (1984). See 119 F. Supp. 3d, at 1096–1106.
+   On interlocutory appeal, a divided panel of the Court of
+Appeals for the Ninth Circuit affirmed. 850 F. 3d 1045
+(2017). The majority acknowledged that Dodd-Frank’s
+definitional provision describes a “whistleblower” as an
+individual who provides information to the SEC itself. Id.,
+at 1049.      But applying that definition to the anti-
+retaliation provision, the majority reasoned, would narrow
+the third clause of §78u–6(h)(1)(A) “to the point of absurd-
+ity”: The statute would protect employees only if they
+“reported possible securities violations both internally and
+to the SEC.” Ibid. Such dual reporting, the majority
+believed, was unlikely to occur. Ibid. Therefore, the
+majority concluded, the statute should be read to protect
+employees who make disclosures privileged by clause (iii)
+of §78u–6(h)(1)(A), whether or not those employees also
+provide information to the SEC. Id., at 1050. In any
+
+
+                  Cite as: 583 U. S. ____ (2018)             9
+                       Opinion of the Court
+event, the majority held, the SEC’s resolution of any stat-
+utory ambiguity warranted deference. Ibid. Judge Owens
+dissented. In his view, the statutory definition of whistle-
+blower was clear, left no room for interpretation, and
+plainly governed. Id., at 1051.
+   Two other Courts of Appeals have weighed in on the
+question before us. The Court of Appeals for the Fifth
+Circuit has held that employees must provide information
+to the SEC to avail themselves of Dodd-Frank’s anti-
+retaliation safeguard. See Asadi v. G. E. Energy (USA),
+L. L. C., 720 F. 3d 620, 630 (2013). A divided panel of the
+Court of Appeals for the Second Circuit reached the oppo-
+site conclusion, over a dissent by Judge Jacobs. See Ber-
+man v. NEO@OGILVY LLC, 801 F. 3d 145, 155 (2013).
+We granted certiorari to resolve this conflict, 582 U. S. ___
+(2017), and now reverse the Ninth Circuit’s judgment.
+                                II
+   “When a statute includes an explicit definition, we must
+follow that definition,” even if it varies from a term’s
+ordinary meaning. Burgess v. United States, 553 U. S.
+124, 130 (2008) (internal quotation marks omitted). This
+principle resolves the question before us.
+                                A
+   Our charge in this review proceeding is to determine the
+meaning of “whistleblower” in §78u–6(h), Dodd-Frank’s
+anti-retaliation provision. The definition section of the
+statute supplies an unequivocal answer: A “whistleblower”
+is “any individual who provides . . . information relating to
+a violation of the securities laws to the Commission.”
+§78u–6(a)(6) (emphasis added). Leaving no doubt as to
+the definition’s reach, the statute instructs that the “defi-
+nitio[n] shall apply” “[i]n this section,” that is, throughout
+§78u–6. §78u–6(a)(6).
+   The whistleblower definition operates in conjunction
+
+
+10          DIGITAL REALTY TRUST, INC. v. SOMERS
+                        Opinion of the Court
+with the three clauses of §78u–6(h)(1)(A) to spell out the
+provision’s scope. The definition first describes who is
+eligible for protection—namely, a whistleblower who
+provides pertinent information “to the Commission.”
+§78u–6(a)(6). The three clauses of §78u–6(h)(1)(A) then
+describe what conduct, when engaged in by a whistle-
+blower, is shielded from employment discrimination. See
+§78u–6(h)(1)(A)(i)–(iii). An individual who meets both
+measures may invoke Dodd-Frank’s protections. But an
+individual who falls outside the protected category of
+“whistleblowers” is ineligible to seek redress under the
+statute, regardless of the conduct in which that individual
+engages.
+   Reinforcing our reading, another whistleblower-
+protection provision in Dodd-Frank imposes no require-
+ment that information be conveyed to a government agency.
+Title 10 of the statute, which created the Consumer
+Financial Protection Bureau (CFPB), prohibits discrimina-
+tion against a “covered employee” who, among other
+things, “provide[s] . . . information to [his or her] employer,
+the Bureau, or any other State, local, or Federal, govern-
+ment authority or law enforcement agency relating to” a
+violation of a law subject to the CFPB’s jurisdiction. 12
+U. S. C. §5567(a)(1). To qualify as a “covered employee,”
+an individual need not provide information to the CFPB,
+or any other entity. See §5567(b) (“covered employee”
+means “any individual performing tasks related to the
+offering or provision of a consumer financial product or
+service”).
+   “[W]hen Congress includes particular language in one
+section of a statute but omits it in another[,] . . . this Court
+presumes that Congress intended a difference in mean-
+ing.” Loughrin v. United States, 573 U. S. ___, ___ (2014)
+(slip op., at 6) (internal quotation marks and alteration
+omitted). Congress placed a government-reporting re-
+quirement in §78u–6(h), but not elsewhere in the same
+
+
+                  Cite as: 583 U. S. ____ (2018)          11
+                       Opinion of the Court
+statute. Courts are not at liberty to dispense with the
+condition—tell the SEC—Congress imposed.
+                                B
+  Dodd-Frank’s purpose and design corroborate our com-
+prehension of §78u–6(h)’s reporting requirement. The
+“core objective” of Dodd-Frank’s robust whistleblower
+program, as Somers acknowledges, Tr. of Oral Arg. 45, is
+“to motivate people who know of securities law violations
+to tell the SEC,” S. Rep. No. 111–176, at 38 (emphasis
+added). By enlisting whistleblowers to “assist the Gov-
+ernment [in] identify[ing] and prosecut[ing] persons who
+have violated securities laws,” Congress undertook to
+improve SEC enforcement and facilitate the Commission’s
+“recover[y] [of] money for victims of financial fraud.” Id.,
+at 110. To that end, §78u–6 provides substantial mone-
+tary rewards to whistleblowers who furnish actionable
+information to the SEC. See §78u–6(b).
+  Financial inducements alone, Congress recognized, may
+be insufficient to encourage certain employees, fearful of
+employer retaliation, to come forward with evidence of
+wrongdoing. Congress therefore complemented the Dodd-
+Frank monetary incentives for SEC reporting by heighten-
+ing protection against retaliation. While Sarbanes-Oxley
+contains an administrative-exhaustion requirement, a
+180-day administrative complaint-filing deadline, and a
+remedial scheme limited to actual damages, Dodd-Frank
+provides for immediate access to federal court, a generous
+statute of limitations (at least six years), and the oppor-
+tunity to recover double backpay. See supra, at 5–6.
+Dodd-Frank’s award program and anti-retaliation provi-
+sion thus work synchronously to motivate individuals with
+knowledge of illegal activity to “tell the SEC.” S. Rep. No.
+111–176, at 38.
+  When enacting Sarbanes-Oxley’s whistleblower regime,
+in comparison, Congress had a more far-reaching objec-
+
+
+12         DIGITAL REALTY TRUST, INC. v. SOMERS
+                       Opinion of the Court
+tive: It sought to disturb the “corporate code of silence”
+that “discourage[d] employees from reporting fraudulent
+behavior not only to the proper authorities, such as the
+FBI and the SEC, but even internally.” Lawson, 571 U. S.,
+at ___ (slip op., at 4) (internal quotation marks omitted).
+Accordingly, the Sarbanes-Oxley anti-retaliation provision
+covers employees who report fraud not only to the SEC,
+but also to any other federal agency, Congress, or an
+internal supervisor. See 18 U. S. C. §1514A(a)(1).
+                                C
+   In sum, Dodd-Frank’s text and purpose leave no doubt
+that the term “whistleblower” in §78u–6(h) carries the
+meaning set forth in the section’s definitional provision.
+The disposition of this case is therefore evident: Somers
+did not provide information “to the Commission” before his
+termination, §78u–6(a)(6), so he did not qualify as a “whis-
+tleblower” at the time of the alleged retaliation. He is
+therefore ineligible to seek relief under §78u–6(h).
+                               III
+   Somers and the Solicitor General tender a different view
+of Dodd-Frank’s compass. The whistleblower definition,
+as they see it, applies only to the statute’s award program,
+not to its anti-retaliation provision, and thus not, as the
+definition plainly states, throughout “this section,” §78u–
+6(a). See Brief for Respondent 30; Brief for United States
+as Amicus Curiae 10–11. For purposes of the anti-
+retaliation provision alone, they urge us to construe the
+term “whistleblower” in its “ordinary sense,” i.e., without
+any SEC-reporting requirement. Brief for Respondent 18.
+   Doing so, Somers and the Solicitor General contend,
+would align with our precedent, specifically Lawson v.
+Suwannee Fruit & S. S. Co., 336 U. S. 198 (1949), and
+Utility Air Regulatory Group v. EPA, 573 U. S. ___ (2014).
+In those decisions, we declined to apply a statutory defini-
+
+
+                   Cite as: 583 U. S. ____ (2018)           13
+                        Opinion of the Court
+tion that ostensibly governed where doing so would have
+been “incompatible with . . . Congress’ regulatory scheme,”
+id., at ___ (slip op., at 18) (internal quotation marks omit-
+ted), or would have “destroy[ed] one of the [statute’s]
+major purposes,” Suwannee Fruit, 336 U. S., at 201.
+   This case is of a piece, Somers and the Solicitor General
+maintain. Applying the statutory definition here, they
+variously charge, would “create obvious incongruities,”
+Brief for United States as Amicus Curiae 19 (internal
+quotation marks omitted), “produce anomalous results,”
+id., at 22, “vitiate much of the [statute’s] protection,” id.,
+at 20 (internal quotation marks omitted), and, as the
+Court of Appeals put it, narrow clause (iii) of §78u–
+6(h)(1)(A) “to the point of absurdity,” Brief for Respondent
+35 (quoting 850 F. 3d, at 1049). We next address these
+concerns and explain why they do not lead us to depart
+from the statutory text.
+                                 A
+   It would gut “much of the protection afforded by” the
+third clause of §78u–6(h)(1)(a), Somers and the Solicitor
+General urge most strenuously, to apply the whistleblower
+definition to the anti-retaliation provision. Brief for United
+States as Amicus Curiae 20 (internal quotation marks
+omitted); Brief for Respondent 28–29. As earlier noted,
+see supra, at 4–5, clause (iii) prohibits retaliation against
+a “whistleblower” for “making disclosures” to various
+persons and entities, including but not limited to the SEC,
+to the extent those disclosures are “required or protected
+under” various laws other than Dodd-Frank.              §78u–
+6(h)(1)(A)(iii). Applying the statutory definition of whis-
+tleblower, however, would limit clause (iii)’s protection to
+“only those individuals who report to the Commission.”
+Brief for United States as Amicus Curiae 22.
+   The plain-text reading of the statute undoubtedly
+shields fewer individuals from retaliation than the alter-
+
+
+14            DIGITAL REALTY TRUST, INC. v. SOMERS
+                           Opinion of the Court
+native proffered by Somers and the Solicitor General. But
+we do not agree that this consequence “vitiate[s]” clause
+(iii)’s protection, id., at 20 (internal quotation marks omit-
+ted), or ranks as “absur[d],” Brief for Respondent 35 (in-
+ternal quotation marks omitted).6 In fact, our reading
+leaves the third clause with “substantial meaning.” Brief
+for Petitioner 32.
+    With the statutory definition incorporated, clause (iii)
+protects a whistleblower who reports misconduct both to
+the SEC and to another entity, but suffers retaliation
+because of the latter, non-SEC, disclosure. That would be
+so, for example, where the retaliating employer is un-
+aware that the employee has alerted the SEC. In such a
+case, without clause (iii), retaliation for internal reporting
+would not be reached by Dodd-Frank, for clause (i) applies
+only where the employer retaliates against the employee
+“because of ” the SEC reporting. §78u–6(h)(1)(A). More-
+over, even where the employer knows of the SEC reporting,
+the third clause may operate to dispel a proof problem:
+The employee can recover under the statute without hav-
+ing to demonstrate whether the retaliation was motivated
+by the internal report (thus yielding protection under
+clause (iii)) or by the SEC disclosure (thus gaining protec-
+tion under clause (i)).
+    While the Solicitor General asserts that limiting the
+protections of clause (iii) to dual reporters would “shrink
+to insignificance the [clause’s] ban on retaliation,” Brief for
+United States as Amicus Curiae 22 (internal quotation
+marks omitted), he offers scant evidence to support that
+assertion. Tugging in the opposite direction, he reports
+that approximately 80 percent of the whistleblowers who
+received awards in 2016 “reported internally before report-
+——————
+   6 The Solicitor General, unlike Somers, acknowledges that it would
+not be absurd to apply the “whistleblower” definition to the anti-
+retaliation provision. Tr. of Oral Arg. 52.
+
+
+                   Cite as: 583 U. S. ____ (2018)            15
+                        Opinion of the Court
+ing to the Commission.” Id., at 23. And Digital Realty
+cites real-world examples of dual reporters seeking Dodd-
+Frank or Sarbanes-Oxley recovery for alleged retaliation.
+See Brief for Petitioner 33, and n. 4 (collecting cases).
+Overlooked by Somers and the Solicitor General, in dual-
+reporting cases, retaliation not prompted by SEC disclo-
+sures (and thus unaddressed by clause (i)) is likely com-
+monplace: The SEC is required to protect the identity of
+whistleblowers, see §78u–6(h)(2)(A), so employers will
+often be unaware that an employee has reported to the
+Commission. In any event, even if the number of individ-
+uals qualifying for protection under clause (iii) is relatively
+limited, “[i]t is our function to give the statute the effect
+its language suggests, however modest that may be.”
+Morrison v. National Australia Bank Ltd., 561 U. S. 247,
+270 (2010).
+                                 B
+   Somers and the Solicitor General express concern that
+our reading would jettison protection for auditors, attor-
+neys, and other employees subject to internal-reporting
+requirements. See Brief for Respondent 35; Brief for
+United States as Amicus Curiae 21. Sarbanes-Oxley, for
+example, requires auditors and attorneys to report certain
+information within the company before making disclosures
+externally. See 15 U. S. C. §§78j–1(b), 7245; 17 CFR
+§205.3. If the whistleblower definition applies, Somers
+and the Solicitor General fear, these professionals will be
+“le[ft] . . . vulnerable to discharge or other retaliatory
+action for complying with” their internal-reporting obliga-
+tions. Brief for United States as Amicus Curiae 22 (inter-
+nal quotation marks omitted).
+   Our reading shields employees in these circumstances,
+however, as soon as they also provide relevant information
+to the Commission. True, such employees will remain
+ineligible for Dodd-Frank’s protection until they tell the
+
+
+16          DIGITAL REALTY TRUST, INC. v. SOMERS
+                       Opinion of the Court
+SEC, but this result is consistent with Congress’ aim to
+encourage SEC disclosures. See S. Rep. No. 111–176, at
+38; supra, at 3–4, 11. Somers worries that lawyers and
+auditors will face retaliation quickly, before they have a
+chance to report to the SEC. Brief for Respondent 35–36.
+But he offers nothing to show that Congress had this
+concern in mind when it enacted §78u–6(h). Indeed, Con-
+gress may well have considered adequate the safeguards
+already afforded by Sarbanes-Oxley, protections specifi-
+cally designed to shield lawyers, accountants, and similar
+professionals. See Lawson, 571 U. S., at ___ (slip op.,
+at 17).
+                                C
+   Applying the whistleblower definition as written, Som-
+ers and the Solicitor General further protest, will create
+“an incredibly unusual statutory scheme”: “[I]dentical
+misconduct”—i.e., retaliating against an employee for
+internal reporting—will “go punished or not based on the
+happenstance of a separate report” to the SEC, of which
+the wrongdoer may “not even be aware.” Brief for Re-
+spondent 37–38. See also Brief for United States as Ami-
+cus Curiae 24. The upshot, the Solicitor General warns,
+“would [be] substantially diminish[ed] Dodd-Fran[k] de-
+terrent effect.” Ibid.
+   Overlooked in this protest is Dodd-Frank’s core objec-
+tive: to prompt reporting to the SEC. Supra, at 3–4, 11.
+In view of that precise aim, it is understandable that the
+statute’s retaliation protections, like its financial rewards,
+would be reserved for employees who have done what
+Dodd-Frank seeks to achieve, i.e., they have placed infor-
+mation about unlawful activity before the Commission to
+aid its enforcement efforts.
+                                D
+   Pointing to another purported anomaly attending the
+
+
+                   Cite as: 583 U. S. ____ (2018)          17
+                        Opinion of the Court
+reading we adopt today, the Solicitor General observes
+that neither the whistleblower definition nor §78u–6(h)
+contains any requirement of a “temporal or topical connec-
+tion between the violation reported to the Commission and
+the internal disclosure for which the employee suffers
+retaliation.” Brief for United States as Amicus Curiae 25.
+It is therefore possible, the Solicitor General posits, that
+“an employee who was fired for reporting accounting fraud
+to his supervisor in 2017 would have a cause of action
+under [§78u–6(h)] if he had reported an insider-trading
+violation by his previous employer to the Commission in
+2012.” Ibid. For its part, Digital Realty agrees that this
+scenario could arise, but does not see it as a cause for
+concern: “Congress,” it states, “could reasonably have
+made the policy judgment that individuals who report
+securities-law violations to the SEC should receive broad
+protection over time against retaliation for a variety of
+disclosures.” Reply Brief 11.
+   We need not dwell on the situation hypothesized by the
+Solicitor General, for it veers far from the case before us.
+We note, however, that the interpretation offered by Som-
+ers and the Solicitor General—i.e., ignoring the statutory
+definition when construing the anti-retaliation provision—
+raises an even thornier question about the law’s scope.
+Their view, which would not require an employee to pro-
+vide information relating to a securities-law violation to
+the SEC, could afford Dodd-Frank protection to an em-
+ployee who reports information bearing no relationship
+whatever to the securities laws. That prospect could be
+imagined based on the broad array of federal statutes and
+regulations cross-referenced by clause (iii) of the anti-
+retaliation provision. E.g., 18 U. S. C. §1513(e) (criminal-
+izing retaliation for “providing to a law enforcement officer
+any truthful information relating to the commission . . . of
+any Federal offense” (emphasis added)); see supra, at 5,
+and n. 2. For example, an employee fired for reporting a
+
+
+18          DIGITAL REALTY TRUST, INC. v. SOMERS
+                       Opinion of the Court
+coworker’s drug dealing to the Federal Bureau of Investi-
+gation might be protected. Brief for Petitioner 38. It
+would make scant sense, however, to rank an FBI drug-
+trafficking informant a whistleblower under Dodd-Frank,
+a law concerned only with encouraging the reporting of
+“securities law violations.” S. Rep. No. 111–176, at 38
+(emphasis added).
+                                E
+   Finally, the interpretation we adopt, the Solicitor Gen-
+eral adds, would undermine not just clause (iii) of §78u–
+6(h)(1)(A), but clause (ii) as well. Clause (ii) prohibits
+retaliation against a whistleblower for “initiating, testify-
+ing in, or assisting in any investigation or . . . action of the
+Commission based upon” information conveyed to the SEC
+by a whistleblower in accordance with the statute. §78u–
+6(h)(1)(A)(ii). If the whistleblower definition is applied to
+§78u–6(h), the Solicitor General states, “an employer could
+fire an employee for giving . . . testimony [to the SEC] if
+the employee had not previously reported to the Commis-
+sion online or through the specified written form”—i.e., the
+methods currently prescribed by Rule 21F–9 for a whistle-
+blower to provide information to the Commission. Brief
+for United States as Amicus Curiae 20–21 (citing 17 CFR
+§240.21F–9(a)(1)–(2)).
+   But the statute expressly delegates authority to the SEC
+to establish the “manner” in which information may be
+provided to the Commission by a whistleblower. See
+§78u–6(a)(6). Nothing in today’s opinion prevents the
+agency from enumerating additional means of SEC report-
+ing—including through testimony protected by clause (ii).
+                               IV
+   For the foregoing reasons, we find the statute’s defini-
+tion of “whistleblower” clear and conclusive. Because
+“Congress has directly spoken to the precise question at
+
+
+                  Cite as: 583 U. S. ____ (2018)                19
+                       Opinion of the Court
+issue,” Chevron, 467 U. S., at 842, we do not accord defer-
+ence to the contrary view advanced by the SEC in Rule
+21F–2. See 17 CFR §240.21F–2(b)(1); supra, at 6–7. The
+statute’s unambiguous whistleblower definition, in short,
+precludes the Commission from more expansively inter-
+preting that term. See Burgess, 553 U. S., at 130.
+                          *     *      *
+  The judgment of the Court of Appeals for the Ninth
+Circuit is reversed, and the case is remanded for further
+proceedings consistent with this opinion.
+                                                 It is so ordered.
+
+
+                   Cite as: 583 U. S. ____ (2018)             1
+                     SOTOMAYOR, J., concurring
+SUPREME COURT OF THE UNITED STATES
+                            _________________
+                            No. 16–1276
+                            _________________
+     DIGITAL REALTY TRUST, INC., PETITIONER v.
+                        PAUL SOMERS
+  ON WRIT OF CERTIORARI TO THE UNITED STATES COURT OF
+               APPEALS FOR THE NINTH CIRCUIT
+                        [February 21, 2018]
+   JUSTICE SOTOMAYOR, with whom JUSTICE BREYER joins,
+concurring.
+   I join the Court’s opinion in full. I write separately only
+to note my disagreement with the suggestion in my col-
+league’s concurrence that a Senate Report is not an appro-
+priate source for this Court to consider when interpreting
+a statute.
+   Legislative history is of course not the law, but that does
+not mean it cannot aid us in our understanding of a law.
+Just as courts are capable of assessing the reliability and
+utility of evidence generally, they are capable of assessing
+the reliability and utility of legislative-history materials.
+   Committee reports, like the Senate Report the Court
+discusses here, see ante, at 3–4, 11–12, 16–18, are a par-
+ticularly reliable source to which we can look to ensure our
+fidelity to Congress’ intended meaning. See Garcia v.
+United States, 469 U. S. 70, 76 (1984) (“In surveying legis-
+lative history we have repeatedly stated that the authori-
+tative source for finding the Legislature’s intent lies in the
+Committee Reports on the bill, which ‘represen[t] the
+considered and collective understanding of those Con-
+gressmen involved in drafting and studying proposed
+legislation’ ” (quoting Zuber v. Allen, 396 U. S. 168, 186
+(1969))). Bills presented to Congress for consideration are
+generally accompanied by a committee report. Such re-
+
+
+2              DIGITAL REALTY TRUST, INC. v. SOMERS
+                        SOTOMAYOR, J., concurring
+ports are typically circulated at least two days before a bill
+is to be considered on the floor and provide Members of
+Congress and their staffs with information about “a bill’s
+context, purposes, policy implications, and details,” along
+with information on its supporters and opponents. R.
+Katzmann, Judging Statutes 20, and n. 62 (2014) (citing A.
+LaRue, Senate Manual Containing the Standing Rules,
+Orders, Laws, and Resolutions Affecting the Business of
+the United States Senate, S. Doc. No. 107–1, p. 17 (2001)).
+These materials “have long been important means of
+informing the whole chamber about proposed legislation,”
+Katzmann, Judging Statutes, at 19, a point Members
+themselves have emphasized over the years.* It is thus no
+surprise that legislative staffers view committee and
+conference reports as the most reliable type of legislative
+history. See Gluck & Bressman, Statutory Interpretation
+From the Inside—An Empirical Study of Congressional
+Drafting, Delegation and the Canons: Part I, 65 Stan.
+L. Rev. 901, 977 (2013).
+   Legislative history can be particularly helpful when a
+——————
+  * See, e.g., Hearings on the Nomination of Judge Antonin Scalia, To
+Be Associate Justice of the Supreme Court of the United States before
+the Senate Committee on the Judiciary, 99th Cong., 2d Sess., 65–66
+(1986) (Sen. Charles E. Grassley) (“[A]s one who has served in Congress
+for 12 years, legislative history is very important to those of us here
+who want further detailed expression of that legislative intent”); Mikva,
+Reading and Writing Statutes, 28 S. Tex. L. Rev. 181, 184 (1986) (“The
+committee report is the bone structure of the legislation. It is the road
+map that explains why things are in and things are out of the statute”);
+Brudney, Congressional Commentary on Judicial Interpretations of
+Statutes: Idle Chatter or Telling Response? 93 Mich. L. Rev. 1, 28
+(1994) (compiling the views of former Members on “the central im-
+portance of committee reports to their own understanding of statutory
+text”). In fact, some Members “are more likely to vote . . . based on a
+reading of the legislative history than on a reading of the statute itself.”
+Gluck & Bressman, Statutory Interpretation From the Inside—An
+Empirical Study of Congressional Drafting, Delegation and the Canons:
+Part I, 65 Stan. L. Rev. 901, 968 (2013).
+
+
+                  Cite as: 583 U. S. ____ (2018)           3
+                    SOTOMAYOR, J., concurring
+statute is ambiguous or deals with especially complex
+matters. But even when, as here, a statute’s meaning can
+clearly be discerned from its text, consulting reliable
+legislative history can still be useful, as it enables us to
+corroborate and fortify our understanding of the text. See,
+e.g., Tapia v. United States, 564 U. S. 319, 331–332 (2011);
+Carr v. United States, 560 U. S. 438, 457–458 (2010).
+Moreover, confirming our construction of a statute by
+considering reliable legislative history shows respect for
+and promotes comity with a coequal branch of Govern-
+ment. See Katzmann, Judging Statutes, at 35–36.
+   For these reasons, I do not think it wise for judges to
+close their eyes to reliable legislative history—and the
+realities of how Members of Congress create and enact
+laws—when it is available.
+
+
+                     Cite as: 583 U. S. ____ (2018)                    1
+                          Opinion of THOMAS, J.
+SUPREME COURT OF THE UNITED STATES
+                               _________________
+                               No. 16–1276
+                               _________________
+     DIGITAL REALTY TRUST, INC., PETITIONER v.
+                           PAUL SOMERS
+ ON WRIT OF CERTIORARI TO THE UNITED STATES COURT OF
+                 APPEALS FOR THE NINTH CIRCUIT
+                           [February 21, 2018]
+   JUSTICE THOMAS, with whom JUSTICE ALITO and
+JUSTICE GORSUCH join, concurring in part and concurring
+in the judgment.
+   I join the Court’s opinion only to the extent it relies on
+the text of the Dodd-Frank Wall Street Reform and Con-
+sumer Protection Act (Dodd-Frank), 124 Stat. 1376. The
+question in this case is whether the term “whistleblower”
+in Dodd-Frank’s antiretaliation provision, 15 U. S. C.
+§78u–6(h)(1), includes a person who does not report infor-
+mation to the Securities and Exchange Commission. The
+answer is in the definitions section of the statute, which
+states that the term “whistleblower” means a person who
+provides “information relating to a violation of the securi-
+ties laws to the Commission.” §78u–6(a)(6). As the Court
+observes, this statutory definition “resolves the question
+before us.” Ante, at 9. The Court goes on, however, to
+discuss the supposed “purpose” of the statute, which it
+primarily derives from a single Senate Report. See ante,
+at 3–4, 11–12, 16–18. Even assuming a majority of Con-
+gress read the Senate Report, agreed with it, and voted for
+Dodd-Frank with the same intent, “we are a government
+of laws, not of men, and are governed by what Congress
+enacted rather than by what it intended.”* Lawson v.
+——————
+  * For what it is worth, I seriously doubt that a committee report is a
+
+
+2              DIGITAL REALTY TRUST, INC. v. SOMERS
+                           Opinion of THOMAS, J.
+——————
+“particularly reliable source” for discerning “Congress’ intended mean-
+ing.” Ante, at 1 (SOTOMAYOR, J., concurring). The following exchange
+on the Senate floor is telling:
+    “Mr. ARMSTRONG. Mr. President, will the Senator tell me whether
+or not he wrote the committee report?
+    “Mr. DOLE. Did I write the committee report?
+    “Mr. ARMSTRONG. Yes.
+    “Mr. DOLE. No; the Senator from Kansas did not write the com-
+mittee report.
+    “Mr. ARMSTRONG. Did any Senator write the committee report?
+    “Mr. DOLE. I have to check.
+    “Mr. ARMSTRONG. Does the Senator know of any Senator who
+wrote the committee report?
+    “Mr. DOLE. I might be able to identify one, but I would have to
+search. I was here all during the time it was written, I might say, and
+worked carefully with the staff as they worked. . . .
+    “Mr. ARMSTRONG. Mr. President, has the Senator from Kansas,
+the chairman of the Finance Committee, read the committee report in
+its entirety?
+    “Mr. DOLE. I am working on it. It is not a bestseller, but I am work-
+ing on it.
+    “Mr. ARMSTRONG. Mr. President, did members of the Finance
+Committee vote on the committee report?
+    “Mr. DOLE. No.
+    “Mr. ARMSTRONG. . . . The report itself is not considered by the
+Committee on Finance. It was not subject to amendment by the Com-
+mittee on Finance. It is not subject to amendment now by the Senate.
+. . . If there were matter within this report which was disagreed to by
+the Senator from Colorado or even by a majority of all Senators, there
+would be no way for us to change the report. I could not offer an
+amendment tonight to amend the committee report. . . . [ L]et me just
+make the point that this is not the law, it was not voted on, it is not
+subject to amendment, and we should discipline ourselves to the task of
+expressing congressional intent in the statute.” Hirschey v. FERC, 777
+F. 2d 1, 7–8, n. 1 (CADC 1985) (Scalia, J., concurring) (quoting 128
+Cong. Rec. 16918–16919 (1982)). See also Kethledge, Ambiguities and
+Agency Cases: Reflections After (Almost) Ten Years on the Bench, 70
+Vand. L. Rev. En Banc 315, 317–318 (2017) (describing his experience
+as a Senate staffer who drafted legislative history “like being a teenag-
+er at home while your parents are away for the weekend: there was no
+supervision. I was able to write more or less what I pleased. . . . [ M ]ost
+members of Congress . . . have no idea at all about what is in the
+legislative history for a particular bill”).
+
+
+                  Cite as: 583 U. S. ____ (2018)           3
+                      Opinion of THOMAS, J.
+FMR LLC, 571 U. S. 429, ___ (2014) (Scalia, J., concurring
+in part and concurring in judgment) (slip op., at 1). And
+“it would be a strange canon of statutory construction that
+would require Congress to state in committee reports . . .
+that which is obvious on the face of a statute.” Harrison v.
+PPG Industries, Inc., 446 U. S. 578, 592 (1980). For these
+reasons, I am unable to join the portions of the Court’s
+opinion that venture beyond the statutory text.

@@ -1,0 +1,961 @@
+(Slip Opinion)                OCTOBER TERM, 2017                                    1
+                                         Syllabus
+          NOTE: Where it is feasible, a syllabus (headnote) will be released, as is
+        being done in connection with this case, at the time the opinion is issued.
+        The syllabus constitutes no part of the opinion of the Court but has been
+        prepared by the Reporter of Decisions for the convenience of the reader.
+        See United States v. Detroit Timber & Lumber Co., 200 U. S. 321, 337.
+SUPREME COURT OF THE UNITED STATES
+                                         Syllabus
+  UPPER SKAGIT INDIAN TRIBE v. LUNDGREN ET VIR
+     CERTIORARI TO THE SUPREME COURT OF WASHINGTON
+       No. 17–387.      Argued March 21, 2018—Decided May 21, 2018
+The Upper Skagit Indian Tribe purchased a roughly 40-acre plot of land
+   and then commissioned a boundary survey. The survey convinced
+   the Tribe that about an acre of its land lay on the other side of a
+   boundary fence between its land and land owned by Sharline and
+   Ray Lundgren. The Lundgrens filed a quiet title action in Washing-
+   ton state court, invoking the doctrines of adverse possession and mu-
+   tual acquiescence, but the Tribe asserted sovereign immunity from
+   the suit. Ultimately, the State Supreme Court rejected the Tribe’s
+   immunity claim and ruled for the Lundgrens, reasoning that, under
+   County of Yakima v. Confederated Tribes and Bands of Yakima Na-
+   tion, 502 U. S. 251, tribal sovereign immunity does not apply to in
+   rem suits.
+Held: Yakima addressed not the scope of tribal sovereign immunity, but
+   a question of statutory interpretation of the Indian General Allot-
+   ment Act of 1887. That Act authorized the President to allot parcels
+   of reservation land to individual tribal members and directed the
+   United States eventually to issue fee patents to the allottees as pri-
+   vate individuals. In 1934, Congress reversed course but made no at-
+   tempt to withdraw the lands already conveyed. As a result, Indian
+   reservations sometimes contain both trust land held by the United
+   States and fee-patented land held by private parties. Yakima con-
+   cerned the tax consequences of this intermixture. This Court had
+   previously held that §6 of the General Allotment Act could no longer
+   be read as allowing States to impose in personam taxes on transac-
+   tions between Indians on fee-patented land within a reservation.
+   Moe v. Confederated Salish and Kootenai Tribes of Flathead Reserva-
+   tion, 425 U. S. 463, 479–481. The Court reached a different conclu-
+   sion in Yakima with respect to in rem state taxes, holding that the
+   state collection of property taxes on fee-patented land within reserva-
+
+
+2                UPPER SKAGIT TRIBE v. LUNDGREN
+                                   Syllabus
+   tions was still allowed under §6. 502 U. S., at 265. In short, Yakima
+   sought only to interpret a relic of a statute in light of a distinguisha-
+   ble precedent; it resolved nothing about the law of sovereign immuni-
+   ty.
+      Acknowledging this, the Lundgrens now ask the Court to affirm on
+   an alternative, common-law ground: that the Tribe cannot assert
+   sovereign immunity because this suit relates to immovable property
+   located in Washington State, purchased by the Tribe in the same
+   manner as a private individual. Because this alternative argument
+   did not emerge until late in this case, the Washington Supreme Court
+   should address it in the first instance. Pp. 3–7.
+187 Wash. 2d 857, 389 P. 3d 569, vacated and remanded.
+   GORSUCH, J., delivered the opinion of the Court, in which ROBERTS,
+C. J., and KENNEDY, GINSBURG, BREYER, SOTOMAYOR, and KAGAN, JJ.,
+joined. ROBERTS, C. J., filed a concurring opinion, in which KENNEDY,
+J., joined. THOMAS, J., filed a dissenting opinion, in which ALITO, J.,
+joined.
+
+
+                         Cite as: 584 U. S. ____ (2018)                            1
+                               Opinion of the Court
+      NOTICE: This opinion is subject to formal revision before publication in the
+      preliminary print of the United States Reports. Readers are requested to
+      notify the Reporter of Decisions, Supreme Court of the United States, Wash-
+      ington, D. C. 20543, of any typographical or other formal errors, in order
+      that corrections may be made before the preliminary print goes to press.
+SUPREME COURT OF THE UNITED STATES
+                                     _________________
+                                      No. 17–387
+                                     _________________
+     UPPER SKAGIT INDIAN TRIBE, PETITIONER v.
+                   SHARLINE LUNDGREN, ET VIR
+     ON WRIT OF CERTIORARI TO THE SUPREME COURT OF
+                                   WASHINGTON
+                                    [May 21, 2018]
+   JUSTICE GORSUCH delivered the opinion of the Court.
+   Lower courts disagree about the significance of our
+decision in County of Yakima v. Confederated Tribes and
+Bands of Yakima Nation, 502 U. S. 251 (1992). Some
+think it means Indian tribes lack sovereign immunity in
+in rem lawsuits like this one; others don’t read it that way
+at all.* We granted certiorari to set things straight. 583
+U. S. ___ (2017).
+   Ancestors of the Upper Skagit Tribe lived for centuries
+along the Skagit River in northwestern Washington State.
+But as settlers moved across the Cascades and into the
+region, the federal government sought to make room for
+them by displacing native tribes. In the treaty that fol-
+lowed with representatives of the Skagit people and oth-
+ers, the tribes agreed to “cede, relinquish, and convey”
+——————
+  * Compare 187 Wash. 2d 857, 865–869, 389 P. 3d 569, 573–574 (2017)
+(case below); Cass County Joint Water Resource Dist. v. 1.43 Acres of
+Land in Highland Twp., 2002 ND 83, 643 N. W. 2d 685, 691–693 (2002)
+(conforming to the Washington Supreme Court’s interpretation of
+Yakima), with Hamaatsa, Inc. v. Pueblo of San Felipe, 2017–NMSC–
+007, 388 P. 3d 977, 986 (2016) (disagreeing); Cayuga Indian Nation of
+N. Y. v. Seneca County, 761 F. 3d 218, 221 (CA2 2014) (same).
+
+
+2             UPPER SKAGIT TRIBE v. LUNDGREN
+                      Opinion of the Court
+their lands to the United States in return for $150,000 and
+other promises. Treaty of Point Elliott, Jan. 22, 1855, 12
+Stat. 927; see Washington v. Washington State Commer-
+cial Passenger Fishing Vessel Assn., 443 U. S. 658, 676
+(1979); United States v. Washington, 384 F. Supp. 312, 333
+(WD Wash. 1974).
+   Today’s dispute stems from the Upper Skagit Tribe’s
+efforts to recover a portion of the land it lost. In 1981, the
+federal government set aside a small reservation for the
+Tribe. 46 Fed. Reg. 46681. More recently, the Tribe has
+sought to purchase additional tracts in market transac-
+tions. In 2013, the Tribe bought roughly 40 acres where, it
+says, tribal members who died of smallpox are buried.
+The Tribe bought the property with an eye to asking the
+federal government to take the land into trust and add it
+to the existing reservation next door. See 25 U. S. C.
+§5108; 25 CFR §151.4 (2013). Toward that end, the Tribe
+commissioned a survey of the plot so it could confirm the
+property’s boundaries. But then a question arose.
+   The problem was a barbed wire fence. The fence runs
+some 1,300 feet along the boundary separating the Tribe’s
+land from land owned by its neighbors, Sharline and Ray
+Lundgren. The survey convinced the Tribe that the fence
+is in the wrong place, leaving about an acre of its land on
+the Lundgrens’ side. So the Tribe informed its new neigh-
+bors that it intended to tear down the fence; clearcut the
+intervening acre; and build a new fence in the right spot.
+   In response, the Lundgrens filed this quiet title action in
+Washington state court. Invoking the doctrines of adverse
+possession and mutual acquiescence, the Lundgrens of-
+fered evidence showing that the fence has stood in the
+same place for years, that they have treated the disputed
+acre as their own, and that the previous owner of the
+Tribe’s tract long ago accepted the Lundrens’ claim to the
+land lying on their side of the fence. For its part, the Tribe
+asserted sovereign immunity from the suit. It relied upon
+
+
+                   Cite as: 584 U. S. ____ (2018)          3
+                        Opinion of the Court
+the many decisions of this Court recognizing the sovereign
+authority of Native American tribes and their right to “the
+common-law immunity from suit traditionally enjoyed by
+sovereign powers.” Michigan v. Bay Mills Indian Com-
+munity, 572 U. S. ___, ___ (2014) (slip op., at 5) (internal
+quotation marks omitted).
+   Ultimately, the Supreme Court of Washington rejected
+the Tribe’s claim of immunity and ruled for the
+Lundgrens. The court reasoned that sovereign immunity
+does not apply to cases where a judge “exercis[es] in rem
+jurisdiction” to quiet title in a parcel of land owned by a
+Tribe, but only to cases where a judge seeks to exercise in
+personam jurisdiction over the Tribe itself. 187 Wash. 2d
+857, 867, 389 P. 3d 569, 573 (2017). In coming to this
+conclusion, the court relied in part on our decision in
+Yakima. Like some courts before it, the Washington
+Supreme Court read Yakima as distinguishing in rem
+from in personam lawsuits and “establish[ing] the princi-
+ple that . . . courts have subject matter jurisdiction over
+in rem proceedings in certain situations where claims of
+sovereign immunity are asserted.” 187 Wash. 2d, at 868,
+389 P. 3d, at 574.
+   That was error. Yakima did not address the scope of
+tribal sovereign immunity. Instead, it involved only a
+much more prosaic question of statutory interpretation
+concerning the Indian General Allotment Act of 1887. See
+24 Stat. 388.
+   Some background helps dispel the misunderstanding.
+The General Allotment Act represented part of Congress’s
+late Nineteenth Century Indian policy: “to extinguish
+tribal sovereignty, erase reservation boundaries, and force
+the assimilation of Indians into the society at large.”
+Yakima, supra, at 254; In re Heff, 197 U. S. 488, 499
+(1905). It authorized the President to allot parcels of
+reservation land to individual tribal members. The law
+then directed the United States to hold the allotted parcel
+
+
+4             UPPER SKAGIT TRIBE v. LUNDGREN
+                       Opinion of the Court
+in trust for some years, and afterwards issue a fee patent
+to the allottee. 24 Stat. 389. Section 6 of the Act, as
+amended, provided that once a fee patent issued, “each
+and every allottee shall have the benefit of and be subject
+to the laws, both civil and criminal, of the State or Territory
+in which they may reside” and “all restrictions as to sale,
+incumbrance, or taxation of said land shall be removed.”
+25 U. S. C. §349.
+  In 1934, Congress reversed course. It enacted the Indian
+Reorganization Act, 48 Stat. 984, to restore “the principles
+of tribal self-determination and self-governance” that
+prevailed before the General Allotment Act. Yakima, 502
+U. S., at 255. “Congress halted further allotments and
+extended indefinitely the existing periods of trust applica-
+ble to” parcels that were not yet fee patented. Ibid.; see 25
+U. S. C. §§461–462. But the Legislature made no attempt
+to withdraw lands already conveyed to private persons
+through fee patents (and by now sometimes conveyed to
+non-Indians). As a result, Indian reservations today
+sometimes contain two kinds of land intermixed in a kind
+of checkerboard pattern: trust land held by the United
+States and fee-patented land held by private parties. See
+Yakima, supra, at 256.
+  Yakima concerned the tax consequences of this checker-
+board. Recall that the amended version of §6 of the
+General Allotment Act rendered allottees and their fee-
+patented land subject to state regulations and taxes. 25
+U. S. C. §349. Despite that, in Moe v. Confederated Salish
+and Kootenai Tribes of Flathead Reservation, 425 U. S.
+463 (1976), this Court held that §6 could no longer be read
+as allowing States to impose in personam taxes (like those
+on cigarette sales) on transactions between Indians on fee-
+patented land within a reservation. Id., at 479–481.
+Among other things, the Court pointed to the impracticality
+of using the ownership of a particular parcel within a
+reservation to determine the law governing transactions
+
+
+                   Cite as: 584 U. S. ____ (2018)          5
+                        Opinion of the Court
+taking place upon it. See id., at 478–479. Despite Moe
+and some years later, this Court in Yakima reached a
+different conclusion with respect to in rem state taxes.
+The Court held that allowing States to collect property
+taxes on fee-patented land within reservations was still
+allowed by §6. Yakima, supra, at 265. Unlike the in
+personam taxes condemned in Moe, the Court held that
+imposing in rem taxes only on the fee-patented squares of
+the checkerboard was “not impracticable” because property
+tax assessors make “parcel-by-parcel determinations”
+about property tax liability all the time. Yakima, supra,
+at 265. In short, Yakima sought only to interpret a relic of
+a statute in light of a distinguishable precedent; it re-
+solved nothing about the law of sovereign immunity.
+   Commendably, the Lundgrens acknowledged all this at
+oral argument. Tr. of Oral Arg. 36. Instead of seeking to
+defend the Washington Supreme Court’s reliance on Ya-
+kima, they now ask us to affirm their judgment on an
+entirely distinct alternative ground. At common law, they
+say, sovereigns enjoyed no immunity from actions involv-
+ing immovable property located in the territory of another
+sovereign. As our cases have put it, “[a] prince, by acquir-
+ing private property in a foreign country, . . . may be con-
+sidered as so far laying down the prince, and assuming the
+character of a private individual.” Schooner Exchange v.
+McFaddon, 7 Cranch 116, 145 (1812). Relying on this line
+of reasoning, the Lundgrens argue, the Tribe cannot assert
+sovereign immunity because this suit relates to immovable
+property located in the State of Washington that the Tribe
+purchased in the “the character of a private individual.”
+   The Tribe and the federal government disagree. They
+note that immunity doctrines lifted from other contexts do
+not always neatly apply to Indian tribes. See Kiowa Tribe
+of Okla. v. Manufacturing Technologies, Inc., 523 U. S.
+751, 756 (1998) (“[T]he immunity possessed by Indian
+tribes is not coextensive with that of the States”). And
+
+
+6             UPPER SKAGIT TRIBE v. LUNDGREN
+                      Opinion of the Court
+since the founding, they say, the political branches rather
+than judges have held primary responsibility for determin-
+ing when foreign sovereigns may be sued for their activi-
+ties in this country. Verlinden B. V. v. Central Bank of
+Nigeria, 461 U. S. 480, 486 (1983); Ex parte Peru, 318
+U. S. 578, 588 (1943).
+   We leave it to the Washington Supreme Court to ad-
+dress these arguments in the first instance. Although we
+have discretion to affirm on any ground supported by the
+law and the record that will not expand the relief granted
+below, Thigpen v. Roberts, 468 U. S. 27, 30 (1984), in this
+case we think restraint is the best use of discretion. De-
+termining the limits on the sovereign immunity held by
+Indian tribes is a grave question; the answer will affect all
+tribes, not just the one before us; and the alternative
+argument for affirmance did not emerge until late in this
+case. In fact, it appeared only when the United States
+filed an amicus brief in this case—after briefing on certio-
+rari, after the Tribe filed its opening brief, and after the
+Tribe’s other amici had their say. This Court has often
+declined to take a “first view” of questions that make their
+appearance in this posture, and we think that course the
+wise one today. Cutter v. Wilkinson, 544 U. S. 709, 718,
+n. 7 (2005).
+   The dissent is displeased with our decision on this score,
+but a contradiction lies at the heart of its critique. First,
+the dissent assures us that the immovable property excep-
+tion applies with irresistible force—nothing more than a
+matter of “hornbook law.” Post, at 3–10 (opinion of
+THOMAS, J.). But then, the dissent claims that allowing
+the Washington Supreme Court to address that exception
+is a “grave” decision that “casts uncertainty” over the law
+and leaves lower courts with insufficient “guidance.” Post,
+at 3, 13–14. Both cannot be true. If the immovable prop-
+erty exception presents such an easy question, then it’s
+hard to see what terrible things could happen if we allow
+
+
+                  Cite as: 584 U. S. ____ (2018)                 7
+                       Opinion of the Court
+the Washington Supreme Court to answer it. Surely our
+state court colleagues are no less versed than we in “horn-
+book law,” and we are confident they can and will faithfully
+apply it. And what if, instead, the question turns out to be
+more complicated than the dissent promises? In that case
+the virtues of inviting full adversarial testing will have
+proved themselves once again. Either way, we remain
+sanguine about the consequences.
+  The dissent’s other objection to a remand rests on a
+belief that the immovable property exception was the
+source of “the disagreement that led us to take this case.”
+Post, at 1. But this too is mistaken. As we’ve explained,
+the courts below and the certiorari-stage briefs before us
+said precisely nothing on the subject. Nor do we under-
+stand how the dissent might think otherwise—for its
+essential premise is that no disagreement exists, or is even
+possible, about the exception’s scope. The source of confu-
+sion in the lower courts that led to our review was the one
+about Yakima, see supra, at 1, n., and we have dispelled it.
+That is work enough for the day. We vacate the judgment
+and remand the case for further proceedings not incon-
+sistent with this opinion.
+                                                 It is so ordered.
+
+
+                   Cite as: 584 U. S. ____ (2018)          1
+                     ROBERTS, C. J., concurring
+SUPREME COURT OF THE UNITED STATES
+                            _________________
+                             No. 17–387
+                            _________________
+     UPPER SKAGIT INDIAN TRIBE, PETITIONER v.
+               SHARLINE LUNDGREN, ET VIR
+      ON WRIT OF CERTIORARI TO THE SUPREME COURT OF
+                          WASHINGTON
+                           [May 21, 2018]
+   CHIEF JUSTICE ROBERTS, with whom JUSTICE KENNEDY
+joins, concurring.
+   I join the opinion of the Court in full.
+   But that opinion poses an unanswered question: What
+precisely is someone in the Lundgrens’ position supposed
+to do? There should be a means of resolving a mundane
+dispute over property ownership, even when one of
+the parties to the dispute—involving non-trust, non-
+reservation land—is an Indian tribe. The correct answer
+cannot be that the tribe always wins no matter what;
+otherwise a tribe could wield sovereign immunity as a
+sword and seize property with impunity, even without a
+colorable claim of right.
+   The Tribe suggests that the proper mode of redress is for
+the Lundgrens—who purchased their property long before
+the Tribe came into the picture—to negotiate with the
+Tribe. Although the parties got off on the wrong foot here,
+the Tribe insists that negotiations would run more
+smoothly if the Lundgrens “understood [its] immunity
+from suit.” Tr. of Oral Arg. 60. In other words, once the
+Court makes clear that the Lundgrens ultimately have no
+recourse, the parties can begin working toward a sensible
+settlement. That, in my mind at least, is not a meaningful
+remedy.
+   The Solicitor General proposes a different out-of-court
+
+
+2             UPPER SKAGIT TRIBE v. LUNDGREN
+                    ROBERTS, C. J., concurring
+solution. Taking up this Court’s passing comment that a
+disappointed litigant may continue to assert his title, see
+Block v. North Dakota ex rel. Board of Univ. and School
+Lands, 461 U. S. 273, 291–292 (1983), the Solicitor Gen-
+eral more pointedly suggests that the Lundgrens should
+steer into the conflict: Go onto the disputed property and
+chop down some trees, build a shed, or otherwise attempt
+to “induce [the Tribe] to file a quiet-title action.” Brief for
+United States as Amicus Curiae 23–24. Such brazen
+tactics may well have the desired effect of causing the
+Tribe to waive its sovereign immunity. But I am skeptical
+that the law requires private individuals—who, again, had
+no prior dealings with the Tribe—to pick a fight in order to
+vindicate their interests.
+   The consequences of the Court’s decision today thus
+seem intolerable, unless there is another means of resolv-
+ing property disputes of this sort. Such a possibility was
+discussed in the Solicitor General’s brief, the Lundgrens’
+brief, and the Tribe’s reply brief, and extensively explored
+at oral argument—the exception to sovereign immunity
+for actions to determine rights in immovable property.
+After all, “property ownership is not an inherently sover-
+eign function.” Permanent Mission of India to United
+Nations v. City of New York, 551 U. S. 193, 199 (2007).
+Since the 18th century, it has been a settled principle of
+international law that a foreign state holding real prop-
+erty outside its territory is treated just like a private indi-
+vidual. Schooner Exchange v. McFaddon, 7 Cranch 116,
+145 (1812). The same rule applies as a limitation on the
+sovereign immunity of States claiming an interest in land
+located within other States. See Georgia v. Chattanooga,
+264 U. S. 472, 480–482 (1924). The only question, as the
+Solicitor General concedes, Brief for United States as
+Amicus Curiae 25, is whether different principles afford
+Indian tribes a broader immunity from actions involving
+off-reservation land.
+
+
+                  Cite as: 584 U. S. ____ (2018)            3
+                    ROBERTS, C. J., concurring
+   I do not object to the Court’s determination to forgo
+consideration of the immovable-property rule at this time.
+But if it turns out that the rule does not extend to tribal
+assertions of rights in non-trust, non-reservation property,
+the applicability of sovereign immunity in such circum-
+stances would, in my view, need to be addressed in a
+future case. See Michigan v. Bay Mills Indian Commu-
+nity, 572 U. S. ___, ___, n. 8 (2014) (slip op., at 16, n. 8)
+(reserving the question whether sovereign immunity
+would apply if a “plaintiff who has not chosen to deal with
+a tribe[ ] has no alternative way to obtain relief for off-
+reservation commercial conduct”). At the very least, I
+hope the Lundgrens would carefully examine the full
+range of legal options for resolving this title dispute with
+their neighbors, before crossing onto the disputed land and
+firing up their chainsaws.
+
+
+                  Cite as: 584 U. S. ____ (2018)            1
+                      THOMAS, J., dissenting
+SUPREME COURT OF THE UNITED STATES
+                           _________________
+                            No. 17–387
+                           _________________
+    UPPER SKAGIT INDIAN TRIBE, PETITIONER v.
+              SHARLINE LUNDGREN, ET VIR
+    ON WRIT OF CERTIORARI TO THE SUPREME COURT OF
+                         WASHINGTON
+                          [May 21, 2018]
+   JUSTICE THOMAS, with whom JUSTICE ALITO joins,
+dissenting.
+   We granted certiorari to decide whether “a court’s exer-
+cise of in rem jurisdiction overcome[s] the jurisdictional
+bar of tribal sovereign immunity.” Pet. for Cert. i; 583
+U. S. ___ (2017). State and federal courts are divided on
+that question, but the Court does not give them an an-
+swer. Instead, it holds only that County of Yakima v.
+Confederated Tribes and Bands of Yakima Nation, 502
+U. S. 251 (1992), “resolved nothing about the law of [tribal]
+sovereign immunity.” Ante, at 5. Unfortunately, neither
+does the decision today—except to say that courts cannot
+rely on County of Yakima. As a result, the disagreement
+that led us to take this case will persist.
+   The Court easily could have resolved that disagreement
+by addressing respondents’ alternative ground for affir-
+mance. Sharline and Ray Lundgren—whose family has
+maintained the land in question for more than 70 years—
+ask us to affirm based on the “immovable property” excep-
+tion to sovereign immunity. That exception is settled,
+longstanding, and obviously applies to tribal immunity—
+as it does to every other type of sovereign immunity that
+has ever been recognized. Although the Lundgrens did
+not raise this argument below, we have the discretion to
+reach it. I would have done so. The immovable-property
+
+
+2                UPPER SKAGIT TRIBE v. LUNDGREN
+                           THOMAS, J., dissenting
+exception was extensively briefed and argued, and its
+application here is straightforward. Addressing the excep-
+tion now would have ensured that property owners like
+the Lundgrens can protect their rights and that States like
+Washington can protect their sovereignty. Because the
+Court unnecessarily chooses to leave them in limbo, I
+respectfully dissent.
+                                     I
+   As the Court points out, the parties did not raise the
+immovable-property exception below or in their certiorari-
+stage briefs. See ante, at 6. But this Court will resolve
+arguments raised for the first time in the merits briefs
+when they are a “ ‘ “predicate to an intelligent resolution”
+of the question presented’ ” and thus “ ‘fairly included’
+within the question presented.” Caterpillar Inc. v. Lewis,
+519 U. S. 61, 75, n. 13 (1996) (quoting Ohio v. Robinette,
+519 U. S. 33, 38 (1996); this Court’s Rule 14.1). The Court
+agrees that the immovable-property exception is necessary
+to an intelligent resolution of the question presented,
+which is why it remands that issue to the Washington
+Supreme Court. See ante, at 6–7. But our normal practice
+is to address the issue ourselves, unless there are “good
+reasons to decline to exercise our discretion.” Jones v.
+United States, 527 U. S. 373, 397, n. 12 (1999) (plurality
+opinion).
+   There are no good reasons here. The Court’s only prof-
+fered reason is that the applicability of the immovable-
+property exception is a “grave question” that “will affect
+all tribes, not just the one before us.” Ante, at 6.1 The
+——————
+  1 The Court does not question the adequacy of the briefing or identify
+factual questions that need further development. Nor could it. The
+immovable-property exception received extensive attention in the
+parties’ briefs, see Brief for Respondents 9–26; Reply Brief 13–24, and
+the Government’s amicus brief, see Brief for United States 25–33. Most
+
+
+                     Cite as: 584 U. S. ____ (2018)                  3
+                         THOMAS, J., dissenting
+exception’s applicability might be “grave,” but it is also
+clear. And most questions decided by this Court will affect
+more than the parties “before us”; that is one of the primary
+reasons why we grant certiorari. See this Court’s Rule
+10(c) (explaining that certiorari review is usually reserved
+for cases involving “an important question of federal law”
+that has divided the state or federal courts). Moreover,
+the Court’s decision to forgo answering the question pre-
+sented is no less “grave.” It forces the Lundgrens to
+squander additional years and resources litigating their
+right to litigate. And it casts uncertainty over the sover-
+eign rights of States to maintain jurisdiction over their
+respective territories.
+   Contrary to the Court’s suggestion, ante, at 6–7, I have
+no doubt that our state-court colleagues will faithfully
+interpret and apply the law on remand. But I also have no
+doubt that this Court “ha[s] an ‘obligation . . . to decide the
+merits of the question presented’ ” in the cases that come
+before us. Encino Motorcars, LLC v. Navarro, 579 U. S.
+___, ___ (2016) (THOMAS, J., dissenting) (slip op., at 1).
+The Court should have discharged that obligation here.
+                                  II
+   I would have resolved this case based on the immovable-
+property exception to sovereign immunity. That excep-
+tion is well established. And it plainly extends to tribal
+immunity, as it does to every other form of sovereign
+immunity.
+                                   A
+   The immovable-property exception has been hornbook
+——————
+of the oral argument likewise focused on the immovable-property
+exception. See Tr. of Oral Arg. 14–16, 19–29, 34–51, 54–59. And when
+asked at oral argument what else it could say about the exception if it
+had more time, the Tribe had no response. See id., at 19–21.
+
+
+4               UPPER SKAGIT TRIBE v. LUNDGREN
+                          THOMAS, J., dissenting
+law almost as long as there have been hornbooks. For
+centuries, there has been “uniform authority in support of
+the view that there is no immunity from jurisdiction with
+respect to actions relating to immovable property.” Lau-
+terpacht, The Problem of Jurisdictional Immunities of
+Foreign States, 28 Brit. Y. B. Int’l Law 220, 244 (1951).2
+This immovable-property exception predates both the
+founding and the Tribe’s treaty with the United States.
+Cornelius van Bynkershoek, a renowned 18th-century
+jurist,3 stated that it was “established” that “property
+which a prince has purchased for himself in the dominions
+of another . . . shall be treated just like the property of
+private individuals.” De Foro Legatorum Liber Singularis
+22 (G. Laing transl. 2d ed. 1946). His conclusion echoed
+——————
+   2 There is some disagreement about the outer bounds of this excep-
+tion—for example, whether it applies to tort claims related to the
+property or to diplomatic embassies. See, e.g., Letter from J. Tate,
+Acting Legal Adviser, Dept. of State, to Acting Attorney General P.
+Perlman (May 19, 1952), 26 Dept. of State Bull. 984, 984–985 (Tate
+Letter); see also C. Bynkershoek, De Foro Legatorum Liber Singularis
+22–23 (G. Laing transl. 2d ed. 1946) (explaining there is “no unanimity”
+regarding attaching a foreign prince’s debts to immovable property).
+But there is no dispute that it covers suits concerning ownership of a
+piece of real property used for nondiplomatic reasons. See Tate Letter
+984; Brief for United States as Amicus Curiae 27–28. In other words,
+there is no dispute that it applies to in rem suits like this one.
+   3 Considered “a jurist of great reputation” by Chief Justice Marshall,
+Schooner Exchange v. McFaddon, 7 Cranch 116, 144 (1812), “Bynker-
+shoek’s influence in the eighteenth century [w]as enormous,” Adler, The
+President’s Recognition Power, in The Constitution and the Conduct of
+American Foreign Policy 133, 153, n. 19 (G. Adler & L. George eds.
+1996) (internal quotation marks omitted). Madison, for example,
+consulted Bynkershoek’s works (on the recommendation of Jefferson)
+while preparing to draft the Constitution. See Letter from Thomas
+Jefferson to James Madison (Feb. 20, 1784), in 4 The Works of Thomas
+Jefferson 239, 248 (P. Ford ed. 1904); Letter from James Madison to
+Thomas Jefferson (Mar. 16, 1784), in 2 The Writings of James Madison
+34, 43 (G. Hunt ed. 1901).
+
+
+                     Cite as: 584 U. S. ____ (2018)                    5
+                         THOMAS, J., dissenting
+the 16th-century legal scholar Oswald Hilliger. See ibid.
+About a decade after Bynkershoek, Emer de Vattel ex-
+plained that, when “sovereigns have fiefs and other pos-
+sessions in the territory of another prince; in such cases
+they hold them after the manner of private individuals.” 3
+The Law of Nations §83, p. 139 (C. Fenwick transl. 1916);
+see also E. de Vattel, The Law of Nations §115, p. 493 (J.
+Chitty ed. 1872) (“All landed estates, all immovable prop-
+erty, by whomsoever possessed, are subject to the jurisdic-
+tion of the country”).4
+   The immovable-property exception is a corollary of the
+ancient principle of lex rei sitae. Sometimes called lex
+situs or lex loci rei sitae, the principle provides that “land
+is governed by the law of the place where it is situated.”
+F. Wharton, Conflict of Laws §273, p. 607 (G. Parmele ed.,
+3d ed. 1905). It reflects the fact that a sovereign “cannot
+suffer its own laws . . . to be changed” by another sover-
+eign. H. Wheaton, Elements of International Law §81,
+p. 114 (1866). As then-Judge Scalia explained, it is “self-
+evident” that “[a] territorial sovereign has a primeval
+interest in resolving all disputes over use or right to use of
+real property within its own domain.” Asociacion de
+Reclamantes v. United Mexican States, 735 F. 2d 1517,
+1521 (CADC 1984). And because “land is so indissolubly
+connected with the territory of a State,” a State “cannot
+permit” a foreign sovereign to displace its jurisdiction by
+purchasing land and then claiming “immunity.” Compe-
+tence of Courts in Regard to Foreign States, 26 Am. J. Int’l
+L. Supp. 451, 578 (1932) (Competence of Courts). An
+assertion of immunity by a foreign sovereign over real
+property is an attack on the sovereignty of “the State of
+——————
+  4 De Vattel’s work was “a leading treatise” of its era. Jesner v. Arab
+Bank, PLC, ante, at 9, n. 3 (GORSUCH, J., concurring in part and concur-
+ring in judgment).
+
+
+6                   UPPER SKAGIT TRIBE v. LUNDGREN
+                            THOMAS, J., dissenting
+the situs.” Ibid.
+     The principle of lex rei sitae was so well established by
+the 19th century that Chancellor James Kent deemed it
+“too clear for discussion.” 2 Commentaries on American
+Law 429, n. a (4th ed. 1840). The medieval jurist Bartolus
+of Sassoferatto had recognized the principle 500 years
+earlier in his commentary on conflicts of law under the
+Justinian Code. See Bartolus, Conflict of Laws 29 (J.
+Beale transl. 1914).5 Bartolus explained that, “when there
+is a question of any right growing out of a thing itself, the
+custom or statute of the place where the thing is should be
+observed.” Ibid. Later authorities writing on conflicts of
+law consistently agreed that lex rei sitae determined the
+governing law in real-property disputes.6 And this Court
+likewise held, nearly 200 years ago, that “the nature of
+——————
+    5 In the foreword to his translation of Bartolus, Joseph Henry Beale
+described him as “the most imposing figure among the lawyers of the
+middle ages,” whose work was “the first and standard statement of the
+doctrines of the Conflict of Laws.” Bartolus, Conflict of Laws, at 9.
+    6 See, e.g., F. von Savigny, Conflict of Laws 130 (W. Guthrie transl.
+1869) (“This principle [of lex rei sitae] has been generally accepted from
+a very early time”); G. Bowyer, Commentaries on Universal Public Law
+160 (1854) (“[W]here the matter in controversy is the right and title to
+land or other immovable property, the judgment pronounced in the
+forum rei sitae is held conclusive in other countries”); H. Wheaton,
+Elements of International Law §81, p. 114 (G. Wilson ed. 1936) (“[T]he
+law of a place where real property is situated governs exclusively as to
+the tenure, title, and the descent of such property”); J. Story, Commen-
+taries on the Conflict of Laws §424, p. 708 (rev. 3d ed. 1846) (“The title
+. . . to real property can be acquired, passed, and lost only according to
+the Lex rei sitae”); J. Westlake, Private International Law *56 (“The
+right to possession of land can only be tried in the courts of the situs”);
+L. Bar, International Law 241–242 (G. Gillespie transl. 1883) (noting
+that, in “the simpler case of immoveables,” “[t]he lex rei sitae is the
+rule”); F. Wharton, 1 Conflict of Laws §273, p. 607 (G. Parmele ed., 3d
+ed. 1905) (“Jurists of all schools, and courts of all nations, are agreed
+in holding that land is governed by the law of the place where it is
+situated”).
+
+
+                  Cite as: 584 U. S. ____ (2018)            7
+                      THOMAS, J., dissenting
+sovereignty” requires that “[e]very government” have “the
+exclusive right of regulating the descent, distribution, and
+grants of the domain within its own boundaries.” Green v.
+Biddle, 8 Wheat. 1, 12 (1823) (Story, J.).
+  The acceptance of the immovable-property exception has
+not wavered over time. In the 20th century, as nations
+increasingly owned foreign property, it remained “well
+settled in International law that foreign state immunity
+need not be extended in cases dealing with rights to inter-
+ests in real property.” Weber, The Foreign Sovereign
+Immunities Act of 1976: Its Origin, Meaning, and Effect, 3
+Yale J. Int’l L. 1, 33 (1976). Countries around the world
+continued to recognize the exception in their statutory and
+decisional law. See Competence of Courts 572–590 (noting
+support for the exception in statutes from Austria, Ger-
+many, Hungary, and Italy, as well as decisions from the
+United States, Austria, Chile, Czechoslovakia, Egypt,
+France, Germany, and Romania). “All modern authors
+are, in fact, agreed that in all disputes in rem regarding
+immovable property, the judicial authorities of the State
+possess as full a jurisdiction over foreign States as they
+do over foreign individuals.” C. Hyde, 2 International
+Law 848, n. 33 (2d ed. 1945) (internal quotation marks
+omitted).
+  The Restatement of Foreign Relations Law reflects this
+unbroken consensus. Every iteration of the Restatement
+has deemed a suit concerning the ownership of real prop-
+erty to be “outside the scope of the principle of [sovereign]
+immunity of a foreign state.” Restatement of Foreign
+Relations Law of the United States (Proposed Official
+Draft) §71, Comment c, p. 228 (1962); see also Restate-
+ment (Second) of Foreign Relations Law of the United
+States §68(b) (1965) (similar); Restatement (Third) of
+Foreign Relations Law of the United States §455(1)(c)
+(1987) (denying that immunity exists for “claims . . . to
+immovable property in the state of the forum”); Restate-
+
+
+8               UPPER SKAGIT TRIBE v. LUNDGREN
+                        THOMAS, J., dissenting
+ment (Fourth) of Foreign Relations Law of the United
+States §456(2) (Tent. Draft No. 2, Mar. 22, 2016) (recogniz-
+ing “jurisdiction over a foreign state in any case in which
+rights in immovable property situated in the United
+States are in issue”). Sovereign immunity, the First Re-
+statement explains, does not bar “an action to obtain
+possession of or establish an ownership interest in immov-
+able property located in the territory of the state exercis-
+ing jurisdiction.” §71(b), at 226.
+   Given the centuries of uniform agreement on the
+immovable-property exception, it is no surprise that all
+three branches of the United States Government have
+recognized it. Writing for a unanimous Court and drawing
+on Bynkershoek and De Vattel, Chief Justice Marshall
+noted that “the property of a foreign sovereign is not dis-
+tinguishable by any legal exemption from the property of
+an ordinary individual.” Schooner Exchange v. McFaddon,
+7 Cranch 116, 144–145 (1812). Thus, “[a] prince, by ac-
+quiring private property in a foreign country, may possibly
+be considered as subjecting that property to the territorial
+jurisdiction . . . and assuming the character of a private
+individual.” Id., at 145.7 The Court echoed this reasoning
+over a century later, holding that state sovereign immunity
+does not extend to “[l]and acquired by one State in another
+State.” Georgia v. Chattanooga, 264 U. S. 472, 480 (1924).
+In 1952, the State Department acknowledged that “[t]here
+is agreement[,] supported by practice, that sovereign
+immunity should not be claimed or granted in actions with
+respect to real property.” Tate Letter 984.8 Two decades
+——————
+  7 The Skagit Tribe entered into its treaty with the United States four
+decades later. See Treaty of Point Elliott, Apr. 11, 1859, 12 Stat. 927.
+The treaty does not mention sovereignty or otherwise alter the rule laid
+out in Schooner Exchange.
+  8 This declaration has long been “the official policy of our Govern-
+ment.” Alfred Dunhill of London, Inc. v. Republic of Cuba, 425 U. S.
+
+
+                      Cite as: 584 U. S. ____ (2018)                  9
+                          THOMAS, J., dissenting
+later, Congress endorsed the immovable-property excep-
+tion by including it in the Foreign Sovereign Immunities
+Act of 1976. See 28 U. S. C. §1605(a)(4) (“A foreign state
+shall not be immune from the jurisdiction of courts of the
+United States . . . in any case . . . in which . . . rights in
+immovable property situated in the United States are in
+issue”). This statutory exception was “meant to codify the
+pre-existing real property exception to sovereign immunity
+recognized by international practice.” Permanent Mission
+of India to United Nations v. City of New York, 551 U. S.
+193, 200 (2007) (emphasis added; internal quotation
+marks omitted).
+   The Court does not question any of the foregoing author-
+ities. Nor did the parties provide any reason to do so. The
+Government, when asked to identify its “best authority for
+the proposition that the baseline rule of common law was
+total immunity, including in rem actions,” pointed to just
+two sources. See Tr. of Oral Arg. 29; Brief for United
+States as Amicus Curiae 10, 26. The first was Hamilton’s
+statement that “[i]t is inherent in the nature of sovereignty
+not to be amenable to the suit of an individual without its
+consent.” The Federalist No. 81, p. 487 (C. Rossiter ed.
+1961) (emphasis deleted). Yet “property ownership is not
+an inherently sovereign function,” Permanent Mission,
+supra, at 199, and Hamilton’s general statement does not
+suggest that immunity is automatically available or is not
+subject to longstanding exceptions. The Government also
+cited Schooner Exchange. But as explained above, that
+——————
+682, 698 (1976). The State Department has reaffirmed it on several
+occasions. See, e.g., Dept. of State, J. Sweeney, Policy Research Study:
+The International Law of Sovereign Immunity 24 (1963) (“The immunity
+from jurisdiction of a foreign state does not extend to actions for
+the determination of an interest in immovable—or real—property in
+the territory. This limitation on the immunity of the state is of long
+standing”).
+
+
+10            UPPER SKAGIT TRIBE v. LUNDGREN
+                      THOMAS, J., dissenting
+decision expressly acknowledges the immovable-property
+exception. The Government’s unconvincing arguments
+cannot overcome more than six centuries of consensus on
+the validity of the immovable-property exception.
+                               B
+   Because the immovable-property exception clearly
+applies to both state and foreign sovereign immunity, the
+only question is whether it also applies to tribal immunity.
+It does.
+   Just last Term, this Court refused to “exten[d]” tribal
+immunity “beyond what common-law sovereign immunity
+principles would recognize.” Lewis v. Clarke, 581 U. S.
+___, ___–___ (2017) (slip op., at 7–8). Tribes are “domestic
+dependent nations,” Cherokee Nation v. Georgia, 5 Pet. 1,
+17 (1831), that “no longer posses[s] the full attributes of
+sovereignty,” United States v. Wheeler, 435 U. S. 313, 323
+(1978) (internal quotation marks omitted). Given the
+“limited character” of their sovereignty, ibid., Indian
+tribes possess only “the common-law immunity from suit
+traditionally enjoyed by sovereign powers,” Santa Clara
+Pueblo v. Martinez, 436 U. S. 49, 58 (1978). That is why
+this Court recently declined an invitation to make tribal
+immunity “broader than the protection offered by state or
+federal sovereign immunity.” Lewis, 581 U. S., at ___ (slip
+op., at 8). Accordingly, because States and foreign coun-
+tries are subject to the immovable-property exception,
+Indian tribes are too. “There is no reason to depart from
+these general rules in the context of tribal sovereign im-
+munity.” Id., at ___ (slip op., at 7).
+   In declining to reach the immovable-property exception,
+the Court highlights two counterarguments that the Tribe
+and the United States have raised for why the exception
+should not extend to tribal immunity. Neither argument
+has any merit.
+   First, the Court notes that “immunity doctrines lifted
+
+
+                   Cite as: 584 U. S. ____ (2018)         11
+                       THOMAS, J., dissenting
+from other contexts do not always neatly apply to Indian
+tribes.” Ante, at 5 (citing Kiowa Tribe of Okla. v. Manufac-
+turing Technologies, Inc., 523 U. S. 751, 756 (1998)). But
+the Court’s authority for that proposition merely states
+that tribal immunity “is not coextensive with that of the
+States.” Id., at 756 (emphasis added). Even assuming
+that is so, it does not mean that the Tribe’s immunity can
+be more expansive than any recognized form of sovereign
+immunity, including the immunity of the United States
+and foreign countries. See Lewis, supra, at ___–___ (slip
+op., at 7–8). And the Tribe admits that this Court has
+previously limited tribal immunity to conform with analo-
+gous “limitations . . . in suits against the United States.”
+Reply Brief 22. No one argues that the United States
+could claim sovereign immunity if it wrongfully asserted
+ownership of private property in a foreign country—the
+equivalent of what the Tribe did here. The United States
+plainly would be subject to suit in that country’s courts.
+See Competence of Courts 572–590.
+   Second, the Court cites two decisions for the proposition
+that “since the founding . . . the political branches rather
+than judges have held primary responsibility for determin-
+ing when foreign sovereigns may be sued for their activi-
+ties in this country.” Ante, at 6 (citing Verlinden B. V. v.
+Central Bank of Nigeria, 461 U. S. 480, 486 (1983); Ex
+parte Peru, 318 U. S. 578, 588 (1943)). But those cases did
+not involve tribal immunity. They were admiralty suits in
+which foreign sovereigns sought to recover ships they
+allegedly owned. See Verlinden, supra, at 486 (citing
+cases involving ships allegedly owned by Italy, Peru, and
+Mexico); Ex parte Peru, supra, at 579 (mandamus action
+by Peru regarding its steamship). Those decisions were an
+extension of the common-law principle, recognized in
+Schooner Exchange, that sovereign immunity applies to
+vessels owned by a foreign sovereign. See Berizzi Brothers
+Co. v. S. S. Pesaro, 271 U. S. 562, 571–576 (1926). These
+
+
+12               UPPER SKAGIT TRIBE v. LUNDGREN
+                           THOMAS, J., dissenting
+cases encourage deference to the political branches on
+sensitive questions of foreign affairs. But they do not
+suggest that courts can ignore longstanding limits on
+sovereign immunity, such as the immovable-property
+exception. And they do not suggest that courts can abdi-
+cate their judicial duty to decide the scope of tribal im-
+munity—a duty this Court exercised just last Term. See
+Lewis, supra, at ___–___ (slip op., at 5–8).9
+    In fact, those present at “the founding,” ante, at 6, would
+be shocked to learn that an Indian tribe could acquire
+property in a State and then claim immunity from that
+State’s jurisdiction.10 Tribal immunity is “a judicial doc-
+trine” that is not mandated by the Constitution. Kiowa,
+523 U. S., at 759. It “developed almost by accident,” was
+reiterated “with little analysis,” and does not reflect the
+realities of modern-day Indian tribes. See id., at 756–758.
+The doctrine has become quite “exorbitant,” Michigan v.
+Bay Mills Indian Community, 572 U. S. ___, ___ (2014)
+(GINSBURG, J., dissenting) (slip op., at 1), and it has been
+implausibly “exten[ded] . . . to bar suits arising out of an
+——————
+   9 These decisions about ships, even on their own terms, undercut the
+Tribe’s claim to immunity here. The decisions acknowledge a “distinc-
+tion between possession and title” that is “supported by the overwhelm-
+ing weight of authority” and denies immunity to a foreign sovereign
+that has “title . . . without possession.” Republic of Mexico v. Hoffman,
+324 U. S. 30, 37–38 (1945); see, e.g., Long v. The Tampico, 16 F. 491,
+493–501 (SDNY 1883). That distinction would defeat the Tribe’s claim
+to immunity because the Lundgrens have possession of the land. See
+187 Wash. 2d 857, 861–864, 389 P. 3d 569, 571–572 (2017).
+   10 Their shock would not be assuaged by the Government’s proposed
+remedy. The Government suggests that the Lundgrens should force a
+showdown with the Tribe by chopping down trees or building some
+structure on the land. See Brief for United States as Amicus Curiae
+23–24. If the judge-made doctrine of tribal immunity has come to a
+place where it forces individuals to take the law into their own hands to
+keep their own land, then it will have crossed the threshold from
+mistaken to absurd.
+
+
+                   Cite as: 584 U. S. ____ (2018)            13
+                       THOMAS, J., dissenting
+Indian tribe’s commercial activities conducted outside its
+territory,” id., at ___ (THOMAS, J., dissenting) (slip op.,
+at 1).
+  Extending it even further here would contradict the
+bedrock principle that each State is “entitled to the sover-
+eignty and jurisdiction over all the territory within her
+limits.” Lessee of Pollard v. Hagan, 3 How. 212, 228
+(1845); accord, Texas v. White, 7 Wall. 700, 725 (1869);
+Willamette Iron Bridge Co. v. Hatch, 125 U. S. 1, 9 (1888)
+(collecting cases). Since 1812, this Court has “enter-
+tain[ed] no doubt” that “the title to land can be acquired
+and lost only in the manner prescribed by the law of the
+place where such land is situate[d].” United States v.
+Crosby, 7 Cranch 115, 116 (1812) (Story, J.). Justice
+Bushrod Washington declared it “an unquestionable prin-
+ciple of general law, that the title to, and the disposition of
+real property, must be exclusively subject to the laws of
+the country where it is situated.” Kerr v. Devisees of
+Moon, 9 Wheat. 565, 570 (1824). This Court has been
+similarly emphatic ever since. See, e.g., Munday v. Wis-
+consin Trust Co., 252 U. S. 499, 503 (1920) (“long ago
+declared”); Arndt v. Griggs, 134 U. S. 316, 321 (1890)
+(“held repeatedly”); United States v. Fox, 94 U. S. 315, 320
+(1877) (“undoubted”); McCormick v. Sullivant, 10 Wheat.
+192, 202 (1825) (“an acknowledged principle of law”).
+Allowing the judge-made doctrine of tribal immunity to
+intrude on such a fundamental aspect of state sovereignty
+contradicts the Constitution’s design, which “ ‘leaves to the
+several States a residuary and inviolable sovereignty.’ ”
+New York v. United States, 505 U. S. 144, 188 (1992)
+(quoting The Federalist No. 39, at 256).
+                           *     *      *
+  The Court’s failure to address the immovable-property
+exception in this case is difficult to justify. It leaves our
+colleagues in the state and federal courts with little more
+
+
+14            UPPER SKAGIT TRIBE v. LUNDGREN
+                      THOMAS, J., dissenting
+guidance than they had before. It needlessly delays relief
+for the Lundgrens, who must continue to litigate the
+threshold question whether they can litigate their indis-
+putable right to their land. And it does not address a
+clearly erroneous tribal-immunity claim: one that asserts
+a sweeping and absolute immunity that no other sovereign
+has ever enjoyed—not a State, not a foreign nation, and
+not even the United States.
+   I respectfully dissent.

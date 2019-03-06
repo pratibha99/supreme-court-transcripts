@@ -1,0 +1,1660 @@
+(Slip Opinion)                OCTOBER TERM, 2017                                    1
+                                         Syllabus
+          NOTE: Where it is feasible, a syllabus (headnote) will be released, as is
+        being done in connection with this case, at the time the opinion is issued.
+        The syllabus constitutes no part of the opinion of the Court but has been
+        prepared by the Reporter of Decisions for the convenience of the reader.
+        See United States v. Detroit Timber & Lumber Co., 200 U. S. 321, 337.
+SUPREME COURT OF THE UNITED STATES
+                                         Syllabus
+       PEREIRA v. SESSIONS, ATTORNEY GENERAL
+ CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR
+                                THE FIRST CIRCUIT
+       No. 17–459.       Argued April 23, 2018—Decided June 21, 2018
+Under the Illegal Immigration Reform and Immigrant Responsibility
+   Act of 1996 (IIRIRA), nonpermanent residents who are subject to re-
+   moval proceedings may be eligible for cancellation of removal if,
+   among other things, they have “been physically present in the United
+   States for a continuous period of not less than 10 years immediately
+   preceding the date of [an] application” for cancellation. 8 U. S. C.
+   §1229(b)(1)(A). Under the stop-time rule, however, the period of con-
+   tinuous presence is “deemed to end . . . when the alien is served a no-
+   tice to appear under section 1229(a).” §1229(d)(1)(A). Section
+   1229(a), in turn, provides that the Government shall serve nonciti-
+   zens in removal proceedings with a written “ ‘notice to appear,’ ” spec-
+   ifying, among other things, “[t]he time and place at which the [re-
+   moval] proceedings will be held.” §1229(a)(1)(G)(i). Per a 1997
+   regulation stating that a “notice to appear” served on a noncitizen
+   need only provide “the time, place and date of the initial removal
+   hearing, where practicable,” 62 Fed. Reg. 10332, the Department of
+   Homeland Security (DHS), at least in recent years, almost always
+   serves noncitizens with notices that fail to specify the time, place, or
+   date of initial removal hearings whenever the agency deems it im-
+   practicable to include such information. The Board of Immigration
+   Appeals (BIA) has held that such notices trigger the stop-time rule
+   even if they do not specify the time and date of the removal proceed-
+   ings.
+      Petitioner Wescley Fonseca Pereira is a native and citizen of Brazil
+   who came to the United States in 2000 and remained after his visa
+   expired. Following a 2006 arrest for operating a vehicle while under
+   the influence of alcohol, DHS served Pereira with a document titled
+   “notice to appear” that did not specify the date and time of his initial
+
+
+2                        PEREIRA v. SESSIONS
+                                 Syllabus
+  removal hearing, instead ordering him to appear at a time and date
+  to be set in the future. More than a year later, in 2007, the Immigra-
+  tion Court mailed Pereira a more specific notice setting the date and
+  time for his initial hearing, but the notice was sent to the wrong ad-
+  dress and was returned as undeliverable. As a result, Pereira failed
+  to appear, and the Immigration Court ordered him removed in absen-
+  tia.
+     In 2013, Pereira was arrested for a minor motor vehicle violation
+  and detained by DHS. The Immigration Court reopened the removal
+  proceedings after Pereira demonstrated that he never received the
+  2007 notice. Pereira then applied for cancellation of removal, argu-
+  ing that he had been continuously present in the United States for
+  more than 10 years and that the stop-time rule was not triggered by
+  DHS’ initial 2006 notice because the document lacked information
+  about the time and date of his removal hearing. The Immigration
+  Court disagreed and ordered Pereira removed. The BIA agreed with
+  the Immigration Court that the 2006 notice triggered the stop-time
+  rule, even though it failed to specify the time and date of Pereira’s in-
+  itial removal hearing. The Court of Appeals for the First Circuit de-
+  nied Pereira’s petition for review of the BIA’s order. Applying the
+  framework set forth in Chevron U. S. A. Inc. v. Natural Resources De-
+  fense Council, Inc., 467 U. S. 837, it held that the stop-time rule is
+  ambiguous and that the BIA’s interpretation of the rule was a per-
+  missible reading of the statute.
+Held: A putative notice to appear that fails to designate the specific
+  time or place of the noncitizen’s removal proceedings is not a “notice
+  to appear under §1229(a),” and so does not trigger the stop-time rule.
+  Pp. 7–20.
+     (a) The Court need not resort to Chevron deference, for the unam-
+  biguous statutory text alone is enough to resolve this case. Under the
+  stop-time rule, “any period of . . . continuous physical presence” is
+  “deemed to end . . . when the alien is served a notice to appear under
+  section 1229(a).” 8 U. S. C. §1229b(d)(1). By expressly referencing
+  §1229(a), the statute specifies where to look to find out what “notice
+  to appear” means. Section 1229(a), in turn, clarifies that the type of
+  notice “referred to as a ‘notice to appear’ ” throughout the statutory
+  section is a “written notice . . . specifying,” as relevant here, “[t]he
+  time and place at which the [removal] proceedings will be held.”
+  §1229(a)(1)(G)(i). Thus, to trigger the stop-time rule, the Govern-
+  ment must serve a notice to appear that, at the very least,
+  “specif[ies]” the “time and place” of the removal hearing.
+     The Government and dissent point out that the stop-time rule re-
+  fers broadly to a notice to appear under “§1229(a)”—which includes
+  paragraph (1), as well as paragraphs (2) and (3). But that does not
+
+
+                    Cite as: 585 U. S. ____ (2018)                      3
+                               Syllabus
+matter, because only paragraph (1) bears on the meaning of a “notice
+to appear.” If anything, paragraph (2), which allows for a “change or
+postponement” of the proceedings to a “new time and place,”
+§1229(a)(2)(A)(i), bolsters the Court’s interpretation of the statute be-
+cause the provision presumes that the Government has already
+served a “notice to appear” that specified a time and place as required
+by §1229(a)(1)(G)(i). Another neighboring provision, §1229(b)(1),
+lends further support for the view that a “notice to appear” must
+specify the time and place of removal proceedings to trigger the stop-
+time rule. Section 1229(b)(1) gives a noncitizen “the opportunity to
+secure counsel before the first [removal] hearing date” by mandating
+that such “hearing date shall not be scheduled earlier than 10 days
+after the service of the notice to appear.” For that provision to have
+any meaning, the “notice to appear” must specify the time and place
+that the noncitizen, and his counsel, must appear at the removal pro-
+ceedings. Finally, common sense reinforces the conclusion that a no-
+tice that does not specify when and where to appear for a removal
+proceeding is not a “notice to appear” that triggers the stop-time rule.
+After all, an essential function of a “notice to appear” is to provide
+noncitizens “notice” of the information (i.e., the “time” and “place”)
+that would enable them “to appear” at the removal hearing in the
+first place. Without conveying such information, the Government
+cannot reasonably expect noncitizens to appear for their removal pro-
+ceedings. Pp. 7–13.
+   (b) The Government and the dissent advance a litany of counterar-
+guments, all of which are unpersuasive. To begin, the Government
+mistakenly argues that §1229(a) is not definitional. That is wrong.
+Section 1229(a) speaks in definitional terms, requiring that a notice
+to appear specify, among other things, the “time and place at which
+the proceedings will be held.” As such, the dissent is misguided in
+arguing that a defective notice to appear, which fails to specify time-
+and-place information, is still a notice to appear for purposes of the
+stop-time rule. Equally unavailing is the Government’s (and the dis-
+sent’s) attempt to generate ambiguity in the statute based on the
+word “under.” In light of the plain language and statutory context,
+the word “under,” as used in the stop-time rule, clearly means “in ac-
+cordance with” or “according to” because it connects the stop-time
+trigger in §1229b(d)(1) to a “notice to appear” that specifies the enu-
+merated time-and-place information. The Government fares no bet-
+ter in arguing that surrounding statutory provisions reinforce its pre-
+ferred reading of the stop-time rule, as none of those provisions
+supports its atextual interpretation. Unable to root its reading in the
+statutory text, the Government and dissent raise a number of practi-
+cal concerns, but those concerns are meritless and do not justify de-
+
+
+4                        PEREIRA v. SESSIONS
+                                Syllabus
+  parting from the statute’s clear text. In a final attempt to salvage its
+  atextual interpretation, the Government turns to the alleged statuto-
+  ry purpose and legislative history of the stop-time rule. Even for
+  those who consider statutory purpose and legislative history, howev-
+  er, neither supports the Government’s position. Requiring the Gov-
+  ernment to furnish time-and-place information in a notice to appear
+  is entirely consistent with Congress’ stated objective of preventing
+  noncitizens from exploiting administrative delays to accumulate
+  lengthier periods of continuous precedent. Pp. 13–20.
+ 866 F. 3d 1, reversed and remanded.
+  SOTOMAYOR, J., delivered the opinion of the Court, in which ROBERTS,
+C. J., and KENNEDY, THOMAS, GINSBURG, BREYER, KAGAN, and GORSUCH,
+JJ., joined. KENNEDY, J., filed a concurring opinion. ALITO, J., filed a
+dissenting opinion.
+
+
+                          Cite as: 585 U. S. ____ (2018)                            1
+                              Opinion
+                                Opinion  of S  the Court, J.
+                                            ofOTOMAYOR
+       NOTICE: This opinion is subject to formal revision before publication in the
+       preliminary print of the United States Reports. Readers are requested to
+       notify the Reporter of Decisions, Supreme Court of the United States, Wash-
+       ington, D. C. 20543, of any typographical or other formal errors, in order
+       that corrections may be made before the preliminary print goes to press.
+SUPREME COURT OF THE UNITED STATES
+                                      _________________
+                                       No. 17–459
+                                      _________________
+     WESCLEY FONSECA PEREIRA, PETITIONER v.
+ JEFFERSON B. SESSIONS, III, ATTORNEY GENERAL
+ ON WRIT OF CERTIORARI TO THE UNITED STATES COURT OF
+                     APPEALS FOR THE FIRST CIRCUIT
+                                    [June 21, 2018]
+   JUSTICE SOTOMAYOR delivered the opinion of the Court.
+   Nonpermanent residents, like petitioner here, who are
+subject to removal proceedings and have accrued 10 years
+of continuous physical presence in the United States, may
+be eligible for a form of discretionary relief known as
+cancellation of removal. 8 U. S. C. §1229b(b)(1). Under
+the so-called “stop-time rule” set forth in §1229b(d)(1)(A),
+however, that period of continuous physical presence is
+“deemed to end . . . when the alien is served a notice to
+appear under section 1229(a).” Section 1229(a), in turn,
+provides that the Government shall serve noncitizens in
+removal proceedings with “written notice (in this section
+referred to as a ‘notice to appear’) . . . specifying” several
+required pieces of information, including “[t]he time and
+place at which the [removal] proceedings will be held.”
+§1229(a)(1)(G)(i).1
+   The narrow question in this case lies at the intersection
+——————
+  1 The Court uses the term “noncitizen” throughout this opinion to
+refer to any person who is not a citizen or national of the United States.
+See 8 U. S. C. §1101(a)(3).
+
+
+2                        PEREIRA v. SESSIONS
+                           Opinion of the Court
+of those statutory provisions. If the Government serves a
+noncitizen with a document that is labeled “notice to
+appear,” but the document fails to specify either the time
+or place of the removal proceedings, does it trigger the
+stop-time rule? The answer is as obvious as it seems: No.
+A notice that does not inform a noncitizen when and
+where to appear for removal proceedings is not a “notice to
+appear under section 1229(a)” and therefore does not
+trigger the stop-time rule. The plain text, the statutory
+context, and common sense all lead inescapably and un-
+ambiguously to that conclusion.
+                                    I
+                                    A
+   Under the Illegal Immigration Reform and Immigrant
+Responsibility Act of 1996 (IIRIRA), 110 Stat. 3009–546,
+the Attorney General of the United States has discretion
+to “cancel removal” and adjust the status of certain non-
+permanent residents. §1229b(b). To be eligible for such
+relief, a nonpermanent resident must meet certain enu-
+merated criteria, the relevant one here being that the
+noncitizen must have “been physically present in the
+United States for a continuous period of not less than 10
+years immediately preceding the date of [an] application”
+for cancellation of removal. §1229b(b)(1)(A).2
+   IIRIRA also established the stop-time rule at issue in
+this case. Under that rule, “any period of . . . continuous
+physical presence in the United States shall be deemed to
+end . . . when the alien is served a notice to appear under
+section 1229(a) of this title.”3 §1229b(d)(1)(A). Section
+——————
+  2 Lawful permanent residents also may be eligible for cancellation of
+removal if, inter alia, they have continuously resided in the United
+States for at least seven years. §1229b(a)(2).
+  3 The period of continuous physical presence also stops if and when
+“the alien has committed” certain enumerated offenses that would
+
+
+                      Cite as: 585 U. S. ____ (2018)               3
+                           Opinion of the Court
+1229(a), in turn, provides that “written notice (in this
+section referred to as a ‘notice to appear’) shall be given
+. . . to the alien . . . specifying”:
+          “(A) The nature of the proceedings against the alien.
+          “(B) The legal authority under which the proceed-
+       ings are conducted.
+          “(C) The acts or conduct alleged to be in violation of
+       law.
+          “(D) The charges against the alien and the statutory
+       provisions alleged to have been violated.
+          “(E) The alien may be represented by counsel and
+       the alien will be provided (i) a period of time to secure
+       counsel under subsection (b)(1) of this section and (ii)
+       a current list of counsel prepared under subsection
+       (b)(2) of this section.
+          “(F)(i) The requirement that the alien must imme-
+       diately provide (or have provided) the Attorney Gen-
+       eral with a written record of an address and telephone
+       number (if any) at which the alien may be contacted
+       respecting proceedings under section 1229a of this
+       title.
+          “(ii) The requirement that the alien must provide
+       the Attorney General immediately with a written rec-
+       ord of any change of the alien’s address or telephone
+       number.
+          “(iii) The consequences under section 1229a(b)(5) of
+       this title of failure to provide address and telephone
+       information pursuant to this subparagraph.
+          “(G)(i) The time and place at which the [re-
+       moval] proceedings will be held.
+          “(ii) The consequences under section 1229a(b)(5) of
+       this title of the failure, except under exceptional cir-
+——————
+constitute grounds for removal or inadmissibility.   §1229b(d)(1)(B).
+That provision is not at issue here.
+
+
+4                     PEREIRA v. SESSIONS
+                        Opinion of the Court
+      cumstances, to appear at               such proceedings.”
+      §1229(a)(1) (boldface added).
+The statute also enables the Government to “change or
+postpon[e] . . . the time and place of [the removal] proceed-
+ings.” §1229(a)(2)(A). To do so, the Government must give
+the noncitizen “a written notice . . . specifying . . . the new
+time or place of the proceedings” and “the consequences
+. . . of failing, except under exceptional circumstances, to
+attend such proceedings.” Ibid. The Government is not
+required to provide written notice of the change in time or
+place of the proceedings if the noncitizen is “not in deten-
+tion” and “has failed to provide [his] address” to the Gov-
+ernment. §1229(a)(2)(B).
+    The consequences of a noncitizen’s failure to appear at a
+removal proceeding can be quite severe. If a noncitizen
+who has been properly served with the “written notice
+required under paragraph (1) or (2) of section 1229(a)”
+fails to appear at a removal proceeding, he “shall be or-
+dered removed in absentia” if the Government “establishes
+by clear, unequivocal, and convincing evidence that the
+written notice was so provided and that the alien is re-
+movable.” §1229a(b)(5)(A). Absent “exceptional circum-
+stances,” a noncitizen subject to an in absentia removal
+order is ineligible for some forms of discretionary relief for
+10 years if, “at the time of the notice described in para-
+graph (1) or (2) of section 1229(a),” he “was provided oral
+notice . . . of the time and place of the proceedings and of
+the consequences” of failing to appear. §1229a(b)(7). In
+certain limited circumstances, however, a removal order
+entered in absentia may be rescinded—e.g., when the
+noncitizen “demonstrates that [he] did not receive notice
+in accordance with paragraph (1) or (2) of section 1229(a).”
+§1229a(b)(5)(C)(ii).
+                                 B
+    In 1997, shortly after Congress passed IIRIRA, the
+
+
+                  Cite as: 585 U. S. ____ (2018)             5
+                       Opinion of the Court
+Attorney General promulgated a regulation stating that a
+“notice to appear” served on a noncitizen need only provide
+“the time, place and date of the initial removal hearing,
+where practicable.” 62 Fed. Reg. 10332 (1997). Per that
+regulation, the Department of Homeland Security (DHS),
+at least in recent years, almost always serves noncitizens
+with notices that fail to specify the time, place, or date of
+initial removal hearings whenever the agency deems it
+impracticable to include such information. See Brief for
+Petitioner 14; Brief for Respondent 48–49; Tr. of Oral Arg.
+52–53 (Government’s admission that “almost 100 percent”
+of “notices to appear omit the time and date of the pro-
+ceeding over the last three years”). Instead, these notices
+state that the times, places, or dates of the initial hearings
+are “to be determined.” Brief for Petitioner 14.
+   In Matter of Camarillo, 25 I. & N. Dec. 644 (2011), the
+Board of Immigration Appeals (BIA) addressed whether
+such notices trigger the stop-time rule even if they do not
+specify the time and date of the removal proceedings. The
+BIA concluded that they do. Id., at 651. It reasoned that
+the statutory phrase “notice to appear ‘under section
+[1229](a)’ ” in the stop-time rule “merely specifies the
+document the DHS must serve on the alien to trigger the
+‘stop-time’ rule,” but otherwise imposes no “substantive
+requirements” as to what information that document must
+include to trigger the stop-time rule. Id., at 647.
+                                C
+   Petitioner Wescley Fonseca Pereira is a native and
+citizen of Brazil. In 2000, at age 19, he was admitted to
+the United States as a temporary “non-immigrant visitor.”
+App. to Pet. for Cert. 3a. After his visa expired, he re-
+mained in the United States. Pereira is married and has
+two young daughters, both of whom are United States
+citizens. He works as a handyman and, according to
+submissions before the Immigration Court, is a well-
+
+
+6                   PEREIRA v. SESSIONS
+                      Opinion of the Court
+respected member of his community.
+   In 2006, Pereira was arrested in Massachusetts for
+operating a vehicle while under the influence of alcohol.
+On May 31, 2006, while Pereira was detained, DHS served
+him (in person) with a document labeled “Notice to Ap-
+pear.” App. 7–13. That putative notice charged Pereira as
+removable for overstaying his visa, informed him that
+“removal proceedings” were being initiated against him,
+and provided him with information about the “[c]onduct of
+the hearing” and the consequences for failing to appear.
+Id., at 7, 10–12. Critical here, the notice did not specify
+the date and time of Pereira’s removal hearing. Instead, it
+ordered him to appear before an Immigration Judge in
+Boston “on a date to be set at a time to be set.” Id., at 9
+(underlining in original).
+   More than a year later, on August 9, 2007, DHS filed
+the 2006 notice with the Boston Immigration Court. The
+Immigration Court thereafter attempted to mail Pereira a
+more specific notice setting the date and time for his ini-
+tial removal hearing for October 31, 2007, at 9:30 a.m.
+But that second notice was sent to Pereira’s street address
+rather than his post office box (which he had provided to
+DHS), so it was returned as undeliverable. Because Pe-
+reira never received notice of the time and date of his re-
+moval hearing, he failed to appear, and the Immigration
+Court ordered him removed in absentia. Unaware of that re-
+moval order, Pereira remained in the United States.
+   In 2013, after Pereira had been in the country for more
+than 10 years, he was arrested for a minor motor vehicle
+violation (driving without his headlights on) and was
+subsequently detained by DHS. The Immigration Court
+reopened the removal proceedings after Pereira demon-
+strated that he never received the Immigration Court’s
+2007 notice setting out the specific date and time of his
+hearing. Pereira then applied for cancellation of removal,
+arguing that the stop-time rule was not triggered by DHS’
+
+
+                  Cite as: 585 U. S. ____ (2018)           7
+                       Opinion of the Court
+initial 2006 notice because the document lacked infor-
+mation about the time and date of his removal hearing.
+   The Immigration Court disagreed, finding the law “quite
+settled that DHS need not put a date certain on the Notice
+to Appear in order to make that document effective.” App.
+to Pet. for Cert. 23a. The Immigration Court therefore
+concluded that Pereira could not meet the 10-year physical-
+presence requirement under §1229b(b), thereby render-
+ing him statutorily ineligible for cancellation of removal,
+and ordered Pereira removed from the country. The
+BIA dismissed Pereira’s appeal. Adhering to its precedent
+in Camarillo, the BIA agreed with the Immigration Court
+that the 2006 notice triggered the stop-time rule and that
+Pereira thus failed to satisfy the 10-year physical-presence
+requirement and was ineligible for cancellation of removal.
+   The Court of Appeals for the First Circuit denied Perei-
+ra’s petition for review of the BIA’s order. 866 F. 3d 1
+(2017). Applying the framework set forth in Chevron
+U. S. A. Inc. v. Natural Resources Defense Council, Inc.,
+467 U. S. 837 (1984), the Court of Appeals first found that
+the stop-time rule in §1229b(d)(1) is ambiguous because it
+“does not explicitly state that the date and time of the
+hearing must be included in a notice to appear in order to
+cut off an alien’s period of continuous physical presence.”
+866 F. 3d, at 5. Then, after reviewing the statutory text
+and structure, the administrative context, and pertinent
+legislative history, the Court of Appeals held that the
+BIA’s interpretation of the stop-time rule was a permissi-
+ble reading of the statute. Id., at 6–8.
+                                II
+                                A
+   The Court granted certiorari in this case, 583 U. S. ___
+(2018), to resolve division among the Courts of Appeals on
+a simple, but important, question of statutory interpreta-
+tion: Does service of a document styled as a “notice to
+
+
+8                        PEREIRA v. SESSIONS
+                           Opinion of the Court
+appear” that fails to specify “the items listed” in
+§1229(a)(1) trigger the stop-time rule?4 Pet. for Cert. i.
+   As a threshold matter, the Court notes that the question
+presented by Pereira, which focuses on all “items listed” in
+§1229(a)(1), sweeps more broadly than necessary to re-
+solve the particular case before us. Although the time-
+and-place information in a notice to appear will vary from
+case to case, the Government acknowledges that “[m]uch
+of the information Section 1229(a)(1) calls for does not”
+change and is therefore “included in standardized lan-
+guage on the I–862 notice-to-appear form.” Brief for Re-
+spondent 36 (referencing 8 U. S. C. §§1229(a)(1)(A)–(B),
+(E)–(F), and (G)(ii)). In fact, the Government’s 2006 notice
+to Pereira included all of the information required by
+§1229(a)(1), except it failed to specify the date and time of
+Pereira’s removal proceedings. See App. 10–12. Accord-
+ingly, the dispositive question in this case is much nar-
+rower, but no less vital: Does a “notice to appear” that does
+not specify the “time and place at which the proceedings
+will be held,” as required by §1229(a)(1)(G)(i), trigger the
+stop-time rule?5
+——————
+  4 Compare Orozco-Velasquez v. Attorney General United States, 817
+F. 3d 78, 83–84 (CA3 2016) (holding that the stop-time rule unambigu-
+ously requires service of a “notice to appear” that meets §1229(a)(1)’s
+requirements), with Moscoso-Castellanos v. Lynch, 803 F. 3d 1079, 1083
+(CA9 2015) (finding the statute ambiguous and deferring to the BIA’s
+interpretation); O’Garro v. United States Atty. Gen., 605 Fed. Appx.
+951, 953 (CA11 2015) (per curiam) (same); Guaman-Yuqui v. Lynch,
+786 F. 3d 235, 239–240 (CA2 2015) (per curiam) (same); Gonzalez-
+Garcia v. Holder, 770 F. 3d 431, 434–435 (CA6 2014) (same); Yi Di
+Wang v. Holder, 759 F. 3d 670, 674–675 (CA7 2014) (same); Urbina v.
+Holder, 745 F. 3d 736, 740 (CA4 2014) (same).
+  5 The Court leaves for another day whether a putative notice to ap-
+pear that omits any of the other categories of information enumerated
+in §1229(a)(1) triggers the stop-time rule. Contrary to the dissent’s
+assertion, this exercise of judicial restraint is by no means “tantamount
+to admitting” that the Government’s (and dissent’s) atextual interpre-
+
+
+                     Cite as: 585 U. S. ____ (2018)                     9
+                          Opinion of the Court
+   In addressing that narrower question, the Court need
+not resort to Chevron deference, as some lower courts have
+done, for Congress has supplied a clear and unambiguous
+answer to the interpretive question at hand. See 467
+U. S., at 842–843 (“If the intent of Congress is clear, that
+is the end of the matter; for the court, as well as the agency,
+must give effect to the unambiguously expressed intent
+of Congress”). A putative notice to appear that fails to
+designate the specific time or place of the noncitizen’s
+removal proceedings is not a “notice to appear under
+section 1229(a),” and so does not trigger the stop-time
+rule.
+                                   B
+   The statutory text alone is enough to resolve this case.
+Under the stop-time rule, “any period of . . . continuous
+physical presence” is “deemed to end . . . when the alien is
+served a notice to appear under section 1229(a).” 8
+U. S. C. §1229b(d)(1). By expressly referencing §1229(a),
+the statute specifies where to look to find out what “notice
+to appear” means. Section 1229(a), in turn, clarifies that
+the type of notice “referred to as a ‘notice to appear’ ”
+throughout the statutory section is a “written notice . . .
+specifying,” as relevant here, “[t]he time and place at
+which the [removal] proceedings will be held.”
+§1229(a)(1)(G)(i). Thus, based on the plain text of the
+statute, it is clear that to trigger the stop-time rule, the
+Government must serve a notice to appear that, at the
+very least, “specif[ies]” the “time and place” of the removal
+proceedings.
+   It is true, as the Government and dissent point out, that
+the stop-time rule makes broad reference to a notice to
+——————
+tation is a permissible construction of the statute. Post, at 10 (opinion
+of ALITO, J.).
+
+
+10                   PEREIRA v. SESSIONS
+                       Opinion of the Court
+appear under “section 1229(a),” which includes para-
+graph (1), as well as paragraphs (2) and (3). See Brief for
+Respondent 27–28; post, at 5–6 (opinion of ALITO, J.). But
+the broad reference to §1229(a) is of no consequence, be-
+cause, as even the Government concedes, only paragraph
+(1) bears on the meaning of a “notice to appear.” Brief for
+Respondent 27. By contrast, paragraph (2) governs the
+“[n]otice of change in time or place of proceedings,” and
+paragraph (3) provides for a system to record noncitizens’
+addresses and phone numbers. Nowhere else within
+§1229(a) does the statute purport to delineate the re-
+quirements of a “notice to appear.” In fact, the term “no-
+tice to appear” appears only in paragraph (1) of §1229(a).
+   If anything, paragraph (2) of §1229(a) actually bolsters
+the Court’s interpretation of the statute. Paragraph (2)
+provides that, “in the case of any change or postponement
+in the time and place of [removal] proceedings,” the Gov-
+ernment shall give the noncitizen “written notice . . .
+specifying . . . the new time or place of the proceedings.”
+§1229(a)(2)(A)(i). By allowing for a “change or postpone-
+ment” of the proceedings to a “new time or place,” para-
+graph (2) presumes that the Government has already
+served a “notice to appear under section 1229(a)” that
+specified a time and place as required by §1229(a)(1)(G)(i).
+Otherwise, there would be no time or place to “change or
+postpon[e ].” §1229(a)(2). Notably, the dissent concedes
+that paragraph (2) confirms that a notice to appear must
+“state the ‘time and place’ of the removal proceeding as
+required by §1229(a)(1).’ ” Post, at 13. The dissent never-
+theless retorts that this point is “entirely irrelevant.” Ibid.
+Not so. Paragraph (2) clearly reinforces the conclusion
+that “a notice to appear under section 1229(a),”
+§1229b(d)(1), must include at least the time and place of
+the removal proceedings to trigger the stop-time rule.
+   Another neighboring statutory provision lends further
+contextual support for the view that a “notice to appear”
+
+
+                     Cite as: 585 U. S. ____ (2018)                    11
+                          Opinion of the Court
+must include the time and place of the removal proceed-
+ings to trigger the stop-time rule. Section 1229(b)(1) gives
+a noncitizen “the opportunity to secure counsel before the
+first [removal] hearing date” by mandating that such
+“hearing date shall not be scheduled earlier than 10 days
+after the service of the notice to appear.” For §1229(b)(1)
+to have any meaning, the “notice to appear” must specify
+the time and place that the noncitizen, and his counsel,
+must appear at the removal hearing. Otherwise, the
+Government could serve a document labeled “notice to
+appear” without listing the time and location of the hear-
+ing and then, years down the line, provide that infor-
+mation a day before the removal hearing when it becomes
+available. Under that view of the statute, a noncitizen
+theoretically would have had the “opportunity to secure
+counsel,” but that opportunity will not be meaningful if,
+given the absence of a specified time and place, the noncit-
+izen has minimal time and incentive to plan accordingly,
+and his counsel, in turn, receives limited notice and time
+to prepare adequately. It therefore follows that, if a “no-
+tice to appear” for purposes of §1229(b)(1) must include
+the time-and-place information, a “notice to appear” for
+purposes of the stop-time rule under §1229b(d)(1) must as
+well. After all, “it is a normal rule of statutory construc-
+tion that identical words used in different parts of the
+same act are intended to have the same meaning.”
+Taniguchi v. Kan Pacific Saipan, Ltd., 566 U. S. 560, 571
+(2012) (internal quotation marks omitted).6
+——————
+  6 The dissent argues that, if a notice to appear must furnish time-and-
+place information, the Government “may be forced by the Court’s
+interpretation to guess that the hearing will take place far in the
+future, only to learn shortly afterwards that the hearing is in fact
+imminent.” Post, at 14. In such a scenario, the dissent hypothesizes, a
+noncitizen would be “lulled into a false sense of security” and thus
+would have little meaningful opportunity to secure counsel and prepare
+
+
+12                       PEREIRA v. SESSIONS
+                           Opinion of the Court
+    Finally, common sense compels the conclusion that a
+notice that does not specify when and where to appear for
+a removal proceeding is not a “notice to appear” that trig-
+gers the stop-time rule. If the three words “notice to ap-
+pear” mean anything in this context, they must mean that,
+at a minimum, the Government has to provide noncitizens
+“notice” of the information, i.e., the “time” and “place,” that
+would enable them “to appear” at the removal hearing in
+the first place. Conveying such time-and-place infor-
+mation to a noncitizen is an essential function of a notice
+to appear, for without it, the Government cannot reason-
+ably expect the noncitizen to appear for his removal pro-
+ceedings. To hold otherwise would empower the Govern-
+ment to trigger the stop-time rule merely by sending
+noncitizens a barebones document labeled “Notice to
+Appear,” with no mention of the time and place of the
+removal proceedings, even though such documents would
+do little if anything to facilitate appearance at those pro-
+ceedings.7 “ ‘We are not willing to impute to Congress . . .
+——————
+adequately. Ibid. But nothing in our interpretation of the statute
+“force[s]” the Government to guess when and where a hearing will take
+place, ibid., nor does our interpretation prevent DHS and the Immigra-
+tion Courts from working together to streamline the scheduling of
+removal proceedings, see infra, at 18–19. Far from “lull[ing]” nonciti-
+zens into a false sense of security, post, at 14, our reading (unlike the
+Government’s and the dissent’s) still gives meaning to a noncitizen’s
+“opportunity to secure counsel before the first [removal] hearing date,”
+§1229(b)(1), by informing the noncitizen that the Government is com-
+mitted to moving forward with removal proceedings at a specific time
+and place. Equipped with that knowledge, a noncitizen has an incen-
+tive to obtain counsel and prepare for his hearing.
+   7 At oral argument, the Government conceded that a blank piece of
+paper would not suffice to trigger the stop-time rule because (in its
+view) such a hypothetical notice would fail to specify the charges
+against the noncitizen. Tr. of Oral Arg. 39–40 (arguing that notice to
+appear must “tell the alien what proceedings he must appear for and
+why he must appear for them”). The dissent also endorses the view
+
+
+                      Cite as: 585 U. S. ____ (2018)                  13
+                           Opinion of the Court
+such [a] contradictory and absurd purpose,’ ” United States
+v. Bryan, 339 U. S. 323, 342 (1950), particularly where
+doing so has no basis in the statutory text.
+                                    III
+    Straining to inject ambiguity into the statute, the Gov-
+ernment and the dissent advance several overlapping
+arguments. None is persuasive.
+                                     A
+    First, the Government posits that §1229(a) “is not worded
+in the form of a definition” and thus cannot circum-
+scribe what type of notice counts as a “notice to appear” for
+purposes of the stop-time rule. Brief for Respondent 32.
+Section 1229(a), however, does speak in definitional terms,
+at least with respect to the “time and place at which the
+proceedings will be held”: It specifically provides that the
+notice described under paragraph (1) is “referred to as a
+‘notice to appear,’ ” which in context is quintessential
+definitional language.8 It then defines that term as a
+——————
+that a notice to appear “can also be understood to serve primarily as a
+charging document.” Post, at 14–15. But neither the Government nor
+the dissent offers any convincing basis, much less one rooted in the
+statutory text, for treating time-and-place information as any less
+crucial than charging information for purposes of triggering the stop-
+time rule. Furthermore, there is no reason why a notice to appear
+should have only one essential function. Even if a notice to appear
+functions as a “charging document,” that is not mutually exclusive with
+the conclusion that a notice to appear serves another equally integral
+function: telling a noncitizen when and where to appear. At bottom,
+the Government’s self-serving position that a notice to appear must
+specify charging information, but not the time-and-place information,
+reveals the arbitrariness inherent in its atextual approach to the stop-
+time rule.
+   8 Congress has employed similar definitional language in other statu-
+tory schemes. See, e.g., 21 U. S. C. §356(b)(1) (creating new class of
+“fast track product[s]” by setting out drug requirements and providing:
+“In this section, such a drug is referred to as a ‘fast track product’ ”);
+
+
+14                       PEREIRA v. SESSIONS
+                           Opinion of the Court
+“written notice” that, as relevant here, “specif[ies] . . . [t]he
+time and place at which the [removal] proceedings will be
+held.” §1229(a)(1)(G)(i). Thus, when the term “notice to
+appear” is used elsewhere in the statutory section, includ-
+ing as the trigger for the stop-time rule, it carries with it
+the substantive time-and-place criteria required by
+§1229(a).
+   Resisting this straightforward understanding of the
+text, the dissent posits that “§1229(a)(1)’s language can be
+understood to define what makes a notice to appear com-
+plete.” Post, at 10 (emphasis in original). In the dissent’s
+view, a defective notice to appear is still a “notice to ap-
+pear” even if it is incomplete—much like a three-wheeled
+Chevy is still a car. Post, at 10–11. The statutory text
+proves otherwise. Section 1229(a)(1) does not say a “notice
+to appear” is “complete” when it specifies the time and
+place of the removal proceedings. Rather, it defines a
+“notice to appear” as a “written notice” that “specif[ies],” at
+a minimum, the time and place of the removal proceed-
+ings. §1229(a)(1)(G)(i). Moreover, the omission of time-
+and-place information is not, as the dissent asserts, some
+trivial, ministerial defect, akin to an unsigned notice of
+appeal. Cf. Becker v. Montgomery, 532 U. S. 757, 763, 768
+(2001). Failing to specify integral information like the
+time and place of removal proceedings unquestionably
+would “deprive [the notice to appear] of its essential char-
+acter.” Post, at 12, n. 5; see supra, at 12–13, n. 7.9
+——————
+§356(a)(1) (“In this section, such a drug is referred to as a ‘break-
+through therapy’ ”); 38 U. S. C. §7451(a)(2) (“hereinafter in this section
+referred to as ‘covered positions’ ”); 42 U. S. C. §285g–4(b) (“hereafter in
+this section referred to as ‘medical rehabilitation’ ”).
+  9 The dissent maintains that Congress’ decision to make the stop-time
+rule retroactive to certain pre-IIRIRA “orders to show cause” “sheds
+considerable light on the question presented” because orders to show
+cause did not necessarily include time-and-place information. Post, at
+
+
+                     Cite as: 585 U. S. ____ (2018)                   15
+                          Opinion of the Court
+                                    B
+   The Government and the dissent next contend that
+Congress’ use of the word “under” in the stop-time rule
+renders the statute ambiguous. Brief for Respondent 22–
+23; post, at 4–5. Recall that the stop-time rule provides
+that “any period of . . . continuous physical presence” is
+“deemed to end . . . when the alien is served a notice to
+appear under section 1229(a).” §1229b(d)(1)(A). According
+to the Government, the word “under” in that provision
+means “subject to,” “governed by,” or “issued under the
+authority of.” Brief for Respondent 24. The dissent offers
+yet another alternative, insisting that “under” can also
+mean “authorized by.” Post, at 4. Those definitions, the
+Government and dissent maintain, support the BIA’s view
+that the stop-time rule applies so long as DHS serves a
+notice that is “authorized by,” or “subject to or governed
+by, or issued under the authority of ” §1229(a), even if the
+notice bears none of the time-and-place information re-
+quired by that provision. See Brief for Respondent 24;
+post, at 4–5.
+   We disagree. It is, of course, true that “[t]he word ‘un-
+der’ is [a] chameleon ” that “ ‘must draw its meaning from
+its context.’ ” Kucana v. Holder, 558 U. S. 233, 245 (2010)
+(quoting Ardestani v. INS, 502 U. S. 129, 135 (1991)). But
+nothing in the text or context here supports either the
+Government’s or the dissent’s preferred definition of “un-
+der.” Based on the plain language and statutory context
+discussed above, we think it obvious that the word “un-
+——————
+6–7. That argument compares apples to oranges. Even if the stop-time
+rule sometimes applies retroactively to an order to show cause, that
+provides scant support for the dissent’s view that, under the new post-
+IIRIRA statutory regime, an entirely different document called a
+“notice to appear,” which, by statute, must specify the time and place of
+removal proceedings, see §1229(a)(1)(G)(i), need not include such
+information to trigger the stop-time rule.
+
+
+16                  PEREIRA v. SESSIONS
+                      Opinion of the Court
+der,” as used in the stop-time rule, can only mean “in
+accordance with” or “according to,” for it connects the stop-
+time trigger in §1229b(d)(1) to a “notice to appear” that
+contains the enumerated time-and-place information
+described in §1229(a)(1)(G)(i). See 18 Oxford English
+Dictionary 950 (2d ed. 1989) (defining “under” as “[i]n
+accordance with”); Black’s Law Dictionary 1525 (6th ed.
+1990) (defining “under” as “according to”). So construed,
+the stop-time rule applies only if the Government serves a
+“notice to appear” “[i]n accordance with” or “according to”
+the substantive time-and-place requirements set forth in
+§1229(a). See Kirtsaeng v. John Wiley & Sons, Inc., 568
+U. S. 519, 530 (2013) (internal quotation marks omitted).
+Far from generating any “degree of ambiguity,” post, at 4,
+the word “under” provides the glue that bonds the stop-
+time rule to the substantive time-and-place requirements
+mandated by §1229(a).
+                               C
+   The Government argues that surrounding statutory
+provisions reinforce its preferred reading. See Brief for
+Respondent 25–27. It points, for instance, to two separate
+provisions relating to in absentia removal orders:
+§1229a(b)(5)(A), which provides that a noncitizen may be
+removed in absentia if the Government has provided
+“written notice required under paragraph (1) or (2) of
+section 1229(a)”; and §1229a(b)(5)(C)(ii), which provides
+that, once an in absentia removal order has been entered,
+the noncitizen may seek to reopen the proceeding if, inter
+alia, he “demonstrates that [he] did not receive notice in
+accordance with paragraph (1) or (2) of section 1229(a).”
+According to the Government, those two provisions use the
+distinct phrases “required under” and “in accordance with”
+as shorthand for a notice that satisfies §1229(a)(1)’s re-
+quirements, whereas the stop-time rule uses the phrase
+“under section 1229(a)” to encompass a different type of
+
+
+                     Cite as: 585 U. S. ____ (2018)          17
+                          Opinion of the Court
+notice that does not necessarily include the information
+outlined in §1229(a)(1). See Brief for Respondent 25–26.
+That logic is unsound. The Government essentially argues
+that phrase 1 (“written notice required under paragraph
+(1) . . . of section 1229(a)”) and phrase 2 (“notice in accord-
+ance with paragraph (1) . . . of section 1229(a)”) can refer
+to the same type of notice even though they use entirely
+different words, but that phrase 3 (“notice to appear under
+section 1229(a)”) cannot refer to that same type of notice
+because it uses words different from phrases 1 and 2. But
+the Government offers no convincing reason why that is
+so. The far simpler explanation, and the one that com-
+ports with the actual statutory language and context, is
+that each of these three phrases refers to notice satisfying,
+at a minimum, the time-and-place criteria defined in
+§1229(a)(1).
+   Equally unavailing is the Government’s invocation of
+§1229a(b)(7). Brief for Respondent 26–27. Under that
+provision, a noncitizen who is ordered removed in absentia
+is ineligible for various forms of discretionary relief for a
+10-year period if the noncitizen, “at the time of the notice
+described in paragraph (1) or (2) of section 1229(a) of [Title
+8], was provided oral notice . . . of the time and place of the
+proceedings” and “of the consequences . . . of failing, other
+than because of exceptional circumstances,” to appear.
+§1229a(b)(7). The Government argues that the express
+reference to “the time and place of the proceedings” in
+§1229a(b)(7) shows that, when Congress wants to attach
+substantive significance to whether a noncitizen is given
+information about the specific “time and place” of a re-
+moval proceeding, it knows exactly how to do so. Brief for
+Respondent 26–27. But even if §1229a(b)(7) may impose
+harsher consequences on noncitizens who fail to appear at
+removal proceedings after having specifically received oral
+notice of the time and place of such proceedings, that
+reveals nothing about the distinct question here—i.e.,
+
+
+18                       PEREIRA v. SESSIONS
+                          Opinion of the Court
+whether Congress intended the stop-time rule to apply
+when the Government fails to provide written notice of the
+time and place of removal proceedings. As to that ques-
+tion, the statute makes clear that Congress fully intended
+to attach substantive significance to the requirement that
+noncitizens be given notice of at least the time and place of
+their removal proceedings. A document that fails to in-
+clude such information is not a “notice to appear under
+section 1229(a)” and thus does not trigger the stop-time
+rule.
+                                   D
+     Unable to find sure footing in the statutory text, the
+Government and the dissent pivot away from the plain
+language and raise a number of practical concerns. These
+practical considerations are meritless and do not justify
+departing from the statute’s clear text. See Burrage v.
+United States, 571 U. S. 204, 218 (2014).
+    The Government, for its part, argues that the “adminis-
+trative realities of removal proceedings” render it difficult
+to guarantee each noncitizen a specific time, date, and
+place for his removal proceedings. See Brief for Respond-
+ent 48. That contention rests on the misguided premise
+that the time-and-place information specified in the notice
+to appear must be etched in stone. That is incorrect. As
+noted above, §1229(a)(2) expressly vests the Government
+with power to change the time or place of a noncitizen’s
+removal proceedings so long as it provides “written notice
+. . . specifying . . . the new time or place of the proceedings”
+and the consequences of failing to appear. See §1229(a)(2);
+Tr. of Oral Arg. 16–19. Nothing in our decision today
+inhibits the Government’s ability to exercise that statu-
+tory authority after it has served a notice to appear specify-
+ing the time and place of the removal proceedings.
+    The dissent raises a similar practical concern, which is
+similarly misplaced. The dissent worries that requiring
+
+
+                   Cite as: 585 U. S. ____ (2018)          19
+                        Opinion of the Court
+the Government to specify the time and place of removal
+proceedings, while allowing the Government to change
+that information, might encourage DHS to provide “arbi-
+trary dates and times that are likely to confuse and con-
+found all who receive them.” Post, at 8. The dissent’s
+argument wrongly assumes that the Government is ut-
+terly incapable of specifying an accurate date and time on a
+notice to appear and will instead engage in “arbitrary”
+behavior. See ibid. The Court does not embrace those
+unsupported assumptions. As the Government concedes,
+“a scheduling system previously enabled DHS and the
+immigration court to coordinate in setting hearing dates in
+some cases.” Brief for Respondent 50, n. 15; Brief for
+National Immigrant Justice Center as Amicus Curiae 30–
+31. Given today’s advanced software capabilities, it is
+hard to imagine why DHS and immigration courts could
+not again work together to schedule hearings before send-
+ing notices to appear.
+   Finally, the dissent’s related contention that including a
+changeable date would “mislead” and “prejudice” nonciti-
+zens is unfounded. Post, at 8. As already explained, if the
+Government changes the date of the removal proceedings,
+it must provide written notice to the noncitizen,
+§1229(a)(2). This notice requirement mitigates any poten-
+tial confusion that may arise from altering the hearing
+date. In reality, it is the dissent’s interpretation of the
+statute that would “confuse and confound” noncitizens,
+post, at 8, by authorizing the Government to serve notices
+that lack any information about the time and place of the
+removal proceedings.
+                                 E
+   In a last ditch effort to salvage its atextual interpreta-
+tion, the Government invokes the alleged purpose and
+legislative history of the stop-time rule. Brief for Re-
+spondent 37–40. Even for those who consider statutory
+
+
+20                   PEREIRA v. SESSIONS
+                       Opinion of the Court
+purpose and legislative history, however, neither supports
+the Government’s atextual position that Congress intended
+the stop-time rule to apply when a noncitizen has been
+deprived notice of the time and place of his removal pro-
+ceedings. By the Government’s own account, Congress
+enacted the stop-time rule to prevent noncitizens from
+exploiting administrative delays to “buy time” during
+which they accumulate periods of continuous presence.
+Id., at 37–38 (citing H. R. Rep. No. 104–469, pt. 1, p. 122
+(1996)). Requiring the Government to furnish time-and-
+place information in a notice to appear, however, is en-
+tirely consistent with that objective because, once a proper
+notice to appear is served, the stop-time rule is triggered,
+and a noncitizen would be unable to manipulate or delay
+removal proceedings to “buy time.” At the end of the day,
+given the clarity of the plain language, we “apply the
+statute as it is written.” Burrage, 571 U. S., at 218.
+                               IV
+   For the foregoing reasons, the judgment of the Court of
+Appeals for the First Circuit is reversed, and the case is
+remanded for further proceedings consistent with this
+opinion.
+                                             It is so ordered.
+
+
+                   Cite as: 585 U. S. ____ (2018)          1
+                      KENNEDY, J., concurring
+SUPREME COURT OF THE UNITED STATES
+                            _________________
+                             No. 17–459
+                            _________________
+     WESCLEY FONSECA PEREIRA, PETITIONER v.
+ JEFFERSON B. SESSIONS, III, ATTORNEY GENERAL
+ ON WRIT OF CERTIORARI TO THE UNITED STATES COURT OF
+               APPEALS FOR THE FIRST CIRCUIT
+                          [June 21, 2018]
+   JUSTICE KENNEDY, concurring.
+   I agree with the Court’s opinion and join it in full.
+   This separate writing is to note my concern with the
+way in which the Court’s opinion in Chevron U. S. A. Inc.
+v. Natural Resources Defense Council, Inc., 467 U. S. 837
+(1984), has come to be understood and applied. The appli-
+cation of that precedent to the question presented here by
+various Courts of Appeals illustrates one aspect of the
+problem.
+   The first Courts of Appeals to encounter the question
+concluded or assumed that the notice necessary to trigger
+the stop-time rule found in 8 U. S. C. §1229b(d)(1) was not
+“perfected” until the immigrant received all the infor-
+mation listed in §1229(a)(1). Guamanrrigra v. Holder, 670
+F. 3d 404, 410 (CA2 2012) (per curiam); see also Dababneh
+v. Gonzales, 471 F. 3d 806, 809 (CA7 2006); Garcia-
+Ramirez v. Gonzales, 423 F. 3d 935, 937, n. 3 (CA9 2005)
+(per curiam).
+   That emerging consensus abruptly dissolved not long
+after the Board of Immigration Appeals (BIA) reached a
+contrary interpretation of §1229b(d)(1) in Matter of Cama-
+rillo, 25 I. & N. Dec. 644 (2011). After that administrative
+ruling, in addition to the decision under review here, at
+least six Courts of Appeals, citing Chevron, concluded that
+§1229b(d)(1) was ambiguous and then held that the BIA’s
+
+
+2                    PEREIRA v. SESSIONS
+                     KENNEDY, J., concurring
+interpretation was reasonable. See Moscoso-Castellanos v.
+Lynch, 803 F. 3d 1079, 1083 (CA9 2015); O’Garro v. United
+States Atty. Gen., 605 Fed. Appx. 951, 953 (CA11 2015)
+(per curiam); Guaman-Yuqui v. Lynch, 786 F. 3d 235, 239–
+240 (CA2 2015) (per curiam); Gonzalez-Garcia v. Holder,
+770 F. 3d 431, 434–435 (CA6 2014); Yi Di Wang v. Holder,
+759 F. 3d 670, 674–675 (CA7 2014); Urbina v. Holder, 745
+F. 3d 736, 740 (CA4 2014). But see Orozco-Velasquez v.
+Attorney General United States, 817 F. 3d 78, 81–82 (CA3
+2016). The Court correctly concludes today that those
+holdings were wrong because the BIA’s interpretation
+finds little support in the statute’s text.
+   In according Chevron deference to the BIA’s interpreta-
+tion, some Courts of Appeals engaged in cursory analysis
+of the questions whether, applying the ordinary tools of
+statutory construction, Congress’ intent could be dis-
+cerned, 467 U. S., at 843, n. 9, and whether the BIA’s
+interpretation was reasonable, id., at 845. In Urbina v.
+Holder, for example, the court stated, without any further
+elaboration, that “we agree with the BIA that the relevant
+statutory provision is ambiguous.” 745 F. 3d, at 740. It
+then deemed reasonable the BIA’s interpretation of the
+statute, “for the reasons the BIA gave in that case.” Ibid.
+This analysis suggests an abdication of the Judiciary’s
+proper role in interpreting federal statutes.
+   The type of reflexive deference exhibited in some of
+these cases is troubling. And when deference is applied to
+other questions of statutory interpretation, such as an
+agency’s interpretation of the statutory provisions that
+concern the scope of its own authority, it is more troubling
+still. See Arlington v. FCC, 569 U. S. 290, 327 (2013)
+(ROBERTS, C. J., dissenting) (“We do not leave it to the
+agency to decide when it is in charge”). Given the con-
+cerns raised by some Members of this Court, see, e.g., id.,
+at 312–328; Michigan v. EPA, 576 U. S. ___, ___ (2015)
+(THOMAS, J., concurring); Gutierrez-Brizuela v. Lynch, 834
+
+
+                  Cite as: 585 U. S. ____ (2018)           3
+                     KENNEDY, J., concurring
+F. 3d 1142, 1149–1158 (CA10 2016) (Gorsuch, J., concur-
+ring), it seems necessary and appropriate to reconsider, in
+an appropriate case, the premises that underlie Chevron
+and how courts have implemented that decision. The
+proper rules for interpreting statutes and determining
+agency jurisdiction and substantive agency powers should
+accord with constitutional separation-of-powers principles
+and the function and province of the Judiciary. See, e.g.,
+Arlington, supra, at 312–316 (ROBERTS, C. J., dissenting).
+
+
+                  Cite as: 585 U. S. ____ (2018)          1
+                       ALITO, J., dissenting
+SUPREME COURT OF THE UNITED STATES
+                           _________________
+                            No. 17–459
+                           _________________
+     WESCLEY FONSECA PEREIRA, PETITIONER v.
+ JEFFERSON B. SESSIONS, III, ATTORNEY GENERAL
+ ON WRIT OF CERTIORARI TO THE UNITED STATES COURT OF
+               APPEALS FOR THE FIRST CIRCUIT
+                         [June 21, 2018]
+   JUSTICE ALITO, dissenting.
+   Although this case presents a narrow and technical
+issue of immigration law, the Court’s decision implicates
+the status of an important, frequently invoked, once cele-
+brated, and now increasingly maligned precedent, namely,
+Chevron U. S. A. Inc. v. Natural Resources Defense Coun-
+cil, Inc., 467 U. S. 837 (1984). Under that decision, if a
+federal statute is ambiguous and the agency that is au-
+thorized to implement it offers a reasonable interpreta-
+tion, then a court is supposed to accept that interpreta-
+tion. Here, a straightforward application of Chevron
+requires us to accept the Government’s construction of the
+provision at issue. But the Court rejects the Government’s
+interpretation in favor of one that it regards as the best
+reading of the statute. I can only conclude that the Court,
+for whatever reason, is simply ignoring Chevron.
+                                   I
+   As amended, the Immigration and Nationality Act
+generally requires the Government to remove nonperma-
+nent resident aliens who overstay the terms of their ad-
+mission into this country. See 8 U. S. C. §§1227(a)(1)(B)–
+(C). But under certain circumstances, the Government
+may decide to cancel their removal instead. See §1229b.
+To be eligible for such relief, an alien must demonstrate
+
+
+2                   PEREIRA v. SESSIONS
+                      ALITO, J., dissenting
+that he or she “has been physically present in the United
+States for a continuous period of not less than 10 years.”
+§1229b(b)(1)(A). “For purposes of ” that rule, however,
+“any period of . . . continuous physical presence in the
+United States shall be deemed to end . . . when the alien is
+served a notice to appear under section 1229(a) of this
+title.” §1229b(d)(1). That language acts as a stop-time
+rule, preventing the continuous-presence clock from con-
+tinuing to run once an alien is served with a notice to
+appear.
+   The question presented by this case is whether the stop-
+time rule is triggered by service of a notice to appear that
+is incomplete in some way. A provision of the amended
+Immigration and Nationality Act requires that the Gov-
+ernment serve an alien who it seeks to remove with a
+notice to appear “specifying” a list of things, including
+“[t]he nature of the proceedings against the alien,” “[t]he
+legal authority under which the proceedings are conducted,”
+“[t]he acts or conduct alleged to be in violation of law,”
+“[t]he charges against the alien and the statutory provi-
+sions alleged to have been violated,” and (what is relevant
+here) “[t]he time and place at which the proceedings will
+be held.” §§1229(a)(1)(A), (B), (C), (D), (G)(i).
+   Petitioner Wescley Pereira is a Brazilian citizen who
+entered the United States lawfully in 2000 but then ille-
+gally overstayed his nonimmigrant visa. In 2006, the
+Government caused him to be served in person with a
+document styled as a notice to appear for removal proceed-
+ings. Pereira concedes that he overstayed his visa and is
+thus removable, but he argues that he is nonetheless
+eligible for cancellation of removal because he has now
+been in the country continuously for more than 10 years.
+He contends that the notice served on him in 2006 did not
+qualify as a notice to appear because it lacked one piece of
+information that such a notice is supposed to contain,
+namely, the time at which his removal proceedings were to
+
+
+                  Cite as: 585 U. S. ____ (2018)            3
+                       ALITO, J., dissenting
+be held. Thus, Pereira contends, that notice did not trig-
+ger the stop-time rule, and the clock continued to run.
+   The Board of Immigration Appeals (BIA) has rejected
+this interpretation of the stop-time rule in the past. It has
+held that “[a]n equally plausible reading” is that the stop-
+time rule “merely specifies the document the [Govern-
+ment] must serve on the alien to trigger the ‘stop-time’
+rule and does not impose substantive requirements for a
+notice to appear to be effective in order for that trigger to
+occur.” In re Camarillo, 25 I. & N. Dec. 644, 647 (2011). It
+therefore held in this case that Pereira is ineligible for
+cancellation of removal.
+                                 II
+                                 A
+   Pereira, on one side, and the Government and the BIA,
+on the other, have a quasi-metaphysical disagreement
+about the meaning of the concept of a notice to appear. Is
+a notice to appear a document that contains certain essen-
+tial characteristics, namely, all the information required
+by §1229(a)(1), so that any notice that omits any of that
+information is not a “notice to appear” at all? Or is a
+notice to appear a document that is conventionally called
+by that name, so that a notice that omits some of the
+information required by §1229(a)(1) may still be regarded
+as a “notice to appear”?
+   Picking the better of these two interpretations might
+have been a challenge in the first instance. But the Court
+did not need to decide that question, for under Chevron we
+are obligated to defer to a Government agency’s interpre-
+tation of the statute that it administers so long as that
+interpretation is a “ ‘permissible’ ” one. INS v. Aguirre-
+Aguirre, 526 U. S. 415, 424 (1999). All that is required is
+that the Government’s view be “reasonable”; it need not be
+“the only possible interpretation, nor even the interpreta-
+tion deemed most reasonable by the courts.” Entergy
+
+
+4                     PEREIRA v. SESSIONS
+                        ALITO, J., dissenting
+Corp. v. Riverkeeper, Inc., 556 U. S. 208, 218 (2009).
+Moreover, deference to the Government’s interpretation
+“is especially appropriate in the immigration context”
+because of the potential foreign-policy implications.
+Aguirre-Aguirre, supra, at 425. In light of the relevant
+text, context, statutory history, and statutory purpose,
+there is no doubt that the Government’s interpretation of
+the stop-time rule is indeed permissible under Chevron.
+                                  B
+   By its terms, the stop-time rule is consistent with the
+Government’s interpretation. As noted, the stop-time rule
+provides that “any period of . . . continuous physical pres-
+ence in the United States shall be deemed to end . . . when
+the alien is served a notice to appear under section 1229(a)
+of this title.” §1229b(d)(1). A degree of ambiguity arises
+from Congress’s use of the word “under,” for as the Court
+recognizes, “ ‘[t]he word “under” is [a] chameleon,’ ” ante, at
+15, having “ ‘many dictionary definitions’ ” and no “uni-
+form, consistent meaning,” Kirtsaeng v. John Wiley &
+Sons, Inc., 568 U. S. 519, 531 (2013). Everyone agrees,
+however, that “under” is often used to mean “authorized
+by.” See, e.g., Webster’s New World College Dictionary
+1453 (3d ed. 1997) (“authorized . . . by”); American Herit-
+age Dictionary 1945 (3d ed. 1992) (“With the authorization
+of ”); see also Brief for Respondent 24 (agreeing that “un-
+der” can mean “subject to,” “governed by,” or “issued under
+the authority of”); Brief for Petitioner 28. And when the
+term is used in this way, it does not necessarily mean that
+the act done pursuant to that authorization was done in
+strict compliance with the terms of the authorization. For
+example, one might refer to a litigant’s disclosure “under”
+Rule 26(a) of the Federal Rules of Civil Procedure even if
+that disclosure did not comply with Rule 26(a) in every
+respect. Or one might refer to regulations promulgated
+“under” a statute even if a court later found those regula-
+
+
+                      Cite as: 585 U. S. ____ (2018)                    5
+                           ALITO, J., dissenting
+tions inconsistent with the statute’s text.
+   That use of the word “under” perfectly fits the Govern-
+ment’s interpretation of the stop-time rule. The Govern-
+ment served Pereira with a notice to appear “under”
+§1229(a) in the sense that the notice was “authorized by”
+that provision, which states that a notice to appear “shall
+be given” to an alien in a removal proceeding and outlines
+several rules governing such notices. On that reasonable
+reading, the phrase “under section 1229(a)” acts as short-
+hand for the type of document governed by §1229(a).
+                                      C
+   That interpretation is bolstered by the stop-time rule’s
+cross-reference to “section 1229(a).” §1229b(d)(1). Pereira
+interprets that cross-reference as picking up every sub-
+stantive requirement that applies to notices to appear.
+But those substantive requirements are found only in
+§1229(a)(1). Thus, the cross-reference to “section 1229(a),”
+as opposed to “section 1229(a)(1),” tends to undermine
+Pereira’s interpretation, because if Congress had meant
+for the stop-time rule to incorporate the substantive re-
+quirements located in §1229(a)(1), it presumably would
+have referred specifically to that provision and not more
+generally to “section 1229(a).” We normally presume that
+“[w]hen Congress want[s] to refer only to a particular
+subsection or paragraph, it [says] so,” NLRB v. SW Gen-
+eral, Inc., 580 U. S. ___, ___ (2017) (slip op., at 9), and it is
+instructive that neighboring statutory provisions in this
+case are absolutely riddled with such specific cross-
+references.1 In the stop-time rule, however, Congress
+chose to insert a broader cross-reference, one that refers to
+the general process of serving notices to appear as a
+——————
+  1 See, e.g., §1229a(b)(5)(A) (“paragraph (1) . . . of section 1229(a)”);
+§1229a(b)(5)(C)(ii) (same); §1229a(b)(7) (same); §1229a(b)(5)(B) (“ad-
+dress required under section 1229(a)(1)(F)”); see also §1229a(b)(7)
+(referring to §1229(a)(1)(G)(i)’s “time and place” requirement).
+
+
+6                       PEREIRA v. SESSIONS
+                          ALITO, J., dissenting
+whole. See §1229(a). Thus, Pereira essentially “wants to
+cherry pick from the material covered by the statutory
+cross-reference. But if Congress had intended to refer to
+the definition in [§1229(a)(1)] alone, it presumably would
+have done so.” Cyan, Inc. v. Beaver County Employees
+Retirement Fund, 583 U. S. ___, ___ (2018) (slip op., at 9).2
+                                    D
+   Statutory history also strongly supports the Govern-
+ment’s argument that a notice to appear should trigger the
+stop-time rule even if it fails to include the date and time
+of the alien’s removal proceeding. When Congress enacted
+the stop-time rule, it decreed that the rule should “apply
+to notices to appear issued before, on, or after the date of
+the enactment of this Act.” Illegal Immigration Reform
+and Immigrant Responsibility Act of 1996, §309(c)(5), 110
+Stat. 3009–627. This created a problem: Up until that
+point, there was no such thing as a “notice to appear,” so
+the reference to “notices to appear issued before . . . this
+Act” made little sense. When Congress became aware of
+the problem, it responded by clarifying that the stop-time
+rule should apply not only to notices to appear, but also “to
+orders to show cause . . . issued before, on, or after the
+date” of the clarifying amendment’s enactment. Nicara-
+guan Adjustment and Central American Relief Act,
+§203(1), 111 Stat. 2196, as amended 8 U. S. C. §1101 note.
+That clarification sheds considerable light on the question
+presented here because orders to show cause did not nec-
+essarily include the date or location of proceedings (even if
+——————
+  2 According to the Court, “the broad reference to §1229(a) is of no
+consequence, because, as even the Government concedes, only para-
+graph (1) bears on the meaning of a ‘notice to appear.’ ” Ante, at 10.
+But that is precisely the point: If “only paragraph (1) bears on the
+meaning of a ‘notice to appear,’ ” then Congress’s decision to refer to
+§1229(a) more broadly indicates that it meant to do something other
+than to pick up the substantive requirements of §1229(a)(1).
+
+
+                     Cite as: 585 U. S. ____ (2018)                  7
+                           ALITO, J., dissenting
+they otherwise served a function similar to that now
+served by notices to appear).                       See 8 U. S. C.
+§1252b(a)(2)(A) (1994 ed.).
+   That statutory history supports the Government’s inter-
+pretation twice over. First, it demonstrates that when it
+comes to triggering the stop-time rule, Congress attached
+no particular significance to the presence (or absence) of
+information about the date and time of a removal proceed-
+ing. Congress was more than happy for the stop-time rule
+to be activated either by notices to appear or by orders to
+show cause, even though the latter often lacked any in-
+formation about the date and time of proceedings.
+   Second, and even more important, the statutory history
+also shows that Congress clearly thought of orders to show
+cause as the functional equivalent of notices to appear for
+purposes of the stop-time rule. After an initially confusing
+reference to “notices to appear” issued before the creation
+of the stop-time rule, Congress clarified that it had meant
+to refer to “orders to show cause.” By equating orders to
+show cause with notices to appear, Congress indicated
+that when the stop-time rule refers to “a notice to appear,”
+it is referring to a category of documents that do not nec-
+essarily provide the date and time of a future removal
+proceeding.3
+                                     E
+   Finally, Pereira’s contrary interpretation leads to conse-
+quences that clash with any conceivable statutory pur-
+pose. Pereira’s interpretation would require the Govern-
+ment to include a date and time on every notice to appear
+that it issues. But at the moment, the Government lacks
+the ability to do that with any degree of accuracy. The
+——————
+  3 Although the Court charges me with “compar[ing] apples to oranges,”
+ante, at 15, n. 9, Congress was the one that equated orders to show
+cause and notices to appear for purposes of the stop-time rule. By
+ignoring that decision, the Court rewrites the statute to its taste.
+
+
+8                   PEREIRA v. SESSIONS
+                      ALITO, J., dissenting
+Department of Homeland Security sends out the initial
+notice to appear, but the removal proceedings themselves
+are scheduled by the Immigration Court, which is part of
+the Department of Justice. See 8 CFR §1003.18(a) (2018).
+The Department of Homeland Security cannot dictate the
+scheduling of a matter on the docket of the Immigration
+Court, and at present, the Department of Homeland Secu-
+rity generally cannot even access the Immigration Court’s
+calendar. In re Camarillo, 25 I. & N. Dec., at 648; Tr. of
+Oral Arg. 52–53. The Department of Homeland Security
+may thus be hard pressed to include on initial notices to
+appear a hearing date that is anything more than a rough
+estimate subject to considerable change. See §1229(a)(2);
+see also ante, at 18 (disclaiming any effect on the Govern-
+ment’s ability to change initial hearing dates).
+   Including an estimated and changeable date, however,
+may do much more harm than good. See Gonzalez-Garcia
+v. Holder, 770 F. 3d 431, 434–435 (CA6 2014). It is likely
+to mislead many recipients and to prejudice those who
+make preparations on the assumption that the initial date
+is firm. And it forces the Government to go through the
+pointless exercise of first including a date that it knows
+may very well be altered and then changing it once the
+real date becomes clear. Such a system serves nobody’s
+interests.
+   Statutory interpretation is meant to be “a holistic en-
+deavor,” and sometimes language “that may seem ambig-
+uous in isolation” becomes clear because “only one of the
+permissible meanings produces a substantive effect that is
+compatible with the rest of the law.” United Sav. Assn. of
+Tex. v. Timbers of Inwood Forest Associates, Ltd., 484 U. S.
+365, 371 (1988). The real-world effects produced by Perei-
+ra’s interpretation—arbitrary dates and times that are
+likely to confuse and confound all who receive them—
+illustrate starkly the merits of the Government’s alterna-
+tive construction.
+
+
+                  Cite as: 585 U. S. ____ (2018)            9
+                       ALITO, J., dissenting
+                                III
+   Based on the relevant text, context, statutory history,
+and statutory purpose, the Government makes a convinc-
+ing case that the stop-time rule can be triggered even by a
+notice to appear that omits the date and time of a removal
+proceeding. But the Court holds instead that in order “to
+trigger the stop-time rule, the Government must serve a
+notice to appear that, at the very least, ‘specif[ies]’ the
+‘time and place’ of the removal proceedings.” Ante, at 9.
+According to the Court, that conclusion is compelled by the
+statutory text, the statutory context, and “common sense.”
+Ante, at 12. While the Court’s interpretation may be
+reasonable, the Court goes much too far in saying that it is
+the only reasonable construction.
+                                 A
+   Start with the text. As noted, the stop-time rule pro-
+vides that “any period of . . . continuous physical presence
+in the United States shall be deemed to end . . . when the
+alien is served a notice to appear under section 1229(a).”
+§1229b(d)(1). The Court does not dispute that it is entirely
+consistent with standard English usage to read this
+language as the Government and I do. See ante, at 15. It
+therefore follows that the stop-time rule itself does not
+foreclose the Government’s interpretation.
+   That leaves only §1229(a)(1), which specifies the infor-
+mation that a notice to appear must contain. The Court’s
+treatment of this provision contradicts itself. On the one
+hand, the Court insists that this provision is “definitional”
+and that it sets out the essential characteristics without
+which a notice is not a notice to appear. Ante, at 13. But
+on the other hand, the Court states that it “leaves for
+another day whether a putative notice to appear that
+omits any of the other categories of information enumer-
+ated in §1229(a)(1) triggers the stop-time rule.” Ante, at 8,
+n. 5. The Court cannot have it both ways. If §1229(a)(1) is
+
+
+10                      PEREIRA v. SESSIONS
+                           ALITO, J., dissenting
+definitional and sets out the essential characteristics of a
+notice to appear, then the omission of any required item of
+information makes a putative notice to appear a nullity.
+So if the Court means what it says—that its interpretation
+of §1229(a)(1)’s language leaves open the consequences of
+omitting other categories of information—that is tanta-
+mount to admitting that §1229(a)(1) itself cannot foreclose
+the Government’s interpretation.4
+    In any event, the Government’s interpretation can
+easily be squared with the text of §1229(a)(1). That provi-
+sion states that a “written notice (in this section referred to
+as a ‘notice to appear’) shall be given in person to the alien
+. . . specifying” 10 categories of information, including the
+“time and place” of the removal proceeding. §1229(a)(1)
+(emphasis added). According to Pereira, that language
+cinches the case against the Government’s interpretation:
+By equating a “notice to appear” with a “written notice . . .
+[that] specif[ies]” the relevant categories of information,
+§1229(a)(1) establishes that a notice lacking any of those
+10 pieces of information cannot qualify as a “notice to
+appear” and thus cannot trigger the stop-time rule. In
+Pereira’s eyes, §1229(a)(1) defines what a notice to appear
+is, and most of the Court’s opinion is to the same effect.
+    This may be a plausible interpretation of §1229(a)(1)’s
+language, but it is not the only one. It is at least as rea-
+sonable to read that language as simply giving a name to
+the new type of notice to which that provision refers. Or
+to put the point another way, §1229(a)(1)’s language can
+be understood to define what makes a notice to appear
+complete. See In re Camarillo, supra, at 647. Under that
+——————
+   4 Nor can the Court get away with labeling its self-contradictions as
+“judicial restraint.” Ante, at 8, n. 5. Either §1229(a)(1) sets out the
+essential characteristics of a notice to appear or it does not; the Court
+cannot stop at a halfway point unsupported by either text or logic while
+maintaining that its resting place is “clear” in light of the statutory
+text. Ante, at 9.
+
+
+                    Cite as: 585 U. S. ____ (2018)            11
+                         ALITO, J., dissenting
+interpretation, a notice that omits some of the information
+required by §1229(a)(1) might still be a “notice to appear.”
+   We often use language in this way. In everyday life, a
+person who sees an old Chevy with three wheels in a
+junkyard would still call it a car. Language is often used
+the same way in the law. Consider the example of a notice
+of appeal. Much like a notice to appear, a notice of appeal
+must meet several substantive requirements; all notices of
+appeal, for example, “must be signed.” Fed. Rule Civ.
+Proc. 11(a). So what happens if a notice of appeal is in-
+complete in some way—say, because it is unsigned but
+otherwise impeccable? If a court clerk wanted to point out
+the lack of a signature to an attorney, the clerk is far more
+likely to say, “there is a problem with your notice of ap-
+peal,” than to say, “there is a problem with this document
+you filed; it’s not signed and therefore I don’t know what
+to call it, but I can’t call it a notice of appeal because it is
+unsigned.”
+   Furthermore, just because a legal document is incom-
+plete, it does not necessarily follow that it is without legal
+effect. Consider again the notice of appeal. As a general
+matter, an appeal “may be taken” in a civil case “only by
+filing a notice of appeal” “within 30 days after entry of the
+judgment or order appealed from.” Fed. Rules App. Proc.
+3(a), 4(a)(1)(A). While an unsigned notice of appeal does
+not meet the substantive requirements set out in Rule 11,
+in Becker v. Montgomery, 532 U. S. 757, 763, 768 (2001),
+this Court unanimously held that a litigant who filed a
+timely but unsigned notice of appeal still beat the 30-day
+clock for filing appeals. As we explained, “imperfections in
+noticing an appeal should not be fatal where no genuine
+doubt exists about who is appealing, from what judgment,
+to which appellate court.” Id., at 767.
+   If Rule 11 of the Federal Rules of Civil Procedure can be
+read in this way, it is not unreasonable to do the same
+with §1229(a)(1). And in trying to distinguish an empty
+
+
+12                      PEREIRA v. SESSIONS
+                           ALITO, J., dissenting
+signature line on a notice of appeal as a “trivial, ministe-
+rial defect,” ante, at 14, the Court gives the game away by
+once again assuming its own conclusion. Whether the
+omission of the date and time certain on a notice to appear
+is essential for present purposes is the central issue in this
+case, and the Court gives no textually based reason to
+think that it is. The Government could reasonably con-
+clude that a notice to appear that omits the date and time
+of a proceeding is still a notice to appear (albeit a defective
+one), much in the same way that a complaint without the
+e-mail address of the signer is still a complaint (albeit a
+defective one, see Rule 11(a)), or a clock missing the num-
+ber “8” is still a clock (albeit a defective one).
+   Pereira and the Court are right that §1229(a)(1) sets out
+the substantive requirements for notices to appear, but
+that fact alone does not control whether an incomplete
+notice to appear triggers the stop-time rule.5
+                                     B
+   With the text of both the stop-time rule and §1229(a)(1)
+irreducibly ambiguous, the Court must next look to two
+neighboring provisions to support its conclusion that its
+interpretation is the only reasonable one. Neither provi-
+sion is sufficient.
+   The Court first observes that the second paragraph of
+§1229(a) allows the Government to move or reschedule a
+removal proceeding unilaterally and then to inform the
+alien of “the new time or place of the proceedings.”
+——————
+  5 Of course, courts should still demand that the Government justify
+why whatever is left off a notice to appear does not deprive it of its
+essential character as a “notice to appear.” As the Government rightly
+concedes, for example, a blank sheet of paper would not constitute a
+“notice to appear.” Tr. of Oral Arg. 39; see Brief for Respondent 35–36.
+But for all the reasons the Government gives, omission of the date and
+time of a future removal proceeding is not, by itself, enough to turn a
+notice to appear into something else.
+
+
+                    Cite as: 585 U. S. ____ (2018)          13
+                         ALITO, J., dissenting
+§1229(a)(2)(A)(i). “By allowing for a ‘change or postpone-
+ment’ of the proceedings to a ‘new time or place,’ ” the
+Court reasons, “paragraph (2) presumes that the Govern-
+ment has already served a ‘notice to appear . . .’ that speci-
+fied a time and place as required.” Ante, at 10.
+    That is entirely correct—and entirely irrelevant. No one
+doubts that §1229(a)(1) requires that a notice to appear
+include the “time and place” of the removal proceeding.
+See §1229(a)(1)(G)(i). Indeed, that is common ground
+between the two parties. See Brief for Petitioner 10–11;
+Brief for Respondent 3. Paragraph (2) undoubtedly as-
+sumes that notices to appear will state the “time and
+place” of the removal proceeding as required by
+§1229(a)(1), but it has nothing to say about whether the
+failure to include that information affects the operation of
+the stop-time rule. By suggesting otherwise, the Court is
+merely reasoning backwards from its conclusion.
+    The other provision cited by the Court, §1229(b)(1), is no
+more helpful. As the Court explains, §1229(b)(1) generally
+precludes the Government from scheduling a hearing date
+“ ‘earlier than 10 days after the service of the notice to
+appear’ ” in order to give the alien “ ‘the opportunity to
+secure counsel.’ ” Ante, at 11. Unless a notice to appear
+includes the time and place of the hearing, the Court frets,
+“the Government could serve a document labeled ‘notice to
+appear’ without listing the time and location of the hear-
+ing and then, years down the line, provide that infor-
+mation a day before the removal hearing when it becomes
+available.” Ibid. But that remote and speculative possi-
+bility depends entirely on the Immigration Court’s allow-
+ing a removal proceeding to go forward only one day after
+an alien (and the Government) receives word of a hearing
+date. See 8 CFR §1003.18(a). Even assuming that such
+an unlikely event were to come to pass, the court’s decision
+would surely be subject to review on appeal. See generally
+8 CFR §1003.1, 8 U. S. C. §1252. Regardless, the Court’s
+
+
+14                   PEREIRA v. SESSIONS
+                       ALITO, J., dissenting
+interpretation of the stop-time rule would not prevent a
+similar type of problem from arising. When the Govern-
+ment sends an initial notice to appear from now on, it may
+be forced by the Court’s interpretation to guess that the
+hearing will take place far in the future, only to learn
+shortly afterwards that the hearing is in fact imminent.
+An alien lulled into a false sense of security by that initial
+notice to appear will have as little meaningful “ ‘opportun-
+ity to secure counsel’ ” and “time to prepare adequately,”
+ante, at 11, as one who initially received a notice to appear
+without any hearing date.
+                                 C
+   Finally, the Court turns to “common sense” to support
+its preferred reading of the text. According to the Court, it
+should be “obvious” to anyone that “a notice that does not
+specify when and where to appear for a removal proceed-
+ing is not a ‘notice to appear.’ ” Ante, at 2, 12. But what
+the Court finds so obvious somehow managed to elude
+every Court of Appeals to consider the question save one.
+See Moscoso-Castellanos v. Lynch, 803 F. 3d 1079, 1083
+(CA9 2015); O’Garro v. U. S. Attorney General, 605 Fed.
+Appx. 951, 953 (CA11 2015) (per curiam); Guaman-Yuqui
+v. Lynch, 786 F. 3d 235, 240 (CA2 2015) (per curiam);
+Gonzalez-Garcia v. Holder, 770 F. 3d 431, 434–435 (CA6
+2014); Yi Di Wang v. Holder, 759 F. 3d 670, 675 (CA7
+2014); Urbina v. Holder, 745 F. 3d 736, 740 (CA4 2014).
+   That is likely because the Court’s “common sense” de-
+pends on a very specific understanding of the purpose of a
+notice to appear. In the Court’s eyes, notices to appear
+serve primarily as a vehicle for communicating to aliens
+when and where they should appear for their removal
+hearings. That is certainly a reasonable interpretation
+with some intuitive force behind it. But that is not the
+only possible understanding or even necessarily the best
+one. As the Government reasonably explains, a notice to
+
+
+                       Cite as: 585 U. S. ____ (2018)                     15
+                            ALITO, J., dissenting
+appear can also be understood to serve primarily as a
+charging document. See Tr. of Oral Arg. 39–45. Indeed,
+much of §1229(a)(1) reinforces that view through the
+informational requirements it imposes on notices to ap-
+pear. See, e.g., §1229(a)(1)(A) (“nature of the proceed-
+ings”); §1229(a)(1)(B) (“legal authority” for “the proceed-
+ings”); §1229(a)(1)(C) (“acts or conduct alleged”);
+§1229(a)(1)(D) (“charges against the alien”); ibid. (“statu-
+tory provisions alleged to have been violated”). Interpreted
+in this way, a notice to appear hardly runs afoul of
+“common sense” by simply omitting the date and time of a
+future removal proceeding.6
+    Today’s decision appears even less commonsensical once
+its likely consequences are taken into account. As already
+noted, going forward the Government will be forced to
+include an arbitrary date and time on every notice to
+appear that it issues. See supra, at 7–8. Such a system
+will only serve to confuse everyone involved, and the Court
+offers no explanation as to why it believes otherwise.
+Although the Court expresses surprise at the idea that its
+opinion will “ ‘forc[e] the Government’ to guess when and
+where a hearing will take place,” ante, at 12, n. 6, it is
+——————
+   6 The Court responds to this point in two ways. First, it faults me for
+failing to offer a reason “rooted in the statutory tex[t] for treating time-
+and-place information as any less crucial than charging information for
+purposes of triggering the stop-time rule.” Ante, at 13, n. 7. But
+exactly the same criticism can be leveled against the Court’s own
+reading, which noticeably fails to offer any reason “rooted in the statu-
+tory text” why time-and-place information should be treated as any
+more crucial than charging information for purposes of triggering the
+stop-time rule. Second, the Court also observes misleadingly that
+“there is no reason why a notice to appear should have only one essen-
+tial function,” and that a notice to appear might thus serve the dual
+purpose of both presenting charges and informing an alien “when and
+where to appear.” Ibid. Of course it might, but it is also equally
+reasonable to interpret a notice to appear as serving only one of those
+functions. Under Chevron, it was the Government—not this Court—
+that was supposed to make that interpretive call.
+
+
+16                    PEREIRA v. SESSIONS
+                       ALITO, J., dissenting
+undisputed that the Government currently lacks the
+capability to do anything other than speculate about the
+likely date and time of future removal proceedings. See
+Tr. of Oral Arg. 47–49, 52–53. At most, we can hope that
+the Government develops a system in the coming years
+that allows it to determine likely dates and times before it
+sends out initial notices to appear. But nothing in either
+today’s decision or the statute can guarantee such an
+outcome, so the Court is left crossing its fingers and hop-
+ing for the best. Ante, at 12, n. 6, 18–19.
+                          *      *      *
+   Once the errors and false leads are stripped away, the
+most that remains of the Court’s argument is a textually
+permissible interpretation consistent with the Court’s
+view of “common sense.” That is not enough to show that
+the Government’s contrary interpretation is unreasonable.
+Choosing between these competing interpretations might
+have been difficult in the first instance. But under Chev-
+ron, that choice was not ours to make. Under Chevron,
+this Court was obliged to defer to the Government’s
+interpretation.
+   In recent years, several Members of this Court have
+questioned Chevron’s foundations. See, e.g., ante, at 2–3
+(KENNEDY, J., concurring); Michigan v. EPA, 576 U. S.
+___, ___–___ (2015) (THOMAS, J., concurring) (slip op., at
+1–5); Gutierrez-Brizuela v. Lynch, 834 F. 3d 1142, 1149
+(CA10 2016) (Gorsuch, J., concurring). But unless the
+Court has overruled Chevron in a secret decision that has
+somehow escaped my attention, it remains good law.
+   I respectfully dissent.

@@ -1,0 +1,768 @@
+(Slip Opinion)                OCTOBER TERM, 2018                                    1
+                                         Syllabus
+          NOTE: Where it is feasible, a syllabus (headnote) will be released, as is
+        being done in connection with this case, at the time the opinion is issued.
+        The syllabus constitutes no part of the opinion of the Court but has been
+        prepared by the Reporter of Decisions for the convenience of the reader.
+        See United States v. Detroit Timber & Lumber Co., 200 U. S. 321, 337.
+SUPREME COURT OF THE UNITED STATES
+                                         Syllabus
+                    NEW PRIME INC. v. OLIVEIRA
+ CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR
+                                THE FIRST CIRCUIT
+    No. 17–340.      Argued October 3, 2018—Decided January 15, 2019
+Petitioner New Prime Inc. is an interstate trucking company, and re-
+   spondent Dominic Oliveira is one of its drivers. Mr. Oliveira works
+   under an operating agreement that calls him an independent con-
+   tractor and contains a mandatory arbitration provision. When Mr.
+   Oliveira filed a class action alleging that New Prime denies its driv-
+   ers lawful wages, New Prime asked the court to invoke its statutory
+   authority under the Federal Arbitration Act to compel arbitration.
+   Mr. Oliveira countered that the court lacked authority because §1 of
+   the Act excepts from coverage disputes involving “contracts of em-
+   ployment” of certain transportation workers. New Prime insisted
+   that any question regarding §1’s applicability belonged to the arbitra-
+   tor alone to resolve, or, assuming the court could address the ques-
+   tion, that “contracts of employment” referred only to contracts that
+   establish an employer-employee relationship and not to contracts
+   with independent contractors. The District Court and First Circuit
+   agreed with Mr. Oliveira.
+Held:
+      1. A court should determine whether a §1 exclusion applies before
+   ordering arbitration. A court’s authority to compel arbitration under
+   the Act does not extend to all private contracts, no matter how em-
+   phatically they may express a preference for arbitration. Instead, an-
+   tecedent statutory provisions limit the scope of a court’s §§3 and 4
+   powers to stay litigation and compel arbitration “accord[ing to] the
+   terms” of the parties’ agreement. Section 2 provides that the Act ap-
+   plies only when the agreement is set forth as “a written provision in
+   any maritime transaction or a contract evidencing a transaction in-
+   volving commerce.” And §1 helps define §2’s terms, warning, as rele-
+   vant here, that “nothing” in the Act “shall apply” to “contracts of em-
+
+
+2                      NEW PRIME INC. v. OLIVEIRA
+                                 Syllabus
+  ployment of seamen, railroad employees, or any other class of work-
+  ers engaged in foreign or interstate commerce.” For a court to invoke
+  its statutory authority under §§3 and 4, it must first know if the par-
+  ties’ agreement is excluded from the Act’s coverage by the terms of
+  §§1 and 2. This sequencing is significant. See, e.g., Bernhardt v. Pol-
+  ygraphic Co. of America, 350 U. S. 198, 201–202. New Prime notes
+  that the parties’ contract contains a “delegation clause,” giving the
+  arbitrator authority to decide threshold questions of arbitrability,
+  and that the “severability principle” requires that both sides take all
+  their disputes to arbitration. But a delegation clause is merely a spe-
+  cialized type of arbitration agreement and is enforceable under §§3
+  and 4 only if it appears in a contract consistent with §2 that does not
+  trigger §1’s exception. And, the Act’s severability principle applies
+  only if the parties’ arbitration agreement appears in a contract that
+  falls within the field §§1 and 2 describe. Pp. 3–6.
+     2. Because the Act’s term “contract of employment” refers to any
+  agreement to perform work, Mr. Oliveira’s agreement with New
+  Prime falls within §1’s exception. Pp. 6–15.
+        (a) “[I]t’s a ‘fundamental canon of statutory construction’ that
+  words generally should be ‘interpreted as taking their ordinary . . .
+  meaning . . . at the time Congress enacted the statute.’ ” Wisconsin
+  Central Ltd. v. United States, 585 U. S. ___, ___ (quoting Perrin v.
+  United States, 444 U. S. 37, 42). After all, if judges could freely in-
+  vest old statutory terms with new meanings, this Court would risk
+  amending legislation outside the “single, finely wrought and exhaust-
+  ively considered, procedure” the Constitution commands. INS v.
+  Chadha, 462 U. S. 919, 951. The Court would risk, too, upsetting re-
+  liance interests by subjecting people today to different rules than
+  they enjoyed when the statute was passed. At the time of the Act’s
+  adoption in 1925, the phrase “contract of employment” was not a
+  term of art, and dictionaries tended to treat “employment” more or
+  less as a synonym for “work.” Contemporaneous legal authorities
+  provide no evidence that a “contract of employment” necessarily sig-
+  naled a formal employer-employee relationship. Evidence that Con-
+  gress used the term “contracts of employment” broadly can be found
+  in its choice of the neighboring term “workers,” a term that easily
+  embraces independent contractors. Pp. 6–10.
+        (b) New Prime argues that by 1925, the words “employee” and
+  “independent contractor” had already assumed distinct meanings.
+  But while the words “employee” and “employment” may share a
+  common root and intertwined history, they also developed at different
+  times and in at least some different ways. The evidence remains
+  that, as dominantly understood in 1925, a “contract of employment”
+  did not necessarily imply the existence of an employer-employee rela-
+
+
+                      Cite as: 586 U. S. ____ (2019)                     3
+                                 Syllabus
+  tionship. New Prime’s argument that early 20th-century courts
+  sometimes used the phrase “contracts of employment” to describe
+  what are recognized today as agreements between employers and
+  employees does nothing to negate the possibility that the term also
+  embraced agreements by independent contractors to perform work.
+  And its effort to explain away the statute’s suggestive use of the term
+  “worker” by noting that the neighboring terms “seamen” and “rail-
+  road employees” included only employees in 1925 rests on a precari-
+  ous premise. The evidence suggests that even “seamen” and “railroad
+  employees” could be independent contractors at the time the Arbitra-
+  tion Act passed. Left to appeal to the Act’s policy, New Prime sug-
+  gests that this Court order arbitration to abide Congress’ effort to
+  counteract judicial hostility to arbitration and establish a favorable
+  federal policy toward arbitration agreements. Courts, however, are
+  not free to pave over bumpy statutory texts in the name of more ex-
+  peditiously advancing a policy goal. Rather, the Court should respect
+  “the limits up to which Congress was prepared” to go when adopting
+  the Arbitration Act. United States v. Sisson, 399 U. S. 267, 298. This
+  Court also declines to address New Prime’s suggestion that it order
+  arbitration anyway under its inherent authority to stay litigation in
+  favor of an alternative dispute resolution mechanism of the parties’
+  choosing. Pp. 10–15.
+857 F. 3d 7, affirmed.
+  GORSUCH, J., delivered the opinion of the Court, in which all other
+Members joined, except KAVANAUGH, J., who took no part in the consid-
+eration or decision of the case. GINSBURG, J., filed a concurring opinion.
+
+
+                         Cite as: 586 U. S. ____ (2019)                            1
+                               Opinion of the Court
+      NOTICE: This opinion is subject to formal revision before publication in the
+      preliminary print of the United States Reports. Readers are requested to
+      notify the Reporter of Decisions, Supreme Court of the United States, Wash-
+      ington, D. C. 20543, of any typographical or other formal errors, in order
+      that corrections may be made before the preliminary print goes to press.
+SUPREME COURT OF THE UNITED STATES
+                                     _________________
+                                      No. 17–340
+                                     _________________
+                NEW PRIME INC., PETITIONER v.
+                           DOMINIC OLIVEIRA
+ ON WRIT OF CERTIORARI TO THE UNITED STATES COURT OF
+                    APPEALS FOR THE FIRST CIRCUIT
+                                 [January 15, 2019]
+  JUSTICE GORSUCH delivered the opinion of the Court.
+  The Federal Arbitration Act requires courts to enforce
+private arbitration agreements. But like most laws, this one
+bears its qualifications. Among other things, §1 says that
+“nothing herein” may be used to compel arbitration in dis-
+putes involving the “contracts of employment” of certain
+transportation workers. 9 U. S. C. §1. And that qualification
+has sparked these questions: When a contract delegates
+questions of arbitrability to an arbitrator, must a court leave
+disputes over the application of §1’s exception for the arbitra-
+tor to resolve? And does the term “contracts of employment”
+refer only to contracts between employers and employees, or
+does it also reach contracts with independent contractors?
+Because courts across the country have disagreed on the
+answers to these questions, we took this case to resolve
+them.
+                                             I
+  New Prime is an interstate trucking company and Dom-
+inic Oliveira works as one of its drivers. But, at least on
+paper, Mr. Oliveira isn’t an employee; the parties’ con-
+tracts label him an independent contractor. Those agree-
+
+
+2                NEW PRIME INC. v. OLIVEIRA
+                       Opinion of the Court
+ments also instruct that any disputes arising out of the
+parties’ relationship should be resolved by an arbitrator—
+even disputes over the scope of the arbitrator’s authority.
+   Eventually, of course, a dispute did arise. In a class action
+lawsuit in federal court, Mr. Oliveira argued that New Prime
+denies its drivers lawful wages. The company may call its
+drivers independent contractors. But, Mr. Oliveira alleged,
+in reality New Prime treats them as employees and fails to
+pay the statutorily due minimum wage. In response to Mr.
+Oliveira’s complaint, New Prime asked the court to invoke
+its statutory authority under the Act and compel arbitration
+according to the terms found in the parties’ agreements.
+   That request led to more than a little litigation of its
+own. Even when the parties’ contracts mandate arbitra-
+tion, Mr. Oliveira observed, the Act doesn’t always author-
+ize a court to enter an order compelling it. In particular,
+§1 carves out from the Act’s coverage “contracts of em-
+ployment of . . . workers engaged in foreign or interstate
+commerce.” And at least for purposes of this collateral
+dispute, Mr. Oliveira submitted, it doesn’t matter whether
+you view him as an employee or independent contractor.
+Either way, his agreement to drive trucks for New Prime
+qualifies as a “contract[ ] of employment of . . . [a] worker[ ]
+engaged in . . . interstate commerce.” Accordingly, Mr.
+Oliveira argued, the Act supplied the district court with no
+authority to compel arbitration in this case.
+   Naturally, New Prime disagreed. Given the extraordi-
+nary breadth of the parties’ arbitration agreement, the
+company insisted that any question about §1’s application
+belonged for the arbitrator alone to resolve. Alternatively
+and assuming a court could address the question, New
+Prime contended that the term “contracts of employment”
+refers only to contracts that establish an employer-
+employee relationship. And because Mr. Oliveira is, in
+fact as well as form, an independent contractor, the com-
+pany argued, §1’s exception doesn’t apply; the rest of the
+
+
+                   Cite as: 586 U. S. ____ (2019)           3
+                        Opinion of the Court
+statute does; and the district court was (once again) re-
+quired to order arbitration.
+  Ultimately, the district court and the First Circuit sided
+with Mr. Oliveira. 857 F. 3d 7 (2017). The court of ap-
+peals held, first, that in disputes like this a court should
+resolve whether the parties’ contract falls within the Act’s
+ambit or §1’s exclusion before invoking the statute’s au-
+thority to order arbitration. Second, the court of appeals
+held that §1’s exclusion of certain “contracts of employ-
+ment” removes from the Act’s coverage not only employer-
+employee contracts but also contracts involving independ-
+ent contractors. So under any account of the parties’
+agreement in this case, the court held, it lacked authority
+under the Act to order arbitration.
+                                 II
+  In approaching the first question for ourselves, one
+thing becomes clear immediately. While a court’s authority
+under the Arbitration Act to compel arbitration may be
+considerable, it isn’t unconditional. If two parties agree to
+arbitrate future disputes between them and one side later
+seeks to evade the deal, §§3 and 4 of the Act often require
+a court to stay litigation and compel arbitration
+“accord[ing to] the terms” of the parties’ agreement. But
+this authority doesn’t extend to all private contracts, no
+matter how emphatically they may express a preference for
+arbitration.
+  Instead, antecedent statutory provisions limit the scope
+of the court’s powers under §§3 and 4. Section 2 provides
+that the Act applies only when the parties’ agreement to
+arbitrate is set forth as a “written provision in any mari-
+time transaction or a contract evidencing a transaction
+involving commerce.” And §1 helps define §2’s terms.
+Most relevant for our purposes, §1 warns that “nothing” in
+the Act “shall apply” to “contracts of employment of sea-
+men, railroad employees, or any other class of workers
+
+
+4                 NEW PRIME INC. v. OLIVEIRA
+                       Opinion of the Court
+engaged in foreign or interstate commerce.” Why this very
+particular qualification? By the time it adopted the Arbi-
+tration Act in 1925, Congress had already prescribed
+alternative employment dispute resolution regimes for
+many transportation workers. And it seems Congress “did
+not wish to unsettle” those arrangements in favor of what-
+ever arbitration procedures the parties’ private contracts
+might happen to contemplate. Circuit City Stores, Inc. v.
+Adams, 532 U. S. 105, 121 (2001).
+   Given the statute’s terms and sequencing, we agree with
+the First Circuit that a court should decide for itself
+whether §1’s “contracts of employment” exclusion applies
+before ordering arbitration. After all, to invoke its statu-
+tory powers under §§3 and 4 to stay litigation and compel
+arbitration according to a contract’s terms, a court must
+first know whether the contract itself falls within or be-
+yond the boundaries of §§1 and 2. The parties’ private
+agreement may be crystal clear and require arbitration of
+every question under the sun, but that does not necessarily
+mean the Act authorizes a court to stay litigation and send
+the parties to an arbitral forum.
+   Nothing in our holding on this score should come as a
+surprise. We’ve long stressed the significance of the stat-
+ute’s sequencing. In Bernhardt v. Polygraphic Co. of
+America, 350 U. S. 198, 201–202 (1956), we recognized
+that “Sections 1, 2, and 3 [and 4] are integral parts of a
+whole. . . . [Sections] 1 and 2 define the field in which
+Congress was legislating,” and §§3 and 4 apply only to
+contracts covered by those provisions. In Circuit City, we
+acknowledged that “Section 1 exempts from the [Act] . . .
+contracts of employment of transportation workers.” 532
+U. S., at 119. And in Southland Corp. v. Keating, 465
+U. S. 1, 10–11, and n. 5 (1984), we noted that “the enforce-
+ability of arbitration provisions” under §§3 and 4 depends
+on whether those provisions are “part of a written mari-
+time contract or a contract ‘evidencing a transaction in-
+
+
+                  Cite as: 586 U. S. ____ (2019)           5
+                       Opinion of the Court
+volving commerce’ ” under §2—which, in turn, depends on
+the application of §1’s exception for certain “contracts of
+employment.”
+  To be sure, New Prime resists this straightforward
+understanding. The company argues that an arbitrator
+should resolve any dispute over §1’s application because of
+the “delegation clause” in the parties’ contract and what is
+sometimes called the “severability principle.” A delegation
+clause gives an arbitrator authority to decide even the
+initial question whether the parties’ dispute is subject to
+arbitration. Rent-A-Center, West, Inc. v. Jackson, 561
+U. S. 63, 68–69 (2010). And under the severability princi-
+ple, we treat a challenge to the validity of an arbitration
+agreement (or a delegation clause) separately from a
+challenge to the validity of the entire contract in which it
+appears. Id., at 70–71. Unless a party specifically chal-
+lenges the validity of the agreement to arbitrate, both
+sides may be required to take all their disputes—including
+disputes about the validity of their broader contract—to
+arbitration. Ibid. Applying these principles to this case,
+New Prime notes that Mr. Oliveira has not specifically
+challenged the parties’ delegation clause and submits that
+any controversy should therefore proceed only and imme-
+diately before an arbitrator.
+  But all this overlooks the necessarily antecedent statu-
+tory inquiry we’ve just discussed. A delegation clause is
+merely a specialized type of arbitration agreement, and
+the Act “operates on this additional arbitration agreement
+just as it does on any other.” Id., at 70. So a court may
+use §§3 and 4 to enforce a delegation clause only if the
+clause appears in a “written provision in . . . a contract
+evidencing a transaction involving commerce” consistent
+with §2. And only if the contract in which the clause
+appears doesn’t trigger §1’s “contracts of employment”
+exception. In exactly the same way, the Act’s severability
+principle applies only if the parties’ arbitration agreement
+
+
+6                NEW PRIME INC. v. OLIVEIRA
+                      Opinion of the Court
+appears in a contract that falls within the field §§1 and 2
+describe. We acknowledged as much some time ago, ex-
+plaining that, before invoking the severability principle, a
+court should “determine[ ] that the contract in question is
+within the coverage of the Arbitration Act.” Prima Paint
+Corp. v. Flood & Conklin Mfg. Co., 388 U. S. 395, 402
+(1967).
+                              III
+   That takes us to the second question: Did the First
+Circuit correctly resolve the merits of the §1 challenge in
+this case? Recall that §1 excludes from the Act’s compass
+“contracts of employment of . . . workers engaged in . . .
+interstate commerce.” Happily, everyone before us agrees
+that Mr. Oliveira qualifies as a “worker[ ] engaged in . . .
+interstate commerce.” For purposes of this appeal, too,
+Mr. Oliveira is willing to assume (but not grant) that his
+contracts with New Prime establish only an independent
+contractor relationship.
+   With that, the disputed question comes into clear view:
+What does the term “contracts of employment” mean? If it
+refers only to contracts that reflect an employer-employee
+relationship, then §1’s exception is irrelevant and a court
+is free to order arbitration, just as New Prime urges. But
+if the term also encompasses contracts that require an
+independent contractor to perform work, then the excep-
+tion takes hold and a court lacks authority under the Act
+to order arbitration, exactly as Mr. Oliveira argues.
+                               A
+   In taking up this question, we bear an important cau-
+tion in mind. “[I]t’s a ‘fundamental canon of statutory
+construction’ that words generally should be ‘interpreted
+as taking their ordinary . . . meaning . . . at the time Con-
+gress enacted the statute.’ ” Wisconsin Central Ltd. v.
+United States, 585 U. S. ___, ___ (2018) (slip op., at 9)
+
+
+                  Cite as: 586 U. S. ____ (2019)            7
+                       Opinion of the Court
+(quoting Perrin v. United States, 444 U. S. 37, 42 (1979)).
+See also Sandifer v. United States Steel Corp., 571 U. S.
+220, 227 (2014). After all, if judges could freely invest old
+statutory terms with new meanings, we would risk
+amending legislation outside the “single, finely wrought
+and exhaustively considered, procedure” the Constitution
+commands. INS v. Chadha, 462 U. S. 919, 951 (1983). We
+would risk, too, upsetting reliance interests in the settled
+meaning of a statute. Cf. 2B N. Singer & J. Singer, Suth-
+erland on Statutes and Statutory Construction §56A:3
+(rev. 7th ed. 2012). Of course, statutes may sometimes
+refer to an external source of law and fairly warn readers
+that they must abide that external source of law, later
+amendments and modifications included. Id., §51:8 (dis-
+cussing the reference canon). But nothing like that exists
+here. Nor has anyone suggested any other appropriate
+reason that might allow us to depart from the original
+meaning of the statute at hand.
+  That, we think, holds the key to the case. To many law-
+yerly ears today, the term “contracts of employment” might
+call to mind only agreements between employers and em-
+ployees (or what the common law sometimes called masters
+and servants). Suggestively, at least one recently published
+law dictionary defines the word “employment” to mean “the
+relationship between master and servant.” Black’s Law
+Dictionary 641 (10th ed. 2014). But this modern intuition
+isn’t easily squared with evidence of the term’s meaning at
+the time of the Act’s adoption in 1925. At that time, a “con-
+tract of employment” usually meant nothing more than an
+agreement to perform work. As a result, most people then
+would have understood §1 to exclude not only agreements
+between employers and employees but also agreements that
+require independent contractors to perform work.
+  What’s the evidence to support this conclusion? It turns
+out that in 1925 the term “contract of employment” wasn’t
+defined in any of the (many) popular or legal dictionaries
+
+
+8                    NEW PRIME INC. v. OLIVEIRA
+                           Opinion of the Court
+the parties cite to us. And surely that’s a first hint the
+phrase wasn’t then a term of art bearing some specialized
+meaning. It turns out, too, that the dictionaries of the era
+consistently afforded the word “employment” a broad
+construction, broader than may be often found in diction-
+aries today. Back then, dictionaries tended to treat “em-
+ployment” more or less as a synonym for “work.” Nor did
+they distinguish between different kinds of work or work-
+ers: All work was treated as employment, whether or not
+the common law criteria for a master-servant relationship
+happened to be satisfied.1
+    What the dictionaries suggest, legal authorities confirm.
+This Court’s early 20th-century cases used the phrase “con-
+tract of employment” to describe work agreements involving
+independent contractors.2 Many state court cases did the
+same.3 So did a variety of federal statutes.4 And state stat-
+——————
+   1 See, e.g., 3 J. Murray, A New English Dictionary on Historical
+Principles 130 (1891) (defining “employment” as, among other things,
+“[t]he action or process of employing; the state of being employed.
+The service (of a person). That on which (one) is employed; business;
+occupation; a special errand or commission. A person’s regular
+occupation or business; a trade or profession”); 3 The Century Dic-
+tionary and Cyclopedia 1904 (1914) (defining “employment” as “[w]ork
+or business of any kind”); W. Harris, Webster’s New International
+Dictionary 718 (1st ed. 1909) (listing “work” as a synonym for “em-
+ployment”); Webster’s Collegiate Dictionary 329 (3d ed. 1916) (same);
+Black’s Law Dictionary 422 (2d ed. 1910) (“an engagement or render-
+ing services” for oneself or another); 3 Oxford English Dictionary 130
+(1933) (“[t]hat on which (one) is employed; business; occupation; a
+special errand or commission”).
+   2 See, e.g., Watkins v. Sedberry, 261 U. S. 571, 575 (1923) (agree-
+ment between trustee and attorney to recover bankrupt’s property);
+Owen v. Dudley & Michener, 217 U. S. 488, 494 (1910) (agreement
+between Indian tribe and attorneys to pursue claims).
+   3 See, e.g., Lindsay v. McCaslin (Two Cases), 123 Me. 197, 200, 122
+A. 412, 413 (1923) (“When the contract of employment has been
+reduced to writing, the question whether the person employed was an
+independent contractor or merely a servant is determined by the court
+as a matter of law”); Tankersley v. Webster, 116 Okla. 208, 210, 243 P.
+
+
+                       Cite as: 586 U. S. ____ (2019)                 9
+                            Opinion of the Court
+utes too.5 We see here no evidence that a “contract of em-
+ployment” necessarily signaled a formal employer-employee
+or master-servant relationship.
+    More confirmation yet comes from a neighboring term
+in the statutory text. Recall that the Act excludes from
+its coverage “contracts of employment of . . . any . . . class
+of workers engaged in foreign or interstate commerce.” 9
+U. S. C. §1 (emphasis added). Notice Congress didn’t use
+the word “employees” or “servants,” the natural choices if
+——————
+745, 747 (1925) (“[T]he contract of employment between Tankersley
+and Casey was admitted in evidence without objections, and we think
+conclusively shows that Casey was an independent contractor”);
+Waldron v. Garland Pocahontas Coal Co., 89 W. Va. 426, 427, 109
+S. E. 729 (1921) (syllabus) (“Whether a person performing work for
+another is an independent contractor depends upon a consideration of
+the contract of employment, the nature of the business, the circum-
+stances under which the contract was made and the work was done”);
+see also App. to Brief for Respondent 1a–12a (citing additional
+examples).
+   4 See, e.g., Act of Mar. 19, 1924, ch. 70, §5, 43 Stat. 28 (limiting
+payment of fees to attorneys “employed” by the Cherokee Tribe to
+litigate claims against the United States to those “stipulated in the
+contract of employment”); Act of June 7, 1924, ch. 300, §§2, 5, 43 Stat.
+537–538 (providing same for Choctaw and Chickasaw Tribes); Act of
+Aug. 24, 1921, ch. 89, 42 Stat. 192 (providing that no funds may be
+used to compensate “any attorney, regular or special, for the United
+States Shipping Board or the United States Shipping Board Emer-
+gency Fleet Corporation unless the contract of employment has been
+approved by the Attorney General of the United States”). See also
+App. to Brief for Respondent 13a (citing additional examples).
+   5 See, e.g., Act of Mar. 10, 1909, ch. 70, §1, 1909 Kan. Sess. Laws
+p. 121 (referring to “contracts of employment of auditors, accountants,
+engineers, attorneys, counselors and architects for any special pur-
+pose”); Act of Mar. 4, 1909, ch. 4, §4, 1909 Okla. Sess. Laws p. 118
+(“Should the amount of the attorney’s fee be agreed upon in the
+contract of employment, then such attorney’s lien and cause of action
+against such adverse party shall be for the amount so agreed upon”);
+Act of Mar. 4, 1924, ch. 88, §1, 1924 Va. Acts ch. 91 (allowing exten-
+sion of “contracts of employment” between the state and contractors
+with respect to the labor of prisoners); App. to Brief for Respondent
+14a–15a (citing additional examples).
+
+
+10                    NEW PRIME INC. v. OLIVEIRA
+                           Opinion of the Court
+the term “contracts of employment” addressed them
+alone. Instead, Congress spoke of “workers,” a term that
+everyone agrees easily embraces independent contrac-
+tors. That word choice may not mean everything, but it
+does supply further evidence still that Congress used the
+term “contracts of employment” in a broad sense to cap-
+ture any contract for the performance of work by workers.
+                                     B
+   What does New Prime have to say about the case build-
+ing against it? Mainly, it seeks to shift the debate from
+the term “contracts of employment” to the word “employee.”
+Today, the company emphasizes, the law often distin-
+guishes between employees and independent contractors.
+Employees are generally understood as those who work “in
+the service of another person (the employer) under an
+express or implied contract of hire, under which the em-
+ployer has the right to control the details of work perform-
+ance.” Black’s Law Dictionary, at 639. Meanwhile,
+independent contractors are sometimes described as those
+“entrusted to undertake a specific project but who [are]
+left free to do the assigned work and to choose the method
+for accomplishing it.” Id., at 888. New Prime argues that,
+by 1925, the words “employee” and “independent contrac-
+tor” had already assumed these distinct meanings.6 And
+given that, the company contends, the phrase “contracts of
+employment” should be understood to refer only to rela-
+tionships between employers and employees.
+   Unsurprisingly, Mr. Oliveira disagrees. He replies that,
+while the term “employment” dates back many centuries,
+the word “employee” only made its first appearance in
+English in the 1800s. See Oxford English Dictionary (3d
+ed., Mar. 2014), www.oed.com/view/Entry/61374 (all In-
+——————
+  6 See, e.g., Atlantic Transp. Co. v. Coneys, 82 F. 177, 178 (CA2 1897);
+Nyback v. Champagne Lumber Co., 109 F. 732, 741 (CA7 1901).
+
+
+                         Cite as: 586 U. S. ____ (2019)                        11
+                              Opinion of the Court
+ternet materials as last visited Jan. 9, 2019). At that
+time, the word from which it derived, “employ,” simply
+meant to “apply (a thing) to some definite purpose.” 3 J.
+Murray, A New English Dictionary on Historical Princi-
+ples 129 (1891). And even in 1910, Black’s Law Dictionary
+reported that the term “employee” had only “become
+somewhat naturalized in our language.” Black’s Law
+Dictionary 421 (2d ed. 1910).
+     Still, the parties do share some common ground. They
+agree that the word “employee” eventually came into wide
+circulation and came to denote those who work for a wage
+at the direction of another. They agree, too, that all this
+came to pass in part because the word “employee” didn’t
+suffer from the same “historical baggage” of the older
+common law term “servant,” and because it proved useful
+when drafting legislation to regulate burgeoning indus-
+tries and their labor forces in the early 20th century.7 The
+parties even agree that the development of the term “em-
+ployee” may have come to influence and narrow our un-
+derstanding of the word “employment” in comparatively
+recent years and may be why today it might signify to
+some a “relationship between master and servant.”8
+——————
+    7 See Carlson, Why the Law Still Can’t Tell an Employee When It
+Sees One and How It Ought To Stop Trying, 22 Berkeley J. Emp. &
+Lab. L. 295, 309 (2001) (discussing the “historical baggage” of the term
+“servant”); Broden, General Rules Determining the Employment
+Relationship Under Social Security Laws: After Twenty Years an
+Unsolved Problem, 33 Temp. L. Q. 307, 327 (1960) (describing use of
+the term “employer-employee,” in contradistinction to “master-servant,”
+in the Social Security laws). Legislators searched to find a term that
+fully encompassed the broad protections they sought to provide and
+considered an “assortment of vague and uncertain terms,” including
+“ ‘servant,’ . . . ‘employee,’ . . . ‘workman,’ ‘laborer,’ ‘wage earner,’ ‘opera-
+tive,’ or ‘hireling.’ ” Carlson, 22 Berkeley J. Emp. & Lab. L., at 308.
+Eventually “ ‘employee’ prevailed, if only by default, and the choice was
+confirmed by the next wave of protective legislation—workers’ compen-
+sation laws in the early years of the Twentieth Century.” Id., at 309.
+    8 Black’s Law Dictionary 641 (10th ed. 2014); see also P. Durkin, Re-
+
+
+12                  NEW PRIME INC. v. OLIVEIRA
+                          Opinion of the Court
+   But if the parties’ extended etymological debate per-
+suades us of anything, it is that care is called for. The
+words “employee” and “employment” may share a common
+root and an intertwined history. But they also developed
+at different times and in at least some different ways. The
+only question in this case concerns the meaning of the
+term “contracts of employment” in 1925. And, whatever
+the word “employee” may have meant at that time, and
+however it may have later influenced the meaning of
+“employment,” the evidence before us remains that, as
+dominantly understood in 1925, a contract of employment
+did not necessarily imply the existence of an employer-
+employee or master-servant relationship.
+   When New Prime finally turns its attention to the term
+in dispute, it directs us to Coppage v. Kansas, 236 U. S. 1,
+13 (1915). There and in other cases like it, New Prime
+notes, courts sometimes used the phrase “contracts of
+employment” to describe what today we’d recognize as
+agreements between employers and employees. But this
+proves little. No one doubts that employer-employee
+agreements to perform work qualified as “contracts of
+employment” in 1925—and documenting that fact does
+nothing to negate the possibility that “contracts of em-
+ployment” also embraced agreements by independent
+contractors to perform work. Coming a bit closer to
+the mark, New Prime eventually cites a handful of early
+20th-century legal materials that seem to use the term
+“contracts of employment” to refer exclusively to employer-
+employee agreements.9 But from the record amassed
+——————
+lease Notes: The Changes in Empathy, Employ, and Empire (Mar. 13,
+2014) (“Over time” the meaning of several employ-related words have
+“reflect[ed] changes in the world of work” and their meaning “shows an
+increasingly marked narrowing”), online at https://public.oed.com/blog/
+march-2014-update-release-notes/.
+  9 See, e.g., 1 T. Conyngton, Business Law: A Working Manual of
+Every-day Law 302–303 (2d ed. 1920); Newland v. Bear, 218 App. Div.
+
+
+                       Cite as: 586 U. S. ____ (2019)                  13
+                            Opinion of the Court
+before us, these authorities appear to represent at most
+the vanguard, not the main body, of contemporaneous
+usage.
+   New Prime’s effort to explain away the statute’s sugges-
+tive use of the term “worker” proves no more compelling.
+The company reminds us that the statute excludes “con-
+tracts of employment” for “seamen” and “railroad employ-
+ees” as well as other transportation workers. And because
+“seamen” and “railroad employees” included only employ-
+ees in 1925, the company reasons, we should understand
+“any other class of workers engaged in . . . interstate
+commerce” to bear a similar construction. But this argu-
+ment rests on a precarious premise. At the time of the
+Act’s passage, shipboard surgeons who tended injured
+sailors were considered “seamen” though they likely
+served in an independent contractor capacity.10 Even the
+term “railroad employees” may have swept more broadly
+at the time of the Act’s passage than might seem obvious
+today. In 1922, for example, the Railroad Labor Board
+interpreted the word “employee” in the Transportation Act
+of 1920 to refer to anyone “engaged in the customary work
+directly contributory to the operation of the railroads.”11
+And the Erdman Act, a statute enacted to address disrup-
+tive railroad strikes at the end of the 19th century, seems
+to evince an equally broad understanding of “railroad
+——————
+308, 309, 218 N. Y. S. 81, 81–82 (1926); Anderson v. State Indus.
+Accident Comm’n, 107 Ore. 304, 311–312, 215 P. 582, 583, 585 (1923);
+N. Dosker, Manual of Compensation Law: State and Federal 8 (1917).
+  10 See, e.g., The Sea Lark, 14 F. 2d 201 (WD Wash. 1926); The Buena
+Ventura, 243 F. 797, 799 (SDNY 1916); Holt v. Cummings, 102 Pa. 212,
+215 (1883); Allan v. State S. S. Co., 132 N. Y. 91, 99, 30 N. E. 482, 485
+(1892) (“The work which the physician does after the vessel starts on
+the voyage is his and not the ship owner’s”).
+  11 Transportation Act of 1920, §§304, 307, 41 Stat. 456; Railway Em-
+ployees’ Dept., A. F. of L. v. Indiana Harbor Belt R. Co., Decision No.
+982, 3 R. L. B. 332, 337 (1922).
+
+
+14                  NEW PRIME INC. v. OLIVEIRA
+                          Opinion of the Court
+employees.”12
+   Unable to squeeze more from the statute’s text, New
+Prime is left to appeal to its policy. This Court has said
+that Congress adopted the Arbitration Act in an effort to
+counteract judicial hostility to arbitration and establish “a
+liberal federal policy favoring arbitration agreements.”
+Moses H. Cone Memorial Hospital v. Mercury Constr.
+Corp., 460 U. S. 1, 24 (1983). To abide that policy, New
+Prime suggests, we must order arbitration according to
+the terms of the parties’ agreement. But often and by
+design it is “hard-fought compromise[ ],” not cold logic,
+that supplies the solvent needed for a bill to survive the
+legislative process. Board of Governors, FRS v. Dimension
+Financial Corp., 474 U. S. 361, 374 (1986). If courts felt
+free to pave over bumpy statutory texts in the name of
+more expeditiously advancing a policy goal, we would risk
+failing to “tak[e] . . . account of ” legislative compromises
+essential to a law’s passage and, in that way, thwart
+rather than honor “the effectuation of congressional in-
+tent.” Ibid. By respecting the qualifications of §1 today,
+we “respect the limits up to which Congress was prepared”
+to go when adopting the Arbitration Act. United States v.
+Sisson, 399 U. S. 267, 298 (1970).
+   Finally, and stretching in a different direction entirely,
+New Prime invites us to look beyond the Act. Even if the
+statute doesn’t supply judges with the power to compel
+arbitration in this case, the company says we should order
+it anyway because courts always enjoy the inherent au-
+——————
+  12 The  Act provided for arbitration between railroads and workers,
+and defined “employees” as “all persons actually engaged in any capacity
+in train operation or train service of any description.” Act of June 1,
+1898, ch. 370, 30 Stat. 424. The Act also specified that the railroads
+would “be responsible for the acts and defaults of such employees in the
+same manner and to the same extent as if . . . said employees [were]
+directly employed by it.” Id., at 425. See Dempsey, Transportation: A
+Legal History, 30 Transp. L. J. 235, 273 (2003).
+
+
+                   Cite as: 586 U. S. ____ (2019)          15
+                        Opinion of the Court
+thority to stay litigation in favor of an alternative dispute
+resolution mechanism of the parties’ choosing. That,
+though, is an argument we decline to tangle with. The
+courts below did not address it and we granted certiorari
+only to resolve existing confusion about the application of
+the Arbitration Act, not to explore other potential avenues
+for reaching a destination it does not.
+                                    *
+  When Congress enacted the Arbitration Act in 1925, the
+term “contracts of employment” referred to agreements to
+perform work. No less than those who came before him,
+Mr. Oliveira is entitled to the benefit of that same under-
+standing today. Accordingly, his agreement with New
+Prime falls within §1’s exception, the court of appeals was
+correct that it lacked authority under the Act to order
+arbitration, and the judgment is
+                                                    Affirmed.
+  JUSTICE KAVANAUGH took no part in the consideration
+or decision of this case.
+
+
+                   Cite as: 586 U. S. ____ (2019)           1
+                      GINSBURG, J., concurring
+SUPREME COURT OF THE UNITED STATES
+                            _________________
+                             No. 17–340
+                            _________________
+             NEW PRIME INC., PETITIONER v.
+                     DOMINIC OLIVEIRA
+ ON WRIT OF CERTIORARI TO THE UNITED STATES COURT OF
+                APPEALS FOR THE FIRST CIRCUIT
+                         [January 15, 2019]
+  JUSTICE GINSBURG, concurring.
+  “[W]ords generally should be ‘interpreted as taking their
+ordinary . . . meaning . . . at the time Congress enacted the
+statute.’ ” Ante, at 6 (quoting Wisconsin Central Ltd. v.
+United States, 585 U. S. ___, ___ (2018) (slip op., at 9)).
+The Court so reaffirms, and I agree. Looking to the period
+of enactment to gauge statutory meaning ordinarily fos-
+ters fidelity to the “regime . . . Congress established.” MCI
+Telecommunications Corp. v. American Telephone & Tele-
+graph Co., 512 U. S. 218, 234 (1994).
+  Congress, however, may design legislation to govern
+changing times and circumstances. See, e.g., Kimble v.
+Marvel Entertainment, LLC, 576 U. S. ___, ___ (2015) (slip
+op., at 14) (“Congress . . . intended [the Sherman Antitrust
+Act’s] reference to ‘restraint of trade’ to have ‘changing
+content,’ and authorized courts to oversee the term’s ‘dy-
+namic potential.’ ” (quoting Business Electronics Corp. v.
+Sharp Electronics Corp., 485 U. S. 717, 731‒732 (1988)));
+SEC v. Zandford, 535 U. S. 813, 819 (2002) (In enacting
+the Securities Exchange Act, “Congress sought to substi-
+tute a philosophy of full disclosure for the philosophy of
+caveat emptor . . . . Consequently, . . . the statute should
+be construed not technically and restrictively, but flexibly
+to effectuate its remedial purposes.” (internal quotation
+marks and paragraph break omitted)); H. J. Inc. v.
+
+
+2                 NEW PRIME INC. v. OLIVEIRA
+                       GINSBURG, J., concurring
+Northwestern Bell Telephone Co., 492 U. S. 229, 243 (1989)
+(“The limits of the relationship and continuity concepts
+that combine to define a [Racketeer Influenced and Cor-
+rupt Organizations] pattern . . . cannot be fixed in advance
+with such clarity that it will always be apparent whether
+in a particular case a ‘pattern of racketeering activity’
+exists. The development of these concepts must await
+future cases . . . .”). As these illustrations suggest, some-
+times, “[w]ords in statutes can enlarge or contract their
+scope as other changes, in law or in the world, require
+their application to new instances or make old applica-
+tions anachronistic.” West v. Gibson, 527 U. S. 212, 218
+(1999).

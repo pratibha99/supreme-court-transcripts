@@ -1,0 +1,1587 @@
+(Slip Opinion)                OCTOBER TERM, 2017                                    1
+                                         Syllabus
+          NOTE: Where it is feasible, a syllabus (headnote) will be released, as is
+        being done in connection with this case, at the time the opinion is issued.
+        The syllabus constitutes no part of the opinion of the Court but has been
+        prepared by the Reporter of Decisions for the convenience of the reader.
+        See United States v. Detroit Timber & Lumber Co., 200 U. S. 321, 337.
+SUPREME COURT OF THE UNITED STATES
+                                         Syllabus
+ PATCHAK v. ZINKE, SECRETARY OF THE INTERIOR,
+                                         ET AL.
+ CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR
+                  THE DISTRICT OF COLUMBIA CIRCUIT
+  No. 16–498.      Argued November 7, 2017—Decided February 27, 2018
+Petitioner David Patchak filed suit challenging the authority of the
+   Secretary of the Interior to invoke the Indian Reorganization Act, 25
+   U. S. C. §5108, and take into trust a property (Bradley Property) on
+   which respondent Match-E-Be-Nash-She-Wish Band of Pottawatomi
+   Indians wished to build a casino. In Match-E-Be-Nash-She-Wish
+   Band of Pottawatomi Indians v. Patchak, 567 U. S. 209 (Patchak I),
+   this Court held that the Secretary lacked sovereign immunity and
+   that Patchak had standing, and it remanded the case for further pro-
+   ceedings. While the suit was back in District Court, Congress enact-
+   ed the Gun Lake Act, 128 Stat. 1913, which “reaffirmed as trust land”
+   the Bradley Property, §2(a), and provided that “an action . . . relating
+   to [that] land shall not be filed or maintained in a Federal court and
+   shall be promptly dismissed,” §2(b). In response, the District Court
+   dismissed Patchak’s suit, and the D. C. Circuit affirmed.
+Held: The judgment is affirmed.
+ 828 F. 3d 995, affirmed.
+      JUSTICE THOMAS, joined by JUSTICE BREYER, JUSTICE ALITO, and
+   JUSTICE KAGAN, concluded that §2(b) of the Gun Lake Act does not
+   violate Article III of the Constitution. Pp. 4–16.
+      (a) Congress may not exercise the judicial power, see Plaut v.
+   Spendthrift Farm, Inc., 514 U. S. 211, 218, but the legislative power
+   permits Congress to make laws that apply retroactively to pending
+   lawsuits, even when it effectively ensures that one side will win,
+   Bank Markazi v. Peterson, 578 U. S. ___, ___–___. Permissible exer-
+   cises of the legislative power and impermissible infringements of the
+   judicial power are distinguished by the following rule: Congress vio-
+
+
+2                             PATCHAK v. ZINKE
+                                    Syllabus
+   lates Article III when it “compel[s] . . . findings or results under old
+   law,” Robertson v. Seattle Audubon Soc., 503 U. S. 429, 438, but not
+   when it “changes the law,” Plaut, supra, at 218. Pp. 4–6.
+      (b) By stripping federal courts of jurisdiction over actions “relating
+   to” the Bradley Property, §2(b) changes the law. Pp. 6–10.
+         (1) Section 2(b) is best read as a jurisdiction-stripping statute. It
+   uses jurisdictional language, imposes jurisdictional consequences,
+   and applies “[n]otwithstanding any other provision of law,” including
+   the general grant of federal-question jurisdiction, 28 U. S. C. §1331.
+   And while §2(b) does not use the word “jurisdiction,” jurisdictional
+   statutes are not required to do so. See Sebelius v. Auburn Regional
+   Medical Center, 568 U. S. 145, 153. Indeed, §2(b) uses language simi-
+   lar to language used in other jurisdictional statutes. See, e.g., Gonza-
+   lez v. Thaler, 565 U. S. 134, 142. And §2(b) cannot plausibly be read
+   as anything other than jurisdictional. Pp. 6–7.
+         (2) When Congress strips federal courts of jurisdiction, it exercis-
+   es a valid legislative power. This Court has held that Congress gen-
+   erally does not violate Article III when it strips federal jurisdiction
+   over a class of cases, see Ex parte McCardle, 7 Wall. 506, 514, and
+   has reaffirmed these principles on many occasions, see, e.g., Steel Co.
+   v. Citizens for Better Environment, 523 U. S. 83, 94–95. Pp. 7–10.
+      (b) Patchak’s two arguments for why §2(b) violates Article III even
+   if it does strip jurisdiction—that the provision flatly directs federal
+   courts to dismiss lawsuits without allowing them to interpret or ap-
+   ply any new law, and that it attempts to interfere with this Court’s
+   decision in Patchak I that his suit “may proceed,” 567 U. S., at 212—
+   are unpersuasive. Pp. 10–15.
+      JUSTICE GINSBURG, joined by JUSTICE SOTOMAYOR, concluded that
+   Congress’ authority to forgo or retain the Government’s sovereign
+   immunity from suit suffices to decide this case. With Patchak I in
+   mind, Congress acted effectively to displace the Administrative Pro-
+   cedure Act’s waiver of immunity for suits against the United States—
+   which enabled Patchak to launch this litigation—with a contrary
+   command applicable to the Bradley Property. Pp. 1–2.
+      JUSTICE SOTOMAYOR concluded that §2(b) of the Gun Lake Act is
+   most naturally read as having restored the Federal Government’s
+   sovereign immunity from Patchak’s suit challenging the trust status
+   of the Bradley Property. Pp. 1–2.
+   THOMAS, J., announced the judgment of the Court and delivered an
+opinion, in which BREYER, ALITO, and KAGAN, JJ., joined. BREYER, J.,
+filed a concurring opinion. GINSBURG, J., filed an opinion concurring in
+the judgment, in which SOTOMAYOR, J., joined. SOTOMAYOR, J., filed an
+opinion concurring in the judgment. ROBERTS, C. J., filed a dissenting
+opinion, in which KENNEDY and GORSUCH, JJ., joined.
+
+
+                        Cite as: 583 U. S. ____ (2018)                            1
+                             Opinion of THOMAS, J.
+     NOTICE: This opinion is subject to formal revision before publication in the
+     preliminary print of the United States Reports. Readers are requested to
+     notify the Reporter of Decisions, Supreme Court of the United States, Wash-
+     ington, D. C. 20543, of any typographical or other formal errors, in order
+     that corrections may be made before the preliminary print goes to press.
+SUPREME COURT OF THE UNITED STATES
+                                    _________________
+                                     No. 16–498
+                                    _________________
+    DAVID PATCHAK, PETITIONER v. RYAN ZINKE,
+           SECRETARY OF THE INTERIOR, ET AL.
+ ON WRIT OF CERTIORARI TO THE UNITED STATES COURT OF
+      APPEALS FOR THE DISTRICT OF COLUMBIA CIRCUIT
+                               [February 27, 2018]
+  JUSTICE THOMAS announced the judgment of the Court
+and delivered an opinion, in which JUSTICE BREYER,
+JUSTICE ALITO, and JUSTICE KAGAN join.
+  Petitioner, David Patchak, sued the Secretary of the
+Interior for taking land into trust on behalf of an Indian
+Tribe. While his suit was pending in the District Court,
+Congress enacted the Gun Lake Trust Land Reaffirmation
+Act (Gun Lake Act or Act), Pub. L. 113–179, 128 Stat.
+1913, which provides that suits relating to the land “shall
+not be filed or maintained in a Federal court and shall be
+promptly dismissed.” Patchak contends that, in enacting
+this statute, Congress impermissibly infringed the judicial
+power that Article III of the Constitution vests exclusively
+in the Judicial Branch. Because we disagree, we affirm
+the judgment of the United States Court of Appeals for the
+District of Columbia Circuit.
+                                            I
+  The Match-E-Be-Nash-She-Wish Band of Pottawatomi
+Indians (Band) resides in southwestern Michigan, near
+the township of Wayland. The Band traces its relation-
+ship with the United States back hundreds of years, point-
+
+
+2                        PATCHAK v. ZINKE
+                         Opinion of THOMAS, J.
+ing to treaties it negotiated with the Federal Government
+as early as 1795. But the Secretary of the Interior did not
+formally recognize the Band until 1999. See 63 Fed. Reg.
+56936 (1998); 65 Fed. Reg. 13298 (2000).
+   After obtaining formal recognition, the Band identified a
+147-acre parcel of land in Wayland, known as the Bradley
+Property, where it wanted to build a casino. The Band
+asked the Secretary to invoke the Indian Reorganization
+Act, §5, 48 Stat. 985, 25 U. S. C. §5108, and take the Brad-
+ley Property into trust.1 In 2005, the Secretary agreed
+and posted a notice informing the public that the Bradley
+Property would be taken into trust for the Band. See 70
+Fed. Reg. 25596 (2005).
+   The Michigan Gambling Opposition (MichGO) sued,
+alleging that the Secretary’s decision violated federal
+environmental and gaming laws. After several years of
+litigation, the D. C. Circuit affirmed the dismissal of
+MichGo’s claims, and this Court denied certiorari. Michi-
+gan Gambling Opposition v. Kempthorne, 525 F. 3d 23
+(2008), cert. denied, 555 U. S. 1137 (2009). In January
+2009, the Secretary formally took the Bradley Property
+into trust. And in February 2011, the Band opened its
+casino.
+   Before the Secretary formally took the land into trust, a
+nearby landowner, David Patchak, filed another lawsuit
+challenging the Secretary’s decision. Invoking the Admin-
+istrative Procedure Act, 5 U. S. C. §§702, 706(2), Patchak
+alleged that the Secretary lacked statutory authority to
+take the Bradley Property into trust for the Band. The
+Indian Reorganization Act does not allow the Secretary to
+take land into trust for tribes that were not under federal
+——————
+  1 Federal law allows Indian tribes to operate casinos on “Indian
+lands,” 25 U. S. C. §2710, which includes lands “held in trust by the
+United States for the benefit of any Indian tribe,” §2703(4)(B).
+
+
+                   Cite as: 583 U. S. ____ (2018)           3
+                       Opinion of THOMAS, J.
+jurisdiction when the statute was enacted in 1934. See
+Carcieri v. Salazar, 555 U. S. 379, 382–383 (2009). The
+Band was not federally recognized until 1999, which
+Patchak argued was more than 65 years too late. Based
+on this alleged statutory violation, Patchak sought to
+reverse the Secretary’s decision to take the Bradley Prop-
+erty into trust.
+    The Secretary raised preliminary objections to Patchak’s
+suit, contending that it was barred by sovereign immunity
+and that Patchak lacked prudential standing to bring it.
+The District Court granted the Secretary’s motion to
+dismiss, but the D. C. Circuit reversed. Patchak v. Sala-
+zar, 646 F. Supp. 2d 72 (DC 2009), rev’d, 632 F. 3d 702
+(2011). This Court granted certiorari and affirmed the
+D. C. Circuit. Match-E-Be-Nash-She-Wish Band of Potta-
+watomi Indians v. Patchak, 567 U. S. 209 (2012) (Patchak
+I ). This Court’s decision in Patchak I held that Congress
+had waived the Secretary’s sovereign immunity from suits
+like Patchak’s. Id., at 215–224. It also held that Patchak
+had prudential standing because his suit arguably fell
+within the “zone of interests” protected by the Indian
+Reorganization Act. Id., at 224–228. Because Patchak
+had standing and the Secretary lacked immunity, this
+Court concluded that “Patchak’s suit may proceed,” id., at
+212, and remanded for further proceedings, id., at 228.
+    In September 2014, while Patchak’s suit was back in the
+District Court, Congress enacted the Gun Lake Act, 128
+Stat. 1913. Section 2(a) of the Act states that the Bradley
+Property “is reaffirmed as trust land, and the actions of
+the Secretary of the Interior in taking that land into trust
+are ratified and confirmed.” Section 2(b) then provides the
+following:
+      “NO CLAIMS.—Notwithstanding any other provision of
+      law, an action (including an action pending in a Fed-
+      eral court as of the date of enactment of this Act) re-
+
+
+4                        PATCHAK v. ZINKE
+                        Opinion of THOMAS, J.
+      lating to the land described in subsection (a) shall not
+      be filed or maintained in a Federal court and shall be
+      promptly dismissed.”
+Based on §2(b), the District Court entered summary judg-
+ment against Patchak and dismissed his suit for lack of
+jurisdiction. 109 F. Supp. 3d 152 (DC 2015).
+   The D. C. Circuit affirmed. Patchak v. Jewell, 828 F. 3d
+995 (2016). It held that “[t]he language of the Gun Lake
+Act makes plain that Congress has stripped federal courts
+of subject matter jurisdiction” over suits, like Patchak’s,
+that relate to the Bradley Property. Id., at 1001. The
+D. C. Circuit rejected Patchak’s argument that §2(b) vio-
+lates Article III of the Constitution. Id., at 1001–1003.
+Article III prohibits Congress from “direct[ing] the result
+of pending litigation,” the D. C. Circuit reasoned, but it
+does not prohibit Congress from “ ‘supply[ing] new law.’ ”
+Id., at 1002 (quoting Robertson v. Seattle Audubon Soc.,
+503 U. S. 429, 439 (1992)). Section 2(b) supplies new law:
+“[I]f an action relates to the Bradley Property, it must
+promptly be dismissed.” 828 F. 3d, at 1003.
+   We granted certiorari to review whether §2(b) violates
+Article III of the Constitution.2 See 581 U. S. ___ (2017).
+Because it does not, we now affirm.
+                                  II
+                                  A
+   The Constitution creates three branches of Government
+and vests each branch with a different type of power. See
+Art. I, §1; Art. II, §1, cl. 1; Art. III, §1. “To the legislative
+department has been committed the duty of making laws;
+to the executive the duty of executing them; and to the
+——————
+  2 Patchak does not challenge the constitutionality of §2(a) of the Gun
+Lake Act. See Reply Brief 7; Tr. of Oral Arg. 5. We thus limit our
+analysis to §2(b).
+
+
+                   Cite as: 583 U. S. ____ (2018)           5
+                       Opinion of THOMAS, J.
+judiciary the duty of interpreting and applying them in
+cases properly brought before the courts.” Massachusetts
+v. Mellon, 262 U. S. 447, 488 (1923); see also Wayman v.
+Southard, 10 Wheat. 1, 46 (1825) (Marshall, C. J.) (“[T]he
+legislature makes, the executive executes, and the judici-
+ary construes the law”). By vesting each branch with an
+exclusive form of power, the Framers kept those powers
+separate. See INS v. Chadha, 462 U. S. 919, 946 (1983).
+Each branch “exercise[s] . . . the powers appropriate to its
+own department,” and no branch can “encroach upon the
+powers confided to the others.” Kilbourn v. Thompson,
+103 U. S. 168, 191 (1881). This system prevents “[t]he
+accumulation of all powers, legislative, executive, and
+judiciary, in the same hands,” The Federalist No. 47,
+p. 301 (C. Rossiter ed. 1961) (J. Madison)—an accumula-
+tion that would pose an inherent “threat to liberty,” Clin-
+ton v. City of New York, 524 U. S. 417, 450 (1998)
+(KENNEDY, J., concurring).
+   The separation of powers, among other things, prevents
+Congress from exercising the judicial power. See Plaut v.
+Spendthrift Farm, Inc., 514 U. S. 211, 218 (1995). One
+way that Congress can cross the line from legislative
+power to judicial power is by “usurp[ing] a court’s power to
+interpret and apply the law to the [circumstances] before
+it.” Bank Markazi v. Peterson, 578 U. S. ___, ___ (2016)
+(slip op., at 12). The simplest example would be a statute
+that says, “In Smith v. Jones, Smith wins.” See id., at
+___–___, n. 17 (slip op., at 12–13, n. 17). At the same time,
+the legislative power is the power to make law, and Con-
+gress can make laws that apply retroactively to pending
+lawsuits, even when it effectively ensures that one side
+wins. See id., at ___–___ (slip op., at 15–19).
+   To distinguish between permissible exercises of the
+legislative power and impermissible infringements of the
+judicial power, this Court’s precedents establish the fol-
+lowing rule: Congress violates Article III when it “com-
+
+
+6                      PATCHAK v. ZINKE
+                      Opinion of THOMAS, J.
+pel[s] . . . findings or results under old law.” Seattle
+Audubon, supra, at 438. But Congress does not violate
+Article III when it “changes the law.” Plaut, supra, at 218.
+                               B
+   Section 2(b) changes the law. Specifically, it strips
+federal courts of jurisdiction over actions “relating to” the
+Bradley Property. Before the Gun Lake Act, federal courts
+had jurisdiction to hear these actions. See 28 U. S. C.
+§1331. Now they do not. This kind of legal change is well
+within Congress’ authority and does not violate Article III.
+                                1
+   Section 2(b) strips federal jurisdiction over suits relating
+to the Bradley Property. The statute uses jurisdictional
+language. It states that an “action” relating to the Brad-
+ley Property “shall not be filed or maintained in a Federal
+court.” It imposes jurisdictional consequences: Actions
+relating to the Bradley Property “shall be promptly dis-
+missed.” See Ex parte McCardle, 7 Wall. 506, 514 (1869)
+(“[W]hen [jurisdiction] ceases to exist, the only function
+remaining to the court is that of announcing the fact and
+dismissing the cause”). Section 2(b) has no exceptions. Cf.
+Reed Elsevier, Inc. v. Muchnick, 559 U. S. 154, 165 (2010).
+And it applies “[n]otwithstanding any other provision of
+law,” including the general grant of federal-question juris-
+diction, 28 U. S. C. §1331. Although §2(b) does not use the
+word “jurisdiction,” this Court does not require jurisdic-
+tional statutes to “incant magic words.” Sebelius v. Au-
+burn Regional Medical Center, 568 U. S. 145, 153 (2013).
+Indeed, §2(b) uses language similar to other statutes that
+this Court has deemed jurisdictional. See, e.g., Gonzalez
+v. Thaler, 565 U. S. 134, 142 (2012) (“ ‘an appeal may not
+be taken’ ” (quoting 28 U. S. C. §2253(c)(1))); Keene Corp. v.
+United States, 508 U. S. 200, 208–209 (1993) (“ ‘[n]o person
+shall file or prosecute’ ” (quoting 36 Stat. 1138)); Wein-
+
+
+                    Cite as: 583 U. S. ____ (2018)            7
+                        Opinion of THOMAS, J.
+berger v. Salfi, 422 U. S. 749, 756 (1975) (“ ‘[n]o action . . .
+shall be brought under [28 U. S. C. §1331]’ ” (quoting 42
+U. S. C. §405(h))).
+   Our conclusion that §2(b) is jurisdictional is bolstered by
+the fact that it cannot plausibly be read as anything else.
+Section 2(b) is not one of the nonjurisdictional rules that
+this Court’s precedents have identified as “important and
+mandatory” but not governing “a court’s adjudicatory
+capacity.” Henderson v. Shinseki, 562 U. S. 428, 435
+(2011). Section 2(b) does not identify an “element of [the]
+plaintiff’s claim for relief” or otherwise define its “substan-
+tive adequacy.” Arbaugh v. Y & H Corp., 546 U. S. 500,
+516, 504 (2006). Nor is it a “claim-processing rule,” like a
+filing deadline or an exhaustion requirement, that re-
+quires the parties to “take certain procedural steps at
+certain specified times.” Henderson, supra, at 435. In-
+stead, §2(b) completely prohibits actions relating to the
+Bradley Property. Because §2(b) addresses “a court’s
+competence to adjudicate a particular category of cases,”
+Wachovia Bank, N. A. v. Schmidt, 546 U. S. 303, 316
+(2006), it is best read as a jurisdiction-stripping statute.
+                                  2
+   Statutes that strip jurisdiction “chang[e] the law” for the
+purpose of Article III, Plaut, supra, at 218, just as much as
+other exercises of Congress’ legislative authority. Article I
+permits Congress “[t]o constitute Tribunals inferior to the
+supreme Court,” §8, and Article III vests the judicial
+power “in one supreme Court, and in such inferior Courts
+as the Congress may from time to time ordain and estab-
+lish,” §1. These provisions reflect the so-called Madison-
+ian Compromise, which resolved the Framers’ disagree-
+ment about creating lower federal courts by leaving that
+decision to Congress. See Printz v. United States, 521
+U. S. 898, 907 (1997); 1 Records of the Federal Convention
+of 1787, p. 125 (M. Farrand ed. 1911). Congress’ greater
+
+
+8                          PATCHAK v. ZINKE
+                           Opinion of THOMAS, J.
+power to create lower federal courts includes its lesser
+power to “limit the jurisdiction of those Courts.” United
+States v. Hudson, 7 Cranch 32, 33 (1812); accord, Lockerty
+v. Phillips, 319 U. S. 182, 187 (1943). So long as Congress
+does not violate other constitutional provisions, its “control
+over the jurisdiction of the federal courts” is “plenary.”
+Trainmen v. Toledo, P. & W. R. Co., 321 U. S. 50, 63–64
+(1944); see also Bowles v. Russell, 551 U. S. 205, 212
+(2007) (“Within constitutional bounds, Congress decides
+what cases the federal courts have jurisdiction to consider”).
+Thus, when Congress strips federal courts of jurisdic-
+tion, it exercises a valid legislative power no less than
+when it lays taxes, coins money, declares war, or invokes
+any other power that the Constitution grants it.
+    Indeed, this Court has held that Congress generally
+does not violate Article III when it strips federal jurisdic-
+tion over a class of cases.3 Shortly after the Civil War, for
+example, Congress repealed this Court’s appellate juris-
+diction over certain habeas corpus cases. See Act of Mar.
+27, 1868, ch. 34, §2, 15 Stat. 44; see also U. S. Const.,
+Art. III, §2 (permitting Congress to make “Exceptions” to
+this Court’s appellate jurisdiction). William McCardle, a
+military prisoner whose appeal was pending at the time,
+argued that the repealing statute was “an exercise by the
+Congress of judicial power.” 7 Wall., at 510. This Court
+disagreed.         Jurisdiction-stripping statutes, the Court
+explained, do not involve “the exercise of judicial power” or
+“legislative interference with courts in the exercising of
+continuing jurisdiction.” Id., at 514. Because jurisdiction
+——————
+   3 Jurisdiction-stripping statutes can violate other provisions of the
+Constitution. And, under our precedents, jurisdiction-stripping stat-
+utes can violate Article III if they “attemp[t] to direct the result” by
+effectively altering legal standards that Congress is “powerless to
+prescribe.” Bank Markazi v. Peterson, 578 U. S. ___, ___ (2016) (slip
+op., at 15) (citing United States v. Klein, 13 Wall. 128, 146–147 (1872)).
+
+
+                       Cite as: 583 U. S. ____ (2018)                    9
+                           Opinion of THOMAS, J.
+is the “power to declare the law” in the first place, “judicial
+duty is not less fitly performed by declining ungranted
+jurisdiction than in exercising firmly that which the Con-
+stitution and the laws confer.” Id., at 514–515.4
+    This Court has reaffirmed these principles on many
+occasions. Congress generally does not infringe the judi-
+cial power when it strips jurisdiction because, with limited
+exceptions, a congressional grant of jurisdiction is a pre-
+requisite to the exercise of judicial power. See Steel Co. v.
+Citizens for Better Environment, 523 U. S. 83, 94–95
+(1998) (“The requirement that jurisdiction be established
+——————
+   4 The dissent appears to disagree with McCardle, questions the mo-
+tives of the unanimous Court that decided it, asserts that it is “incon-
+sistent” with Klein, and distinguishes it on the ground that the statute
+there “did not foreclose all avenues of judicial review.” Post, at 12–13
+(opinion of ROBERTS, C. J.). But the core holding of McCardle—that
+Congress does not exercise the judicial power when it strips jurisdiction
+over a class of cases—has never been questioned, has been repeatedly
+reaffirmed, and was reaffirmed in Klein itself. See 13 Wall., at 145
+(“[T]here could be no doubt” that Congress can “den[y] the right of
+appeal in a particular class of cases”). And if there is any inconsistency
+between the two, this Court has said that it is Klein—not McCardle—
+that “cannot [be] take[n] . . . ‘at face value.’ ” Bank Markazi, 578 U. S.,
+at ___ (slip op., at 15) (quoting R. Fallon, J. Manning, D. Meltzer, & D.
+Shapiro, Hart and Wechsler’s The Federal Courts and the Federal
+System 324 (7th ed. 2015)). Moreover, it is true that McCardle empha-
+sized that the statute there did not withdraw “the whole appellate
+power of the court, in cases of habeas corpus.” 7 Wall., at 515 (empha-
+sis added). But McCardle’s reservation, this Court later explained, was
+responding to a potential problem under the Suspension Clause, not a
+potential problem under Article III. See Ex parte Yerger, 8 Wall. 85,
+102–103 (1869) (“We agree that [jurisdiction] is given subject to excep-
+tion and regulation by Congress; but it is too plain for argument that
+the denial to this court of appellate jurisdiction in this class of cases
+must greatly weaken the efficacy of the writ”); id., at 96 (“It would have
+been . . . a remarkable anomaly if this court . . . had been denied, under
+a constitution which absolutely prohibits suspension of the writ, except
+under extraordinary exigencies, that power in cases of alleged unlawful
+restraint”).
+
+
+10                     PATCHAK v. ZINKE
+                       Opinion of THOMAS, J.
+as a threshold matter ‘spring[s] from the nature and limits
+of the judicial power of the United States’ ” (quoting Mans-
+field, C. & L. M. R. Co. v. Swan, 111 U. S. 379, 382
+(1884))); Cary v. Curtis, 3 How. 236, 245 (1845) (“[T]he
+judicial power of the United States . . . is (except in enu-
+merated instances, applicable exclusively to this court)
+dependent . . . entirely upon the action of Congress”);
+Hudson, supra, at 33 (similar). “To deny this position”
+would undermine the separation of powers by “elevat[ing]
+the judicial over the legislative branch.” Cary, supra, at
+245. Congress’ power over federal jurisdiction is “an es-
+sential ingredient of separation and equilibration of pow-
+ers, restraining the courts from acting at certain times,
+and even restraining them from acting permanently re-
+garding certain subjects.” Steel Co., supra, at 101.
+   In sum, §2(b) strips jurisdiction over suits relating to
+the Bradley Property. It is a valid exercise of Congress’
+legislative power. And because it changes the law, it
+does not infringe the judicial power. The constitutionality
+of jurisdiction-stripping statutes like this one is well
+established.
+                                III
+   Patchak does not dispute Congress’ power to withdraw
+jurisdiction from the federal courts. He instead raises two
+arguments why §2(b) violates Article III, even if it strips
+jurisdiction. First, relying on United States v. Klein, 13
+Wall. 128 (1872), Patchak argues that §2(b) flatly directs
+federal courts to dismiss lawsuits without allowing them
+to interpret or apply any new law. Second, relying on
+Plaut, 514 U. S. 211, Patchak argues that §2(b) attempts
+to interfere with this Court’s decision in Patchak I—
+specifically, its conclusion that his suit “may proceed,” 567
+U. S., at 212. We reject both arguments.
+
+
+                       Cite as: 583 U. S. ____ (2018)                 11
+                           Opinion of THOMAS, J.
+                                     A
+    Section 2(b) does not flatly direct federal courts to dis-
+miss lawsuits under old law. It creates new law for suits
+relating to the Bradley Property, and the District Court
+interpreted and applied that new law in Patchak’s suit.
+Section 2(b)’s “relating to” standard effectively guaranteed
+that Patchak’s suit would be dismissed. But “a statute
+does not impinge on judicial power when it directs courts
+to apply a new legal standard to undisputed facts.” Bank
+Markazi, 578 U. S., at ___ (slip op., at 17). “[I]t is not any
+the less a case or controversy upon which a court pos-
+sessing the federal judicial power may rightly give judg-
+ment” when the arguments before the court are “uncon-
+tested or incontestable.” Pope v. United States, 323 U. S.
+1, 11 (1944).
+    Patchak argues that the last four words of §2(b)—“shall
+be promptly dismissed”—direct courts to reach a particu-
+lar outcome. But a statute does not violate Article III
+merely because it uses mandatory language. See Seattle
+Audubon, 503 U. S., at 439. Instead of directing outcomes,
+the mandatory language in §2(b) “simply imposes the
+consequences” of a court’s determination that it lacks
+jurisdiction because a suit relates to the Bradley Property.
+Miller v. French, 530 U. S. 327, 349 (2000); see McCardle,
+7 Wall., at 514.5
+    Patchak compares §2(b) to the statute this Court held
+unconstitutional in Klein. In that case, the administrator
+——————
+   5 To prove that it does not change the law, Patchak repeatedly asserts
+that §2(b) does not amend any “generally applicable” statute. Brief for
+Petitioner 11; Reply Brief 1, 4, 9. But this Court rejected that same
+argument in Seattle Audubon. Congress can change a law “directly,” or
+it can change a law indirectly by passing “an entirely separate statute.”
+503 U. S., at 439–440. Either way, it changes the law. The same is
+true for jurisdictional statutes. See Insurance Co. v. Ritchie, 5 Wall.
+541 (1867).
+
+
+12                     PATCHAK v. ZINKE
+                       Opinion of THOMAS, J.
+of the estate of V. F. Wilson, a former Confederate soldier,
+sued to recover the value of some cotton that the Govern-
+ment had seized during the war. 13 Wall., at 132. The
+relevant statute required claimants to prove their loyalty
+in order to reclaim their property. Ch. 120, §3, 12 Stat.
+820. Wilson had received a pardon before he died, 13
+Wall., at 132, and this Court had held that pardons con-
+clusively prove loyalty under the statute, see United
+States v. Padelford, 9 Wall. 531, 543 (1870). But after
+Wilson’s administrator secured a judgment in his favor, 13
+Wall., at 132, Congress passed a statute making pardons
+proof of disloyalty and declaring that, if a claimant had
+accepted one, “the jurisdiction of the court in the case shall
+cease, and the court shall forthwith dismiss the suit of
+such claimant.” Act of July 12, 1870, 16 Stat. 235. If the
+court had already entered judgment in favor of a pardoned
+claimant and the Government had appealed, the statute
+instructed this Court to dismiss the whole suit for lack of
+jurisdiction. See ibid. Klein held that this statute in-
+fringed the executive power by attempting to “change the
+effect of . . . a pardon.” Id., at 148. Klein also held that
+the statute infringed the judicial power, see id., at 147,
+although its reasons for this latter holding were not en-
+tirely clear.
+   This Court has since explained that “the statute in Klein
+infringed the judicial power, not because it left too little
+for courts to do, but because it attempted to direct the
+result without altering the legal standards governing the
+effect of a pardon—standards Congress was powerless to
+prescribe.” Bank Markazi, supra, at ___ (slip op., at 15).
+Congress had no authority to declare that pardons are not
+evidence of loyalty, so it could not achieve the same result
+by stripping jurisdiction whenever claimants cited pardons
+as evidence of loyalty. See Klein, 13 Wall., at 147–148.
+Nor could Congress confer jurisdiction to a federal court
+but then strip jurisdiction from that same court once the
+
+
+                   Cite as: 583 U. S. ____ (2018)           13
+                       Opinion of THOMAS, J.
+court concluded that a pardoned claimant should prevail
+under the statute. See id., at 146–147.
+   Patchak’s attempts to compare §2(b) to the statute in
+Klein are unpersuasive. Section 2(b) does not attempt to
+exercise a power that the Constitution vests in another
+branch. And unlike the selective jurisdiction-stripping
+statute in Klein, §2(b) strips jurisdiction over every suit
+relating to the Bradley Property. Indeed, Klein itself
+explained that statutes that do “nothing more” than strip
+jurisdiction over “a particular class of cases” are constitu-
+tional. Id., at 145. That is precisely what §2(b) does.
+                                 B
+   Section 2(b) does not unconstitutionally interfere with
+this Court’s decision in Patchak I. Article III, this Court
+explained in Plaut, prohibits Congress from “retroactively
+commanding the federal courts to reopen final judgments.”
+514 U. S., at 219. But Patchak I did not finally conclude
+Patchak’s case. See Bradley v. School Bd. of Richmond,
+416 U. S. 696, 711, n. 14 (1974). When this Court said
+that his suit “may proceed,” 567 U. S., at 212, it meant
+that the Secretary’s preliminary defenses lacked merit and
+that Patchak could return to the District Court for further
+proceedings. It did not mean that Congress was powerless
+to change the law that governs his case. As this Court
+emphasized in Plaut, Article III does not prohibit Con-
+gress from enacting new laws that apply to pending civil
+cases. See 514 U. S., at 226–227. When a new law clearly
+governs pending cases, Article III does not prevent courts
+from applying it because “each court, at every level, must
+‘decide according to existing laws.’ ” Ibid. (quoting United
+States v. Schooner Peggy, 1 Cranch 103, 109 (1801)). This
+principle applies equally to statutes that strip jurisdiction.
+See Landgraf v. USI Film Products, 511 U. S. 244, 274
+(1994); Kline v. Burke Constr. Co., 260 U. S. 226, 234
+(1922); Hallowell v. Commons, 239 U. S. 506, 509 (1916).
+
+
+14                          PATCHAK v. ZINKE
+                           Opinion of THOMAS, J.
+Because §2(b) expressly references “pending” cases, it
+applies to Patchak’s suit. And because Patchak’s suit is
+not final, applying §2(b) here does not offend Article III.6
+    Of course, we recognize that the Gun Lake Act was a
+response to this Court’s decision in Patchak I. The text of
+the Act, after all, cites both the administrative decision
+and the property at issue in that case. See §§2(a)–(b).
+And we understand why Patchak would view the Gun
+Lake Act as unfair. By all accounts, the Band exercised
+its political influence to persuade Congress to enact a
+narrow jurisdiction-stripping provision that effectively
+ends all lawsuits threatening its casino, including
+Patchak’s.
+    But the question in this case is “[n]ot favoritism, nor
+even corruption, but power.” Plaut, supra, at 228; see also
+McCardle, 7 Wall., at 514 (“We are not at liberty to inquire
+into the motives of the legislature. We can only examine
+into its power under the Constitution”). Under this
+Court’s precedents, Congress has the power to “apply
+newly enacted, outcome-altering legislation in pending
+civil cases,” Bank Markazi, 578 U. S., at ___ (slip op., at
+16), even when the legislation “govern[s] one or a very
+small number of specific subjects,” id., at ___ (slip op., at
+21). For example, this Court has upheld narrow statutes
+that identified specific cases by caption and docket num-
+ber in their text. See id., at ___ (slip op., at 19); Seattle
+Audubon, 503 U. S., at 440. And this Court has approv-
+ingly cited a D. C. Circuit decision, which upheld a statute
+that retroactively stripped jurisdiction over suits challeng-
+ing “a single memorial.” Bank Markazi, supra, at ___ (slip
+——————
+   6 Retroactive legislation can violate other provisions of the Constitu-
+tion, such as the Ex Post Facto Clause and the Bills of Attainder
+Clause. See Bank Markazi, 578 U. S., at ___ (slip op., at 16). But
+Patchak’s Article III claim is the only challenge to §2(b) before us.
+
+
+                   Cite as: 583 U. S. ____ (2018)              15
+                       Opinion of THOMAS, J.
+op., at 22) (citing National Coalition To Save Our Mall v.
+Norton, 269 F. 3d 1092 (2001)). If these targeted statutes
+did not cross the line from legislative to judicial power,
+then §2(b) does not either.
+                                IV
+   The dissent offers a different theory for why §2(b) vio-
+lates Article III. A statute impermissibly exercises the
+judicial power, the dissent contends, when it “targets” a
+particular suit and “manipulates” jurisdiction to direct the
+outcome, “practical[ly] operat[es]” to affect only one suit,
+and announces a legal standard that does not “imply some
+measure of generality” or “preserv[e] . . . an adjudicative
+role for the courts.” Post, at 8, 11.
+   We doubt that the constitutional line separating the
+legislative and judicial powers turns on factors such as a
+court’s doubts about Congress’ unexpressed motives, the
+number of “cases [that] were pending when the provision
+was enacted,” or the time left on the statute of limitations.
+Post, at 8. But even if it did, we disagree with the dis-
+sent’s characterization of §2(b). Nothing on the face of
+§2(b) is limited to Patchak’s case, or even to his challenge
+under the Indian Reorganization Act. Instead, the text
+extends to all suits “relating to” the Bradley Property.
+Thus, §2(b) survives even under the dissent’s theory: It
+“prospectively govern[s] an open-ended class of disputes,”
+post, at 6, and its “relating to” standard “preserv[es] . . . an
+adjudicative role for the courts,” post, at 11. While §2(b)’s
+“relating to” standard is not difficult to interpret or apply,
+this Court’s precedents encourage Congress to draft juris-
+dictional statutes in this manner. See Hertz Corp. v.
+Friend, 559 U. S. 77, 94 (2010) (“[A]dministrative simplic-
+ity is a major virtue in a jurisdictional statute. . . . [C]ourts
+benefit from straightforward rules under which they can
+
+
+16                        PATCHAK v. ZINKE
+                         Opinion of THOMAS, J.
+readily assure themselves of their power to hear a case”).7
+                             *      *     *
+   We conclude that §2(b) of the Gun Lake Act does not
+violate Article III of the Constitution. The judgment of the
+Court of Appeals is, therefore, affirmed.
+                                                     It is so ordered.
+——————
+  7 We  also doubt that the statute this Court upheld in Bank Markazi
+would survive under the dissent’s theory. The dissent notes that the
+statute there affected “16 different actions,” while the statute here
+affects “a single pending case.” Post, at 8. But if the problem is Con-
+gress “pick[ing] winners and losers in pending litigation,” post, at 14,
+then it seems backwards to conclude that Congress is on stronger
+constitutional footing when it picks winners and losers in more pending
+cases.
+
+
+                  Cite as: 583 U. S. ____ (2018)              1
+                      BREYER, J., concurring
+SUPREME COURT OF THE UNITED STATES
+                           _________________
+                            No. 16–498
+                           _________________
+    DAVID PATCHAK, PETITIONER v. RYAN ZINKE,
+          SECRETARY OF THE INTERIOR, ET AL.
+  ON WRIT OF CERTIORARI TO THE UNITED STATES COURT OF
+      APPEALS FOR THE DISTRICT OF COLUMBIA CIRCUIT
+                       [February 27, 2018]
+   JUSTICE BREYER, concurring.
+   The statutory context makes clear that this is not sim-
+ply a case in which Congress has said, “In Smith v. Jones,
+Smith wins.” See post, at 1, 11–12 (ROBERTS, C. J., dis-
+senting). In 2005, the Secretary of the Interior announced
+her decision to take the Bradley Property into trust for an
+Indian Tribe, the Match-E-Be-Nash-She-Wish Band of
+Pottawatomi Indians. See 70 Fed. Reg. 25596 (2005). The
+petitioner brought suit, claiming that the Secretary lacked
+the statutory authority to do so. See Carcieri v. Salazar,
+555 U. S. 379, 382 (2009) (the Indian Reorganization Act
+gives the Secretary authority to take land into trust only
+for a tribe under federal jurisdiction in 1934).
+   Congress then enacted the law here at issue. Gun Lake
+Trust Land Reaffirmation Act, Pub. L. 113–179, 128 Stat.
+1913. (I have placed the full text of that law in the Ap-
+pendix, infra.) The first part “reaffirm[s],” “ratifie[s],” and
+“confirm[s]” the Secretary’s “actions in taking” the Bradley
+Property “into trust,” as well as the status of the Bradley
+Property “as trust land.” §2(a). The second part says that
+actions “relating to” the Bradley Property “shall not be
+filed or maintained in a Federal court and shall be
+promptly dismissed.” §2(b). Read together, Congress first
+made certain that federal statutes gave the Secretary the
+authority to take the Bradley Property into trust, and
+
+
+2                     PATCHAK v. ZINKE
+                     BREYER, J., concurring
+second tried to dot all the i’s by adding that federal courts
+shall not hear cases challenging the land’s trust status.
+The second part, the jurisdictional part, perhaps gilds the
+lily, perhaps simplifies judicial decisionmaking (the judge
+need only determine whether a lawsuit relates to the
+Bradley Property), but, read in context, it does no more
+than provide an alternative legal standard for courts to
+apply that seeks the same real-world result as does the
+first part: The Bradley Property shall remain in trust.
+   The petitioner does not argue that Congress acted un-
+constitutionally by ratifying the Secretary’s actions and
+the land’s trust status, and I am aware of no substantial
+argument to that effect. See United States v. Heinszen &
+Co., 206 U. S. 370, 382–383, 387 (1907) (Congress may
+retroactively ratify Government action that was unauthor-
+ized when taken); Brief for Federal Courts and Federal
+Indian Law Scholars as Amici Curiae 6–11 (citing numer-
+ous examples of tribe-specific Indian-land bills). The
+jurisdictional part of the statute therefore need not be
+read to do more than eliminate the cost of litigating a
+lawsuit that will inevitably uphold the land’s trust status.
+   This case is consequently unlike United States v. Klein,
+13 Wall. 128 (1872), where this Court held unconstitutional
+a congressional effort to use its jurisdictional authority
+to reach a result (involving the pardon power) that it could
+not constitutionally reach directly. Id., at 146; see Bank
+Markazi v. Peterson, 578 U. S. ___, ___, and n. 19 (2016)
+(slip op., at 15, and n. 19). And the plurality, in today’s
+opinion, carefully distinguishes from the case before us
+other circumstances where Congress’ use of its jurisdic-
+tional power could prove constitutionally objectionable.
+Ante, at 8, and n. 3, 14, n. 6. Here Congress has used its
+jurisdictional power to supplement, without altering,
+action that no one has challenged as unconstitutional.
+Under these circumstances, I find its use of that power
+unobjectionable. And, on this understanding, I join the
+plurality’s opinion.
+
+
+                  Cite as: 583 U. S. ____ (2018)          3
+                      BREYER
+                Appendix      , J., concurring
+                           to opinion  of BREYER, J.
+                          APPENDIX
+                     Public Law 113–179
+“SECTION 1. SHORT TITLE.
+   “This Act may be cited as the ‘Gun Lake Trust Land
+Reaffirmation Act’.
+“SEC. 2. REAFFIRMATION OF INDIAN TRUST LAND.
+   “(a) IN GENERAL.—The land taken into trust by the
+United States for the benefit of the Match-E-Be-Nash-She-
+Wish Band of Pottawatomi Indians and described in the
+final Notice of Determination of the Department of the
+Interior (70 Fed. Reg. 25596 (May 13, 2005)) is reaffirmed
+as trust land, and the actions of the Secretary of the In-
+terior in taking that land into trust are ratified and
+confirmed.
+   “(b) NO CLAIMS.—Notwithstanding any other provision
+of law, an action (including an action pending in a Federal
+court as of the date of enactment of this Act) relating to
+the land described in subsection (a) shall not be filed or
+maintained in a Federal court and shall be promptly
+dismissed.
+   “(c) RETENTION OF FUTURE RIGHTS.—Nothing in this
+Act alters or diminishes the right of the Match-E-Be-
+Nash-She-Wish Band of Pottawatomi Indians from seek-
+ing to have any additional land taken into trust by the
+United States for the benefit of the Band.”
+
+
+                   Cite as: 583 U. S. ____ (2018)            1
+                GINSBURG, J., concurring in judgment
+SUPREME COURT OF THE UNITED STATES
+                            _________________
+                             No. 16–498
+                            _________________
+    DAVID PATCHAK, PETITIONER v. RYAN ZINKE,
+          SECRETARY OF THE INTERIOR, ET AL.
+  ON WRIT OF CERTIORARI TO THE UNITED STATES COURT OF
+      APPEALS FOR THE DISTRICT OF COLUMBIA CIRCUIT
+                        [February 27, 2018]
+   JUSTICE GINSBURG, with whom JUSTICE SOTOMAYOR
+joins, concurring in the judgment.
+   What Congress grants, it may retract. That is undoubt-
+edly true of the Legislature’s authority to forgo or retain
+the Government’s sovereign immunity from suit. The
+Court need venture no further to decide this case.
+   Patchak sought relief from the Secretary of the Interior
+“other than money damages,” 5 U. S. C. §702; because he
+confined his complaint to declaratory and injunctive relief,
+the Administrative Procedure Act’s (APA) waiver of the
+Federal Government’s immunity from suit, ibid., enabled
+Patchak to launch this litigation. Match-E-Be-Nash-She-
+Wish Band of Pottawatomi Indians v. Patchak, 567 U. S.
+209, 215–224 (2012) (Patchak I ) (APA waiver of immunity
+covers Patchak’s suit). But consent of the United States to
+suit may be withdrawn “at any time.” Lynch v. United
+States, 292 U. S. 571, 581 (1934); see Maricopa County v.
+Valley Nat. Bank of Phoenix, 318 U. S. 357, 362 (1943)
+(“[T]he power to withdraw the privilege of suing the
+United States or its instrumentalities knows no limitations.”).
+Congress’ authority to reinstate sovereign immunity, this
+Court has recognized, extends to pending litigation. Dis-
+trict of Columbia v. Eslin, 183 U. S. 62, 65–66 (1901).
+   Just as it is Congress’ prerogative to consent to suit, so
+too is it within Congress’ authority to withdraw consent
+
+
+2                          PATCHAK v. ZINKE
+                  GINSBURG, J., concurring in judgment
+once given. Retraction of consent to be sued (effectively
+restoration of immunity) is just what Congress achieved
+when it directed in the Gun Lake Act: “Notwithstanding
+any other provision of law, an action . . . relating to the
+[Bradley Property],” including any pending action, “shall
+not be . . . maintained in a Federal Court and shall be
+promptly dismissed.” Gun Lake Trust Land Reaffirmation
+Act, Pub. L. 113–179, §2(b), 128 Stat. 1913; see H. R. Rep.
+No. 113–590, p. 2 (2014) (framed with Patchak I in view,
+§2(b) provides an “unusually broad grant of immunity
+from lawsuits pertaining to the Bradley Property” (empha-
+sis added)); S. Rep. No. 113–194, p. 2 (2014) (discussing
+Patchak I ); Patchak I, 567 U. S., at 223–224 (argument
+that allowing suits challenging land trust acquisitions
+would harm tribe’s economic well-being “is not without
+force, but must be addressed to Congress”). Notably, the
+language Congress employed in the Gun Lake Act (any
+“action . . . relating to the [Bradley Property] . . . shall be
+promptly dismissed”) is the mirror image of the APA’s
+immunity waiver, which instructs that suits “against the
+United States” for declaratory or injunctive relief “shall
+not be dismissed.” 5 U. S. C. §702 (emphasis added).
+   In short, Congress acted effectively to displace the
+APA’s waiver of immunity for suits against the United
+States with a contrary command applicable to the Bradley
+Property: No action concerning the trust status of that
+property is currently attended by the sovereign’s consent
+to suit. For that reason, I would affirm the judgment of
+the Court of Appeals for the District of Columbia Circuit
+upholding the District Court’s dismissal of Patchak’s
+case.*
+——————
+  *Patchak argues that restoration of sovereign immunity would not
+dispose of his suit, for his claim is that federal officials have acted in
+excess of their statutory authority. Reply Brief 18. The argument fails
+because his action is, “in effect, a suit against the sovereign.” Larson v.
+Domestic and Foreign Commerce Corp., 337 U. S. 682, 687 (1949); see
+
+
+                     Cite as: 583 U. S. ____ (2018)                      3
+                 GINSBURG, J., concurring in judgment
+——————
+Block v. North Dakota ex rel. Board of Univ. and School Lands, 461
+U. S. 273, 281–282 (1983) (officer suit is an improper vehicle for resolv-
+ing property disputes with the United States); id., at 284–286 (officer
+suit unavailable to circumvent the Quiet Title Act’s reservations of
+immunity).
+
+
+                  Cite as: 583 U. S. ____ (2018)          1
+                   SOTOMAYOR
+              SOTOMAYOR           , J., concurring
+                         , J., concurring     in judgment
+SUPREME COURT OF THE UNITED STATES
+                            _________________
+                             No. 16–498
+                            _________________
+   DAVID PATCHAK, PETITIONER v. RYAN ZINKE,
+        SECRETARY OF THE INTERIOR, ET AL.
+ ON WRIT OF CERTIORARI TO THE UNITED STATES COURT OF
+     APPEALS FOR THE DISTRICT OF COLUMBIA CIRCUIT
+                       [February 27, 2018]
+  JUSTICE SOTOMAYOR, concurring in the judgment.
+  I agree with the dissent that Congress may not achieve
+through jurisdiction stripping what it cannot permissibly
+achieve outright, namely, directing entry of judgment for a
+particular party. I also agree that an Act that merely
+deprives federal courts of jurisdiction over a single pro-
+ceeding is not enough to be considered a change in the law
+and that any statute that portends to do so should be
+viewed with great skepticism. See post, at 11–12 (opinion
+of ROBERTS, C. J.). I differ with the dissent’s ultimate
+conclusion only because, as JUSTICE GINSBURG explains,
+the Gun Lake Trust Land Reaffirmation Act (Gun Lake
+Act), Pub. L. 113–179, 128 Stat. 1913, should not be read
+to strip the federal courts of jurisdiction but rather to
+restore the Federal Government’s sovereign immunity.
+See ante, at 1–2 (opinion concurring in judgment).
+  In the Court’s first decision in this case, Match-E-Be-
+Nash-She-Wish Band of Pottawatomi Indians v. Patchak,
+567 U. S. 209 (2012), the sole issue of disagreement
+between the majority and the dissent was whether the
+United States had waived its sovereign immunity from
+Patchak’s lawsuit. The majority held that Congress had
+done so in the Administrative Procedure Act, 5 U. S. C.
+§702, see 567 U. S., at 215–224, whereas the dissent con-
+cluded it had not because the case fell within the excep-
+
+
+2                    PATCHAK v. ZINKE
+              SOTOMAYOR, J., concurring in judgment
+tions to the Government’s waiver of sovereign immunity
+under the Quiet Title Act, 28 U. S. C. §2409a(a), that
+apply when trust or restricted Indian lands are at issue,
+see 567 U. S., at 228–238 (opinion of SOTOMAYOR, J.). The
+majority recognized, however, that Congress was free to
+reinstate the Government’s sovereign immunity from suits
+like Patchak’s, observing that “[p]erhaps Congress
+would—perhaps Congress should” bar “the full range of
+lawsuits pertaining to the Government’s ownership of
+land,” regardless of whether the plaintiff claims owner-
+ship. Id., at 224. Not long after, Congress enacted the
+Gun Lake Act.
+   In addition to the reasons set forth by JUSTICE
+GINSBURG, ante, at 2, given this context, §2(b) of the Gun
+Lake Act is most naturally read as having restored the
+Federal Government’s sovereign immunity from Patchak’s
+suit challenging the trust status of the Bradley Property.
+That conclusion avoids the separation-of-powers concerns
+raised here about jurisdiction stripping.           On this
+basis alone, I would affirm the judgment of the Court of
+Appeals.
+
+
+                   Cite as: 583 U. S. ____ (2018)          1
+                     ROBERTS, C. J., dissenting
+SUPREME COURT OF THE UNITED STATES
+                            _________________
+                             No. 16–498
+                            _________________
+    DAVID PATCHAK, PETITIONER v. RYAN ZINKE,
+          SECRETARY OF THE INTERIOR, ET AL.
+ ON WRIT OF CERTIORARI TO THE UNITED STATES COURT OF
+      APPEALS FOR THE DISTRICT OF COLUMBIA CIRCUIT
+                        [February 27, 2018]
+   CHIEF JUSTICE ROBERTS, with whom JUSTICE KENNEDY
+and JUSTICE GORSUCH join, dissenting.
+   Two Terms ago, this Court unanimously agreed that
+Congress could not pass a law directing that, in the hypo-
+thetical pending case of Smith v. Jones, “Smith wins.”
+Bank Markazi v. Peterson, 578 U. S. ___, ___, n. 17 (2016)
+(slip op., at 13, n. 17). Today, the plurality refuses to
+enforce even that limited principle in the face of a very
+real statute that dictates the disposition of a single pend-
+ing case. Contrary to the plurality, I would not cede un-
+qualified authority to the Legislature to decide the out-
+come of such a case. Article III of the Constitution vests
+that responsibility in the Judiciary alone.
+                                    I
+                                   A
+   Article III, §1 of the Constitution confers the “judicial
+Power of the United States” on “one supreme Court” and
+such “inferior Courts” as Congress might establish. That
+provision, our cases have recognized, is an “inseparable
+element of the constitutional system of checks and bal-
+ances,” which sets aside for the Judiciary the authority to
+decide cases and controversies according to law. Northern
+Pipeline Constr. Co. v. Marathon Pipe Line Co., 458 U. S.
+50, 58 (1982) (plurality opinion). “Under the basic concept
+
+
+2                      PATCHAK v. ZINKE
+                     ROBERTS, C. J., dissenting
+of separation of powers,” the judicial power to interpret
+and apply the law “can no more be shared with another
+branch than the Chief Executive, for example, can share
+with the Judiciary the veto power, or the Congress share
+with the Judiciary the power to override a Presidential
+veto.” Stern v. Marshall, 564 U. S. 462, 483 (2011) (inter-
+nal quotation marks omitted).
+   The Framers’ decision to establish a judiciary “truly
+distinct from both the legislature and the executive,” The
+Federalist No. 78, p. 466 (C. Rossiter ed. 1961) (A. Hamil-
+ton), was born of their experience with legislatures “ex-
+tending the sphere of [their] activity and drawing all
+power into [their] impetuous vortex,” id., No. 48, at 309 (J.
+Madison). Throughout the 17th and 18th centuries, colo-
+nial legislatures routinely functioned as courts of equity,
+“grant[ing] exemptions from standing law, prescrib[ing]
+the law to be applied to particular controversies, and even
+decid[ing] the merits of cases.” Manning, Response, Deriv-
+ing Rules of Statutory Interpretation from the Constitu-
+tion, 101 Colum. L. Rev. 1648, 1662 (2001). In Virginia,
+for instance, Thomas Jefferson lamented that the assem-
+bly had, “in many instances, decided rights which should
+have been left to judiciary controversy.” Notes on the
+State of Virginia 120 (W. Peden ed. 1982). And in Penn-
+sylvania, the Council of Censors—a body charged with
+ensuring compliance with the state constitution—
+denounced the state assembly’s practice of “extending
+their deliberations to the cases of individuals” in order to
+ease the “hardships which will always arise from the
+operation of general laws.” Report of the Committee of the
+Pennsylvania Council of Censors 38, 43 (F. Bailey ed.
+1784). “[T]here is reason to think,” the Censors reported,
+“that favour and partiality have, from the nature of public
+bodies of men, predominated in the distribution of this
+relief.” Id., at 38.
+   Given the “disarray” produced by this “system of legisla-
+
+
+                  Cite as: 583 U. S. ____ (2018)           3
+                    ROBERTS, C. J., dissenting
+tive equity,” the Framers resolved to take the innovative
+step of creating an independent judiciary. Plaut v. Spend-
+thrift Farm, Inc., 514 U. S. 211, 221 (1995). They recog-
+nized that such a structural limitation on the power of the
+legislative and executive branches was necessary to secure
+individual freedom. As James Madison put it, “[w]ere the
+power of judging joined with the legislative, the life and
+liberty of the subject would be exposed to arbitrary con-
+trol.” The Federalist No. 47, at 303 (citing 1 Montesquieu,
+The Spirit of the Laws).
+   The Constitution’s division of power thus reflects the
+“concern that a legislature should not be able unilaterally
+to impose a substantial deprivation on one person.” INS v.
+Chadha, 462 U. S. 919, 962 (1983) (Powell, J., concurring
+in judgment). The Framers protected against that threat,
+both in “specific provisions, such as the Bill of Attainder
+Clause,” and in the “general allocation” of the judicial
+power to the Judiciary alone. Ibid. As Chief Justice Mar-
+shall wrote, the Constitution created a straightforward
+distribution of authority: The Legislature wields the power
+“to prescribe general rules for the government of society,”
+but “the application of those rules to individuals in soci-
+ety” is the “duty” of the Judiciary. Fletcher v. Peck, 6
+Cranch 87, 136 (1810). Article III, in other words, sets out
+not only what the Judiciary can do, but also what Con-
+gress cannot.
+   Congress violates this arrangement when it arrogates
+the judicial power to itself and decides a particular case.
+We first enforced that rule in United States v. Klein, 13
+Wall. 128 (1872), when the Radical Republican Congress
+passed a law targeting suits by pardoned Confederates.
+Although this Court had held that a pardon was proof of
+loyalty and entitled claimants to damages for property
+seized by the Union, see United States v. Padelford, 9
+Wall. 531, 543 (1870), Congress sought to block Confeder-
+ate supporters from receiving such compensation. It
+
+
+4                       PATCHAK v. ZINKE
+                      ROBERTS, C. J., dissenting
+therefore enacted a statute barring rebels from using a
+pardon as evidence of loyalty, instead requiring the courts
+to dismiss for want of jurisdiction any suit based on a
+pardon. This Court declared the law unconstitutional.
+Congress, in addition to impairing the President’s pardon
+power, had “prescribe[d] rules of decision to the Judicial
+Department . . . in cases pending before it.” Klein, 13
+Wall., at 146. The Court accordingly held that the statute
+“passed the limit which separates the legislative from the
+judicial power.” Id., at 147.
+  We have frequently reiterated this basic premise of the
+separation of powers. In Pope v. United States, 323 U. S. 1
+(1944), the Court recognized that “changing the rules of
+decision for the determination of a pending case” would
+impermissibly interfere with judicial independence, but
+held that such concerns were absent when Congress con-
+sented to a claims settlement pursuant to its broad power
+“to provide for the payment of debts.” Id., at 9; see
+Chadha, 462 U. S., at 966, n. 9 (Powell, J., concurring in
+judgment) (“When Congress grants particular individuals
+relief or benefits under its spending power, the danger of
+oppressive action that the separation of powers was de-
+signed to avoid is not implicated.”). As we also explained
+in United States v. Sioux Nation, 448 U. S. 371, 398
+(1980), because Congress has “no judicial powers” to ren-
+der judgment “directly,” it likewise cannot do so indirectly,
+by “direct[ing] . . . a court to find a judgment in a certain
+way.” That sort of legislative intervention constitutes an
+exercise of the judicial power, leaving “the court no adjudi-
+catory function to perform.” Id., at 392. Most recently, we
+reaffirmed the fundamental proposition that “Congress
+could not enact a statute directing that, in ‘Smith v.
+Jones,’ ‘Smith wins.’ ” Bank Markazi, 578 U. S., at ___,
+n. 17 (slip op., at 13, n. 17).
+
+
+                   Cite as: 583 U. S. ____ (2018)           5
+                     ROBERTS, C. J., dissenting
+                                 B
+   As the plurality acknowledges, ante, at 14, the facts of
+this case are stark. The Match-E-Be-Nash-She-Wish
+Band of Pottawatomi Indians (Band) sought land on which
+to build a casino. The Band identified a 147-acre tract of
+land in rural southwestern Michigan (called the Bradley
+Property), and in 2005 the Secretary of the Interior an-
+nounced a final decision to take the property into trust on
+behalf of the Band. See 70 Fed. Reg. 25596 (2005).
+   Fearing an “irreversibl[e] change [to] the rural character
+of the area,” David Patchak, a neighboring landowner,
+filed a lawsuit challenging the transfer. Patchak v. Jewell,
+828 F. 3d 995, 1000 (CADC 2016). The suit alleged that
+the Secretary lacked statutory authority to take the Brad-
+ley Property into trust. The Secretary asserted several
+grounds for dismissing the case, but this Court ultimately
+granted review and determined that “Patchak’s suit may
+proceed.”     Match-E-Be-Nash-She-Wish Band of Potta-
+watomi Indians v. Patchak, 567 U. S. 209, 212 (2012)
+(Patchak I ).
+   Following remand, while summary judgment briefing
+was underway in the District Court, the Band persuaded
+Congress to enact a standalone statute, the Gun Lake
+Trust Land Reaffirmation Act (Gun Lake Act), to termi-
+nate the suit. Pub. L. 113–179, 128 Stat. 1913. Section
+2(a) of the Act provides that the land “described in . . . 70
+Fed. Reg. 25596”—the Bradley Property—“is reaffirmed as
+trust land, and the actions of the Secretary of the Interior
+in taking that land into trust are ratified and confirmed.”
+   Then Congress went further. In §2(b) it provided:
+     “NO CLAIMS.—Notwithstanding any other provision of
+     law, an action (including an action pending in a Fed-
+     eral court as of the date of enactment of this Act) re-
+     lating to the land described in subsection (a) shall not
+     be filed or maintained in a Federal court and shall be
+
+
+6                     PATCHAK v. ZINKE
+                   ROBERTS, C. J., dissenting
+     promptly dismissed.”
+When Congress passed the Act in 2014, no other suits
+relating to the Bradley Property were pending, and the
+six-year statute of limitations on challenges to the Secre-
+tary’s action under the Administrative Procedure Act had
+expired. See 28 U. S. C. §2401(a). The Committees that
+recommended the legislation affirmed that the statute
+would make no “changes in existing [Indian] law.” H. R.
+Rep. No. 113–590, p. 5 (2014); S. Rep. No. 113–194, p. 4
+(2014).
+   Recognizing that the “clear intent” of Congress was “to
+moot this litigation,” the District Court dismissed
+Patchak’s case against the Secretary. Patchak v. Jewell,
+109 F. Supp. 3d 152, 159 (DC 2015). The D. C. Circuit
+affirmed, also based on the “plain” directive of §2(b). 828
+F. 3d, at 1001.
+                              II
+   Congress has previously approached the boundary
+between legislative and judicial power, but it has never
+gone so far as to target a single party for adverse treat-
+ment and direct the precise disposition of his pending
+case. Section 2(b)—remarkably—does just that.
+   The plurality cites a smattering of “narrow statutes”
+that this Court has previously upheld. Ante, at 14. Yet
+none is as brazen as §2(b), either in terms of dictating a
+particular outcome or in singling out a particular party.
+Indeed, the bulk of those cases involved statutes that
+prospectively governed an open-ended class of disputes
+and left the courts to apply any new legal standard in the
+first instance. In Pennsylvania v. Wheeling & Belmont
+Bridge Co., 18 How. 421 (1856), for example, we addressed
+an enactment that permanently altered the legal status of
+a public bridge going forward by reclassifying it as a postal
+road. That provision, we later said, did not prescribe an
+“arbitrary rule of decision” but instead “left [the court] to
+
+
+                   Cite as: 583 U. S. ____ (2018)             7
+                     ROBERTS, C. J., dissenting
+apply its ordinary rules” to determine whether the redes-
+ignation of the structure meant that it was an obstruction
+of interstate commerce. Klein, 13 Wall., at 146–147. And
+in Robertson v. Seattle Audubon Soc., 503 U. S. 429 (1992),
+the statute at issue made reference to specific cases only
+as a shorthand for identifying preexisting environmental
+law requirements. Id., at 440. The statute applied gener-
+ally—“replac[ing] the legal standards” for timber harvest-
+ing across 13 national forests—and explicitly reserved for
+judicial determination whether pending and future timber
+sales complied with the new standards. Id., at 437.
+   Even Bank Markazi, which disclaimed a number of
+limits on Congress’s authority to intervene in ongoing
+litigation, did not suggest that Congress could dictate the
+result in a pending case. There, Congress inserted itself
+into a long-running dispute over whether terrorist victims
+could satisfy their judgments against Iran’s central bank,
+enacting a statute that eliminated certain legal impedi-
+ments to obtaining the bank’s assets. We upheld the law
+because it “establish[ed] new substantive standards” and
+entrusted “application of those standards” to the court.
+578 U. S., at ___ (slip op., at 18).
+   But the Court in Bank Markazi did not have before it
+anything like §2(b), which prevents the court from apply-
+ing any new legal standards and explicitly dictates the
+dismissal of a pending proceeding. The Court instead
+stressed that the judicial findings contemplated by the
+statute in Bank Markazi left “plenty” for the court “to
+adjudicate” before ruling that the bank was liable. Id., at
+___, n. 20 (slip op., at 17, n. 20). The law, for instance, did
+not define the terms “beneficial interest” and “equitable
+title.” The District Court needed to resolve the scope of
+those phrases. Nor did it decide whether the assets were
+owned by the bank. That issue was also assigned to the
+court. And lastly, the statute did not settle whether the
+assets were held in New York or Luxembourg. The court
+
+
+8                         PATCHAK v. ZINKE
+                       ROBERTS, C. J., dissenting
+had to sort that out too. See ibid.1 Section 2(b) goes much
+further than the statute in Bank Markazi by disposing of
+the case outright, wresting any adjudicative responsibility
+from the courts. For all of the plurality’s discussion of the
+Federalist Papers and “exclusive” judicial power, ante, at
+5, it is idle to suggest that §2(b) preserves any role for the
+court beyond that of stenographer.
+   In addition, the Court in Bank Markazi repeatedly
+emphasized that the law was not a “one-case-only regime.”
+578 U. S., at ___ (slip op., at 1). The law instead governed
+a category of postjudgment execution claims filed by over a
+thousand plaintiffs who, in 16 different actions, had ob-
+tained judgments against Iran in excess of $1.75 billion—
+facts suggesting more generality than is true of many Acts
+of Congress.
+   By contrast, §2(b) targets a single pending case. Al-
+though the formal language of the provision—reaching any
+action “relating to” the Bradley Property—could theoreti-
+cally suggest a broader application, its practical operation
+unequivocally confirms that it concerns solely Patchak’s
+suit. See Commodity Futures Trading Comm’n v. Schor,
+478 U. S. 833, 851 (1986) (explaining that the Court “re-
+view[s] Article III challenges . . . with an eye to the practi-
+cal effect that the congressional action will have on the
+constitutionally assigned role of the federal judiciary”). In
+an effort to identify a set of disputes to which §2(b) might
+apply, the plurality asserts that the provision extends to
+any action relating to the trust status of the property.
+Ante, at 15. Yet as the D. C. Circuit recognized, no other
+cases were pending when the provision was enacted; §2(b)
+affected “only . . . Patchak’s lawsuit.” 828 F. 3d, at 1003.
+——————
+  1 Not every Member of the Court thought these responsibilities ade-
+quate under Article III, see Bank Markazi, 578 U. S., at ___–___
+(ROBERTS, C. J., dissenting) (slip op., at 12–13), but all save two did,
+and that’s a comfortable enough margin to establish the point.
+
+
+                  Cite as: 583 U. S. ____ (2018)            9
+                    ROBERTS, C. J., dissenting
+And as the Band concedes, no additional suits challenging
+the transfer could have been filed under the APA—or any
+other statute of which we are aware—due to the expira-
+tion of the statute of limitations. Brief for Respondent
+Band 6. The plurality thus is simply incorrect when it
+asserts that the Act applies to a broad “class of cases.”
+Ante, at 8, 15. What are those cases?
+   This is not a question of probing Congress’s “unex-
+pressed motives.” Ante, at 15. The text and operation of
+the provision instead make clear that the range of poten-
+tial applications is a class of one. Congress, in crafting a
+law tailored to Patchak’s suit, has pronounced the equiva-
+lent of “Smith wins.”
+                               III
+   The plurality refuses to “jealously guard[ ]” against such
+a basic intrusion on judicial independence. Northern
+Pipeline, 458 U. S., at 60. It instead focuses on general
+tenets of jurisdiction stripping. In its view, §2(b) falls
+comfortably within Congress’s power to regulate the juris-
+diction of the federal courts, and accordingly does not
+constitute an exercise of judicial power.
+   But nothing in §2(b) specifies that the statute is juris-
+dictional. That has special significance: To rein in “profli-
+gate use of the term ‘jurisdiction,’ ” this Court in recent
+cases has adopted a “bright line” rule treating statutory
+limitations as nonjurisdictional unless Congress “clearly
+states” otherwise. Sebelius v. Auburn Regional Medical
+Center, 568 U. S. 145, 153 (2013); Arbaugh v. Y & H Corp.,
+546 U. S. 500, 515–516 (2006). The Gun Lake Act does not
+clearly state that it imposes a jurisdictional restriction—
+the term is not mentioned anywhere in the title, headings,
+or text of the Act. Indeed, we have previously found that
+nearly identical statutory language “says nothing about
+whether a federal court has subject-matter jurisdiction.”
+Reed Elsevier, Inc. v. Muchnick, 559 U. S. 154, 164 (2010).
+
+
+10                        PATCHAK v. ZINKE
+                        ROBERTS, C. J., dissenting
+Compare 17 U. S. C. §411(a), the statute in Reed Elsevier
+(“no civil action . . . shall be instituted”), with §2(b) (“an
+action . . . shall not be filed or maintained”).2 And since
+the Gun Lake Act was passed well after our series of cases
+setting forth a clear statement rule, we may “presume”
+that Congress was conscious of that obligation when it
+drafted §2(b). United States v. Wells, 519 U. S. 482, 495
+(1997).
+   After stretching to read §2(b) as jurisdictional, the plu-
+rality dedicates considerable effort to defending Congress’s
+broad authority over the jurisdiction of the federal courts.
+Ante, at 7–10. That background principle is undoubtedly
+correct—and undoubtedly irrelevant for the purposes of
+evaluating §2(b). For while the greater power to create
+inferior federal courts generally includes the power to
+strip those courts of jurisdiction, at a certain point that
+lesser exercise of authority invades the judicial function.
+“Congress has the power (within limits) to tell the courts
+what classes of cases they may decide, but not to prescribe
+or superintend how they decide those cases.” Arlington v.
+FCC, 569 U. S. 290, 297 (2013) (majority opinion of Scalia,
+J.) (emphasis added; citations omitted). In other words,
+Congress cannot, under the guise of altering federal juris-
+diction, dictate the result of a pending proceeding.
+   Klein, after all, drew precisely the same distinction
+when it considered the provision stripping jurisdiction
+——————
+  2 The  plurality suggests an analogy to Gonzalez v. Thaler, 565 U. S.
+134 (2012), which addressed in passing the familiar hurdle in habeas
+proceedings that “an appeal may not be taken” unless a judge issues a
+“certificate of appealability.” Id., at 142 (quoting 28 U. S. C.
+§2253(c)(1)). But that gatekeeping requirement—which dates back to
+1908—has long been understood as a direct limitation “on the power of
+federal courts to grant writs of habeas corpus,” Miller-El v. Cockrell,
+537 U. S. 322, 336–338 (2003), and appears alongside other provisions
+that speak in “clear jurisdictional language,” Gonzalez, 565 U. S., at
+142 (internal quotation marks omitted). Nothing similar is at issue
+here.
+
+
+                   Cite as: 583 U. S. ____ (2018)          11
+                     ROBERTS, C. J., dissenting
+over any suit based on a pardon. Chief Justice Chase’s
+opinion for the Court explained that if the statute had
+“simply” removed jurisdiction over “a particular class of
+cases,” it would be regarded as “an exercise of the
+acknowledged power of Congress to make exceptions and
+prescribe regulations to the appellate power.” 13 Wall., at
+145, 146. But because the withdrawal of jurisdiction was
+a “means to an end,” founded “solely on the application of
+a rule of decision,” the Court held that the law violated the
+separation of powers. Ibid.; see R. Fallon, J. Manning, D.
+Meltzer, & D. Shapiro, Hart and Wechsler’s The Federal
+Courts and the Federal System 324 (7th ed. 2015) (recog-
+nizing that “not every congressional attempt to influence
+the outcome of cases, even if phrased in jurisdictional
+language, can be justified as a valid exercise of a power
+over jurisdiction”).
+   Contrary to the plurality, I would hold that Congress
+exercises the judicial power when it manipulates jurisdic-
+tional rules to decide the outcome of a particular pending
+case. Because the Legislature has no authority to direct
+entry of judgment for a party, it cannot achieve the same
+result by stripping jurisdiction over a particular proceed-
+ing. Does the plurality really believe that there is a mate-
+rial difference between a law stating “The court lacks
+jurisdiction over Jones’s pending suit against Smith” and
+one stating “In the case of Smith v. Jones, Smith wins”?
+In both instances, Congress has resolved the specific case
+in Smith’s favor.
+   Over and over, the plurality intones that §2(b) does not
+impinge on the judicial power because the provision
+“changes the law.” See ante, at 6–7, 10–14. But all that
+§2(b) does is deprive the court of jurisdiction in a single
+proceeding. If that is sufficient to change the law, the
+plurality’s rule “provides no limiting principle” on Con-
+gress’s ability to assume the role of judge and decide the
+outcome of pending cases. Northern Pipeline, 458 U. S., at
+
+
+12                    PATCHAK v. ZINKE
+                    ROBERTS, C. J., dissenting
+73.
+   In my view, the concept of “changing the law” must
+imply some measure of generality or preservation of an
+adjudicative role for the courts. The weight of our juris-
+diction stripping precedent bears this out. Almost all of
+the examples the plurality cites, see ante, at 10, 13, con-
+templated the wholesale repeal of a generally applicable
+jurisdictional provision. See Hallowell v. Commons, 239
+U. S. 506, 508 (1916) (“The [provision] applies with the
+same force to all cases and was embodied in a statute that
+no doubt was intended to apply to all.”); Cary v. Curtis, 3
+How. 236, 245 (1845); see also Landgraf v. USI Film
+Products, 511 U. S. 244, 274 (1994); Kline v. Burke Constr.
+Co., 260 U. S. 226, 234 (1922). The Court, to date, has
+never sustained a law that withdraws jurisdiction over a
+particular lawsuit.
+   The closest analogue is of course Ex parte McCardle, 7
+Wall. 506 (1869), which the plurality nonchalantly cites as
+one of its leading authorities. McCardle arose amid a
+pitched national debate over Reconstruction of the former
+Confederacy. William McCardle, an unreconstructed
+newspaper editor, was being held in military custody for
+inciting insurrection. After unsuccessfully applying for
+federal habeas relief in the circuit court, McCardle ap-
+pealed to the Supreme Court, raising a broad challenge to
+the constitutionality of Reconstruction. The Court heard
+argument on his habeas appeal over the course of four
+days in March 1868. Before the Court could render its
+decision, however, the Radical Republican Congress—
+in an acknowledged effort to sweep the case from the
+docket—enacted a statute withdrawing the Supreme Court’s
+appellate jurisdiction in habeas cases. Van Alstyne, A
+Critical Guide to Ex parte McCardle, 15 Ariz. L. Rev. 229,
+239–241 (1973).
+   The Court unanimously dismissed McCardle’s appeal.
+In a brief opinion, Chief Justice Chase sidestepped any
+
+
+                      Cite as: 583 U. S. ____ (2018)                    13
+                        ROBERTS, C. J., dissenting
+consideration of Congress’s attempt to preclude a decision
+in the case. Faced with a “plain[ ] instance of positive
+exception,” the Court held that it lacked power to review
+McCardle’s claims. 7 Wall., at 514.
+    The Court’s decision in McCardle has been alternatively
+described as “caving to the political dominance” of the
+Radical Republicans or “acceding to Congress’s effort to
+silence the Court.” Meltzer, The Story of Ex parte
+McCardle, in Federal Courts Stories 73 (V. Jackson & J.
+Resnik eds. 2010). Read for all it is worth, the decision is
+also inconsistent with the approach the Court took just
+three years later in Klein, where Chief Justice Chase (a
+dominant character in this drama) stressed that “[i]t is of
+vital importance” that the legislative and judicial powers
+“be kept distinct.” 13 Wall., at 147.
+    The facts of McCardle, however, can support a more
+limited understanding of Congress’s power to divest the
+courts of jurisdiction. For starters, the repealer provision
+covered more than a single pending dispute; it applied to a
+class of cases, barring anyone from invoking the Supreme
+Court’s appellate jurisdiction in habeas cases for the next
+two decades. In addition, the Court’s decision did not
+foreclose all avenues for judicial review of McCardle’s
+complaint. As Chase made clear in the penultimate para-
+graph of the opinion—and confirmed later that year in his
+opinion for the Court in Ex parte Yerger, 8 Wall. 85
+(1869)—the statute did not deny “the whole appellate
+power of the Court.” 7 Wall., at 515. McCardle, by taking
+a different procedural route and filing an original habeas
+action, could have had his case heard on the merits. 3
+——————
+   3 The plurality surmises that McCardle reserved an alternative ave-
+nue for relief in response to a perceived problem under the Suspension
+Clause. Ante, at 9, n. 4. But regardless of the basis for that reserva-
+tion, our point is simply that, in sustaining a jurisdictional repeal that
+leaves a claimant without any prospect for relief, the plurality goes
+beyond what the Court in McCardle upheld.
+
+
+14                    PATCHAK v. ZINKE
+                    ROBERTS, C. J., dissenting
+   Section 2(b), on the other hand, has neither saving
+grace. It ends Patchak’s suit for good. His federal case is
+dismissed, and he has no alternative means of review
+anywhere else. See 25 U. S. C. §1322(a) (providing that
+state courts, absent the consent of the tribe, may not
+exercise civil jurisdiction over trust land). Section 2(b)
+thus reaches further than the typical jurisdictional repeal,
+which “takes away no substantive right but simply changes
+the tribunal that is to hear the case,” Landgraf, 511
+U. S., at 274. Because §2(b) singles out Patchak’s suit,
+specifies how it must be resolved, and deprives him of any
+judicial forum for his claim, the decision to uphold that
+provision surpasses even McCardle as the highwater mark
+of legislative encroachment on Article III.
+   Indeed, although the stakes of this particular dispute
+may seem insignificant, the principle that the plurality
+would enshrine is of historic consequence. In no uncertain
+terms, the plurality disavows any limitations on Con-
+gress’s power to determine judicial results, conferring on
+the Legislature a colonial-era authority to pick winners
+and losers in pending litigation as it pleases. The Court in
+Bank Markazi said it was holding the line against this
+sort of legislative usurpation. See 578 U. S., at ___–___,
+and n. 17, ___ (slip op., at 12–13, and n. 17, 18). The
+plurality would yield even that last ditch.
+                              IV
+   While the plurality reaches to read the Gun Lake Act as
+stripping jurisdiction, JUSTICE GINSBURG’s concurrence,
+joined by JUSTICE SOTOMAYOR, strains further to construe
+§2(b) as restoring the Government’s sovereign immunity
+from suit. To reinstate sovereign immunity after it has
+been waived, Congress must express “an unambiguous
+intention to withdraw” a remedy. Ruckelshaus v. Monsanto
+Co., 467 U. S. 986, 1019 (1984). Congress has not made
+that showing here. Section 2(b)—which provides that “an
+
+
+                    Cite as: 583 U. S. ____ (2018)          15
+                      ROBERTS, C. J., dissenting
+action . . . relating to the [Bradley Property] . . . shall be
+promptly dismissed”—bears none of the unmistakable
+hallmarks of a provision withdrawing the sovereign’s
+consent to suit.
+   The concurrence first relies on a hunch, based on the
+Court’s earlier determination that Patchak’s suit was not
+barred by sovereign immunity. See Patchak I, 567 U. S.,
+at 224. But hunches do not make for an unambiguous
+expression of intent. Nor, of course, does one lone refer-
+ence to “immunity” in the legislative history. United
+States v. Nordic Village, Inc., 503 U. S. 30, 37 (1992)
+(“[T]he ‘unequivocal expression’ of elimination of sovereign
+immunity that we insist upon . . . cannot be supplied by a
+committee report.”).
+   Saving the text for last, the concurrence fails to identify
+a single instance where the Court has treated a statute
+that does not mention “immunity,” “consent to be sued,” or
+even the “United States” as restoring sovereign immunity.
+The only basis for its interpretation is the purported simi-
+larity between the language of the Gun Lake Act and the
+waiver of immunity in the Administrative Procedure Act.
+In drawing this comparison, however, JUSTICE GINSBURG
+leaves out the critical element of that waiver. See ante, at
+2 (opinion concurring in judgment). In full, the APA pro-
+vision states that a suit “shall not be dismissed . . . on the
+ground that it is against the United States.” 5 U. S. C.
+§702 (emphasis added). Section 2(b), as noted, contains no
+such reference to the sovereign.
+   As for JUSTICE BREYER’s concurrence, “dot[ting] all the
+i’s,” “simplif[ying] judicial decisionmaking,” and “elimi-
+nat[ing] the cost of litigating a lawsuit” are nothing but
+cavalier euphemisms for exercising the judicial power.
+Ante, at 2. JUSTICE BREYER assumes that §2(a) is consti-
+tutionally unobjectionable, and that §2(b) seeks the same
+“real-world result.” Ibid. But if §2(a) is constitutional, it
+is because the provision establishes new substantive
+
+
+16                     PATCHAK v. ZINKE
+                     ROBERTS, C. J., dissenting
+standards and leaves the court to apply those standards in
+the first instance. That is the rule set forth plainly in
+Bank Markazi. And if that is so, §2(b) does not simply
+supplement §2(a)—it short-circuits the requisite adjudica-
+tive process and decides the suit outright. The proper
+allocation of authority under the Constitution is very
+much part of the “real world.” Pursuant to that basic
+equilibrium, Congress cannot “gild the lily” by relieving
+the Judiciary of its job—applying the law to the case
+before it.
+                          *      *      *
+   The Framers saw this case coming. They knew that if
+Congress exercised the judicial power, it would be impos-
+sible “to guard the Constitution and the rights of individu-
+als from . . . serious oppressions.” The Federalist No. 78,
+at 469 (A. Hamilton). Patchak thought his rights were
+violated, and went to court. He expected to have his case
+decided by judges whose independence from political
+pressure was ensured by the safeguards of Article III—life
+tenure and salary protection. It was instead decided by
+Congress, in favor of the litigant it preferred, under a law
+adopted just for the occasion. But it is our responsibility
+under the Constitution to decide cases and controversies
+according to law. It is our responsibility to, as the judicial
+oath provides, “administer justice without respect to per-
+sons.” 28 U. S. C. §453. And it is our responsibility to
+“firm[ly]” and “inflexibl[y]” resist any effort by the Legisla-
+ture to seize the judicial power for itself. The Federalist
+No. 78, at 470.
+   I respectfully dissent.

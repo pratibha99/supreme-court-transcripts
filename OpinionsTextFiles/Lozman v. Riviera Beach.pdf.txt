@@ -1,0 +1,885 @@
+(Slip Opinion)                OCTOBER TERM, 2017                                    1
+                                         Syllabus
+          NOTE: Where it is feasible, a syllabus (headnote) will be released, as is
+        being done in connection with this case, at the time the opinion is issued.
+        The syllabus constitutes no part of the opinion of the Court but has been
+        prepared by the Reporter of Decisions for the convenience of the reader.
+        See United States v. Detroit Timber & Lumber Co., 200 U. S. 321, 337.
+SUPREME COURT OF THE UNITED STATES
+                                         Syllabus
+      LOZMAN v. CITY OF RIVIERA BEACH, FLORIDA
+ CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR
+                            THE ELEVENTH CIRCUIT
+      No. 17–21. Argued February 27, 2018—Decided June 18, 2018
+After petitioner Lozman towed his floating home into a slip in a marina
+   owned by the city of Riviera Beach, he became an outspoken critic of
+   the City’s plan to use its eminent domain power to seize waterfront
+   homes for private development and often made critical comments
+   about officials during the public-comment period of city council meet-
+   ings. He also filed a lawsuit alleging that the City Council’s approval
+   of an agreement with developers violated Florida’s open-meetings
+   laws. In June 2006 the Council held a closed-door session, in part to
+   discuss Lozman’s lawsuit. He alleges that the meeting’s transcript
+   shows that councilmembers devised an official plan to intimidate
+   him, and that many of his subsequent disputes with city officials and
+   employees were part of the City’s retaliation plan. Five months after
+   the closed-door meeting, the Council held a public meeting. During
+   the public-comment session, Lozman began to speak about the ar-
+   rests of officials from other jurisdictions. When he refused a coun-
+   cilmember’s request to stop making his remarks, the councilmember
+   told the police officer in attendance to “carry him out.” The officer
+   handcuffed Lozman and ushered him out of the meeting. The City
+   contends that he was arrested for violating the City Council’s rules of
+   procedure by discussing issues unrelated to the City and then refus-
+   ing to leave the podium. Lozman claims that his arrest was to retali-
+   ate for his lawsuit and his prior public criticisms of city officials. The
+   State’s attorney determined that there was probable cause for his ar-
+   rest, but decided to dismiss the charges.
+      Lozman then filed suit under 42 U. S. C. §1983, alleging a number
+   of incidents that, under his theory, showed the City’s purpose was to
+   harass him, including by initiating an admiralty lawsuit against his
+   floating home, see Lozman v. Riviera Beach, 568 U. S. 115. The jury
+
+
+2                     LOZMAN v. RIVIERA BEACH
+                                   Syllabus
+  returned a verdict for the City on all of the claims. The District
+  Court instructed the jury that, for Lozman to prevail on his claim of a
+  retaliatory arrest at the city council meeting, he had to prove that the
+  arresting officer was motivated by impermissible animus against
+  Lozman’s protected speech and that the officer lacked probable cause
+  to make the arrest. The Eleventh Circuit affirmed, concluding that
+  any error the District Court made when it instructed the jury to con-
+  sider the officer’s retaliatory animus was harmless because the jury
+  necessarily determined that the arrest was supported by probable
+  cause when it found for the City on Lozman’s other claims. The ex-
+  istence of probable cause, the court ruled, defeated a First Amend-
+  ment claim for retaliatory arrest.
+Held: The existence of probable cause does not bar Lozman’s First
+  Amendment retaliation claim under the circumstances of this case.
+  Pp. 5–13.
+     (a) The issue here is narrow. Lozman concedes that there was
+  probable cause for his arrest. Nonetheless, he claims, the arrest vio-
+  lated the First Amendment because it was ordered in retaliation for
+  his earlier, protected speech: his open-meetings lawsuit and his prior
+  public criticisms of city officials. Pp. 5–6.
+     (b) In a §1983 case, a city or other local governmental entity cannot
+  be subject to liability unless the harm was caused in the implementa-
+  tion of “official municipal policy.” Monell v. New York City Dept. of
+  Social Servs., 436 U. S. 658, 691. The Court assumes that Lozman’s
+  arrest was taken pursuant to an official city policy.
+     Two major precedents bear on the issue whether the conceded ex-
+  istence of probable cause for the arrest bars recovery regardless of
+  any intent or purpose to retaliate for past speech. Lozman argues
+  that the controlling rule is found in Mt. Healthy City Bd. of Ed. v.
+  Doyle, 429 U. S. 274, a civil case in which a city board of education
+  decided not to rehire an untenured teacher after a series of incidents,
+  including a telephone call to a local radio station. The phone call was
+  protected speech, but, the Court held, there was no liability unless
+  the alleged constitutional violation was a but-for cause of the em-
+  ployment termination. Id., at 285287. The City counters that the
+  applicable precedent is Hartman v. Moore, 547 U. S. 250, where the
+  Court held that a plaintiff alleging a retaliatory prosecution must
+  show the absence of probable cause for the underlying criminal
+  charge, id., at 265266. If there was probable cause, the case ends.
+  If the plaintiff proves the absence of probable cause, then the Mt.
+  Healthy test governs. Pp. 6–10.
+     (c) Whether Hartman or Mt. Healthy governs here is a determina-
+  tion that must await a different case. For Lozman’s claim is far
+  afield from the typical retaliatory arrest claim, and the difficulties
+
+
+                       Cite as: 585 U. S. ____ (2018)                     3
+                                  Syllabus
+  that might arise if Mt. Healthy is applied to the mine run of arrests
+  made by police officers are not present here. Lozman alleges that the
+  City itself retaliated against him pursuant to an “official municipal
+  policy” of intimidation. Monell, supra, at 691. The fact that he must
+  prove the existence and enforcement of an official policy motivated by
+  retaliation separates his claim from the typical retaliatory arrest
+  claim. An official retaliatory policy can be long term and pervasive,
+  unlike an ad hoc, on-the-spot decision by an individual officer. And it
+  can be difficult to dislodge. A citizen can seek to have an individual
+  officer disciplined or removed from service, but there may be little
+  practical recourse when the government itself orchestrates the retali-
+  ation. Lozman’s allegations, if proved, also alleviate the problems
+  that the City says will result from applying Mt. Healthy in retaliatory
+  arrest cases, for it is unlikely that the connection between the alleged
+  animus and injury in a case like this will be “weakened . . . by [an of-
+  ficial’s] legitimate consideration of speech,” Reichle v. Howards, 566
+  U. S. 658, 668, and there is little risk of a flood of retaliatory arrest
+  suits against high-level policymakers. Because Lozman alleges that
+  the City deprived him of the right to petition, “ ‘one of the most pre-
+  cious of the liberties safeguarded by the Bill of Rights,’ ” BE&K Con-
+  str. Co. v. NLRB, 536 U. S. 516, 524, his speech is high in the hierar-
+  chy of First Amendment values. On these facts, Mt. Healthy provides
+  the correct standard for assessing a retaliatory arrest claim. On re-
+  mand, the Eleventh Circuit may consider any arguments in support
+  of the District Court’s judgment that have been preserved by the
+  City, including whether a reasonable juror could find that the City
+  formed a retaliatory policy to intimidate Lozman during its closed-
+  door session, whether a reasonable juror could find that the arrest
+  constituted an official act by the City, and whether, under Mt.
+  Healthy, the City has proved that it would have arrested Lozman re-
+  gardless of any retaliatory animus. Pp. 10–13.
+681 Fed. Appx. 746, vacated and remanded.
+  KENNEDY, J., delivered the opinion of the Court, in which ROBERTS,
+C. J., and GINSBURG, BREYER, ALITO, SOTOMAYOR, KAGAN, and GORSUCH,
+JJ., joined. THOMAS, J., filed a dissenting opinion.
+
+
+                        Cite as: 585 U. S. ____ (2018)                            1
+                              Opinion of the Court
+     NOTICE: This opinion is subject to formal revision before publication in the
+     preliminary print of the United States Reports. Readers are requested to
+     notify the Reporter of Decisions, Supreme Court of the United States, Wash-
+     ington, D. C. 20543, of any typographical or other formal errors, in order
+     that corrections may be made before the preliminary print goes to press.
+SUPREME COURT OF THE UNITED STATES
+                                    _________________
+                                      No. 17–21
+                                    _________________
+   FANE LOZMAN, PETITIONER v. CITY OF RIVIERA
+                             BEACH, FLORIDA
+ ON WRIT OF CERTIORARI TO THE UNITED STATES COURT OF
+               APPEALS FOR THE ELEVENTH CIRCUIT
+                                  [June 18, 2018]
+   JUSTICE KENNEDY delivered the opinion of the Court.
+   This case requires the Court to address the intersection
+of principles that define when arrests are lawful and
+principles that prohibit the government from retaliating
+against a person for having exercised the right to free
+speech. An arrest deprives a person of essential liberties,
+but if there is probable cause to believe the person has
+committed a criminal offense there is often no recourse for
+the deprivation. See, e.g., Devenpeck v. Alford, 543 U. S.
+146, 153 (2004). At the same time, the First Amendment
+prohibits government officials from retaliating against
+individuals for engaging in protected speech. Crawford-El
+v. Britton, 523 U. S. 574, 592 (1998).
+   The petitioner in this case alleges that high-level city
+policymakers adopted a plan to retaliate against him for
+protected speech and then ordered his arrest when he
+attempted to make remarks during the public-comment
+portion of a city council meeting. The petitioner now
+concedes there was probable cause for the arrest. The
+question is whether the presence of probable cause
+bars petitioner’s retaliatory arrest claim under these
+
+
+2                  LOZMAN v. RIVIERA BEACH
+                        Opinion of the Court
+circumstances.
+                                 I
+   The city of Riviera Beach is on the Atlantic coast of
+Florida, about 75 miles north of Miami. The petitioner
+here is Fane Lozman. In 2006 Lozman towed his floating
+home into a slip in the City-owned marina, where he
+became a resident. Thus began his contentious relation-
+ship with the City’s elected officials.
+   Soon after his arrival Lozman became an outspoken
+critic of the City’s plan to use its eminent domain power to
+seize homes along the waterfront for private development.
+Lozman often spoke during the public-comment period at
+city council meetings and criticized councilmembers, the
+mayor, and other public employees. He also filed a lawsuit
+alleging that the Council’s approval of an agreement with
+developers violated Florida’s open-meetings laws.
+   In June 2006 the Council held a closed-door session, in
+part to discuss the open-meetings lawsuit that Lozman
+recently had filed. According to the transcript of the
+meeting, Councilmember Elizabeth Wade suggested that
+the City use its resources to “intimidate” Lozman and
+others who had filed lawsuits against the City. App. 176.
+Later in the meeting a different councilmember asked
+whether there was “a consensus of what Ms. Wade is
+saying,” and others responded in the affirmative. Id., at
+181182. Lozman alleges that these remarks formed an
+official plan to intimidate him. The City, on the other
+hand, maintains that the only consensus reached during
+the meeting was to invest the money and resources neces-
+sary to prevail in the litigation against it.
+   In all events, Lozman became embroiled in a number of
+disputes with city officials and employees over the ensuing
+years, many of which Lozman says were part of the City’s
+plan of retaliation. The dispute that led to this litigation
+took place in 2006. In November of that year, five months
+
+
+                  Cite as: 585 U. S. ____ (2018)          3
+                       Opinion of the Court
+after the closed-door meeting where the “intimidate” com-
+ment was made, the City Council held a public meeting.
+The agenda included a public-comment session in which
+citizens could address the Council for a few minutes. As
+he had done on earlier occasions and would do more than
+200 times over the coming years, see Tr. in No. 9:08–cv–
+80134 (SD Fla.), Doc. 785, p. 61, Lozman stepped up to the
+podium to give remarks. He began to discuss the recent
+arrest of a former county official. Councilmember Wade
+interrupted Lozman, directing him to stop making those
+remarks. Lozman continued speaking, this time about the
+arrest of a former official from the city of West Palm
+Beach. Wade then called for the assistance of the police
+officer in attendance. The officer approached Lozman and
+asked him to leave the podium. Lozman refused. So
+Wade told the officer to “carry him out.” The officer hand-
+cuffed Lozman and ushered him out of the meeting. The
+incident was recorded on video. See Record, Def. Exh. 505,
+Doc. 687, available at https://www.supremecourt.gov/media/
+video/mp4files/Lozman_v_RivieraBeach.mp4. According to
+the City, Lozman was arrested because he violated the
+City Council’s rules of procedure by discussing issues
+unrelated to the City and then refused to leave the po-
+dium. According to Lozman, the arrest was to retaliate for
+his open-meetings lawsuit against the City and his prior
+public criticisms of city officials.
+   Under arrest, Lozman was escorted to police headquar-
+ters. He was charged with disorderly conduct and resist-
+ing arrest without violence and then released. Later, the
+State’s attorney determined there was probable cause to
+arrest Lozman for those offenses but decided to dismiss
+the charges.
+   Lozman filed this lawsuit under Rev. Stat. §1979, 42
+U. S. C. §1983. The complaint described a number of
+alleged incidents that, under Lozman’s theory, showed the
+City’s purpose to harass him in different ways. These
+
+
+4                 LOZMAN v. RIVIERA BEACH
+                      Opinion of the Court
+ranged from a city employee telling Lozman that his dog
+needed a muzzle to the City’s initiation of an admiralty
+lawsuit against Lozman’s floating home—the latter result-
+ing in an earlier decision by this Court. See Lozman v.
+Riviera Beach, 568 U. S. 115 (2013). The evidence and
+arguments presented by both parties with respect to all
+the matters alleged in Lozman’s suit consumed 19 days of
+trial before a jury. The jury returned a verdict for the City
+on all of the claims.
+   Before this Court, Lozman seeks a reversal only as to
+the City’s alleged retaliatory arrest at the November 2006
+city council meeting. The District Court instructed the
+jury that, for Lozman to prevail on this claim, he had to
+prove that the arresting officer was himself motivated by
+impermissible animus against Lozman’s protected speech
+and that the officer lacked probable cause to make the
+arrest. The District Court determined that the evidence
+was insufficient as a matter of law to support probable
+cause for the offenses charged at the time of the arrest
+(disorderly conduct and resisting arrest without violence).
+But the District Court concluded that there may have
+been probable cause to arrest Lozman for violating a
+Florida statute that prohibits interruptions or disturb-
+ances in schools, churches, or other public assemblies.
+Fla. Stat. §871.01 (2017). (The City had brought this
+statute to the District Court’s attention during the course
+of the litigation.) The District Court allowed the jury to
+decide whether there was probable cause to arrest for the
+public-disturbance offense.
+   Judgment having been entered for the City after the
+jury’s verdict, Lozman appealed. The Court of Appeals for
+the Eleventh Circuit affirmed. 681 Fed. Appx. 746 (2017).
+As relevant here, the Court of Appeals assumed that the
+District Court erred when it instructed the jury that the
+officer, rather than the City, must have harbored the
+retaliatory animus. But the Court of Appeals held that
+
+
+                  Cite as: 585 U. S. ____ (2018)           5
+                       Opinion of the Court
+any error was harmless because the jury necessarily de-
+termined that the arrest was supported by probable cause
+when it found for the City on some of Lozman’s other
+claims—specifically, his claims that the arrest violated the
+Fourth Amendment and state law. Id., at 751752. And,
+under precedents which the Court of Appeals deemed
+controlling, the existence of probable cause defeated a
+First Amendment claim for retaliatory arrest. See id., at
+752 (citing Dahl v. Holley, 312 F. 3d 1228, 1236 (CA11
+2002)).
+   This Court granted certiorari, 583 U. S. ___ (2017), on
+the issue whether the existence of probable cause defeats a
+First Amendment claim for retaliatory arrest under §1983.
+The Court considered this issue once before, see Reichle v.
+Howards, 566 U. S. 658, 663 (2012), but resolved the case
+on different grounds.
+                                II
+   The issue before the Court is a narrow one. In this
+Court Lozman does not challenge the constitutionality of
+Florida’s statute criminalizing disturbances at public
+assemblies. He does not argue that the statute is overly
+broad, e.g., Terminiello v. Chicago, 337 U. S. 1 (1949);
+Watchtower Bible & Tract Soc. of N. Y., Inc. v. Village of
+Stratton, 536 U. S. 150 (2002); or that it impermissibly
+targets speech based on its content or viewpoint, e.g.,
+Texas v. Johnson, 491 U. S. 397 (1989); Cohen v. Califor-
+nia, 403 U. S. 15 (1971); or that it was enforced in a way
+that curtailed Lozman’s right to peaceful assembly, e.g.,
+Brown v. Louisiana, 383 U. S. 131 (1966). Lozman, fur-
+thermore, does not challenge the validity of the City Coun-
+cil’s asserted limitations on the subjects speakers may
+discuss during the public-comment portion of city council
+meetings (although he continues to dispute whether those
+limitations in fact existed).
+   Instead Lozman challenges only the lawfulness of his
+
+
+6                  LOZMAN v. RIVIERA BEACH
+                       Opinion of the Court
+arrest, and even that challenge is a limited one. There is
+no contention that the City ordered Lozman’s arrest to
+discriminate against him based on protected classifica-
+tions, or that the City denied Lozman his equal protection
+rights by placing him in a “class of one.” See Village of
+Willowbrook v. Olech, 528 U. S. 562 (2000) (per curiam).
+Lozman, moreover, now concedes that there was probable
+cause for the arrest. Although Lozman does not indicate
+what facts he believes support this concession, it appears
+that the existence of probable cause must be based on the
+assumption that Lozman failed to depart the podium after
+receiving a lawful order to leave.
+   Lozman’s claim is that, notwithstanding the presence of
+probable cause, his arrest at the city council meeting
+violated the First Amendment because the arrest was
+ordered in retaliation for his earlier, protected speech: his
+open-meetings lawsuit and his prior public criticisms of
+city officials. The question this Court is asked to consider
+is whether the existence of probable cause bars that First
+Amendment retaliation claim.
+                               III
+   It is well established that in a §1983 case a city or other
+local governmental entity cannot be subject to liability at
+all unless the harm was caused in the implementation of
+“official municipal policy.” Monell v. New York City Dept.
+of Social Servs., 436 U. S. 658, 691 (1978); see Los Angeles
+County v. Humphries, 562 U. S. 29, 36 (2010). Lozman’s
+§1983 damages claim is against only the City itself, based
+on the acts of its officers and employees—here, the mem-
+bers of the City Council. Lozman says that the City,
+through its city councilmembers, formed an official policy
+to retaliate against him and ordered his arrest. The Court
+assumes in the discussion to follow that the arrest was
+taken pursuant to an official city policy, but whether there
+was such a policy and what its content may have been are
+
+
+                   Cite as: 585 U. S. ____ (2018)             7
+                        Opinion of the Court
+issues not decided here.
+  This brings the discussion to the issue the parties deem
+central to the case: whether the conceded existence of
+probable cause for the arrest bars recovery regardless of
+any intent or purpose to retaliate for past speech. Two
+major precedents could bear on this point, and the parties
+disagree on which should be applicable here. The first is
+this Court’s decision in Mt. Healthy City Bd. of Ed. v.
+Doyle, 429 U. S. 274 (1977). See also Board of Comm’rs,
+Wabaunsee Cty. v. Umbehr, 518 U. S. 668 (1996). Lozman
+urges that the rule of Mt. Healthy should control and that
+under it he is entitled to recover. The second is this
+Court’s decision in Hartman v. Moore, 547 U. S. 250
+(2006), which the City cites for the proposition that once
+there is probable cause there can be no further claim that
+the arrest was retaliation for protected speech.
+  Mt. Healthy arose in a civil, not criminal, context. A city
+board of education decided not to rehire an untenured
+school teacher after a series of incidents indicating unpro-
+fessional demeanor. 429 U. S., at 281283. One of the
+incidents was a telephone call the teacher made to a local
+radio station to report on a new school policy. Id., at 282.
+Because the board of education did not suggest that the
+teacher violated any established policy in making the call,
+this Court accepted a finding by the District Court that
+the call was protected speech. Id., at 284. The Court went
+on to hold, however, that since the other incidents, stand-
+ing alone, would have justified the dismissal, relief could
+not be granted if the board could show that the discharge
+would have been ordered even without reference to the
+protected speech. Id., at 285287. In terms of precepts in
+the law of torts, the Court held that even if retaliation
+might have been a substantial motive for the board’s
+action, still there was no liability unless the alleged consti-
+tutional violation was a but-for cause of the employment
+termination. Ibid.; see also Umbehr, supra, at 675.
+
+
+8                 LOZMAN v. RIVIERA BEACH
+                       Opinion of the Court
+   The City resists the applicability of the Mt. Healthy test
+as the sole determinant here. It contends that, where
+there was probable cause for the arrest, the applicable
+precedent is Hartman—a case that was in the criminal
+sphere and that turned on the existence of probable cause.
+   The background in Hartman was that a company and its
+chief executive, William Moore, had engaged in an exten-
+sive lobbying and governmental relations campaign oppos-
+ing a particular postal service policy. 547 U. S., at
+252253. Moore and the company were later prosecuted
+for violating federal statutes in the course of that lobbying.
+Id., at 253254. After being acquitted, Moore filed suit
+against five postal inspectors, alleging that they had
+violated his First Amendment rights when they instigated
+his prosecution in retaliation for his criticisms of the
+Postal Service. Id., at 254. This Court held that a plain-
+tiff alleging a retaliatory prosecution must show the ab-
+sence of probable cause for the underlying criminal
+charge. Id., at 265266. If there was probable cause, the
+case ends. If the plaintiff proves the absence of probable
+cause, then the Mt. Healthy test governs: The plaintiff
+must show that the retaliation was a substantial or moti-
+vating factor behind the prosecution, and, if that showing
+is made, the defendant can prevail only by showing that
+the prosecution would have been initiated without respect
+to retaliation. See 547 U. S., at 265–266.
+   The Court in Hartman deemed it necessary to inquire as
+to the existence of probable cause because proving the link
+between the defendant’s retaliatory animus and the plain-
+tiff ’s injury in retaliatory prosecution cases “is usually
+more complex than it is in other retaliation cases.” Id., at
+261. An action for retaliatory prosecution “will not be
+brought against the prosecutor, who is absolutely immune
+from liability for the decision to prosecute.” Id., at
+261262. Instead, the plaintiff must sue some other gov-
+ernment official and prove that the official “induced the
+
+
+                   Cite as: 585 U. S. ____ (2018)            9
+                        Opinion of the Court
+prosecutor to bring charges that would not have been
+initiated without his urging.” Id., at 262. Noting that
+inquiries with respect to probable cause are commonplace
+in criminal cases, the Court determined that requiring
+plaintiffs in retaliatory prosecution cases to prove the lack
+of probable cause would help “bridge the gap between the
+nonprosecuting government agent’s motive and the prose-
+cutor’s action.” Id., at 263.
+   The City’s argument here is that, just as probable cause
+is a bar in retaliatory prosecution cases, so too should it be
+a bar in this case, involving a retaliatory arrest. There is
+undoubted force in the City’s position. Reichle, 566 U. S.,
+at 667–668. There are on average about 29,000 arrests
+per day in this country. Dept. of Justice–FBI, Uniform
+Crime Report, Crime in the United States, 2016 (Fall
+2017). In deciding whether to arrest, police officers often
+make split-second judgments. The content of the suspect’s
+speech might be a consideration in circumstances where
+the officer must decide whether the suspect is ready to
+cooperate, or, on the other hand, whether he may present
+a continuing threat to interests that the law must protect.
+See, e.g., District of Columbia v. Wesby, 583 U. S. ___, ___
+(2018) (slip op., at 10) (“suspect’s untruthful and evasive
+answers to police questioning could support probable
+cause” (internal quotation marks omitted)).
+   For these reasons retaliatory arrest claims, much like
+retaliatory prosecution claims, can “present a tenuous
+causal connection between the defendant’s alleged animus
+and the plaintiff ’s injury.” Reichle, 566 U. S., at 668.
+That means it can be difficult to discern whether an arrest
+was caused by the officer’s legitimate or illegitimate con-
+sideration of speech. Ibid. And the complexity of proving
+(or disproving) causation in these cases creates a risk that
+the courts will be flooded with dubious retaliatory arrest
+suits. See Brief for District of Columbia et al. as Amici
+Curiae 511.
+
+
+10                LOZMAN v. RIVIERA BEACH
+                      Opinion of the Court
+   At the same time, there are substantial arguments that
+Hartman’s framework is inapt in retaliatory arrest cases,
+and that Mt. Healthy should apply without a threshold
+inquiry into probable cause. For one thing, the causation
+problem in retaliatory arrest cases is not the same as the
+problem identified in Hartman. Hartman relied in part on
+the fact that, in retaliatory prosecution cases, the causal
+connection between the defendant’s animus and the prose-
+cutor’s decision to prosecute is weakened by the “presump-
+tion of regularity accorded to prosecutorial decisionmak-
+ing.” 547 U. S., at 263. That presumption does not apply
+in this context. See Reichle, supra, at 669. In addition,
+there is a risk that some police officers may exploit the
+arrest power as a means of suppressing speech. See Brief
+for Institute for Free Speech as Amicus Curiae.
+                              IV
+   The parties’ arguments raise difficult questions about
+the scope of First Amendment protections when speech is
+made in connection with, or contemporaneously to, crimi-
+nal activity. But whether in a retaliatory arrest case the
+Hartman approach should apply, thus barring a suit
+where probable cause exists, or, on the other hand, the
+inquiry should be governed only by Mt. Healthy is a de-
+termination that must await a different case. For Loz-
+man’s claim is far afield from the typical retaliatory arrest
+claim, and the difficulties that might arise if Mt. Healthy
+is applied to the mine run of arrests made by police offi-
+cers are not present here.
+   Here Lozman does not sue the officer who made the
+arrest. Indeed, Lozman likely could not have maintained
+a retaliation claim against the arresting officer in these
+circumstances, because the officer appears to have acted in
+good faith, and there is no showing that the officer had
+any knowledge of Lozman’s prior speech or any motive to
+arrest him for his earlier expressive activities.
+
+
+                    Cite as: 585 U. S. ____ (2018)             11
+                         Opinion of the Court
+   Instead Lozman alleges more governmental action than
+simply an arrest. His claim is that the City itself retali-
+ated against him pursuant to an “official municipal policy” of
+intimidation. Monell, 436 U. S., at 691. In particular, he
+alleges that the City, through its legislators, formed a
+premeditated plan to intimidate him in retaliation for his
+criticisms of city officials and his open-meetings lawsuit.
+And he asserts that the City itself, through the same high
+officers, executed that plan by ordering his arrest at the
+November 2006 city council meeting.
+   The fact that Lozman must prove the existence and
+enforcement of an official policy motivated by retaliation
+separates Lozman’s claim from the typical retaliatory
+arrest claim. An official retaliatory policy is a particularly
+troubling and potent form of retaliation, for a policy can be
+long term and pervasive, unlike an ad hoc, on-the-spot
+decision by an individual officer. An official policy also can
+be difficult to dislodge. A citizen who suffers retaliation by
+an individual officer can seek to have the officer disci-
+plined or removed from service, but there may be little
+practical recourse when the government itself orchestrates
+the retaliation.      For these reasons, when retaliation
+against protected speech is elevated to the level of official
+policy, there is a compelling need for adequate avenues of
+redress.
+   In addition, Lozman’s allegations, if proved, alleviate
+the problems that the City says will result from applying
+Mt. Healthy in retaliatory arrest cases. The causation
+problem in arrest cases is not of the same difficulty where,
+as is alleged here, the official policy is retaliation for prior,
+protected speech bearing little relation to the criminal
+offense for which the arrest is made. In determining
+whether there was probable cause to arrest Lozman for
+disrupting a public assembly, it is difficult to see why a
+city official could have legitimately considered that Loz-
+man had, months earlier, criticized city officials or filed a
+
+
+12                  LOZMAN v. RIVIERA BEACH
+                        Opinion of the Court
+lawsuit against the City. So in a case like this one it is
+unlikely that the connection between the alleged animus
+and injury will be “weakened . . . by [an official’s] legiti-
+mate consideration of speech.” Reichle, 566 U. S., at 668.
+This unique class of retaliatory arrest claims, moreover,
+will require objective evidence of a policy motivated by
+retaliation to survive summary judgment. Lozman, for
+instance, cites a transcript of a closed-door city council
+meeting and a video recording of his arrest. There is thus
+little risk of a flood of retaliatory arrest suits against high-
+level policymakers.
+   As a final matter, it must be underscored that this
+Court has recognized the “right to petition as one of the
+most precious of the liberties safeguarded by the Bill of
+Rights.” BE&K Constr. Co. v. NLRB, 536 U. S. 516, 524
+(2002) (internal quotation marks omitted). Lozman alleges
+the City deprived him of this liberty by retaliating against
+him for his lawsuit against the City and his criticisms of
+public officials. Thus, Lozman’s speech is high in the
+hierarchy of First Amendment values. See Connick v.
+Myers, 461 U. S. 138, 145 (1983).
+   For these reasons, Lozman need not prove the absence
+of probable cause to maintain a claim of retaliatory arrest
+against the City. On facts like these, Mt. Healthy provides
+the correct standard for assessing a retaliatory arrest
+claim. The Court need not, and does not, address the
+elements required to prove a retaliatory arrest claim in
+other contexts.
+   This is not to say, of course, that Lozman is ultimately
+entitled to relief or even a new trial. On remand, the
+Court of Appeals, applying Mt. Healthy and other relevant
+precedents, may consider any arguments in support of the
+District Court’s judgment that have been preserved by the
+City. Among other matters, the Court of Appeals may
+wish to consider (1) whether any reasonable juror could
+find that the City actually formed a retaliatory policy to
+
+
+                  Cite as: 585 U. S. ____ (2018)                13
+                       Opinion of the Court
+intimidate Lozman during its June 2006 closed-door ses-
+sion; (2) whether any reasonable juror could find that the
+November 2006 arrest constituted an official act by the
+City; and (3) whether, under Mt. Healthy, the City has
+proved that it would have arrested Lozman regardless of
+any retaliatory animus—for example, if Lozman’s conduct
+during prior city council meetings had also violated valid
+rules as to proper subjects of discussion, thus explaining
+his arrest here.
+   For these reasons, the judgment of the Court of Appeals
+is vacated, and the case is remanded for further proceed-
+ings consistent with this opinion.
+                                                 It is so ordered.
+
+
+                   Cite as: 585 U. S. ____ (2018)            1
+                       THOMAS, J., dissenting
+SUPREME COURT OF THE UNITED STATES
+                            _________________
+                              No. 17–21
+                            _________________
+   FANE LOZMAN, PETITIONER v. CITY OF RIVIERA
+                      BEACH, FLORIDA
+  ON WRIT OF CERTIORARI TO THE UNITED STATES COURT OF
+             APPEALS FOR THE ELEVENTH CIRCUIT
+                          [June 18, 2018]
+   JUSTICE THOMAS, dissenting.
+   We granted certiorari to decide “whether the existence
+of probable cause defeats a First Amendment claim for
+retaliatory arrest under [42 U. S. C.] §1983.” Ante, at 5.
+Instead of resolving that question, the Court decides that
+probable cause should not defeat a “unique class of retalia-
+tory arrest claims.” Ante, at 12. To fall within this unique
+class, a claim must involve objective evidence, of an official
+municipal policy of retaliation, formed well before the
+arrest, in response to highly protected speech, that has
+little relation to the offense of arrest. See ante, at 11–12.
+No one briefed, argued, or even hinted at the rule that the
+Court announces today. Instead of dreaming up our own
+rule, I would have answered the question presented and
+held that plaintiffs must plead and prove a lack of prob-
+able cause as an element of a First Amendment retaliatory-
+arrest claim. I respectfully dissent.
+                                    I
+   The petition for certiorari asked us to resolve whether
+“the existence of probable cause defeat[s] a First Amend-
+ment retaliatory-arrest claim as a matter of law.” Pet. for
+Cert. i. That question has divided the federal courts for
+decades. See id., at 10–13. We granted certiorari to con-
+sider it six years ago in Reichle v. Howards, 566 U. S. 658,
+
+
+2                     LOZMAN v. RIVIERA BEACH
+                          THOMAS, J., dissenting
+663 (2012). But we did not resolve it then because the
+petitioner’s second question presented—whether qualified
+immunity applied—fully resolved the case. Ibid. Since
+Reichle, the split in the federal courts has widened. See
+Pet. for Cert. 12–13. In this case, we again granted certio-
+rari, 538 U. S. ___ (2017), this time only on the question of
+probable cause, see Pet. for Cert. i.
+   Yet the Court chooses not to resolve that question,
+leaving in place the decades-long disagreement among the
+federal courts. The parties concentrated all their argu-
+ments on this question in their briefs and at oral argu-
+ment. Neither party suggested that there was something
+special about Fane Lozman’s claim that would justify a
+narrower rule. See, e.g., Tr. of Oral Arg. 15–16 (refusing
+to take the “fallback position” that this “is some special
+kind of case”). Yet the Court does that work for them by
+defining a “unique class of retaliatory arrest claims” that
+do not require plaintiffs to plead and prove a lack of prob-
+able cause. Ante, at 12.
+   By my count, the Court has identified five conditions
+that are necessary to trigger its new rule. First, there
+must be “an ‘official municipal policy’ of intimidation.”
+Ante, at 11 (quoting Monell v. New York City Dept. of
+Social Servs., 436 U. S. 658, 691 (1978)). Second, the
+policy must be “premeditated” and formed well before the
+arrest—here, for example, the policy was formed “months
+earlier.” Ante, at 11.1 Third, there must be “objective
+evidence” of such a policy. Ante, at 12. Fourth, there must
+be “little relation” between the “protected speech” that
+prompted the retaliatory policy and “the criminal offense
+——————
+  1 This requirement suggests that the Court’s rule does not apply
+when the “policy” that the plaintiff challenges is an on-the-spot decision
+by a single official with final policymaking authority, like the “policy”
+that this Court recognized in Pembaur v. Cincinnati, 475 U. S. 469
+(1986). See id., at 484–485 (holding that a county prosecutor’s order to
+forcibly enter the plaintiff’s clinic was a “municipal policy”).
+
+
+                      Cite as: 585 U. S. ____ (2018)                     3
+                          THOMAS, J., dissenting
+for which the arrest is made.” Ante, at 11. Finally, the
+protected speech that provoked the retaliatory policy must
+be “high in the hierarchy of First Amendment values.”
+Ante, at 12. Where all these features are present, the
+Court explains, there is not the same “causation problem”
+that exists for other retaliatory-arrest claims. Ante, at 11.
+    I find it hard to believe that there will be many cases
+where this rule will even arguably apply, and even harder
+to believe that the plaintiffs in those cases will actually
+prove all five requirements. Not even Lozman’s case is a
+good fit, as the Court admits when it discusses the rele-
+vant considerations for remand. See ante, at 12–13. In
+my view, we should not have gone out of our way to fash-
+ion a complicated rule with no apparent applicability to
+this case or any other.
+                                     II
+    Turning to the question presented, I would hold that
+plaintiffs bringing a First Amendment retaliatory-arrest
+claim must plead and prove an absence of probable cause.2
+This Court has “repeatedly noted that 42 U. S. C. §1983
+creates ‘ “a species of tort liability.” ’ ” Memphis Commu-
+nity School Dist. v. Stachura, 477 U. S. 299, 305 (1986)
+(footnote omitted). Accordingly, we “defin[e] the contours
+and prerequisites of a §1983 claim” by “look[ing] first to
+the common law of torts.” Manuel v. Joliet, 580 U. S. ___,
+___ (2017) (slip op., at 12); see, e.g., Heck v. Humphrey,
+512 U. S. 477, 484 (1994) (analogizing to the “common-law
+cause of action for malicious prosecution”); id., at 491
+(THOMAS, J., concurring) (emphasizing that the decision
+——————
+   2 I am skeptical that 42 U. S. C. §1983 recognizes a claim for retalia-
+tory arrests under the First Amendment. I adhere to the view that “no
+‘intent-based’ constitutional tort would have been actionable under the
+§1983 that Congress enacted.” Crawford-El v. Britton, 523 U. S. 574,
+612 (1998) (Scalia, J., dissenting). But because no party presses this
+argument, I assume that such claims are actionable under §1983.
+
+
+4                 LOZMAN v. RIVIERA BEACH
+                      THOMAS, J., dissenting
+was “consistent . . . with the state of the common law at
+the time §1983 was enacted”).
+   When §1983 was enacted, there was no common-law tort
+for retaliatory arrest in violation of the freedom of speech.
+See Hartman v. Moore, 547 U. S. 250, 259 (2006). I would
+therefore look to the common-law torts that “provid[e] the
+closest analogy” to this claim. Heck, supra, at 484. The
+closest analogs here are the three arrest-based torts under
+the common law: false imprisonment, malicious prosecu-
+tion, and malicious arrest. In defining the elements of
+these three torts, 19th-century courts emphasized the
+importance of probable cause.
+   Consider first the tort of false imprisonment. Common-
+law courts stressed the need to shape this tort with an
+“indulgence” for peace officers, who are “specially charged
+with a duty in the enforcement of the laws.” T. Cooley,
+Law of Torts 175 (1880) (Cooley); see, e.g., Hogg v. Ward, 3
+H. & N. 417, 423, 157 Eng. Rep. 533, 536 (Ex. 1858) (opin-
+ion of Watson, B.) (stressing “the utmost importance that
+the police throughout the country should be supported in
+the execution of their duty”). Accordingly, private citizens
+were always liable for false imprisonment if the arrestee
+had not actually committed a felony, but constables were
+“excused” if they had “made [the arrest] on reasonable
+grounds of belief ”—i.e., probable cause. Cooley 175; ac-
+cord, 2 C. Addison, Law of Torts §803, p. 18 (1876); 1 F.
+Hilliard, The Law of Torts or Private Wrongs §18, pp. 207–
+208, and n. (a) (1866). As Lord Mansfield explained, it
+was “of great consequence to the police” that probable
+cause shield officers from false-imprisonment claims, as “it
+would be a terrible thing” if the threat of liability dissuaded
+them from performing their official duties. Ledwith v.
+Catchpole, 2 Cald. 291, 295 (K. B. 1783). This concern
+outweighed “the mischief and inconvenience to the public”
+from the reality that “[m]any an innocent man has and
+may be taken up upon suspicion.” Ibid. Many State Su-
+
+
+                   Cite as: 585 U. S. ____ (2018)            5
+                       THOMAS, J., dissenting
+preme Courts agreed with Lord Mansfield’s reasoning.
+See, e.g., Burns v. Erben, 40 N. Y. 463, 469 (1869) (opinion
+of Woodruff, J.) (quoting Ledwith); Brockway v. Crawford,
+48 N. C. 433, 437 (1856) (“[The] exempt[ion] for responsi-
+bility” for arrests based on probable cause “encourages . . .
+a sharp look-out for the apprehension of felons”). As one
+court put it, “How, in the great cities of this land, could
+police power be exercised, if every peace officer is liable to
+civil action for false imprisonment” whenever “persons
+arrested upon probable cause shall afterwards be found
+innocent?” Hawley v. Butler, 54 Barb. 490, 496 (N. Y. Sup.
+1868).
+   Courts also stressed the importance of probable cause
+when defining the torts of malicious prosecution and
+malicious arrest. See, e.g., Ahern v. Collins, 39 Mo. 145,
+150 (1866) (holding that “malice and want of probable
+cause are necessary ingredients of both”). For the tort of
+malicious prosecution, courts emphasized the “necessity”
+of both the “allegation” and “proof ” of probable cause, in
+light of the public interest “that criminals should be
+brought to justice.” Hogg v. Pinckney, 16 S. C. 387, 393
+(1882); see also Chrisman v. Carney, 33 Ark. 316, 326
+(1878) (“The existence of probable cause is of itself alone a
+complete defense . . . . The interest which society has in
+the enforcement of the criminal laws requires this rule”).
+Similarly, if the element of probable cause were not
+“strictly guarded,” “ill consequences would ensue to the
+public, for no one would willingly undertake to vindicate a
+breach of the public law and discharge his duty to society,
+with the prospect of an annoying suit staring him in the
+face.” Ventress v. Rosser, 73 Ga. 534, 541 (1884); accord,
+Cardival v. Smith, 109 Mass. 158 (1872). The element of
+probable cause also played an evidentiary role for both
+torts. Lack of probable cause provided “evidence of malice,
+though inconclusive,” Herman v. Brookerhoff, 8 Watts 240,
+241 (Pa. 1839), because “[m]alice may be inferred from a
+
+
+6                 LOZMAN v. RIVIERA BEACH
+                      THOMAS, J., dissenting
+total want of probable cause,” Ventress, supra, at 541;
+accord, Ahern, supra, at 150.
+  In sum, when §1983 was enacted, the common law
+recognized probable cause as an important element for
+ensuring that arrest-based torts did not unduly interfere
+with the objectives of law enforcement. Common-law
+courts were wary of “throw[ing] down the bars which
+protect public officers from suits for acts done within the
+scope of their duty and authority, by recognizing the right
+of every one who chooses to imagine or assert that he is
+aggrieved by their doings, to make use of an allegation
+that they were malicious in motive to harass them with
+suits on that ground.” Chelsey v. King, 74 Me. 164, 175–
+176 (1882).
+  Applying that principle here, it follows that plaintiffs
+bringing a First Amendment retaliatory-arrest claim
+under §1983 should have to plead and prove a lack of
+probable cause. I see no justification for deviating from
+the historical practice simply because an arrest claim is
+framed in terms of the First Amendment. Even under a
+First Amendment theory, “the significance of probable
+cause or the lack of it looms large.” Hartman, 547 U. S., at
+265. The presence of probable cause will tend to disprove
+that the arrest was done out of retaliation for the plaintiff ’s
+speech, and the absence of probable cause will tend to
+prove the opposite. See id., at 261. Because “[p]robable
+cause or its absence will be at least an evidentiary issue in
+practically all such cases” and “[b]ecause showing [its]
+absence . . . will have high probative force, and can be
+made mandatory with little or no added cost,” the absence
+of probable cause should be an “element” of the plaintiff ’s
+case. Id., at 265–266; see also id., at 264, n. 10 (refusing
+to carve out an exception for unusual cases).
+  Moreover, as with the traditional arrest-based torts,
+police officers need the safe harbor of probable cause in
+the First Amendment context to be able to do their jobs
+
+
+                   Cite as: 585 U. S. ____ (2018)            7
+                       THOMAS, J., dissenting
+effectively. Police officers almost always exchange words
+with suspects before arresting them. And often a suspect’s
+“speech provides evidence of a crime or suggests a poten-
+tial threat.” Reichle, 566 U. S., at 668. If probable cause
+were not required, the threat of liability might deter an
+officer from arresting a suspected criminal who, for exam-
+ple, has a political bumper sticker on his car, cf. Kilpatrick
+v. United States, 432 Fed. Appx. 937 (CA11 2011); is par-
+ticipating in a politically tinged protest, Morse v. San
+Francisco Bay Area Rapid Transit Dist., 2014 WL 572352
+(ND Cal., Feb. 11, 2014); or confronts and criticizes the
+officer during the arrest of a third party, Holland v. San
+Francisco, 2013 WL 968295 (ND Cal., Mar. 12, 2013).
+Allowing plaintiffs to bring a retaliatory-arrest claim in
+such circumstances, without pleading and proving a lack
+of probable cause, would permit plaintiffs to harass offi-
+cers with the kind of suits that common-law courts deemed
+intolerable.
+                           *     *      *
+   Because we should have answered the question presented
+and held that probable cause necessarily defeats First
+Amendment retaliatory-arrest claims, I respectfully
+dissent.

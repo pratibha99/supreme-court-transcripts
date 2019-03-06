@@ -1,0 +1,3260 @@
+(Slip Opinion)                OCTOBER TERM, 2017                                    1
+                                         Syllabus
+          NOTE: Where it is feasible, a syllabus (headnote) will be released, as is
+        being done in connection with this case, at the time the opinion is issued.
+        The syllabus constitutes no part of the opinion of the Court but has been
+        prepared by the Reporter of Decisions for the convenience of the reader.
+        See United States v. Detroit Timber & Lumber Co., 200 U. S. 321, 337.
+SUPREME COURT OF THE UNITED STATES
+                                         Syllabus
+      JANUS v. AMERICAN FEDERATION OF STATE,
+           COUNTY, AND MUNICIPAL EMPLOYEES,
+                              COUNCIL 31, ET AL.
+ CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR
+                             THE SEVENTH CIRCUIT
+    No. 16–1466. Argued February 26, 2018—Decided June 27, 2018
+Illinois law permits public employees to unionize. If a majority of the
+   employees in a bargaining unit vote to be represented by a union,
+   that union is designated as the exclusive representative of all the
+   employees, even those who do not join. Only the union may engage
+   in collective bargaining; individual employees may not be represented
+   by another agent or negotiate directly with their employer. Non-
+   members are required to pay what is generally called an “agency fee,”
+   i.e., a percentage of the full union dues. Under Abood v. Detroit Bd.
+   of Ed., 431 U. S. 209, 235–236, this fee may cover union expenditures
+   attributable to those activities “germane” to the union’s collective-
+   bargaining activities (chargeable expenditures), but may not cover
+   the union’s political and ideological projects (nonchargeable expendi-
+   tures). The union sets the agency fee annually and then sends non-
+   members a notice explaining the basis for the fee and the breakdown
+   of expenditures. Here it was 78.06% of full union dues.
+      Petitioner Mark Janus is a state employee whose unit is represent-
+   ed by a public-sector union (Union), one of the respondents. He re-
+   fused to join the Union because he opposes many of its positions, in-
+   cluding those taken in collective bargaining. Illinois’ Governor,
+   similarly opposed to many of these positions, filed suit challenging
+   the constitutionality of the state law authorizing agency fees. The
+   state attorney general, another respondent, intervened to defend the
+   law, while Janus moved to intervene on the Governor’s side. The
+   District Court dismissed the Governor’s challenge for lack of stand-
+   ing, but it simultaneously allowed Janus to file his own complaint
+   challenging the constitutionality of agency fees. The District Court
+
+
+2    JANUS v. STATE, COUNTY, AND MUNICIPAL EMPLOYEES
+                                 Syllabus
+  granted respondents’ motion to dismiss on the ground that the claim
+  was foreclosed by Abood. The Seventh Circuit affirmed.
+Held:
+     1. The District Court had jurisdiction over petitioner’s suit. Peti-
+  tioner was undisputedly injured in fact by Illinois’ agency-fee scheme
+  and his injuries can be redressed by a favorable court decision. For
+  jurisdictional purposes, the court permissibly treated his amended
+  complaint in intervention as the operative complaint in a new law-
+  suit. United States ex rel. Texas Portland Cement Co. v. McCord, 233
+  U. S. 157, distinguished. Pp. 6–7.
+     2. The State’s extraction of agency fees from nonconsenting public-
+  sector employees violates the First Amendment. Abood erred in con-
+  cluding otherwise, and stare decisis cannot support it. Abood is
+  therefore overruled. Pp. 7–47.
+          (a) Abood’s holding is inconsistent with standard First
+  Amendment principles. Pp. 7–18.
+     (1) Forcing free and independent individuals to endorse ideas they
+  find objectionable raises serious First Amendment concerns. E.g.,
+  West Virginia Bd. of Ed. v. Barnette, 319 U. S. 624, 633. That in-
+  cludes compelling a person to subsidize the speech of other private
+  speakers. E.g., Knox v. Service Employees, 567 U. S. 298, 309. In
+  Knox and Harris v. Quinn, 573 U. S. ___, the Court applied an “exact-
+  ing” scrutiny standard in judging the constitutionality of agency fees
+  rather than the more traditional strict scrutiny. Even under the
+  more permissive standard, Illinois’ scheme cannot survive. Pp. 7–11.
+     (2) Neither of Abood’s two justifications for agency fees passes mus-
+  ter under this standard. First, agency fees cannot be upheld on the
+  ground that they promote an interest in “labor peace.” The Abood
+  Court’s fears of conflict and disruption if employees were represented
+  by more than one union have proved to be unfounded: Exclusive rep-
+  resentation of all the employees in a unit and the exaction of agency
+  fees are not inextricably linked. To the contrary, in the Federal Gov-
+  ernment and the 28 States with laws prohibiting agency fees, mil-
+  lions of public employees are represented by unions that effectively
+  serve as the exclusive representatives of all the employees. Whatever
+  may have been the case 41 years ago when Abood was decided, it is
+  thus now undeniable that “labor peace” can readily be achieved
+  through less restrictive means than the assessment of agency fees.
+     Second, avoiding “the risk of ‘free riders,’ ” Abood, supra, at 224, is
+  not a compelling state interest. Free-rider “arguments . . . are gener-
+  ally insufficient to overcome First Amendment objections,” Knox, su-
+  pra, at 311, and the statutory requirement that unions represent
+  members and nonmembers alike does not justify different treatment.
+  As is evident in non-agency-fee jurisdictions, unions are quite willing
+
+
+                    Cite as: 585 U. S. ____ (2018)                     3
+                               Syllabus
+to represent nonmembers in the absence of agency fees. And their
+duty of fair representation is a necessary concomitant of the authori-
+ty that a union seeks when it chooses to be the exclusive representa-
+tive. In any event, States can avoid free riders through less restric-
+tive means than the imposition of agency fees. Pp. 11–18.
+     (b) Respondents’ alternative justifications for Abood are similarly
+unavailing. Pp. 18–26.
+   (1) The Union claims that Abood is supported by the First Amend-
+ment’s original meaning. But neither founding-era evidence nor dic-
+tum in Connick v. Myers, 461 U. S. 138, 143, supports the view that
+the First Amendment was originally understood to allow States to
+force public employees to subsidize a private third party. If anything,
+the opposite is true. Pp. 18–22.
+   (2) Nor does Pickering v. Board of Ed. of Township High School
+Dist. 205, Will Cty., 391 U. S. 563, provide a basis for Abood. Abood
+was not based on Pickering, and for good reasons. First, Pickering’s
+framework was developed for use in cases involving “one employee’s
+speech and its impact on that employee’s public responsibilities,”
+United States v. Treasury Employees, 513 U. S. 454, 467, while Abood
+and other agency-fee cases involve a blanket requirement that all
+employees subsidize private speech with which they may not agree.
+Second, Pickering’s framework was designed to determine whether a
+public employee’s speech interferes with the effective operation of a
+government office, not what happens when the government compels
+speech or speech subsidies in support of third parties. Third, the cat-
+egorization schemes of Pickering and Abood do not line up. For ex-
+ample, under Abood, nonmembers cannot be charged for speech that
+concerns political or ideological issues; but under Pickering, an em-
+ployee’s free speech interests on such issues could be overcome if
+outweighed by the employer’s interests. Pp. 22–26.
+      (c) Even under some form of Pickering, Illinois’ agency-fee ar-
+rangement would not survive. Pp. 26–33.
+   (1) Respondents compare union speech in collective bargaining and
+grievance proceedings to speech “pursuant to [an employee’s] official
+duties,” Garcetti v. Ceballos, 547 U. S. 410, 421, which the State may
+require of its employees. But in those situations, the employee’s
+words are really the words of the employer, whereas here the union is
+speaking on behalf of the employees. Garcetti therefore does not ap-
+ply. Pp. 26–27.
+   (2) Nor does the union speech at issue cover only matters of private
+concern, which the State may also generally regulate under Picker-
+ing. To the contrary, union speech covers critically important and
+public matters such as the State’s budget crisis, taxes, and collective
+bargaining issues related to education, child welfare, healthcare, and
+
+
+4   JANUS v. STATE, COUNTY, AND MUNICIPAL EMPLOYEES
+                                 Syllabus
+  minority rights. Pp. 27–31.
+    (3) The government’s proffered interests must therefore justify the
+  heavy burden of agency fees on nonmembers’ First Amendment in-
+  terests. They do not. The state interests asserted in Abood—
+  promoting “labor peace” and avoiding free riders—clearly do not, as
+  explained earlier. And the new interests asserted in Harris and
+  here—bargaining with an adequately funded agent and improving
+  the efficiency of the work force—do not suffice either. Experience
+  shows that unions can be effective even without agency fees. Pp. 31–
+  33.
+        (d) Stare decisis does not require retention of Abood. An analy-
+  sis of several important factors that should be taken into account in
+  deciding whether to overrule a past decision supports this conclusion.
+  Pp. 33–47.
+     (1) Abood was poorly reasoned, and those arguing for retaining it
+  have recast its reasoning, which further undermines its stare decisis
+  effect, e.g., Citizens United v. Federal Election Comm’n, 558 U. S.
+  310, 363. Abood relied on Railway Employes v. Hanson, 351 U. S.
+  225, and Machinists v. Street, 367 U. S. 740, both of which involved
+  private-sector collective-bargaining agreements where the govern-
+  ment merely authorized agency fees. Abood did not appreciate the
+  very different First Amendment question that arises when a State
+  requires its employees to pay agency fees. Abood also judged the con-
+  stitutionality of public-sector agency fees using Hanson’s deferential
+  standard, which is inappropriate in deciding free speech issues. Nor
+  did Abood take into account the difference between the effects of
+  agency fees in public- and private-sector collective bargaining, antici-
+  pate administrative problems with classifying union expenses as
+  chargeable or nonchargeable, foresee practical problems faced by
+  nonmembers wishing to challenge those decisions, or understand the
+  inherently political nature of public-sector bargaining. Pp. 35–38.
+    (2) Abood’s lack of workability also weighs against it. Its line be-
+  tween chargeable and nonchargeable expenditures has proved to be
+  impossible to draw with precision, as even respondents recognize.
+  See, e.g., Lehnert v. Ferris Faculty Assn., 500 U. S. 507, 519. What is
+  more, a nonmember objecting to union chargeability determinations
+  will have much trouble determining the accuracy of the union’s re-
+  ported expenditures, which are often expressed in extremely broad
+  and vague terms. Pp. 38–41.
+    (3) Developments since Abood, both factual and legal, have “erod-
+  ed” the decision’s “underpinnings” and left it an outlier among the
+  Court’s First Amendment cases. United States v. Gaudin, 515 U. S.
+  506, 521. Abood relied on an assumption that “the principle of exclu-
+  sive representation in the public sector is dependent on a union or
+
+
+                       Cite as: 585 U. S. ____ (2018)                    5
+                                   Syllabus
+  agency shop,” Harris, 573 U. S., at ___–___, but experience has shown
+  otherwise. It was also decided when public-sector unionism was a
+  relatively new phenomenon. Today, however, public-sector union
+  membership has surpassed that in the private sector, and that as-
+  cendency corresponds with a parallel increase in public spending.
+  Abood is also an anomaly in the Court’s First Amendment jurispru-
+  dence, where exacting scrutiny, if not a more demanding standard,
+  generally applies. Overruling Abood will also end the oddity of allow-
+  ing public employers to compel union support (which is not supported
+  by any tradition) but not to compel party support (which is supported
+  by tradition), see, e.g., Elrod v. Burns, 427 U. S. 347. Pp. 42–44.
+    (4) Reliance on Abood does not carry decisive weight. The uncer-
+  tain status of Abood, known to unions for years; the lack of clarity it
+  provides; the short-term nature of collective-bargaining agreements;
+  and the ability of unions to protect themselves if an agency-fee provi-
+  sion was crucial to its bargain undermine the force of reliance.
+  Pp. 44–47.
+    3. For these reasons, States and public-sector unions may no longer
+  extract agency fees from nonconsenting employees.              The First
+  Amendment is violated when money is taken from nonconsenting
+  employees for a public-sector union; employees must choose to sup-
+  port the union before anything is taken from them. Accordingly, nei-
+  ther an agency fee nor any other form of payment to a public-sector
+  union may be deducted from an employee, nor may any other attempt
+  be made to collect such a payment, unless the employee affirmatively
+  consents to pay. Pp. 48–49.
+851 F. 3d 746, reversed and remanded.
+  ALITO, J., delivered the opinion of the Court, in which ROBERTS, C. J.,
+and KENNEDY, THOMAS, and, GORSUCH, JJ., joined. SOTOMAYOR, J., filed
+a dissenting opinion. KAGAN, J., filed a dissenting opinion, in which
+GINSBURG, BREYER, and SOTOMAYOR, JJ., joined.
+
+
+                        Cite as: 585 U. S. ____ (2018)                            1
+                              Opinion of the Court
+     NOTICE: This opinion is subject to formal revision before publication in the
+     preliminary print of the United States Reports. Readers are requested to
+     notify the Reporter of Decisions, Supreme Court of the United States, Wash­
+     ington, D. C. 20543, of any typographical or other formal errors, in order
+     that corrections may be made before the preliminary print goes to press.
+SUPREME COURT OF THE UNITED STATES
+                                    _________________
+                                    No. 16–1466
+                                    _________________
+  MARK JANUS, PETITIONER v. AMERICAN FEDER­
+     ATION OF STATE, COUNTY, AND MUNICIPAL
+               EMPLOYEES, COUNCIL 31, ET AL.
+ ON WRIT OF CERTIORARI TO THE UNITED STATES COURT OF
+                APPEALS FOR THE SEVENTH CIRCUIT
+                                  [June 27, 2018]
+   JUSTICE ALITO delivered the opinion of the Court.
+   Under Illinois law, public employees are forced to subsi­
+dize a union, even if they choose not to join and strongly
+object to the positions the union takes in collective bar­
+gaining and related activities. We conclude that this
+arrangement violates the free speech rights of nonmem­
+bers by compelling them to subsidize private speech on
+matters of substantial public concern.
+   We upheld a similar law in Abood v. Detroit Bd. of Ed.,
+431 U. S. 209 (1977), and we recognize the importance of
+following precedent unless there are strong reasons for not
+doing so. But there are very strong reasons in this case.
+Fundamental free speech rights are at stake. Abood was
+poorly reasoned. It has led to practical problems and
+abuse. It is inconsistent with other First Amendment
+cases and has been undermined by more recent decisions.
+Developments since Abood was handed down have shed
+new light on the issue of agency fees, and no reliance
+interests on the part of public-sector unions are sufficient
+to justify the perpetuation of the free speech violations
+
+
+2   JANUS v. STATE, COUNTY, AND MUNICIPAL EMPLOYEES
+                       Opinion of the Court
+that Abood has countenanced for the past 41 years. Abood
+is therefore overruled.
+                                I
+                                A
+   Under the Illinois Public Labor Relations Act (IPLRA),
+employees of the State and its political subdivisions are
+permitted to unionize.        See Ill. Comp. Stat., ch. 5,
+§315/6(a) (West 2016). If a majority of the employees in a
+bargaining unit vote to be represented by a union, that
+union is designated as the exclusive representative of all
+the employees. §§315/3(s)(1), 315/6(c), 315/9. Employees
+in the unit are not obligated to join the union selected by
+their co-workers, but whether they join or not, that union
+is deemed to be their sole permitted representative. See
+§§315/6(a), (c).
+   Once a union is so designated, it is vested with broad
+authority. Only the union may negotiate with the employer
+on matters relating to “pay, wages, hours[,] and other
+conditions of employment.” §315/6(c). And this authority
+extends to the negotiation of what the IPLRA calls “policy
+matters,” such as merit pay, the size of the work force,
+layoffs, privatization, promotion methods, and non­
+discrimination policies. §315/4; see §315/6(c); see gener-
+ally, e.g., Illinois Dept. of Central Management Servs. v.
+AFSCME, Council 31, No. S–CB–16–17 etc., 33 PERI ¶67
+(ILRB Dec. 13, 2016) (Board Decision).
+   Designating a union as the employees’ exclusive repre­
+sentative substantially restricts the rights of individual
+employees. Among other things, this designation means
+that individual employees may not be represented by any
+agent other than the designated union; nor may individual
+employees negotiate directly with their employer.
+§§315/6(c)–(d), 315/10(a)(4); see Matthews v. Chicago
+Transit Authority, 2016 IL 117638, 51 N. E. 3d 753, 782;
+accord, Medo Photo Supply Corp. v. NLRB, 321 U. S. 678,
+
+
+                   Cite as: 585 U. S. ____ (2018)            3
+                        Opinion of the Court
+683–684 (1944). Protection of the employees’ interests is
+placed in the hands of the union, and therefore the union
+is required by law to provide fair representation for all
+employees in the unit, members and nonmembers alike.
+§315/6(d).
+   Employees who decline to join the union are not as­
+sessed full union dues but must instead pay what is gen­
+erally called an “agency fee,” which amounts to a percent­
+age of the union dues. Under Abood, nonmembers may be
+charged for the portion of union dues attributable to activ­
+ities that are “germane to [the union’s] duties as collective-
+bargaining representative,” but nonmembers may not be
+required to fund the union’s political and ideological pro­
+jects. 431 U. S., at 235; see id., at 235–236. In labor-law
+parlance, the outlays in the first category are known as
+“chargeable” expenditures, while those in the latter are
+labeled “nonchargeable.”
+   Illinois law does not specify in detail which expenditures
+are chargeable and which are not. The IPLRA provides
+that an agency fee may compensate a union for the costs
+incurred in “the collective bargaining process, contract
+administration[,] and pursuing matters affecting wages,
+hours[,] and conditions of employment.” §315/6(e); see also
+§315/3(g). Excluded from the agency-fee calculation are
+union expenditures “related to the election or support of
+any candidate for political office.” §315/3(g); see §315/6(e).
+   Applying this standard, a union categorizes its expendi­
+tures as chargeable or nonchargeable and thus determines
+a nonmember’s “proportionate share,” §315/6(e); this
+determination is then audited; the amount of the “propor­
+tionate share” is certified to the employer; and the em­
+ployer automatically deducts that amount from the non­
+members’ wages. See ibid.; App. to Pet. for Cert. 37a; see
+also Harris v. Quinn, 573 U. S. ___, ___–___ (2014) (slip
+op., at 19–20) (describing this process). Nonmembers need
+not be asked, and they are not required to consent before
+
+
+4   JANUS v. STATE, COUNTY, AND MUNICIPAL EMPLOYEES
+                       Opinion of the Court
+the fees are deducted.
+   After the amount of the agency fee is fixed each year,
+the union must send nonmembers what is known as a
+Hudson notice. See Teachers v. Hudson, 475 U. S. 292
+(1986). This notice is supposed to provide nonmembers
+with “an adequate explanation of the basis for the [agency]
+fee.” Id., at 310. If nonmembers “suspect that a union has
+improperly put certain expenses in the [chargeable] cate­
+gory,” they may challenge that determination. Harris,
+supra, at ___ (slip op., at 19).
+   As illustrated by the record in this case, unions charge
+nonmembers, not just for the cost of collective bargaining
+per se, but also for many other supposedly connected
+activities. See App. to Pet. for Cert. 28a–39a. Here, the
+nonmembers were told that they had to pay for
+“[l]obbying,” “[s]ocial and recreational activities,” “adver­
+tising,” “[m]embership meetings and conventions,” and
+“litigation,” as well as other unspecified “[s]ervices” that
+“may ultimately inure to the benefit of the members of the
+local bargaining unit.” Id., at 28a–32a. The total charge­
+able amount for nonmembers was 78.06% of full union
+dues. Id., at 34a.
+                                B
+   Petitioner Mark Janus is employed by the Illinois De­
+partment of Healthcare and Family Services as a child
+support specialist. Id., at 10a. The employees in his unit
+are among the 35,000 public employees in Illinois who are
+represented by respondent American Federation of State,
+County, and Municipal Employees, Council 31 (Union).
+Ibid. Janus refused to join the Union because he opposes
+“many of the public policy positions that [it] advocates,”
+including the positions it takes in collective bargaining.
+Id., at 10a, 18a. Janus believes that the Union’s “behavior
+in bargaining does not appreciate the current fiscal crises
+in Illinois and does not reflect his best interests or the
+
+
+                   Cite as: 585 U. S. ____ (2018)             5
+                        Opinion of the Court
+interests of Illinois citizens.” Id., at 18a. Therefore, if he
+had the choice, he “would not pay any fees or otherwise
+subsidize [the Union].” Ibid. Under his unit’s collective-
+bargaining agreement, however, he was required to pay an
+agency fee of $44.58 per month, id., at 14a—which would
+amount to about $535 per year.
+   Janus’s concern about Illinois’ current financial situa­
+tion is shared by the Governor of the State, and it was the
+Governor who initially challenged the statute authorizing
+the imposition of agency fees. The Governor commenced
+an action in federal court, asking that the law be declared
+unconstitutional, and the Illinois attorney general (a
+respondent here) intervened to defend the law. App. 41.
+Janus and two other state employees also moved to inter­
+vene—but on the Governor’s side. Id., at 60.
+   Respondents moved to dismiss the Governor’s challenge
+for lack of standing, contending that the agency fees did
+not cause him any personal injury. E.g., id., at 48–49.
+The District Court agreed that the Governor could not
+maintain the lawsuit, but it held that petitioner and the
+other individuals who had moved to intervene had stand­
+ing because the agency fees unquestionably injured them.
+Accordingly, “in the interest of judicial economy,” the court
+dismissed the Governor as a plaintiff, while simultane-
+ously allowing petitioner and the other employees to file their
+own complaint. Id., at 112. They did so, and the case
+proceeded on the basis of this new complaint.
+   The amended complaint claims that all “nonmember fee
+deductions are coerced political speech” and that “the First
+Amendment forbids coercing any money from the non­
+members.” App. to Pet. for Cert. 23a. Respondents moved
+to dismiss the amended complaint, correctly recognizing
+that the claim it asserted was foreclosed by Abood. The
+District Court granted the motion, id., at 7a, and the
+Court of Appeals for the Seventh Circuit affirmed, 851
+F. 3d 746 (2017).
+
+
+6   JANUS v. STATE, COUNTY, AND MUNICIPAL EMPLOYEES
+                       Opinion of the Court
+   Janus then sought review in this Court, asking us to
+overrule Abood and hold that public-sector agency-fee
+arrangements are unconstitutional. We granted certiorari
+to consider this important question. 582 U. S. ___ (2017).
+                                II
+   Before reaching this question, however, we must con-
+sider a threshold issue. Respondents contend that the Dis-
+trict Court lacked jurisdiction under Article III of the
+Constitution because petitioner “moved to intervene in
+[the Governor’s] jurisdictionally defective lawsuit.” Union
+Brief in Opposition 11; see also id., at 13–17; State Brief in
+Opposition 6; Brief for Union Respondent i, 16–17; Brief
+for State Respondents 14, n. 1. This argument is clearly
+wrong.
+   It rests on the faulty premise that petitioner intervened
+in the action brought by the Governor, but that is not
+what happened. The District Court did not grant petition­
+er’s motion to intervene in that lawsuit. Instead, the court
+essentially treated petitioner’s amended complaint as the
+operative complaint in a new lawsuit. App. 110–112. And
+when the case is viewed in that way, any Article III issue
+vanishes. As the District Court recognized—and as re­
+spondents concede—petitioner was injured in fact by
+Illinois’ agency-fee scheme, and his injuries can be re­
+dressed by a favorable court decision. Ibid.; see Record
+2312–2313, 2322–2323. Therefore, he clearly has Article
+III standing. Lujan v. Defenders of Wildlife, 504 U. S. 555,
+560–561 (1992). It is true that the District Court docketed
+petitioner’s complaint under the number originally as­
+signed to the Governor’s complaint, instead of giving it a
+new number of its own. But Article III jurisdiction does
+not turn on such trivialities.
+   The sole decision on which respondents rely, United
+States ex rel. Texas Portland Cement Co. v. McCord, 233
+U. S. 157 (1914), actually works against them. That case
+
+
+                   Cite as: 585 U. S. ____ (2018)              7
+                        Opinion of the Court
+concerned a statute permitting creditors of a government
+contractor to bring suit on a bond between 6 and 12
+months after the completion of the work. Id., at 162. One
+creditor filed suit before the 6-month starting date, but
+another intervened within the 6-to-12-month window. The
+Court held that the “[t]he intervention [did] not cure th[e]
+vice in the original [prematurely filed] suit,” but the Court
+also contemplated treating “intervention . . . as an original
+suit” in a case in which the intervenor met the require­
+ments that a plaintiff must satisfy—e.g., filing a separate
+complaint and properly serving the defendants. Id., at
+163–164. Because that is what petitioner did here, we
+may reach the merits of the question presented.
+                                III
+   In Abood, the Court upheld the constitutionality of an
+agency-shop arrangement like the one now before us, 431
+U. S., at 232, but in more recent cases we have recognized
+that this holding is “something of an anomaly,” Knox v.
+Service Employees, 567 U. S. 298, 311 (2012), and that
+Abood’s “analysis is questionable on several grounds,”
+Harris, 573 U. S., at ___ (slip op., at 17); see id., at ___–___
+(slip op., at 17–20) (discussing flaws in Abood’s reasoning).
+We have therefore refused to extend Abood to situations
+where it does not squarely control, see Harris, supra, at
+___–___ (slip op., at 27–29), while leaving for another day
+the question whether Abood should be overruled, Harris,
+supra, at ___, n. 19 (slip op., at 27, n. 19); see Knox, supra,
+at 310–311.
+   We now address that question. We first consider
+whether Abood’s holding is consistent with standard First
+Amendment principles.
+                                 A
+   The First Amendment, made applicable to the States by
+the Fourteenth Amendment, forbids abridgment of the
+
+
+8   JANUS v. STATE, COUNTY, AND MUNICIPAL EMPLOYEES
+                        Opinion of the Court
+freedom of speech. We have held time and again that
+freedom of speech “includes both the right to speak freely
+and the right to refrain from speaking at all.” Wooley v.
+Maynard, 430 U. S. 705, 714 (1977); see Riley v. National
+Federation of Blind of N. C., Inc., 487 U. S. 781, 796–797
+(1988); Harper & Row, Publishers, Inc. v. Nation Enter-
+prises, 471 U. S. 539, 559 (1985); Miami Herald Publish-
+ing Co. v. Tornillo, 418 U. S. 241, 256–257 (1974); accord,
+Pacific Gas & Elec. Co. v. Public Util. Comm’n of Cal., 475
+U. S. 1, 9 (1986) (plurality opinion). The right to eschew
+association for expressive purposes is likewise protected.
+Roberts v. United States Jaycees, 468 U. S. 609, 623 (1984)
+(“Freedom of association . . . plainly presupposes a free­
+dom not to associate”); see Pacific Gas & Elec., supra, at
+12 (“[F]orced associations that burden protected speech
+are impermissible”). As Justice Jackson memorably put it:
+“If there is any fixed star in our constitutional constella­
+tion, it is that no official, high or petty, can prescribe what
+shall be orthodox in politics, nationalism, religion, or other
+matters of opinion or force citizens to confess by word or
+act their faith therein.” West Virginia Bd. of Ed. v. Bar-
+nette, 319 U. S. 624, 642 (1943) (emphasis added).
+   Compelling individuals to mouth support for views they
+find objectionable violates that cardinal constitutional
+command, and in most contexts, any such effort would be
+universally condemned. Suppose, for example, that the
+State of Illinois required all residents to sign a document
+expressing support for a particular set of positions on
+controversial public issues—say, the platform of one of the
+major political parties. No one, we trust, would seriously
+argue that the First Amendment permits this.
+   Perhaps because such compulsion so plainly violates the
+Constitution, most of our free speech cases have involved
+restrictions on what can be said, rather than laws compel­
+ling speech. But measures compelling speech are at least
+as threatening.
+
+
+                  Cite as: 585 U. S. ____ (2018)           9
+                       Opinion of the Court
+    Free speech serves many ends. It is essential to our
+democratic form of government, see, e.g., Garrison v.
+Louisiana, 379 U. S. 64, 74–75 (1964), and it furthers the
+search for truth, see, e.g., Thornhill v. Alabama, 310 U. S.
+88, 95 (1940). Whenever the Federal Government or a
+State prevents individuals from saying what they think on
+important matters or compels them to voice ideas with
+which they disagree, it undermines these ends.
+    When speech is compelled, however, additional damage
+is done. In that situation, individuals are coerced into
+betraying their convictions. Forcing free and independent
+individuals to endorse ideas they find objectionable is
+always demeaning, and for this reason, one of our land­
+mark free speech cases said that a law commanding “in­
+voluntary affirmation” of objected-to beliefs would require
+“even more immediate and urgent grounds” than a law
+demanding silence. Barnette, supra, at 633; see also Riley,
+supra, at 796–797 (rejecting “deferential test” for com­
+pelled speech claims).
+    Compelling a person to subsidize the speech of other
+private speakers raises similar First Amendment con­
+cerns. Knox, supra, at 309; United States v. United Foods,
+Inc., 533 U. S. 405, 410 (2001); Abood, supra, at 222, 234–
+235. As Jefferson famously put it, “to compel a man to
+furnish contributions of money for the propagation of
+opinions which he disbelieves and abhor[s] is sinful and
+tyrannical.” A Bill for Establishing Religious Freedom, in
+2 Papers of Thomas Jefferson 545 (J. Boyd ed. 1950) (em­
+phasis deleted and footnote omitted); see also Hudson, 475
+U. S., at 305, n. 15. We have therefore recognized that a
+“ ‘significant impingement on First Amendment rights’ ”
+occurs when public employees are required to provide
+financial support for a union that “takes many positions
+during collective bargaining that have powerful political
+and civic consequences.” Knox, supra, at 310–311 (quoting
+Ellis v. Railway Clerks, 466 U. S. 435, 455 (1984)).
+
+
+10 JANUS v. STATE, COUNTY, AND MUNICIPAL EMPLOYEES
+                       Opinion of the Court
+   Because the compelled subsidization of private speech
+seriously impinges on First Amendment rights, it cannot
+be casually allowed. Our free speech cases have identified
+“levels of scrutiny” to be applied in different contexts, and
+in three recent cases, we have considered the standard
+that should be used in judging the constitutionality of
+agency fees. See Knox, supra; Harris, supra; Friedrichs v.
+California Teachers Assn., 578 U. S. ___ (2016) (per cu-
+riam) (affirming decision below by equally divided Court).
+   In Knox, the first of these cases, we found it sufficient to
+hold that the conduct in question was unconstitutional
+under even the test used for the compulsory subsidization
+of commercial speech. 567 U. S., at 309–310, 321–322.
+Even though commercial speech has been thought to enjoy
+a lesser degree of protection, see, e.g., Central Hudson Gas
+& Elec. Corp. v. Public Serv. Comm’n of N. Y., 447 U. S.
+557, 562–563 (1980), prior precedent in that area, specifi­
+cally United Foods, supra, had applied what we character­
+ized as “exacting” scrutiny, Knox, 567 U. S., at 310, a less
+demanding test than the “strict” scrutiny that might be
+thought to apply outside the commercial sphere. Under
+“exacting” scrutiny, we noted, a compelled subsidy must
+“serve a compelling state interest that cannot be achieved
+through means significantly less restrictive of associa-
+tional freedoms.” Ibid. (internal quotation marks and altera-
+tions omitted).
+   In Harris, the second of these cases, we again found that
+an agency-fee requirement failed “exacting scrutiny.” 573
+U. S., at ___ (slip op., at 33). But we questioned whether
+that test provides sufficient protection for free speech
+rights, since “it is apparent that the speech compelled” in
+agency-fee cases “is not commercial speech.” Id., at ___
+(slip op., at 30).
+   Picking up that cue, petitioner in the present case con­
+tends that the Illinois law at issue should be subjected to
+“strict scrutiny.” Brief for Petitioner 36. The dissent, on
+
+
+                  Cite as: 585 U. S. ____ (2018)           11
+                       Opinion of the Court
+the other hand, proposes that we apply what amounts to
+rational-basis review, that is, that we ask only whether a
+government employer could reasonably believe that the
+exaction of agency fees serves its interests. See post, at 4
+(KAGAN, J., dissenting) (“A government entity could rea­
+sonably conclude that such a clause was needed”). This
+form of minimal scrutiny is foreign to our free-speech
+jurisprudence, and we reject it here. At the same time, we
+again find it unnecessary to decide the issue of strict
+scrutiny because the Illinois scheme cannot survive under
+even the more permissive standard applied in Knox and
+Harris.
+   In the remainder of this part of our opinion (Parts III–B
+and III–C), we will apply this standard to the justifica­
+tions for agency fees adopted by the Court in Abood.
+Then, in Parts IV and V, we will turn to alternative ra­
+tionales proffered by respondents and their amici.
+                                B
+   In Abood, the main defense of the agency-fee arrange­
+ment was that it served the State’s interest in “labor
+peace,” 431 U. S., at 224. By “labor peace,” the Abood
+Court meant avoidance of the conflict and disruption that
+it envisioned would occur if the employees in a unit were
+represented by more than one union. In such a situation,
+the Court predicted, “inter-union rivalries” would foster
+“dissension within the work force,” and the employer could
+face “conflicting demands from different unions.” Id., at
+220–221. Confusion would ensue if the employer entered
+into and attempted to “enforce two or more agreements
+specifying different terms and conditions of employment.”
+Id., at 220. And a settlement with one union would be
+“subject to attack from [a] rival labor organizatio[n].” Id.,
+at 221.
+   We assume that “labor peace,” in this sense of the term,
+is a compelling state interest, but Abood cited no evidence
+
+
+12 JANUS v. STATE, COUNTY, AND MUNICIPAL EMPLOYEES
+                           Opinion of the Court
+that the pandemonium it imagined would result if agency
+fees were not allowed, and it is now clear that Abood’s
+fears were unfounded. The Abood Court assumed that
+designation of a union as the exclusive representative of
+all the employees in a unit and the exaction of agency fees
+are inextricably linked, but that is simply not true. Har-
+ris, supra, at ___ (slip op., at 31).
+    The federal employment experience is illustrative.
+Under federal law, a union chosen by majority vote is
+designated as the exclusive representative of all the em­
+ployees, but federal law does not permit agency fees. See
+5 U. S. C. §§7102, 7111(a), 7114(a). Nevertheless, nearly a
+million federal employees—about 27% of the federal work
+force—are union members.1 The situation in the Postal
+Service is similar. Although permitted to choose an exclu­
+sive representative, Postal Service employees are not
+required to pay an agency fee, 39 U. S. C. §§1203(a),
+1209(c), and about 400,000 are union members.2 Like­
+wise, millions of public employees in the 28 States that
+have laws generally prohibiting agency fees are represented
+by unions that serve as the exclusive representatives of
+all the employees.3 Whatever may have been the case 41
+years ago when Abood was handed down, it is now unde­
+niable that “labor peace” can readily be achieved “through
+means significantly less restrictive of associational free­
+doms” than the assessment of agency fees. Harris, supra,
+at ___ (slip op., at 30) (internal quotation marks omitted).
+——————
+   1 See Bureau of Labor Statistics (BLS), Labor Force Statistics From
+the Current Population Survey (Table 42) (2017), https://www
+.bls.gov/cps/tables.htm (all Internet materials as visited June 26, 2018).
+   2 See Union Membership and Coverage Database From the Current
+Population Survey (Jan. 21, 2018), unionstats.com.
+   3 See National Conference of State Legislatures, Right-to-Work States
+(2018),     http://www.ncsl.org/research/labor-and-employment/right-to­
+work-laws-and-bills.aspx#chart; see also, e.g., Brief for Mackinac
+Center for Public Policy as Amicus Curiae 27–28, 34–36.
+
+
+                  Cite as: 585 U. S. ____ (2018)            13
+                       Opinion of the Court
+                                C
+   In addition to the promotion of “labor peace,” Abood
+cited “the risk of ‘free riders’ ” as justification for agency
+fees, 431 U. S., at 224. Respondents and some of their
+amici endorse this reasoning, contending that agency fees
+are needed to prevent nonmembers from enjoying the
+benefits of union representation without shouldering the
+costs. Brief for Union Respondent 34–36; Brief for State
+Respondents 41–45; see, e.g., Brief for International
+Brotherhood of Teamsters as Amicus Curiae 3–5.
+   Petitioner strenuously objects to this free-rider label.
+He argues that he is not a free rider on a bus headed for a
+destination that he wishes to reach but is more like a
+person shanghaied for an unwanted voyage.
+   Whichever description fits the majority of public em­
+ployees who would not subsidize a union if given the op­
+tion, avoiding free riders is not a compelling interest. As
+we have noted, “free-rider arguments . . . are generally
+insufficient to overcome First Amendment objections.”
+Knox, 567 U. S., at 311. To hold otherwise across the
+board would have startling consequences. Many private
+groups speak out with the objective of obtaining govern­
+ment action that will have the effect of benefiting non­
+members. May all those who are thought to benefit from
+such efforts be compelled to subsidize this speech?
+   Suppose that a particular group lobbies or speaks out on
+behalf of what it thinks are the needs of senior citizens or
+veterans or physicians, to take just a few examples. Could
+the government require that all seniors, veterans, or
+doctors pay for that service even if they object? It has
+never been thought that this is permissible. “[P]rivate
+speech often furthers the interests of nonspeakers,” but
+“that does not alone empower the state to compel the
+speech to be paid for.” Lehnert v. Ferris Faculty Assn., 500
+U. S. 507, 556 (1991) (Scalia, J., concurring in judgment in
+part and dissenting in part). In simple terms, the First
+
+
+14 JANUS v. STATE, COUNTY, AND MUNICIPAL EMPLOYEES
+                            Opinion of the Court
+Amendment does not permit the government to compel a
+person to pay for another party’s speech just because the
+government thinks that the speech furthers the interests
+of the person who does not want to pay.4
+    Those supporting agency fees contend that the situation
+here is different because unions are statutorily required to
+“represen[t] the interests of all public employees in the
+unit,” whether or not they are union members. §315/6(d);
+see, e.g., Brief for State Respondents 40–41, 45; post, at 7
+(KAGAN, J., dissenting). Why might this matter?
+    We can think of two possible arguments. It might be
+argued that a State has a compelling interest in requiring
+the payment of agency fees because (1) unions would
+otherwise be unwilling to represent nonmembers or (2) it
+would be fundamentally unfair to require unions to pro­
+vide fair representation for nonmembers if nonmembers
+were not required to pay. Neither of these arguments is
+sound.
+    First, it is simply not true that unions will refuse to
+serve as the exclusive representative of all employees in
+the unit if they are not given agency fees. As noted, un­
+ions represent millions of public employees in jurisdictions
+that do not permit agency fees. No union is ever com­
+pelled to seek that designation. On the contrary, designa­
+tion as exclusive representative is avidly sought.5 Why is
+——————
+   4 The collective-action problem cited by the dissent, post, at 6, is not
+specific to the agency-fee context. And contrary to the dissent’s sugges­
+tion, it is often not practical for an entity that lobbies or advocates on
+behalf of the members of a group to tailor its message so that only its
+members benefit from its efforts. Consider how effective it would be for
+a group that advocates on behalf of, say, seniors, to argue that a new
+measure should apply only to its dues-paying members.
+   5 In order to obtain that status, a union must petition to be recognized
+and campaign to win majority approval. Ill. Comp. Stat., ch. 5,
+§315/9(a) (2016); see, e.g., County of Du Page v. Illinois Labor Relations
+Bd., 231 Ill. 2d 593, 597–600, 900 N. E. 2d 1095, 1098–1099 (2008).
+And unions eagerly seek this support. See, e.g., Brief for Employees of
+
+
+                     Cite as: 585 U. S. ____ (2018)        15
+                          Opinion of the Court
+this so?
+   Even without agency fees, designation as the exclusive
+representative confers many benefits. As noted, that
+status gives the union a privileged place in negotiations
+over wages, benefits, and working conditions.             See
+§315/6(c). Not only is the union given the exclusive right
+to speak for all the employees in collective bargaining, but
+the employer is required by state law to listen to and to
+bargain in good faith with only that union. §315/7. Des­
+ignation as exclusive representative thus “results in a
+tremendous increase in the power” of the union. American
+Communications Assn. v. Douds, 339 U. S. 382, 401
+(1950).
+   In addition, a union designated as exclusive representa­
+tive is often granted special privileges, such as obtaining
+information about employees, see §315/6(c), and having
+dues and fees deducted directly from employee wages,
+§§315/6(e)–(f ). The collective-bargaining agreement in
+this case guarantees a long list of additional privileges.
+See App. 138–143.
+   These benefits greatly outweigh any extra burden im­
+posed by the duty of providing fair representation for
+nonmembers. What this duty entails, in simple terms, is
+an obligation not to “act solely in the interests of [the
+union’s] own members.” Brief for State Respondents 41;
+see Cintron v. AFSCME, Council 31, No. S–CB–16–032,
+p. 1, 34 PERI ¶105 (ILRB Dec. 13, 2017) (union may not
+intentionally direct “animosity” toward nonmembers based
+on their “dissident union practices”); accord, 14 Penn
+Plaza LLC v. Pyett, 556 U. S. 247, 271 (2009); Vaca v.
+Sipes, 386 U. S. 171, 177 (1967).
+   What does this mean when it comes to the negotiation of
+a contract? The union may not negotiate a collective-
+bargaining agreement that discriminates against non­
+——————
+the State of Minnesota Court System as Amici Curiae 9–17.
+
+
+16 JANUS v. STATE, COUNTY, AND MUNICIPAL EMPLOYEES
+                      Opinion of the Court
+members, see Steele v. Louisville & Nashville R. Co., 323
+U. S. 192, 202–203 (1944), but the union’s bargaining
+latitude would be little different if state law simply prohib­
+ited public employers from entering into agreements that
+discriminate in that way. And for that matter, it is ques­
+tionable whether the Constitution would permit a public-
+sector employer to adopt a collective-bargaining agree­
+ment that discriminates against nonmembers. See id., at
+198–199, 202 (analogizing a private-sector union’s fair-
+representation duty to the duty “the Constitution imposes
+upon a legislature to give equal protection to the interests
+of those for whom it legislates”); cf. Rumsfeld v. Forum for
+Academic and Institutional Rights, Inc., 547 U. S. 47, 69
+(2006) (recognizing that government may not “impose
+penalties or withhold benefits based on membership in a
+disfavored group” where doing so “ma[kes] group member­
+ship less attractive”). To the extent that an employer
+would be barred from acceding to a discriminatory agree­
+ment anyway, the union’s duty not to ask for one is super­
+fluous. It is noteworthy that neither respondents nor any
+of the 39 amicus briefs supporting them—nor the dis­
+sent—has explained why the duty of fair representation
+causes public-sector unions to incur significantly greater
+expenses than they would otherwise bear in negotiating
+collective-bargaining agreements.
+   What about the representation of nonmembers in griev­
+ance proceedings? Unions do not undertake this activity
+solely for the benefit of nonmembers—which is why Illi­
+nois law gives a public-sector union the right to send a
+representative to such proceedings even if the employee
+declines union representation. §315/6(b). Representation
+of nonmembers furthers the union’s interest in keeping
+control of the administration of the collective-bargaining
+agreement, since the resolution of one employee’s griev­
+ance can affect others. And when a union controls the
+grievance process, it may, as a practical matter, effectively
+
+
+                      Cite as: 585 U. S. ____ (2018)                 17
+                           Opinion of the Court
+subordinate “the interests of [an] individual em-
+ployee . . . to the collective interests of all employees in the
+bargaining unit.” Alexander v. Gardner-Denver Co., 415
+U. S. 36, 58, n. 19 (1974); see Stahulak v. Chicago, 184
+Ill. 2d 176, 180–181, 703 N. E. 2d 44, 46–47 (1998); Ma-
+honey v. Chicago, 293 Ill. App. 3d 69, 73–74, 687 N. E. 2d
+132, 135–137 (1997) (union has “ ‘discretion to refuse to
+process’ ” a grievance, provided it does not act “arbi­
+trar[ily]” or “in bad faith” (emphasis deleted)).
+    In any event, whatever unwanted burden is imposed by
+the representation of nonmembers in disciplinary matters
+can be eliminated “through means significantly less re­
+strictive of associational freedoms” than the imposition of
+agency fees. Harris, 573 U. S., at ___ (slip op., at 30)
+(internal quotation marks omitted). Individual nonmem­
+bers could be required to pay for that service or could be
+denied union representation altogether.6 Thus, agency
+fees cannot be sustained on the ground that unions would
+otherwise be unwilling to represent nonmembers.
+    Nor can such fees be justified on the ground that it
+would otherwise be unfair to require a union to bear the
+duty of fair representation. That duty is a necessary
+concomitant of the authority that a union seeks when it
+chooses to serve as the exclusive representative of all the
+employees in a unit. As explained, designating a union as
+the exclusive representative of nonmembers substantially
+restricts the nonmembers’ rights. Supra, at 2–3. Protec­
+——————
+   6 There is precedent for such arrangements. Some States have laws
+providing that, if an employee with a religious objection to paying an
+agency fee “requests the [union] to use the grievance procedure or
+arbitration procedure on the employee’s behalf, the [union] is author­
+ized to charge the employee for the reasonable cost of using such
+procedure.” E.g., Cal. Govt. Code Ann. §3546.3 (West 2010); cf. Ill.
+Comp. Stat., ch. 5, §315/6(g) (2016). This more tailored alternative, if
+applied to other objectors, would prevent free ridership while imposing
+a lesser burden on First Amendment rights.
+
+
+18 JANUS v. STATE, COUNTY, AND MUNICIPAL EMPLOYEES
+                       Opinion of the Court
+tion of their interests is placed in the hands of the union,
+and if the union were free to disregard or even work
+against those interests, these employees would be wholly
+unprotected. That is why we said many years ago that
+serious “constitutional questions [would] arise” if the
+union were not subject to the duty to represent all employ­
+ees fairly. Steele, supra, at 198.
+   In sum, we do not see any reason to treat the free-rider
+interest any differently in the agency-fee context than in
+any other First Amendment context. See Knox, 567 U. S.,
+at 311, 321. We therefore hold that agency fees cannot be
+upheld on free-rider grounds.
+                               IV
+   Implicitly acknowledging the weakness of Abood’s own
+reasoning, proponents of agency fees have come forward
+with alternative justifications for the decision, and we now
+address these arguments.
+                                A
+   The most surprising of these new arguments is the
+Union respondent’s originalist defense of Abood. Accord­
+ing to this argument, Abood was correctly decided because
+the First Amendment was not originally understood to
+provide any protection for the free speech rights of public
+employees. Brief for Union Respondent 2–3, 17–20.
+   As an initial matter, we doubt that the Union—or its
+members—actually want us to hold that public employees
+have “no [free speech] rights.” Id., at 1. Cf., e.g., Brief for
+National Treasury Employees Union as Amicus Curiae in
+Garcetti v. Ceballos, O. T. 2005, No. 04–473, p. 7 (arguing
+for “broa[d]” public-employee First Amendment rights);
+Brief for AFL–CIO as Amicus Curiae in No. 04–473
+(similar).
+   It is particularly discordant to find this argument in a
+brief that trumpets the importance of stare decisis. See
+
+
+                    Cite as: 585 U. S. ____ (2018)          19
+                         Opinion of the Court
+Brief for Union Respondent 47–57. Taking away free
+speech protection for public employees would mean
+overturning decades of landmark precedent. Under the
+Union’s theory, Pickering v. Board of Ed. of Township
+High School Dist. 205, Will Cty., 391 U. S. 563 (1968), and
+its progeny would fall. Yet Pickering, as we will discuss, is
+now the foundation for respondents’ chief defense of
+Abood. And indeed, Abood itself would have to go if public
+employees have no free speech rights, since Abood holds
+that the First Amendment prohibits the exaction of agency
+fees for political or ideological purposes. 431 U. S., at 234–
+235 (finding it “clear” that “a government may not require
+an individual to relinquish rights guaranteed him by the
+First Amendment as a condition of public employment”).
+Our political patronage cases would be doomed. See, e.g.,
+Rutan v. Republican Party of Ill., 497 U. S. 62 (1990);
+Branti v. Finkel, 445 U. S. 507 (1980); Elrod v. Burns, 427
+U. S. 347 (1976). Also imperiled would be older precedents
+like Wieman v. Updegraff, 344 U. S. 183 (1952) (loyalty
+oaths), Shelton v. Tucker, 364 U. S. 479 (1960) (disclosure
+of memberships and contributions), and Keyishian v.
+Board of Regents of Univ. of State of N. Y., 385 U. S. 589
+(1967) (subversive speech). Respondents presumably want
+none of this, desiring instead that we apply the
+Constitution’s supposed original meaning only when it
+suits them—to retain the part of Abood that they like. See
+Tr. of Oral Arg. 56–57. We will not engage in this halfway
+originalism.
+   Nor, in any event, does the First Amendment’s original
+meaning support the Union’s claim. The Union offers no
+persuasive founding-era evidence that public employees
+were understood to lack free speech protections. While it
+observes that restrictions on federal employees’ activities
+have existed since the First Congress, most of its historical
+examples involved limitations on public officials’ outside
+business dealings, not on their speech. See Ex parte
+
+
+20 JANUS v. STATE, COUNTY, AND MUNICIPAL EMPLOYEES
+                      Opinion of the Court
+Curtis, 106 U. S. 371, 372–373 (1882). The only early
+speech restrictions the Union identifies are an 1806
+statute prohibiting military personnel from using
+“ ‘contemptuous or disrespectful words against the
+President’ ” and other officials, and an 1801 directive
+limiting electioneering by top government employees.
+Brief for Union Respondent 3. But those examples at most
+show that the government was understood to have power
+to limit employee speech that threatened important
+governmental interests (such as maintaining military
+discipline and preventing corruption)—not that public
+employees’ speech was entirely unprotected. Indeed, more
+recently this Court has upheld similar restrictions even
+while recognizing that government employees possess
+First Amendment rights. See, e.g., Brown v. Glines, 444
+U. S. 348, 353 (1980) (upholding military restriction on
+speech that threatened troop readiness); Civil Service
+Comm’n v. Letter Carriers, 413 U. S. 548, 556–557 (1973)
+(upholding limits on public employees’ political activities).
+    Ultimately, the Union relies, not on founding-era
+evidence, but on dictum from a 1983 opinion of this Court
+stating that, “[f]or most of th[e 20th] century, the
+unchallenged dogma was that a public employee had no
+right to object to conditions placed upon the terms of
+employment—including those which restricted the
+exercise of constitutional rights.” Connick v. Myers, 461
+U. S. 138, 143; see Brief for Union Respondent 2, 17. Even
+on its own terms, this dictum about 20th-century views
+does not purport to describe how the First Amendment
+was understood in 1791. And a careful examination of the
+decisions by this Court that Connick cited to support its
+dictum, see 461 U. S., at 144, reveals that none of them
+rested on the facile premise that public employees are
+unprotected by the First Amendment. Instead, they
+considered (much as we do today) whether particular
+speech restrictions were “necessary to protect”
+
+
+                       Cite as: 585 U. S. ____ (2018)                 21
+                            Opinion of the Court
+fundamental government interests. Curtis, supra, at 374.
+    The Union has also failed to show that, even if public
+employees enjoyed free speech rights, the First
+Amendment was nonetheless originally understood to
+allow forced subsidies like those at issue here. We can
+safely say that, at the time of the adoption of the First
+Amendment, no one gave any thought to whether public-
+sector unions could charge nonmembers agency fees.
+Entities resembling labor unions did not exist at the
+founding, and public-sector unions did not emerge until
+the mid-20th century.                 The idea of public-sector
+unionization and agency fees would astound those who
+framed and ratified the Bill of Rights.7 Thus, the Union
+cannot point to any accepted founding-era practice that
+even remotely resembles the compulsory assessment of
+agency fees from public-sector employees. We do know,
+however, that prominent members of the founding
+generation condemned laws requiring public employees to
+affirm or support beliefs with which they disagreed. As
+noted, Jefferson denounced compelled support for such
+beliefs as “ ‘sinful and tyrannical,’ ” supra, at 9, and others
+expressed similar views.8
+——————
+   7 Indeed, under common law, “collective bargaining was unlawful,”
+Teamsters v. Terry, 494 U. S. 558, 565–566 (1990) (plurality opinion);
+see N. Citrine, Trade Union Law 4–7, 9–10 (2d ed. 1960); Notes, Legal­
+ity of Trade Unions at Common Law, 25 Harv. L. Rev. 465, 466 (1912),
+and into the 20th century, every individual employee had the “liberty of
+contract” to “sell his labor upon such terms as he deem[ed] proper,”
+Adair v. United States, 208 U. S. 161, 174–175 (1908); see R. Morris,
+Government and Labor in Early America 208, 529 (1946). So even the
+concept of a private third-party entity with the power to bind employees
+on the terms of their employment likely would have been foreign to the
+Founders. We note this only to show the problems inherent in the
+Union respondent’s argument; we are not in any way questioning the
+foundations of modern labor law.
+   8 See, e.g., Ellsworth, The Landholder, VII (1787), in Essays on the
+Constitution of the United States 167–171 (P. Ford ed. 1892); Webster,
+On Test Laws, Oaths of Allegiance and Abjuration, and Partial Exclu­
+
+
+22 JANUS v. STATE, COUNTY, AND MUNICIPAL EMPLOYEES
+                        Opinion of the Court
+   In short, the Union has offered no basis for concluding
+that Abood is supported by the original understanding of
+the First Amendment.
+                                  B
+   The principal defense of Abood advanced by respondents
+and the dissent is based on our decision in Pickering, 391
+U. S. 563, which held that a school district violated the
+First Amendment by firing a teacher for writing a letter
+critical of the school administration. Under Pickering and
+later cases in the same line, employee speech is largely
+unprotected if it is part of what the employee is paid to do,
+see Garcetti v. Ceballos, 547 U. S. 410, 421–422 (2006), or
+if it involved a matter of only private concern, see Connick,
+supra, at 146–149. On the other hand, when a public
+employee speaks as a citizen on a matter of public concern,
+the employee’s speech is protected unless “ ‘the interest of
+the state, as an employer, in promoting the efficiency of
+the public services it performs through its employees’
+outweighs ‘the interests of the [employee], as a citizen, in
+commenting upon matters of public concern.’ ” Harris, 573
+U. S., at ___ (slip op., at 35) (quoting Pickering, supra, at
+568). Pickering was the centerpiece of the defense of
+Abood in Harris, see 573 U. S., at ___–___ (slip op., at 17–
+21) (KAGAN, J., dissenting), and we found the argument
+unpersuasive, see id., at ___–___ (slip op., at 34–37). The
+intervening years have not improved its appeal.
+                                  1
+   As we pointed out in Harris, Abood was not based on
+Pickering. 573 U. S., at ___, and n. 26 (slip op., at 34, and
+n. 26). The Abood majority cited the case exactly once—in
+a footnote—and then merely to acknowledge that “there
+may be limits on the extent to which an employee in a
+——————
+sions from Office, in A Collection of Essays and Fugitiv[e] Writings
+151–153 (1790).
+
+
+                      Cite as: 585 U. S. ____ (2018)                   23
+                           Opinion of the Court
+sensitive or policymaking position may freely criticize his
+superiors and the policies they espouse.” 431 U. S., at 230,
+n. 27. That aside has no bearing on the agency-fee issue
+here.9
+   Respondents’ reliance on Pickering is thus “an effort to
+find a new justification for the decision in Abood.” Harris,
+supra, at ___ (slip op., at 34). And we have previously
+taken a dim view of similar attempts to recast problematic
+First Amendment decisions. See, e.g., Citizens United v.
+Federal Election Comm’n, 558 U. S. 310, 348–349, 363
+(2010) (rejecting efforts to recast Austin v. Michigan
+Chamber of Commerce, 494 U. S. 652 (1990)); see also
+Citizens United, supra, at 382–385 (ROBERTS, C. J., con­
+curring). We see no good reason, at this late date, to try to
+shoehorn Abood into the Pickering framework.
+                                    2
+   Even if that were attempted, the shoe would be a pain­
+ful fit for at least three reasons.
+   First, the Pickering framework was developed for use in
+a very different context—in cases that involve “one em­
+ployee’s speech and its impact on that employee’s public
+responsibilities.” United States v. Treasury Employees,
+513 U. S. 454, 467 (1995). This case, by contrast, involves
+a blanket requirement that all employees subsidize speech
+with which they may not agree. While we have sometimes
+looked to Pickering in considering general rules that affect
+broad categories of employees, we have acknowledged that
+——————
+  9 Justice Powell’s separate opinion did invoke Pickering in a relevant
+sense, but he did so only to acknowledge the State’s relatively greater
+interest in regulating speech when it acts as employer than when it
+acts as sovereign. Abood v. Detroit Bd. of Ed., 431 U. S. 209, 259 (1977)
+(concurring in judgment). In the very next sentence, he explained that
+“even in public employment, a significant impairment of First Amend­
+ment rights must survive exacting scrutiny.” Ibid. (internal quotation
+marks omitted). That is the test we apply today.
+
+
+24 JANUS v. STATE, COUNTY, AND MUNICIPAL EMPLOYEES
+                       Opinion of the Court
+the standard Pickering analysis requires modification in
+that situation. See 513 U. S., at 466–468, and n. 11. A
+speech-restrictive law with “widespread impact,” we have
+said, “gives rise to far more serious concerns than could
+any single supervisory decision.” Id., at 468. Therefore,
+when such a law is at issue, the government must shoul­
+der a correspondingly “heav[ier]” burden, id., at 466, and
+is entitled to considerably less deference in its assessment
+that a predicted harm justifies a particular impingement
+on First Amendment rights, see id., at 475–476, n. 21;
+accord, id., at 482–483 (O’Connor, J., concurring in judg­
+ment in part and dissenting in part). The end product of
+those adjustments is a test that more closely resembles
+exacting scrutiny than the traditional Pickering analysis.
+   The core collective-bargaining issue of wages and bene­
+fits illustrates this point. Suppose that a single employee
+complains that he or she should have received a 5% raise.
+This individual complaint would likely constitute a matter
+of only private concern and would therefore be unprotected
+under Pickering. But a public-sector union’s demand for a
+5% raise for the many thousands of employees it repre­
+sents would be another matter entirely. Granting such a
+raise could have a serious impact on the budget of the
+government unit in question, and by the same token,
+denying a raise might have a significant effect on the
+performance of government services. When a large num­
+ber of employees speak through their union, the category
+of speech that is of public concern is greatly enlarged, and
+the category of speech that is of only private concern is
+substantially shrunk. By disputing this, post, at 13–14,
+the dissent denies the obvious.
+   Second, the Pickering framework fits much less well
+where the government compels speech or speech subsidies
+in support of third parties. Pickering is based on the
+insight that the speech of a public-sector employee may
+interfere with the effective operation of a government
+
+
+                   Cite as: 585 U. S. ____ (2018)          25
+                        Opinion of the Court
+office. When a public employer does not simply restrict
+potentially disruptive speech but commands that its em­
+ployees mouth a message on its own behalf, the calculus is
+very different. Of course, if the speech in question is part
+of an employee’s official duties, the employer may insist
+that the employee deliver any lawful message. See Gar-
+cetti, 547 U. S., at 421–422, 425–426. Otherwise, however,
+it is not easy to imagine a situation in which a public
+employer has a legitimate need to demand that its em­
+ployees recite words with which they disagree. And we
+have never applied Pickering in such a case.
+   Consider our decision in Connick. In that case, we held
+that an assistant district attorney’s complaints about the
+supervisors in her office were, for the most part, matters of
+only private concern. 461 U. S., at 148. As a result, we
+held, the district attorney could fire her for making those
+comments. Id., at 154. Now, suppose that the assistant
+had not made any critical comments about the supervisors
+but that the district attorney, out of the blue, demanded
+that she circulate a memo praising the supervisors.
+Would her refusal to go along still be a matter of purely
+private concern? And if not, would the order be justified
+on the ground that the effective operation of the office
+demanded that the assistant voice complimentary senti­
+ments with which she disagreed? If Pickering applies
+at all to compelled speech—a question that we do not
+decide—it would certainly require adjustment in that
+context.
+   Third, although both Pickering and Abood divided
+speech into two categories, the cases’ categorization
+schemes do not line up. Superimposing the Pickering
+scheme on Abood would significantly change the Abood
+regime.
+   Let us first look at speech that is not germane to collec­
+tive bargaining but instead concerns political or ideologi­
+cal issues. Under Abood, a public employer is flatly pro­
+
+
+26 JANUS v. STATE, COUNTY, AND MUNICIPAL EMPLOYEES
+                     Opinion of the Court
+hibited from permitting nonmembers to be charged for
+this speech, but under Pickering, the employees’ free
+speech interests could be overcome if a court found that
+the employer’s interests outweighed the employees’.
+  A similar problem arises with respect to speech that is
+germane to collective bargaining. The parties dispute how
+much of this speech is of public concern, but respondents
+concede that much of it falls squarely into that category.
+See Tr. of Oral Arg. 47, 65. Under Abood, nonmembers
+may be required to pay for all this speech, but Pickering
+would permit that practice only if the employer’s interests
+outweighed those of the employees. Thus, recasting Abood
+as an application of Pickering would substantially alter
+the Abood scheme.
+  For all these reasons, Pickering is a poor fit indeed.
+                              V
+  Even if we were to apply some form of Pickering, Illinois’
+agency-fee arrangement would not survive.
+                              A
+  Respondents begin by suggesting that union speech in
+collective-bargaining and grievance proceedings should be
+treated like the employee speech in Garcetti, i.e., as speech
+“pursuant to [an employee’s] official duties,” 547 U. S., at
+421. Many employees, in both the public and private
+sectors, are paid to write or speak for the purpose of fur­
+thering the interests of their employers. There are laws
+that protect public employees from being compelled to say
+things that they reasonably believe to be untrue or im­
+proper, see id., at 425–426, but in general when public
+employees are performing their job duties, their speech
+may be controlled by their employer. Trying to fit union
+speech into this framework, respondents now suggest that
+the union speech funded by agency fees forms part of the
+official duties of the union officers who engage in the
+
+
+                    Cite as: 585 U. S. ____ (2018)            27
+                         Opinion of the Court
+speech. Brief for Union Respondent 22–23; see Brief for
+State Respondents 23–24.
+   This argument distorts collective bargaining and griev­
+ance adjustment beyond recognition. When an employee
+engages in speech that is part of the employee’s job duties,
+the employee’s words are really the words of the employer.
+The employee is effectively the employer’s spokesperson.
+But when a union negotiates with the employer or repre­
+sents employees in disciplinary proceedings, the union
+speaks for the employees, not the employer. Otherwise,
+the employer would be negotiating with itself and disput­
+ing its own actions. That is not what anybody under­
+stands to be happening.
+   What is more, if the union’s speech is really the employ­
+er’s speech, then the employer could dictate what the
+union says. Unions, we trust, would be appalled by such a
+suggestion. For these reasons, Garcetti is totally inappo­
+site here.
+                                  B
+   Since the union speech paid for by agency fees is not
+controlled by Garcetti, we move on to the next step of the
+Pickering framework and ask whether the speech is on a
+matter of public or only private concern. In Harris, the
+dissent’s central argument in defense of Abood was that
+union speech in collective bargaining, including speech
+about wages and benefits, is basically a matter of only
+private interest. See 573 U. S., at ___–___ (slip op., at 19–
+20) (KAGAN, J., dissenting). We squarely rejected that
+argument, see id., at ___–___ (slip op., at 35–36), and the
+facts of the present case substantiate what we said at that
+time: “[I]t is impossible to argue that the level of . . . state
+spending for employee benefits . . . is not a matter of great
+public concern,” id., at ___ (slip op., at 36).
+   Illinois, like some other States and a number of counties
+and cities around the country, suffers from severe budget
+
+
+28 JANUS v. STATE, COUNTY, AND MUNICIPAL EMPLOYEES
+                            Opinion of the Court
+problems.10 As of 2013, Illinois had nearly $160 billion in
+unfunded pension and retiree healthcare liabilities.11 By
+2017, that number had only grown, and the State was
+grappling with $15 billion in unpaid bills.12 We are told
+that a “quarter of the budget is now devoted to paying
+down” those liabilities.13 These problems and others led
+Moody’s and S&P to downgrade Illinois’ credit rating to
+“one step above junk”—the “lowest ranking on record for a
+U. S. state.”14
+    The Governor, on one side, and public-sector unions, on
+the other, disagree sharply about what to do about these
+problems. The State claims that its employment-related
+debt is “ ‘squeezing core programs in education, public
+safety, and human services, in addition to limiting [the
+State’s] ability to pay [its] bills.’ ” Securities Act of 1933
+Release No. 9389, 105 S. E. C. Docket 3381 (2013). It
+therefore “told the Union that it would attempt to address
+th[e financial] crisis, at least in part, through collective
+bargaining.” Board Decision 12–13. And “the State’s
+——————
+   10 See Brief for State of Michigan et al. as Amici Curiae 9–24. Na­
+tionwide, the cost of state and local employees’ wages and benefits, for
+example, is nearly $1.5 trillion—more than half of those jurisdictions’
+total expenditures. See Dept. of Commerce, Bureau of Economic
+Analysis, National Data, GDP & Personal Income, Table 6.2D, line 92
+(Aug. 3, 2017), and Table 3.3, line 37 (May 30, 2018), https://www.bea.
+gov/iTable/iTable.cfm?reqid=19&step=2#reqid=19&step=2&isuri=1&19
+21=survey. And many States and cities struggle with unfunded pen­
+sion and retiree healthcare liabilities and other budget issues.
+   11 PEW Charitable Trusts, Fiscal 50: State Trends and Analysis (up­
+dated May 17, 2016), http://www.pewtrusts.org/en/research-and­
+analysis/data-visualizations/2014/fiscal-50#ind4.
+   12 See Brief for Jason R. Barclay et al. as Amici Curiae 9; M. Egan,
+How Illinois Became America’s Most Messed-Up State, CNN Money
+(July 1, 2017), https://cnnmon.ie/2tp9NX5.
+   13 Brief for Jason R. Barclay et al. as Amici Curiae 9.
+   14 E. Campbell, S&P, Moody’s Downgrade Illinois to Near Junk, Low­
+est Ever for a U. S. State, Bloomberg (June 1, 2017), https://
+bloom.bg/2roEJUc.
+
+
+                   Cite as: 585 U. S. ____ (2018)          29
+                        Opinion of the Court
+desire for savings” in fact “dr[o]ve [its] bargaining” posi­
+tions on matters such as health-insurance benefits and
+holiday, overtime, and promotion policies. Id., at 13;
+Illinois Dept. of Central Management Servs. v. AFSCME,
+Council 31, No. S–CB–16–17 etc., 33 PERI ¶67 (ILRB Dec.
+13, 2016) (ALJ Decision), pp. 26–28, 63–66, 224. But
+when the State offered cost-saving proposals on these
+issues, the Union countered with very different sugges­
+tions. Among other things, it advocated wage and tax
+increases, cutting spending “to Wall Street financial insti­
+tutions,” and reforms to Illinois’ pension and tax systems
+(such as closing “corporate tax loopholes,” “[e]xpanding the
+base of the state sales tax,” and “allowing an income tax
+that is adjusted in accordance with ability to pay”). Id., at
+27–28. To suggest that speech on such matters is not of
+great public concern—or that it is not directed at the
+“public square,” post, at 16 (KAGAN, J., dissenting)—is to
+deny reality.
+   In addition to affecting how public money is spent,
+union speech in collective bargaining addresses many
+other important matters. As the examples offered by
+respondents’ own amici show, unions express views on a
+wide range of subjects—education, child welfare,
+healthcare, and minority rights, to name a few. See, e.g.,
+Brief for American Federation of Teachers as Amicus
+Curiae 15–27; Brief for Child Protective Service Workers
+et al. as Amici Curiae 5–13; Brief for Human Rights Cam­
+paign et al. as Amici Curiae 10–17; Brief for National
+Women’s Law Center et al. as Amici Curiae 14–30. What
+unions have to say on these matters in the context of
+collective bargaining is of great public importance.
+   Take the example of education, which was the focus of
+briefing and argument in Friedrichs. The public im­
+portance of subsidized union speech is especially apparent
+in this field, since educators make up by far the largest
+category of state and local government employees, and
+
+
+30 JANUS v. STATE, COUNTY, AND MUNICIPAL EMPLOYEES
+                          Opinion of the Court
+education is typically the largest component of state and
+local government expenditures.15
+   Speech in this area also touches on fundamental ques­
+tions of education policy. Should teacher pay be based on
+seniority, the better to retain experienced teachers? Or
+should schools adopt merit-pay systems to encourage
+teachers to get the best results out of their students?16
+Should districts transfer more experienced teachers to the
+lower performing schools that may have the greatest need
+for their skills, or should those teachers be allowed to stay
+where they have put down roots?17 Should teachers be
+given tenure protection and, if so, under what conditions?
+On what grounds and pursuant to what procedures should
+teachers be subject to discipline or dismissal? How should
+teacher performance and student progress be measured—
+by standardized tests or other means?
+   Unions can also speak out in collective bargaining on
+controversial subjects such as climate change,18 the Con­
+federacy,19 sexual orientation and gender identity,20 evolu­
+tion,21 and minority religions.22 These are sensitive politi­
+——————
+  15 See  National Association of State Budget Officers, Summary:
+Spring 2018 Fiscal Survey of States 2 (June 14, 2018),
+http://www.nasbo.org; ProQuest Statistical Abstract of the United
+States: 2018, pp. 306, Table 476, 321, Table 489.
+  16 See Rogers, School Districts ‘Race to the Top’ Despite Teacher Dis­
+pute, Marin Independent J., June 19, 2010.
+  17 See Sawchuk, Transferring Top Teachers Has Benefits: Study
+Probes Moving Talent to Low-Performing Schools, Education Week,
+Nov. 13, 2013, pp. 1, 13.
+  18 See Tucker, Textbooks Equivocate on Global Warming: Stanford
+Study Finds Portrayal ‘Dishonest,’ San Francisco Chronicle, Nov. 24,
+2015, p. C1.
+  19 See Reagan, Anti-Confederacy Movement Rekindles Texas Text­
+book Controversy, San Antonio Current, Aug. 4, 2015.
+  20 See Watanabe, How To Teach Gay Issues in 1st Grade? A New Law
+Requiring California Schools To Have Lessons About LGBT Americans
+Raises Tough Questions, L. A. Times, Oct. 16, 2011, p. A1.
+  21 See Goodstein, A Web of Faith, Law and Science in Evolution Suit,
+
+
+                     Cite as: 585 U. S. ____ (2018)              31
+                          Opinion of the Court
+cal topics, and they are undoubtedly matters of profound
+“ ‘value and concern to the public.’ ” Snyder v. Phelps, 562
+U. S. 443, 453 (2011). We have often recognized that such
+speech “ ‘occupies the highest rung of the hierarchy of First
+Amendment values’ ” and merits “ ‘special protection.’ ” Id.,
+at 452.
+    What does the dissent say about the prevalence of such
+issues? The most that it is willing to admit is that “some”
+issues that arise in collective bargaining “raise important
+non-budgetary disputes.” Post, at 17. Here again, the
+dissent refuses to recognize what actually occurs in public-
+sector collective bargaining.
+    Even union speech in the handling of grievances may be
+of substantial public importance and may be directed at
+the “public square.” Post, at 16. For instance, the Union
+respondent in this case recently filed a grievance seeking
+to compel Illinois to appropriate $75 million to fund a 2%
+wage increase. State v. AFSCME Council 31, 2016 IL
+118422, 51 N. E. 3d 738, 740–742, and n. 4. In short, the
+union speech at issue in this case is overwhelmingly of
+substantial public concern.
+                                    C
+    The only remaining question under Pickering is whether
+the State’s proffered interests justify the heavy burden
+that agency fees inflict on nonmembers’ First Amendment
+interests. We have already addressed the state interests
+asserted in Abood—promoting “labor peace” and avoiding
+free riders, see supra, at 11–18—and we will not repeat
+that analysis.
+    In Harris and this case, defenders of Abood have as-
+serted a different state interest—in the words of the Harris
+dissent, the State’s “interest in bargaining with an ade­
+——————
+N. Y. Times, Sept. 26, 2005, p. A1.
+   22 See Golden, Defending the Faith: New Battleground in Textbook
+Wars: Religion in History, Wall St. J., Jan. 25, 2006, p. A1.
+
+
+32 JANUS v. STATE, COUNTY, AND MUNICIPAL EMPLOYEES
+                           Opinion of the Court
+quately funded exclusive bargaining agent.” 573 U. S., at
+___ (KAGAN, J., dissenting) (slip op., at 7); see also post, at
+6–7 (KAGAN, J., dissenting). This was not “the interest
+Abood recognized and protected,” Harris, supra, at ___
+(slip op., at 7) (KAGAN, J., dissenting), and, in any event, it
+is insufficient.
+    Although the dissent would accept without any serious
+independent evaluation the State’s assertion that the
+absence of agency fees would cripple public-sector unions
+and thus impair the efficiency of government operations,
+see post, at 8–9, 11, ample experience, as we have noted,
+supra, at 12, shows that this is questionable.
+    Especially in light of the more rigorous form of Pickering
+analysis that would apply in this context, see supra, at 23–
+25, the balance tips decisively in favor of the employees’
+free speech rights.23
+——————
+   23 Claiming that our decision will hobble government operations, the
+dissent asserts that it would prevent a government employer from
+taking action against disruptive non-unionized employees in two
+carefully constructed hypothetical situations. See post, at 17–18. Both
+hypotheticals are short on potentially important details, but in any
+event, neither would be affected by our decision in this case. Rather,
+both would simply call for the application of the standard Pickering
+test.
+   In one of the hypotheticals, teachers “protest merit pay in the school
+cafeteria.” Post, at 17. If such a case actually arose, it would be im­
+portant to know, among other things, whether the teachers involved
+were supposed to be teaching in their classrooms at the time in ques­
+tion and whether the protest occurred in the presence of students
+during the student lunch period. If both those conditions were met, the
+teachers would presumably be violating content-neutral rules regarding
+their duty to teach at specified times and places, and their conduct
+might well have a disruptive effect on the educational process. Thus, in
+the dissent’s hypothetical, the school’s interests might well outweigh
+those of the teachers, but in this hypothetical case, as in all Pickering
+cases, the particular facts would be very important.
+   In the other hypothetical, employees agitate for a better health plan
+“at various inopportune times and places.” Post, at 17. Here, the lack
+of factual detail makes it impossible to evaluate how the Pickering
+
+
+                      Cite as: 585 U. S. ____ (2018)             33
+                           Opinion of the Court
+   We readily acknowledge, as Pickering did, that “the
+State has interests as an employer in regulating the
+speech of its employees that differ significantly from those
+it possesses in connection with regulation of the speech of
+the citizenry in general.” 391 U. S., at 568. Our analysis
+is consistent with that principle. The exacting scrutiny
+standard we apply in this case was developed in the con­
+text of commercial speech, another area where the gov­
+ernment has traditionally enjoyed greater-than-usual
+power to regulate speech. See supra, at 10. It is also not
+disputed that the State may require that a union serve as
+exclusive bargaining agent for its employees—itself a
+significant impingement on associational freedoms that
+would not be tolerated in other contexts. We simply draw
+the line at allowing the government to go further still and
+require all employees to support the union irrespective of
+whether they share its views. Nothing in the Pickering
+line of cases requires us to uphold every speech restriction
+the government imposes as an employer. See Pickering,
+supra, at 564–566 (holding teacher’s dismissal for criticiz­
+ing school board unconstitutional); Rankin v. McPherson,
+483 U. S. 378, 392 (1987) (holding clerical employ-
+ee’s dismissal for supporting assassination attempt on
+President unconstitutional); Treasury Employees, 513
+U. S., at 477 (holding federal-employee honoraria ban
+unconstitutional).
+                                   VI
+   For the reasons given above, we conclude that public-
+sector agency-shop arrangements violate the First
+Amendment, and Abood erred in concluding otherwise.
+There remains the question whether stare decisis nonethe­
+less counsels against overruling Abood. It does not.
+——————
+balance would come out. The term “agitat[ion]” can encompass a wide
+range of conduct, as well as speech. Post, at 17. And the time and
+place of the agitation would also be important.
+
+
+34 JANUS v. STATE, COUNTY, AND MUNICIPAL EMPLOYEES
+                        Opinion of the Court
+   “Stare decisis is the preferred course because it pro­
+motes the evenhanded, predictable, and consistent devel­
+opment of legal principles, fosters reliance on judicial
+decisions, and contributes to the actual and perceived
+integrity of the judicial process.” Payne v. Tennessee, 501
+U. S. 808, 827 (1991). We will not overturn a past decision
+unless there are strong grounds for doing so. United
+States v. International Business Machines Corp., 517 U. S.
+843, 855–856 (1996); Citizens United, 558 U. S., at 377
+(ROBERTS, C. J., concurring). But as we have often recog­
+nized, stare decisis is “ ‘not an inexorable command.’ ”
+Pearson v. Callahan, 555 U. S. 223, 233 (2009); see also
+Lawrence v. Texas, 539 U. S. 558, 577 (2003); State Oil Co.
+v. Khan, 522 U. S. 3, 20 (1997); Agostini v. Felton, 521
+U. S. 203, 235 (1997); Seminole Tribe of Fla. v. Florida,
+517 U. S. 44, 63 (1996); Payne, supra, at 828.
+   The doctrine “is at its weakest when we interpret the
+Constitution because our interpretation can be altered
+only by constitutional amendment or by overruling our
+prior decisions.” Agostini, supra, at 235. And stare decisis
+applies with perhaps least force of all to decisions that
+wrongly denied First Amendment rights: “This Court has
+not hesitated to overrule decisions offensive to the First
+Amendment (a fixed star in our constitutional constella­
+tion, if there is one).” Federal Election Comm’n v. Wiscon-
+sin Right to Life, Inc., 551 U. S. 449, 500 (2007) (Scalia, J.,
+concurring in part and concurring in judgment) (internal
+quotation marks omitted); see also Citizens United, supra,
+at 362–365 (overruling Austin, 494 U. S. 652); Barnette,
+319 U. S., at 642 (overruling Minersville School Dist. v.
+Gobitis, 310 U. S. 586 (1940)).
+   Our cases identify factors that should be taken into
+account in deciding whether to overrule a past decision.
+Five of these are most important here: the quality of
+Abood’s reasoning, the workability of the rule it estab­
+lished, its consistency with other related decisions, devel­
+
+
+                      Cite as: 585 U. S. ____ (2018)                   35
+                           Opinion of the Court
+opments since the decision was handed down, and reliance
+on the decision. After analyzing these factors, we conclude
+that stare decisis does not require us to retain Abood.
+                                    A
+   An important factor in determining whether a precedent
+should be overruled is the quality of its reasoning, see
+Citizens United, 558 U. S., at 363–364; id., at 382–385
+(ROBERTS, C. J., concurring); Lawrence, 539 U. S., at 577–
+578, and as we explained in Harris, Abood was poorly
+reasoned, see 573 U. S., at ___–___ (slip op., at 17–20). We
+will summarize, but not repeat, Harris’s lengthy discus­
+sion of the issue.
+   Abood went wrong at the start when it concluded that
+two prior decisions, Railway Employes v. Hanson, 351
+U. S. 225 (1956), and Machinists v. Street, 367 U. S. 740
+(1961), “appear[ed] to require validation of the agency-
+shop agreement before [the Court].” 431 U. S., at 226.
+Properly understood, those decisions did no such thing.
+Both cases involved Congress’s “bare authorization” of
+private-sector union shops under the Railway Labor Act.
+Street, supra, at 749 (emphasis added).24 Abood failed to
+appreciate that a very different First Amendment question
+——————
+  24 No  First Amendment issue could have properly arisen in those
+cases unless Congress’s enactment of a provision allowing, but not
+requiring, private parties to enter into union-shop arrangements was
+sufficient to establish governmental action. That proposition was
+debatable when Abood was decided, and is even more questionable
+today. See American Mfrs. Mut. Ins. Co. v. Sullivan, 526 U. S. 40, 53
+(1999); Jackson v. Metropolitan Edison Co., 419 U. S. 345, 357 (1974).
+Compare, e.g., White v. Communications Workers of Am., AFL–CIO,
+Local 13000, 370 F. 3d 346, 350 (CA3 2004) (no state action), and
+Kolinske v. Lubbers, 712 F. 2d 471, 477–478 (CADC 1983) (same), with
+Beck v. Communications Workers of Am., 776 F. 2d 1187, 1207 (CA4
+1985) (state action), and Linscott v. Millers Falls Co., 440 F. 2d 14, 16,
+and n. 2 (CA1 1971) (same). We reserved decision on this question in
+Communications Workers v. Beck, 487 U. S. 735, 761 (1988), and do not
+resolve it here.
+
+
+36 JANUS v. STATE, COUNTY, AND MUNICIPAL EMPLOYEES
+                       Opinion of the Court
+arises when a State requires its employees to pay agency
+fees. See Harris, supra, at ___ (slip op., at 17).
+   Moreover, neither Hanson nor Street gave careful con­
+sideration to the First Amendment. In Hanson, the pri­
+mary questions were whether Congress exceeded its power
+under the Commerce Clause or violated substantive due
+process by authorizing private union-shop arrangements
+under the Commerce and Due Process Clauses. 351 U. S.,
+at 233–235. After deciding those questions, the Court
+summarily dismissed what was essentially a facial First
+Amendment challenge, noting that the record did not
+substantiate the challengers’ claim. Id., at 238; see Har-
+ris, supra, at ___ (slip op., at 17). For its part, Street was
+decided as a matter of statutory construction, and so did
+not reach any constitutional issue. 367 U. S., at 749–750,
+768–769. Abood nevertheless took the view that Hanson
+and Street “all but decided” the important free speech
+issue that was before the Court. Harris, 573 U. S., at ___
+(slip op., at 17). As we said in Harris, “[s]urely a First
+Amendment issue of this importance deserved better
+treatment.” Ibid.
+   Abood’s unwarranted reliance on Hanson and Street
+appears to have contributed to another mistake: Abood
+judged the constitutionality of public-sector agency fees
+under a deferential standard that finds no support in our
+free speech cases. (As noted, supra, at 10–11, today’s
+dissent makes the same fundamental mistake.) Abood did
+not independently evaluate the strength of the govern­
+ment interests that were said to support the challenged
+agency-fee provision; nor did it ask how well that provision
+actually promoted those interests or whether they could
+have been adequately served without impinging so heavily
+on the free speech rights of nonmembers. Rather, Abood
+followed Hanson and Street, which it interpreted as having
+deferred to “the legislative assessment of the important
+contribution of the union shop to the system of labor rela­
+
+
+                   Cite as: 585 U. S. ____ (2018)          37
+                        Opinion of the Court
+tions established by Congress.” 431 U. S., at 222 (empha­
+sis added). But Hanson deferred to that judgment in
+deciding the Commerce Clause and substantive due pro­
+cess questions that were the focus of the case. Such defer­
+ence to legislative judgments is inappropriate in deciding
+free speech issues.
+   If Abood had considered whether agency fees were
+actually needed to serve the asserted state interests, it
+might not have made the serious mistake of assuming that
+one of those interests—“labor peace”—demanded, not only
+that a single union be designated as the exclusive repre­
+sentative of all the employees in the relevant unit, but also
+that nonmembers be required to pay agency fees. Defer­
+ring to a perceived legislative judgment, Abood failed to
+see that the designation of a union as exclusive repre­
+sentative and the imposition of agency fees are not inex­
+tricably linked. See supra, at 11–12; Harris, supra, at ___
+(slip op., at 31).
+   Abood also did not sufficiently take into account the
+difference between the effects of agency fees in public- and
+private-sector collective bargaining. The challengers in
+Abood argued that collective bargaining with a govern­
+ment employer, unlike collective bargaining in the private
+sector, involves “inherently ‘political’ ” speech. 431 U. S.,
+at 226. The Court did not dispute that characterization,
+and in fact conceded that “decisionmaking by a public
+employer is above all a political process” driven more by
+policy concerns than economic ones. Id., at 228; see id., at
+228–231. But (again invoking Hanson), the Abood Court
+asserted that public employees do not have “weightier
+First Amendment interest[s]” against compelled speech
+than do private employees. Id., at 229. That missed the
+point. Assuming for the sake of argument that the First
+Amendment applies at all to private-sector agency-shop
+arrangements, the individual interests at stake still differ.
+“In the public sector, core issues such as wages, pensions,
+
+
+38 JANUS v. STATE, COUNTY, AND MUNICIPAL EMPLOYEES
+                            Opinion of the Court
+and benefits are important political issues, but that is
+generally not so in the private sector.” Harris, 573 U. S.,
+at ___ (slip op., at 17).
+   Overlooking the importance of this distinction, “Abood
+failed to appreciate the conceptual difficulty of distin­
+guishing in public-sector cases between union expendi­
+tures that are made for collective-bargaining purposes and
+those that are made to achieve political ends.” Id., at ___
+(slip op., at 18). Likewise, “Abood does not seem to have
+anticipated the magnitude of the practical administrative
+problems that would result in attempting to classify
+public-sector union expenditures as either ‘chargeable’ . . . or
+nonchargeable.” Ibid. Nor did Abood “foresee the practi­
+cal problems that would face objecting nonmembers.” Id.,
+at ___ (slip op., at 19).
+   In sum, as detailed in Harris, Abood was not well
+reasoned.25
+                                     B
+   Another relevant consideration in the stare decisis
+calculus is the workability of the precedent in question,
+Montejo v. Louisiana, 556 U. S. 778, 792 (2009), and that
+factor also weighs against Abood.
+                                     1
+   Abood’s line between chargeable and nonchargeable
+union expenditures has proved to be impossible to draw
+with precision. We tried to give the line some definition in
+Lehnert. There, a majority of the Court adopted a three-
+part test requiring that chargeable expenses (1) be “ ‘ger­
+——————
+  25 Contrary to the dissent’s claim, see post, at 19, and n. 4, the fact
+that “[t]he rationale of [Abood] does not withstand careful analysis” is a
+reason to overrule it, e.g., Lawrence v. Texas, 539 U. S. 558, 577 (2003).
+And that is even truer when, as here, the defenders of the precedent do
+not attempt to “defend [its actual] reasoning.” Citizens United v.
+Federal Election Comm’n, 558 U. S. 310, 363 (2010); id., at 382–385
+(ROBERTS, C. J., concurring).
+
+
+                   Cite as: 585 U. S. ____ (2018)           39
+                        Opinion of the Court
+mane’ ” to collective bargaining, (2) be “justified” by the
+government’s labor-peace and free-rider interests, and (3)
+not add “significantly” to the burden on free speech, 500
+U. S., at 519, but the Court splintered over the application
+of this test, see id., at 519–522 (plurality opinion); id., at
+533–534 (Marshall, J., concurring in part and dissenting
+in part). That division was not surprising. As the Lehnert
+dissenters aptly observed, each part of the majority’s test
+“involves a substantial judgment call,” id., at 551 (opinion
+of Scalia, J.), rendering the test “altogether malleable” and
+“no[t] principled,” id., at 563 (KENNEDY, J., concurring in
+judgment in part and dissenting in part).
+   Justice Scalia presciently warned that Lehnert’s amor­
+phous standard would invite “perpetua[l] give-it-a-try
+litigation,” id., at 551, and the Court’s experience with
+union lobbying expenses illustrates the point. The Lehnert
+plurality held that money spent on lobbying for increased
+education funding was not chargeable. Id., at 519–522.
+But Justice Marshall—applying the same three-prong
+test—reached precisely the opposite conclusion. Id., at
+533–542. And Lehnert failed to settle the matter; States
+and unions have continued to “give it a try” ever since.
+   In Knox, for example, we confronted a union’s claim that
+the costs of lobbying the legislature and the electorate
+about a ballot measure were chargeable expenses under
+Lehnert. See Brief for Respondent in Knox v. Service
+Employees, O. T. 2011, No. 10–1121, pp. 48–53. The Court
+rejected this claim out of hand, 567 U. S., at 320–321, but
+the dissent refused to do so, id., at 336 (opinion of BREYER,
+J.). And in the present case, nonmembers are required to
+pay for unspecified “[l]obbying” expenses and for
+“[s]ervices” that “may ultimately inure to the benefit of the
+members of the local bargaining unit.” App. to Pet. for
+Cert. 31a–32a. That formulation is broad enough to en­
+compass just about anything that the union might choose
+to do.
+
+
+40 JANUS v. STATE, COUNTY, AND MUNICIPAL EMPLOYEES
+                      Opinion of the Court
+   Respondents      agree     that      Abood’s   chargeable-
+nonchargeable line suffers from “a vagueness problem,”
+that it sometimes “allows what it shouldn’t allow,” and
+that “a firm[er] line c[ould] be drawn.” Tr. of Oral Arg.
+47–48. They therefore argue that we should “consider
+revisiting” this part of Abood. Tr. of Oral Arg. 66; see
+Brief for Union Respondent 46–47; Brief for State Re­
+spondents 30. This concession only underscores the real-
+ity that Abood has proved unworkable: Not even the par­
+ties defending agency fees support the line that it has
+taken this Court over 40 years to draw.
+                               2
+   Objecting employees also face a daunting and expensive
+task if they wish to challenge union chargeability deter­
+minations. While Hudson requires a union to provide
+nonmembers with “sufficient information to gauge the
+propriety of the union’s fee,” 475 U. S., at 306, the Hudson
+notice in the present case and in others that have come
+before us do not begin to permit a nonmember to make
+such a determination.
+   In this case, the notice lists categories of expenses and
+sets out the amount in each category that is said to be
+attributable to chargeable and nonchargeable expenses.
+Here are some examples regarding the Union respondent’s
+expenditures:
+
+
+                     Cite as: 585 U. S. ____ (2018)                  41
+                          Opinion of the Court
+                                                    Chargeable
+      Category             Total Expense
+                                                      Expense
+      Salary and
+                             $14,718,708            $11,830,230
+       Benefits
+  Office Printing,
+    Supplies, and              $148,272               $127,959
+     Advertising
+     Postage and
+                               $373,509               $268,107
+        Freight
+      Telephone                $214,820               $192,721
+     Convention
+                               $268,855               $268,855
+       Expense
+See App. to Pet. for Cert. 35a–36a.
+   How could any nonmember determine whether these
+numbers are even close to the mark without launching a
+legal challenge and retaining the services of attorneys and
+accountants? Indeed, even with such services, it would be
+a laborious and difficult task to check these figures.26
+   The Union respondent argues that challenging its
+chargeability determinations is not burdensome because
+the Union pays for the costs of arbitration, see Brief for
+Union Respondent 10–11, but objectors must still pay for
+the attorneys and experts needed to mount a serious
+challenge. And the attorney’s fees incurred in such a
+proceeding can be substantial. See, e.g., Knox v. Chiang,
+2013 WL 2434606, *15 (ED Cal., June 5, 2013) (attorney’s
+fees in Knox exceeded $1 million). The Union respondent’s
+suggestion that an objector could obtain adequate review
+without even showing up at an arbitration, see App. to
+Pet. for Cert. 40a–41a, is therefore farfetched.
+——————
+  26 For this reason, it is hardly surprising that chargeability issues
+have not arisen in many Court of Appeals cases. See post, at 22
+(KAGAN, J., dissenting).
+
+
+42 JANUS v. STATE, COUNTY, AND MUNICIPAL EMPLOYEES
+                      Opinion of the Court
+                               C
+   Developments since Abood, both factual and legal, have
+also “eroded” the decision’s “underpinnings” and left it an
+outlier among our First Amendment cases. United States
+v. Gaudin, 515 U. S. 506, 521 (1995).
+                               1
+   Abood pinned its result on the “unsupported empirical
+assumption” that “the principle of exclusive representation
+in the public sector is dependent on a union or agency
+shop.” Harris, 573 U. S., at ___ (slip op., at 20); Abood,
+431 U. S., at 220–222. But, as already noted, experience
+has shown otherwise. See supra, at 11–12.
+   It is also significant that the Court decided Abood
+against a very different legal and economic backdrop.
+Public-sector unionism was a relatively new phenomenon
+in 1977. The first State to permit collective bargaining by
+government employees was Wisconsin in 1959, R. Kearney
+& P. Mareschal, Labor Relations in the Public Sector 64
+(5th ed. 2014), and public-sector union membership re­
+mained relatively low until a “spurt” in the late 1960’s and
+early 1970’s, shortly before Abood was decided, Freeman,
+Unionism Comes to the Public Sector, 24 J. Econ. Lit. 41,
+45 (1986). Since then, public-sector union membership
+has come to surpass private-sector union membership,
+even though there are nearly four times as many total
+private-sector employees as public-sector employees. B.
+Hirsch & D. Macpherson, Union Membership and Earn­
+ings Data Book 9–10, 12, 16 (2013 ed.).
+   This ascendance of public-sector unions has been
+marked by a parallel increase in public spending. In 1970,
+total state and local government expenditures amounted
+to $646 per capita in nominal terms, or about $4,000 per
+capita in 2014 dollars. See Dept. of Commerce, Statistical
+Abstract of the United States: 1972, p. 419; CPI Inflation
+Calculator, BLS, http://data.bls.gov/cgi-bin/cpicalc.pl. By
+
+
+                   Cite as: 585 U. S. ____ (2018)            43
+                        Opinion of the Court
+2014, that figure had ballooned to approximately $10,238
+per capita. ProQuest, Statistical Abstract of the United
+States: 2018, pp. 17, Table 14, 300, Table 469. Not all that
+increase can be attributed to public-sector unions, of
+course, but the mounting costs of public-employee wages,
+benefits, and pensions undoubtedly played a substantial
+role. We are told, for example, that Illinois’ pension funds
+are underfunded by $129 billion as a result of generous
+public-employee retirement packages. Brief for Jason R.
+Barclay et al. as Amici Curiae 9, 14. Unsustainable collective-
+bargaining agreements have also been blamed for multiple
+municipal bankruptcies. See Brief for State of Michigan
+et al. as Amici Curiae 10–19. These developments, and
+the political debate over public spending and debt they
+have spurred, have given collective-bargaining issues a
+political valence that Abood did not fully appreciate.
+                                 2
+   Abood is also an “anomaly” in our First Amendment
+jurisprudence, as we recognized in Harris and Knox.
+Harris, supra, at ___ (slip op., at 8); Knox, 567 U. S., at
+311. This is not an altogether new observation. In Abood
+itself, Justice Powell faulted the Court for failing to per­
+form the “ ‘exacting scrutiny’ ” applied in other cases in­
+volving significant impingements on First Amendment
+rights. 431 U. S., at 259; see id., at 259–260, and n. 14.
+Our later cases involving compelled speech and associa­
+tion have also employed exacting scrutiny, if not a more
+demanding standard. See, e.g., Roberts, 468 U. S., at 623;
+United Foods, 533 U. S., at 414. And we have more re­
+cently refused, even in agency-fee cases, to extend Abood
+beyond circumstances where it directly controls. See
+Knox, supra, at 314; Harris, supra, at ___–___ (slip op., at
+28–29).
+   Abood particularly sticks out when viewed against our
+
+
+44 JANUS v. STATE, COUNTY, AND MUNICIPAL EMPLOYEES
+                      Opinion of the Court
+cases holding that public employees generally may not be
+required to support a political party. See Elrod, 427 U. S.
+347; Branti, 445 U. S. 507; Rutan, 497 U. S. 62; O’Hare
+Truck Service, Inc. v. City of Northlake, 518 U. S. 712
+(1996). The Court reached that conclusion despite a “long
+tradition” of political patronage in government. Rutan,
+supra, at 95 (Scalia, J., dissenting); see also Elrod, 427
+U. S., at 353 (plurality opinion); id., at 377–378 (Powell,
+J., dissenting). It is an odd feature of our First Amend­
+ment cases that political patronage has been deemed
+largely unconstitutional, while forced subsidization of
+union speech (which has no such pedigree) has been largely
+permitted. As Justice Powell observed: “I am at a loss
+to understand why the State’s decision to adopt the agency
+shop in the public sector should be worthy of greater defer­
+ence, when challenged on First Amendment grounds, than
+its decision to adhere to the tradition of political patron­
+age.” Abood, supra, at 260, n. 14 (opinion concurring in
+judgment) (citing Elrod, supra, at 376–380, 382–387
+(Powell, J., dissenting); emphasis added). We have no
+occasion here to reconsider our political patronage deci­
+sions, but Justice Powell’s observation is sound as far as it
+goes. By overruling Abood, we end the oddity of privileg­
+ing compelled union support over compelled party support
+and bring a measure of greater coherence to our First
+Amendment law.
+                               D
+   In some cases, reliance provides a strong reason for
+adhering to established law, see, e.g., Hilton v. South
+Carolina Public Railways Comm’n, 502 U. S. 197, 202–203
+(1991), and this is the factor that is stressed most strongly
+by respondents, their amici, and the dissent. They con­
+tend that collective-bargaining agreements now in effect
+were negotiated with agency fees in mind and that unions
+may have given up other benefits in exchange for provi­
+
+
+                   Cite as: 585 U. S. ____ (2018)          45
+                        Opinion of the Court
+sions granting them such fees. Tr. of Oral Arg. 67–68; see
+Brief for State Respondents 54; Brief for Union Respond­
+ent 50; post, at 22–26 (KAGAN, J., dissenting). In this case,
+however, reliance does not carry decisive weight.
+   For one thing, it would be unconscionable to permit free
+speech rights to be abridged in perpetuity in order to
+preserve contract provisions that will expire on their own
+in a few years’ time. “The fact that [public-sector unions]
+may view [agency fees] as an entitlement does not estab­
+lish the sort of reliance interest that could outweigh the
+countervailing interest that [nonmembers] share in having
+their constitutional rights fully protected.” Arizona v.
+Gant, 556 U. S. 332, 349 (2009).
+   For another, Abood does not provide “a clear or easily
+applicable standard, so arguments for reliance based on its
+clarity are misplaced.” South Dakota v. Wayfair, Inc.,
+ante, at 20; see supra, at 38–41.
+   This is especially so because public-sector unions have
+been on notice for years regarding this Court’s misgivings
+about Abood. In Knox, decided in 2012, we described
+Abood as a First Amendment “anomaly.” 567 U. S., at
+311. Two years later in Harris, we were asked to overrule
+Abood, and while we found it unnecessary to take that
+step, we cataloged Abood’s many weaknesses. In 2015, we
+granted a petition for certiorari asking us to review a
+decision that sustained an agency-fee arrangement under
+Abood. Friedrichs v. California Teachers Assn., 576 U. S.
+___. After exhaustive briefing and argument on the ques­
+tion whether Abood should be overruled, we affirmed the
+decision below by an equally divided vote. 578 U. S. ___
+(2016) (per curiam). During this period of time, any public-
+sector union seeking an agency-fee provision in a collective-
+bargaining agreement must have understood that the
+constitutionality of such a provision was uncertain.
+   That is certainly true with respect to the collective-
+bargaining agreement in the present case. That agree­
+
+
+46 JANUS v. STATE, COUNTY, AND MUNICIPAL EMPLOYEES
+                       Opinion of the Court
+ment initially ran from July 1, 2012, until June 30, 2015.
+App. 331. Since then, the agreement has been extended
+pursuant to a provision providing for automatic renewal
+for an additional year unless either party gives timely
+notice that it desires to amend or terminate the contract.
+Ibid. Thus, for the past three years, the Union could not
+have been confident about the continuation of the agency-
+fee arrangement for more than a year at a time.
+   Because public-sector collective-bargaining agreements
+are generally of rather short duration, a great many of
+those now in effect probably began or were renewed since
+Knox (2012) or Harris (2014). But even if an agreement
+antedates those decisions, the union was able to protect
+itself if an agency-fee provision was essential to the overall
+bargain. A union’s attorneys undoubtedly understand
+that if one provision of a collective-bargaining agreement
+is found to be unlawful, the remaining provisions are
+likely to remain in effect. See NLRB v. Rockaway News
+Supply Co., 345 U. S. 71, 76–79 (1953); see also 8 R. Lord,
+Williston on Contracts §19:70 (4th ed. 2010). Any union
+believing that an agency-fee provision was essential to its
+bargain could have insisted on a provision giving it greater
+protection. The agreement in the present case, by con­
+trast, provides expressly that the invalidation of any part
+of the agreement “shall not invalidate the remaining
+portions,” which “shall remain in full force and effect.”
+App. 328. Such severability clauses ensure that “entire
+contracts” are not “br[ought] down” by today’s ruling.
+Post, at 23, n. 5 (KAGAN, J., dissenting).
+   In short, the uncertain status of Abood, the lack of
+clarity it provides, the short-term nature of collective-
+bargaining agreements, and the ability of unions to protect
+themselves if an agency-fee provision was crucial to its
+bargain all work to undermine the force of reliance as a
+
+
+                       Cite as: 585 U. S. ____ (2018)                    47
+                            Opinion of the Court
+factor supporting Abood.27
+                               *     *      *
+     We recognize that the loss of payments from nonmem­
+bers may cause unions to experience unpleasant transition
+costs in the short term, and may require unions to make
+adjustments in order to attract and retain members. But
+we must weigh these disadvantages against the consider­
+able windfall that unions have received under Abood for
+the past 41 years. It is hard to estimate how many bil­
+lions of dollars have been taken from nonmembers and
+transferred to public-sector unions in violation of the First
+Amendment. Those unconstitutional exactions cannot be
+allowed to continue indefinitely.
+     All these reasons—that Abood’s proponents have aban­
+doned its reasoning, that the precedent has proved un­
+workable, that it conflicts with other First Amendment
+decisions, and that subsequent developments have eroded
+its underpinnings—provide the “ ‘special justification[s]’ ”
+for overruling Abood. Post, at 19 (KAGAN, J., dissenting)
+(quoting Kimble v. Marvel Entertainment, LLC, 576 U. S.
+___, ___ (2015) (slip op., at 8)).28
+——————
+    27 The dissent emphasizes another type of reliance, namely, that
+“[o]ver 20 States have by now enacted statutes authorizing [agency-fee]
+provisions.” Post, at 23. But as we explained in Citizens United, “[t]his
+is not a compelling interest for stare decisis. If it were, legislative acts
+could prevent us from overruling our own precedents, thereby interfer­
+ing with our duty ‘to say what the law is.’ ” 558 U. S., at 365 (quoting
+Marbury v. Madison, 1 Cranch 137, 177 (1803)). Nor does our decision
+“ ‘require an extensive legislative response.’ ” Post, at 23. States can
+keep their labor-relations systems exactly as they are—only they
+cannot force nonmembers to subsidize public-sector unions. In this
+way, these States can follow the model of the federal government and
+28 other States.
+    28 Unfortunately, the dissent sees the need to resort to accusations
+that we are acting like “black-robed rulers” who have shut down an
+“energetic policy debate.” Post, at 27–28. We certainly agree that
+judges should not “overrid[e] citizens’ choices” or “pick the winning
+
+
+48 JANUS v. STATE, COUNTY, AND MUNICIPAL EMPLOYEES
+                            Opinion of the Court
+                                    VII
+   For these reasons, States and public-sector unions may
+no longer extract agency fees from nonconsenting employ­
+ees. Under Illinois law, if a public-sector collective-
+bargaining agreement includes an agency-fee provision
+and the union certifies to the employer the amount of the
+fee, that amount is automatically deducted from the non­
+member’s wages. §315/6(e). No form of employee consent
+is required.
+   This procedure violates the First Amendment and can­
+not continue. Neither an agency fee nor any other pay­
+ment to the union may be deducted from a nonmember’s
+wages, nor may any other attempt be made to collect such
+a payment, unless the employee affirmatively consents to
+pay. By agreeing to pay, nonmembers are waiving their
+First Amendment rights, and such a waiver cannot be
+presumed. Johnson v. Zerbst, 304 U. S. 458, 464 (1938);
+see also Knox, 567 U. S., at 312–313. Rather, to be effec­
+tive, the waiver must be freely given and shown by “clear
+and compelling” evidence. Curtis Publishing Co. v. Butts,
+388 U. S. 130, 145 (1967) (plurality opinion); see also
+College Savings Bank v. Florida Prepaid Postsecondary
+Ed. Expense Bd., 527 U. S. 666, 680–682 (1999). Unless
+employees clearly and affirmatively consent before any
+money is taken from them, this standard cannot be met.
+——————
+side,” ibid.—unless the Constitution commands that they do so. But
+when a federal or state law violates the Constitution, the American
+doctrine of judicial review requires us to enforce the Constitution.
+Here, States with agency-fee laws have abridged fundamental free
+speech rights. In holding that these laws violate the Constitution, we
+are simply enforcing the First Amendment as properly understood,
+“[t]he very purpose of [which] was to withdraw certain subjects from
+the vicissitudes of political controversy, to place them beyond the reach
+of majorities and officials and to establish them as legal principles to be
+applied by the courts.” West Virginia Bd. of Ed. v. Barnette, 319 U. S.
+624, 638 (1943).
+
+
+                 Cite as: 585 U. S. ____ (2018)                49
+                      Opinion of the Court
+                         *     *      *
+  Abood was wrongly decided and is now overruled. The
+judgment of the United States Court of Appeals for the
+Seventh Circuit is reversed, and the case is remanded for
+further proceedings consistent with this opinion.
+                                                It is so ordered.
+
+
+                  Cite as: 585 U. S. ____ (2018)          1
+                    SOTOMAYOR, J., dissenting
+SUPREME COURT OF THE UNITED STATES
+                           _________________
+                           No. 16–1466
+                           _________________
+  MARK JANUS, PETITIONER v. AMERICAN FEDER-
+     ATION OF STATE, COUNTY, AND MUNICIPAL
+            EMPLOYEES, COUNCIL 31, ET AL.
+ ON WRIT OF CERTIORARI TO THE UNITED STATES COURT OF
+             APPEALS FOR THE SEVENTH CIRCUIT
+                         [June 27, 2018]
+  JUSTICE SOTOMAYOR, dissenting.
+  I join JUSTICE KAGAN’s dissent in full. Although I joined
+the majority in Sorrell v. IMS Health Inc., 564 U. S. 552
+(2011), I disagree with the way that this Court has since
+interpreted and applied that opinion. See, e.g., National
+Institute of Family and Life Advocates v. Becerra, ante,
+p. ___. Having seen the troubling development in First
+Amendment jurisprudence over the years, both in this
+Court and in lower courts, I agree fully with JUSTICE
+KAGAN that Sorrell—in the way it has been read by this
+Court—has allowed courts to “wiel[d] the First Amend-
+ment in . . . an aggressive way” just as the majority does
+today. Post, at 27.
+
+
+                 Cite as: 585 U. S. ____ (2018)            1
+                     KAGAN, J., dissenting
+SUPREME COURT OF THE UNITED STATES
+                          _________________
+                          No. 16–1466
+                          _________________
+  MARK JANUS, PETITIONER v. AMERICAN FEDER-
+     ATION OF STATE, COUNTY, AND MUNICIPAL
+            EMPLOYEES, COUNCIL 31, ET AL.
+ ON WRIT OF CERTIORARI TO THE UNITED STATES COURT OF
+            APPEALS FOR THE SEVENTH CIRCUIT
+                        [June 27, 2018]
+  JUSTICE KAGAN, with whom JUSTICE GINSBURG,
+JUSTICE BREYER, and JUSTICE SOTOMAYOR join,
+dissenting.
+  For over 40 years, Abood v. Detroit Bd. of Ed., 431 U. S.
+209 (1977), struck a stable balance between public em-
+ployees’ First Amendment rights and government entities’
+interests in running their workforces as they thought
+proper. Under that decision, a government entity could
+require public employees to pay a fair share of the cost
+that a union incurs when negotiating on their behalf over
+terms of employment. But no part of that fair-share pay-
+ment could go to any of the union’s political or ideological
+activities.
+  That holding fit comfortably with this Court’s general
+framework for evaluating claims that a condition of public
+employment violates the First Amendment. The Court’s
+decisions have long made plain that government entities
+have substantial latitude to regulate their employees’
+speech—especially about terms of employment—in the
+interest of operating their workplaces effectively. Abood
+allowed governments to do just that. While protecting
+public employees’ expression about non-workplace mat-
+ters, the decision enabled a government to advance im-
+portant managerial interests—by ensuring the presence of
+
+
+2   JANUS v. STATE, COUNTY, AND MUNICIPAL EMPLOYEES
+                       KAGAN, J., dissenting
+an exclusive employee representative to bargain with. Far
+from an “anomaly,” ante, at 7, the Abood regime was a
+paradigmatic example of how the government can regulate
+speech in its capacity as an employer.
+   Not any longer. Today, the Court succeeds in its 6-year
+campaign to reverse Abood. See Friedrichs v. California
+Teachers Assn., 578 U. S. ___ (2016) (per curiam); Harris
+v. Quinn, 573 U. S. ___ (2014); Knox v. Service Employees,
+567 U. S. 298 (2012). Its decision will have large-scale
+consequences. Public employee unions will lose a secure
+source of financial support. State and local governments
+that thought fair-share provisions furthered their inter-
+ests will need to find new ways of managing their work-
+forces. Across the country, the relationships of public
+employees and employers will alter in both predictable
+and wholly unexpected ways.
+   Rarely if ever has the Court overruled a decision—let
+alone one of this import—with so little regard for the
+usual principles of stare decisis. There are no special
+justifications for reversing Abood. It has proved workable.
+No recent developments have eroded its underpinnings.
+And it is deeply entrenched, in both the law and the real
+world. More than 20 States have statutory schemes built
+on the decision. Those laws underpin thousands of ongo-
+ing contracts involving millions of employees. Reliance
+interests do not come any stronger than those surrounding
+Abood. And likewise, judicial disruption does not get any
+greater than what the Court does today. I respectfully
+dissent.
+                                 I
+   I begin with Abood, the 41-year-old precedent the major-
+ity overrules. That case involved a union that had been
+certified as the exclusive representative of Detroit’s public
+school teachers. The union’s collective-bargaining agree-
+ment with the city included an “agency shop” clause,
+
+
+                   Cite as: 585 U. S. ____ (2018)          3
+                       KAGAN, J., dissenting
+which required teachers who had not joined the union to
+pay it “a service charge equal to the regular dues required
+of [u]nion members.” Abood, 431 U. S., at 212. A group of
+non-union members sued over that clause, arguing that it
+violated the First Amendment.
+   In considering their challenge, the Court canvassed the
+purposes of the “agency shop” clause. It was rooted, the
+Court understood, in the “principle of exclusive union
+representation”—a “central element” in “industrial rela-
+tions” since the New Deal. Id., at 220. Significant bene-
+fits, the Court explained, could derive from the “designa-
+tion of a single [union] representative” for all similarly
+situated employees in a workplace. Ibid. In particular,
+such arrangements: “avoid[ ] the confusion that would
+result from attempting to enforce two or more agreements
+specifying different terms and conditions of employment”;
+“prevent[ ] inter-union rivalries from creating dissension
+within the work force”; “free[ ] the employer from the
+possibility of facing conflicting demands from different
+unions”; and “permit[ ] the employer and a single union to
+reach agreements and settlements that are not subject to
+attack from rival labor organizations.” Id., at 220–221.
+As proof, the Court pointed to the example of exclusive-
+representation arrangements in the private-employment
+sphere: There, Congress had long thought that such
+schemes would promote “peaceful labor relations” and
+“labor stability.” Id., at 219, 229. A public employer like
+Detroit, the Court believed, could reasonably make the
+same calculation.
+   But for an exclusive-bargaining arrangement to work,
+such an employer often thought, the union needed ade-
+quate funding. Because the “designation of a union as
+exclusive representative carries with it great responsibili-
+ties,” the Court reasoned, it inevitably also entails sub-
+stantial costs. Id., at 221. “The tasks of negotiating and
+administering a collective-bargaining agreement and
+
+
+4   JANUS v. STATE, COUNTY, AND MUNICIPAL EMPLOYEES
+                      KAGAN, J., dissenting
+representing the interests of employees in settling dis-
+putes and processing grievances are continuing and diffi-
+cult ones.” Ibid. Those activities, the Court noted, require
+the “expenditure of much time and money”—for example,
+payment for the “services of lawyers, expert negotiators,
+economists, and a research staff.” Ibid. And there is no
+way to confine the union’s services to union members
+alone (and thus to trim costs) because unions must by law
+fairly represent all employees in a given bargaining unit—
+union members and non-members alike. See ibid.
+  With all that in mind, the Court recognized why both a
+government entity and its union bargaining partner would
+gravitate toward an agency-fee clause. Those fees, the
+Court reasoned, “distribute fairly the cost” of collective
+bargaining “among those who benefit”—that is, all em-
+ployees in the work unit. Id., at 222. And they “counter-
+act[ ] the incentive that employees might otherwise have
+to become ‘free riders.’ ” Ibid. In other words, an agency-
+fee provision prevents employees from reaping all the
+“benefits of union representation”—higher pay, a better
+retirement plan, and so forth—while leaving it to others to
+bear the costs. Ibid. To the Court, the upshot was clear: A
+government entity could reasonably conclude that such a
+clause was needed to maintain the kind of exclusive bar-
+gaining arrangement that would facilitate peaceful and
+stable labor relations.
+  But the Court acknowledged as well the “First Amend-
+ment interests” of dissenting employees. Ibid. It recog-
+nized that some workers might oppose positions the union
+takes in collective bargaining, or even “unionism itself.”
+Ibid. And still more, it understood that unions often
+advance “political and ideological” views outside the
+collective-bargaining context—as when they “contribute to
+political candidates.” Id., at 232, 234. Employees might
+well object to the use of their money to support such “ideo-
+logical causes.” Id., at 235.
+
+
+                   Cite as: 585 U. S. ____ (2018)         5
+                       KAGAN, J., dissenting
+  So the Court struck a balance, which has governed this
+area ever since. On the one hand, employees could be
+required to pay fees to support the union in “collective
+bargaining, contract administration, and grievance ad-
+justment.” Id., at 225–226. There, the Court held, the
+“important government interests” in having a stably
+funded bargaining partner justify “the impingement upon”
+public employees’ expression. Id., at 225. But on the
+other hand, employees could not be compelled to fund the
+union’s political and ideological activities. Outside the
+collective-bargaining sphere, the Court determined, an
+employee’s First Amendment rights defeated any conflict-
+ing government interest. See id., at 234–235.
+                                II
+  Unlike the majority, I see nothing “questionable” about
+Abood’s analysis. Ante, at 7 (quoting Harris, 573 U. S., at
+___ (slip op., at 17)). The decision’s account of why some
+government entities have a strong interest in agency fees
+(now often called fair-share fees) is fundamentally sound.
+And the balance Abood struck between public employers’
+interests and public employees’ expression is right at
+home in First Amendment doctrine.
+                                A
+  Abood’s reasoning about governmental interests has
+three connected parts. First, exclusive representation
+arrangements benefit some government entities because
+they can facilitate stable labor relations. In particular,
+such arrangements eliminate the potential for inter-union
+conflict and streamline the process of negotiating terms of
+employment. See 431 U. S., at 220–221. Second, the
+government may be unable to avail itself of those benefits
+unless the single union has a secure source of funding.
+The various tasks involved in representing employees cost
+money; if the union doesn’t have enough, it can’t be an
+
+
+6   JANUS v. STATE, COUNTY, AND MUNICIPAL EMPLOYEES
+                       KAGAN, J., dissenting
+effective employee representative and bargaining partner.
+See id., at 221. And third, agency fees are often needed to
+ensure such stable funding. That is because without those
+fees, employees have every incentive to free ride on the
+union dues paid by others. See id., at 222.
+   The majority does not take issue with the first point.
+See ante, at 33 (It is “not disputed that the State may
+require that a union serve as exclusive bargaining agent
+for its employees” in order to advance the State’s “inter-
+ests as an employer”). The majority claims that the sec-
+ond point never appears in Abood, but is willing to assume
+it for the sake of argument. See ante, at 31–32; but see
+Abood, 431 U. S., at 221 (The tasks of an exclusive repre-
+sentative “often entail expenditure of much time and
+money”). So the majority stakes everything on the third
+point—the conclusion that maintaining an effective sys-
+tem of exclusive representation often entails agency fees.
+Ante, at 12 (It “is simply not true” that exclusive represen-
+tation and agency fees are “inextricably linked”); see ante,
+at 14.
+   But basic economic theory shows why a government
+would think that agency fees are necessary for exclusive
+representation to work. What ties the two together, as
+Abood recognized, is the likelihood of free-riding when fees
+are absent.      Remember that once a union achieves
+exclusive-representation status, the law compels it to
+fairly represent all workers in the bargaining unit, whether
+or not they join or contribute to the union. See supra, at 4.
+Because of that legal duty, the union cannot give special
+advantages to its own members. And that in turn creates
+a collective action problem of nightmarish proportions.
+Everyone—not just those who oppose the union, but also
+those who back it—has an economic incentive to withhold
+dues; only altruism or loyalty—as against financial self-
+interest—can explain why an employee would pay the
+union for its services. And so emerged Abood’s rule allow-
+
+
+                   Cite as: 585 U. S. ____ (2018)           7
+                       KAGAN, J., dissenting
+ing fair-share agreements: That rule ensured that a union
+would receive sufficient funds, despite its legally imposed
+disability, to effectively carry out its duties as exclusive
+representative of the government’s employees.
+  The majority’s initial response to this reasoning is
+simply to dismiss it. “[F]ree rider arguments,” the majority
+pronounces, “are generally insufficient to overcome First
+Amendment objections.” Ante, at 13 (quoting Knox, 567
+U. S., at 311). “To hold otherwise,” it continues, “would
+have startling consequences” because “[m]any private
+groups speak out” in ways that will “benefit[ ] nonmem-
+bers.” Ante, at 13. But that disregards the defining char-
+acteristic of this free-rider argument—that unions, unlike
+those many other private groups, must serve members and
+non-members alike. Groups advocating for “senior citizens
+or veterans” (to use the majority’s examples) have no legal
+duty to provide benefits to all those individuals: They can
+spur people to pay dues by conferring all kinds of special
+advantages on their dues-paying members. Unions are—
+by law—in a different position, as this Court has long
+recognized. See, e.g., Machinists v. Street, 367 U. S. 740,
+762 (1961). Justice Scalia, responding to the same argu-
+ment as the majority’s, may have put the point best. In a
+way that is true of no other private group, the “law re-
+quires the union to carry” non-members—“indeed, requires
+the union to go out of its way to benefit [them], even at the
+expense of its other interests.” Lehnert v. Ferris Faculty
+Assn., 500 U. S. 507, 556 (1991) (opinion concurring in
+part and dissenting in part). That special feature was
+what justified Abood: “Where the state imposes upon the
+union a duty to deliver services, it may permit the union to
+demand reimbursement for them.” 500 U. S., at 556.
+  The majority’s fallback argument purports to respond to
+the distinctive position of unions, but still misses Abood’s
+economic insight. Here, the majority delivers a four-page
+exegesis on why unions will seek to serve as an exclusive
+
+
+8    JANUS v. STATE, COUNTY, AND MUNICIPAL EMPLOYEES
+                          KAGAN, J., dissenting
+bargaining representative even “if they are not given
+agency fees.” Ante, at 14; see ante, at 14–17. The gist of
+the account is that “designation as the exclusive repre-
+sentative confers many benefits,” which outweigh the costs
+of providing services to non-members. Ante, at 15. But
+that response avoids the key question, which is whether
+unions without agency fees will be able to (not whether
+they will want to) carry on as an effective exclusive repre-
+sentative. And as to that question, the majority again
+fails to reckon with how economically rational actors
+behave—in public as well as private workplaces. Without
+a fair-share agreement, the class of union non-members
+spirals upward. Employees (including those who love the
+union) realize that they can get the same benefits even if
+they let their memberships expire. And as more and more
+stop paying dues, those left must take up the financial
+slack (and anyway, begin to feel like suckers)—so they too
+quit the union. See Ichniowski & Zax, Right-to-Work
+Laws, Free Riders, and Unionization in the Local Public
+Sector, 9 J. Labor Economics 255, 257 (1991).1 And when
+the vicious cycle finally ends, chances are that the union
+will lack the resources to effectively perform the responsi-
+——————
+  1 The majority relies on statistics from the federal workforce (where
+agency fees are unlawful) to suggest that public employees do not act in
+accord with economic logic. See ante, at 12. But first, many fewer
+federal employees pay dues than have voted for a union to represent
+them, indicating that free-riding in fact pervades the federal sector.
+See, e.g., R. Kearney & P. Mareschal, Labor Relations in the Public
+Sector 26 (5th ed. 2014). And second, that sector is not typical of other
+public workforces. Bargaining in the federal sphere is limited; most
+notably, it does not extend to wages and benefits. See Fort Stewart
+Schools v. FLRA, 495 U. S. 641, 649 (1990). That means union operat-
+ing expenses are lower than they are elsewhere. And the gap further
+widens because the federal sector uses large, often national, bargaining
+units that provide unions with economies of scale. See Brief for Inter-
+national Brotherhood of Teamsters as Amicus Curiae 7. For those
+reasons, the federal workforce is the wrong place to look for meaningful
+empirical evidence on the issues here.
+
+
+                  Cite as: 585 U. S. ____ (2018)            9
+                      KAGAN, J., dissenting
+bilities of an exclusive representative—or, in the worst
+case, to perform them at all. The result is to frustrate the
+interests of every government entity that thinks a strong
+exclusive-representation scheme will promote stable labor
+relations.
+   Of course, not all public employers will share that view.
+Some would rather not bargain with an exclusive repre-
+sentative. Others would prefer that representative to be
+poorly funded—to serve more as a front than an effectual
+bargaining partner. But as reflected in the number of fair-
+share statutes and contracts across the Nation, see supra,
+at 2, many government entities think that effective exclu-
+sive representation makes for good labor relations—and
+recognize, just as Abood did, that representation of that
+kind often depends on agency fees. See, e.g., Harris, 573
+U. S., at ___ (slip op., at 24) (KAGAN, J., dissenting) (de-
+scribing why Illinois thought that bargaining with an
+adequately funded exclusive representative of in-home
+caregivers would enable the State to better serve its dis-
+abled citizens). Abood respected that state interest; today’s
+majority fails even to understand it. Little wonder that
+the majority’s First Amendment analysis, which involves
+assessing the government’s reasons for imposing agency
+fees, also comes up short.
+                                B
+                                1
+   In many cases over many decades, this Court has ad-
+dressed how the First Amendment applies when the gov-
+ernment, acting not as sovereign but as employer, limits
+its workers’ speech. Those decisions have granted sub-
+stantial latitude to the government, in recognition of its
+significant interests in managing its workforce so as to
+best serve the public. Abood fit neatly with that caselaw,
+in both reasoning and result. Indeed, its reversal today
+creates a significant anomaly—an exception, applying to
+
+
+10 JANUS v. STATE, COUNTY, AND MUNICIPAL EMPLOYEES
+                       KAGAN, J., dissenting
+union fees alone, from the usual rules governing public
+employees’ speech.
+   “Time and again our cases have recognized that the
+Government has a much freer hand” in dealing with its
+employees than with “citizens at large.” NASA v. Nelson,
+562 U. S. 134, 148 (2011) (internal quotation marks omit-
+ted). The government, we have stated, needs to run “as
+effectively and efficiently as possible.” Engquist v. Oregon
+Dept. of Agriculture, 553 U. S. 591, 598 (2008) (internal
+quotation marks omitted). That means it must be able,
+much as a private employer is, to manage its workforce as
+it thinks fit. A public employee thus must submit to “cer-
+tain limitations on his or her freedom.” Garcetti v. Ce-
+ballos, 547 U. S. 410, 418 (2006). Government workers, of
+course, do not wholly “lose their constitutional rights when
+they accept their positions.” Engquist, 553 U. S., at 600.
+But under our precedent, their rights often yield when
+weighed “against the realities of the employment context.”
+Ibid. If it were otherwise—if every employment decision
+were to “bec[o]me a constitutional matter”—“the Govern-
+ment could not function.” NASA, 562 U. S., at 149 (inter-
+nal quotation marks omitted).
+   Those principles apply with full force when public
+employees’ expressive rights are at issue. As we have ex-
+plained: “Government employers, like private employers,
+need a significant degree of control over their employees’
+words” in order to “efficient[ly] provi[de] public services.”
+Garcetti, 547 U. S., at 418. Again, significant control does
+not mean absolute authority. In particular, the Court has
+guarded against government efforts to “leverage the em-
+ployment relationship” to shut down its employees’ speech
+as private citizens. Id., at 419. But when the government
+imposes speech restrictions relating to workplace opera-
+tions, of the kind a private employer also would, the Court
+reliably upholds them. See, e.g., id., at 426; Connick v.
+Myers, 461 U. S. 138, 154 (1983).
+
+
+                      Cite as: 585 U. S. ____ (2018)               11
+                          KAGAN, J., dissenting
+   In striking the proper balance between employee speech
+rights and managerial interests, the Court has long ap-
+plied a test originating in Pickering v. Board of Ed. of
+Township High School Dist. 205, Will Cty., 391 U. S. 563
+(1968). That case arose out of an individual employment
+action: the firing of a public school teacher. As we later
+described the Pickering inquiry, the Court first asks
+whether the employee “spoke as a citizen on a matter of
+public concern.” Garcetti, 547 U. S., at 418. If she did
+not—but rather spoke as an employee on a workplace
+matter—she has no “possibility of a First Amendment
+claim”: A public employer can curtail her speech just as a
+private one could. Ibid. But if she did speak as a citizen
+on a public matter, the public employer must demonstrate
+“an adequate justification for treating the employee differ-
+ently from any other member of the general public.” Ibid.
+The government, that is, needs to show that legitimate
+workplace interests lay behind the speech regulation.
+   Abood coheres with that framework. The point here is
+not, as the majority suggests, that Abood is an overt, one-
+to-one “application of Pickering.” Ante, at 26. It is not.
+Abood related to a municipality’s labor policy, and so the
+Court looked to prior cases about unions, not to Pickering’s
+analysis of an employee’s dismissal. (And truth be told,
+Pickering was not at that time much to look at: What the
+Court now thinks of as the two-step Pickering test, as the
+majority’s own citations show, really emerged from Garcetti
+and Connick—two cases post-dating Abood. See ante, at
+22.)2 But Abood and Pickering raised variants of the same
+basic issue: the extent of the government’s authority to
+——————
+  2 For those reasons, it is not surprising that the “categorization
+schemes” in Abood and Pickering are not precisely coterminous. Ante,
+at 25. The two cases are fraternal rather than identical twins—both
+standing for the proposition that the government receives great defer-
+ence when it regulates speech as an employer rather than as a sover-
+eign. See infra this page and 12–13.
+
+
+12 JANUS v. STATE, COUNTY, AND MUNICIPAL EMPLOYEES
+                     KAGAN, J., dissenting
+make employment decisions affecting expression. And in
+both, the Court struck the same basic balance, enabling
+the government to curb speech when—but only when—the
+regulation was designed to protect its managerial inter-
+ests. Consider the parallels:
+   Like Pickering, Abood drew the constitutional line by
+analyzing the connection between the government’s man-
+agerial interests and different kinds of expression. The
+Court first discussed the use of agency fees to subsidize
+the speech involved in “collective bargaining, contract
+administration, and grievance adjustment.” 431 U. S., at
+225–226. It understood that expression (really, who would
+not?) as intimately tied to the workplace and employment
+relationship. The speech was about “working conditions,
+pay, discipline, promotions, leave, vacations, and termina-
+tions,” Borough of Duryea v. Guarnieri, 564 U. S. 379, 391
+(2011); the speech occurred (almost always) in the work-
+place; and the speech was directed (at least mainly) to the
+employer. As noted earlier, Abood described the manage-
+rial interests of employers in channeling all that speech
+through a single union. See 431 U. S., at 220–222, 224–
+226; supra, at 3. And so Abood allowed the government to
+mandate fees for collective bargaining—just as Pickering
+permits the government to regulate employees’ speech on
+similar workplace matters. But still, Abood realized that
+compulsion could go too far. The Court barred the use of
+fees for union speech supporting political candidates or
+“ideological causes.” 431 U. S., at 235. That speech, it
+understood, was “unrelated to [the union’s] duties as
+exclusive bargaining representative,” but instead was
+directed at the broader public sphere. Id., at 234. And for
+that reason, the Court saw no legitimate managerial
+interests in compelling its subsidization. The employees’
+First Amendment claims would thus prevail—as, again,
+they would have under Pickering.
+   Abood thus dovetailed with the Court’s usual attitude in
+
+
+                   Cite as: 585 U. S. ____ (2018)         13
+                       KAGAN, J., dissenting
+First Amendment cases toward the regulation of public
+employees’ speech. That attitude is one of respect—even
+solicitude—for the government’s prerogatives as an em-
+ployer. So long as the government is acting as an employ-
+er—rather than exploiting the employment relationship
+for other ends—it has a wide berth, comparable to that of
+a private employer. And when the regulated expression
+concerns the terms and conditions of employment—the
+very stuff of the employment relationship—the govern-
+ment really cannot lose. There, managerial interests are
+obvious and strong. And so government employees are . . .
+just employees, even though they work for the govern-
+ment. Except that today the government does lose, in a
+first for the law. Now, the government can constitutionally
+adopt all policies regulating core workplace speech in
+pursuit of managerial goals—save this single one.
+                                 2
+   The majority claims it is not making a special and un-
+justified exception. It offers two main reasons for declin-
+ing to apply here our usual deferential approach, as exem-
+plified in Pickering, to the regulation of public employee
+speech. First, the majority says, this case involves a
+“blanket” policy rather than an individualized employment
+decision, so Pickering is a “painful fit.” Ante, at 23. Sec-
+ond, the majority asserts, the regulation here involves
+compelling rather than restricting speech, so the pain gets
+sharper still. See ante, at 24–25. And finally, the majority
+claims that even under the solicitous Pickering standard,
+the government should lose, because the speech here
+involves a matter of public concern and the government’s
+managerial interests do not justify its regulation. See
+ante, at 27–31. The majority goes wrong at every turn.
+   First, this Court has applied the same basic approach
+whether a public employee challenges a general policy or
+an individualized decision. Even the majority must con-
+
+
+14 JANUS v. STATE, COUNTY, AND MUNICIPAL EMPLOYEES
+                     KAGAN, J., dissenting
+cede that “we have sometimes looked to Pickering in con-
+sidering general rules that affect broad categories of em-
+ployees.” Ante, at 23. In fact, the majority cannot come up
+with any case in which we have not done so. All it can
+muster is one case in which while applying the Pickering
+test to a broad rule—barring any federal employee from
+accepting any payment for any speech or article on any
+topic—the Court noted that the policy’s breadth would
+count against the government at the test’s second step.
+See United States v. Treasury Employees, 513 U. S. 454
+(1995). Which is completely predictable. The inquiry at
+that stage, after all, is whether the government has an
+employment-related interest in going however far it has
+gone—and in Treasury Employees, the government had
+indeed gone far. (The Court ultimately struck down the
+rule because it applied to speech in which the government
+had no identifiable managerial interest. See id., at 470,
+477.) Nothing in Treasury Employees suggests that the
+Court defers only to ad hoc actions, and not to general
+rules, about public employee speech. That would be a
+perverse regime, given the greater regularity of rulemak-
+ing and the lesser danger of its abuse. So I would wager a
+small fortune that the next time a general rule governing
+public employee speech comes before us, we will dust off
+Pickering.
+  Second, the majority’s distinction between compelling
+and restricting speech also lacks force. The majority
+posits that compelling speech always works a greater
+injury, and so always requires a greater justification. See
+ante, at 8. But the only case the majority cites for that
+reading of our precedent is possibly (thankfully) the most
+exceptional in our First Amendment annals: It involved
+the state forcing children to swear an oath contrary to
+their religious beliefs. See ibid. (quoting West Virginia
+Bd. of Ed. v. Barnette, 319 U. S. 624 (1943)). Regulations
+challenged as compelling expression do not usually look
+
+
+                       Cite as: 585 U. S. ____ (2018)                 15
+                            KAGAN, J., dissenting
+anything like that—and for that reason, the standard
+First Amendment rule is that the “difference between
+compelled speech and compelled silence” is “without con-
+stitutional significance.” Riley v. National Federation of
+Blind of N. C., Inc., 487 U. S. 781, 796 (1988); see Wooley
+v. Maynard, 430 U. S. 705, 714 (1977) (referring to “[t]he
+right to speak and the right to refrain from speaking” as
+“complementary components” of the First Amendment).
+And if anything, the First Amendment scales tip the oppo-
+site way when (as here) the government is not compelling
+actual speech, but instead compelling a subsidy that oth-
+ers will use for expression. See Brief for Eugene Volokh
+et al. as Amici Curiae 4–5 (offering many examples to
+show that the First Amendment “simply do[es] not guar-
+antee that one’s hard-earned dollars will never be spent on
+speech one disapproves of ”).3 So when a government
+mandates a speech subsidy from a public employee—here,
+we might think of it as levying a tax to support collective
+bargaining—it should get at least as much deference as
+when it restricts the employee’s speech. As this case
+shows, the former may advance a managerial interest as
+well as the latter—in which case the government’s “freer
+hand” in dealing with its employees should apply with
+equal (if not greater) force. NASA, 562 U. S., at 148.
+   Third and finally, the majority errs in thinking that
+under the usual deferential approach, the government
+should lose this case. The majority mainly argues here
+——————
+  3 That’s why this Court has blessed the constitutionality of compelled
+speech subsidies in a variety of cases beyond Abood, involving a variety
+of contexts beyond labor relations. The list includes mandatory fees
+imposed on state bar members (for professional expression); university
+students (for campus events); and fruit processors (for generic advertis-
+ing). See Keller v. State Bar of Cal., 496 U. S. 1, 14 (1990); Board of
+Regents of Univ. of Wis. System v. Southworth, 529 U. S. 217, 233
+(2000); Glickman v. Wileman Brothers & Elliott, Inc., 521 U. S. 457, 474
+(1997); see also infra, at 20.
+
+
+16 JANUS v. STATE, COUNTY, AND MUNICIPAL EMPLOYEES
+                      KAGAN, J., dissenting
+that, at Pickering’s first step, “union speech in collective
+bargaining” is a “matter of great public concern” because it
+“affect[s] how public money is spent” and addresses “other
+important matters” like teacher merit pay or tenure. Ante,
+at 27, 29 (internal quotation marks omitted). But to start,
+the majority misunderstands the threshold inquiry set out
+in Pickering and later cases. The question is not, as the
+majority seems to think, whether the public is, or should
+be, interested in a government employee’s speech. In-
+stead, the question is whether that speech is about and
+directed to the workplace—as contrasted with the broader
+public square. Treasury Employees offers the Court’s
+fullest explanation. The Court held there that the gov-
+ernment’s policy prevented employees from speaking as
+“citizen[s]” on “matters of public concern.” 513 U. S., at
+466 (quoting Pickering, 391 U. S., at 568). Why? Because
+the speeches and articles “were addressed to a public
+audience, were made outside the workplace, and involved
+content largely unrelated to their Government employ-
+ment.” 513 U. S., at 466; see id., at 465, 470 (repeating
+that analysis twice more). The Court could not have cared
+less whether the speech at issue was “important.” Ante, at
+29. It instead asked whether the speech was truly of the
+workplace—addressed to it, made in it, and (most of all)
+about it.
+   Consistent with that focus, speech about the terms and
+conditions of employment—the essential stuff of collective
+bargaining—has never survived Pickering’s first step.
+This Court has rejected all attempts by employees to make
+a “federal constitutional issue” out of basic “employment
+matters, including working conditions, pay, discipline,
+promotions, leave, vacations, and terminations.” Guarnieri,
+564 U. S., at 391; see Board of Comm’rs, Wabaunsee
+Cty. v. Umbehr, 518 U. S. 668, 675 (1996) (stating that
+public employees’ “speech on merely private employment
+matters is unprotected”). For that reason, even the Jus-
+
+
+                  Cite as: 585 U. S. ____ (2018)           17
+                      KAGAN, J., dissenting
+tices who originally objected to Abood conceded that the
+use of agency fees for bargaining on “economic issues” like
+“salaries and pension benefits” would not raise significant
+First Amendment questions. 431 U. S., at 263, n. 16
+(Powell, J., concurring in judgment). Of course, most of
+those issues have budgetary consequences: They “affect[ ]
+how public money is spent.” Ante, at 29. And some raise
+important non-budgetary disputes; teacher merit pay is a
+good example, see ante, at 30. But arguing about the
+terms of employment is still arguing about the terms of
+employment: The workplace remains both the context and
+the subject matter of the expression. If all that speech
+really counted as “of public concern,” as the majority
+suggests, the mass of public employees’ complaints (about
+pay and benefits and workplace policy and such) would
+become “federal constitutional issue[s].” Guarnieri, 564
+U. S., at 391. And contrary to decades’ worth of precedent,
+government employers would then have far less control
+over their workforces than private employers do. See
+supra, at 9–11.
+   Consider an analogy, not involving union fees: Suppose
+a government entity disciplines a group of (non-unionized)
+employees for agitating for a better health plan at various
+inopportune times and places. The better health plan will
+of course drive up public spending; so according to the
+majority’s analysis, the employees’ speech satisfies Picker-
+ing’s “public concern” test. Or similarly, suppose a public
+employer penalizes a group of (non-unionized) teachers
+who protest merit pay in the school cafeteria. Once again,
+the majority’s logic runs, the speech is of “public concern,”
+so the employees have a plausible First Amendment claim.
+(And indeed, the majority appears to concede as much, by
+asserting that the results in these hypotheticals should
+turn on various “factual detail[s]” relevant to the interest
+balancing that occurs at the Pickering test’s second step.
+Ante, at 32, n. 23.) But in fact, this Court has always
+
+
+18 JANUS v. STATE, COUNTY, AND MUNICIPAL EMPLOYEES
+                      KAGAN, J., dissenting
+understood such cases to end at Pickering’s first step: If an
+employee’s speech is about, in, and directed to the work-
+place, she has no “possibility of a First Amendment claim.”
+Garcetti, 547 U. S., at 418; see supra, at 11. So take your
+pick. Either the majority is exposing government entities
+across the country to increased First Amendment litiga-
+tion and liability—and thus preventing them from regulat-
+ing their workforces as private employers could. Or else,
+when actual cases of this kind come around, we will dis-
+cover that today’s majority has crafted a “unions only”
+carve-out to our employee-speech law.
+   What’s more, the government should prevail even if the
+speech involved in collective bargaining satisfies Picker-
+ing’s first part. Recall that the next question is whether
+the government has shown “an adequate justification for
+treating the employee differently from any other member
+of the general public.” Garcetti, 547 U. S., at 418; supra,
+at 11. That inquiry is itself famously respectful of gov-
+ernment interests. This Court has reversed the govern-
+ment only when it has tried to “leverage the employment
+relationship” to achieve an outcome unrelated to the
+workplace’s “effective functioning.” Garcetti, 547 U. S., at
+419; Rankin v. McPherson, 483 U. S. 378, 388 (1987).
+Nothing like that is true here. As Abood described, many
+government entities have found agency fees the best way
+to ensure a stable and productive relationship with an
+exclusive bargaining agent. See 431 U. S., at 220–221,
+224–226; supra, at 3–4. And here, Illinois and many
+governmental amici have explained again how agency fees
+advance their workplace goals. See Brief for State Re-
+spondents 12, 36; Brief for Governor Tom Wolf et al. as
+Amici Curiae 21–33. In no other employee-speech case
+has this Court dismissed such work-related interests, as
+the majority does here. See supra, at 6–9 (discussing the
+majority’s refusal to engage with the logic of the State’s
+position). Time and again, the Court has instead respected
+
+
+                      Cite as: 585 U. S. ____ (2018)                   19
+                          KAGAN, J., dissenting
+and acceded to those interests—just as Abood did.
+   The key point about Abood is that it fit naturally with
+this Court’s consistent teaching about the permissibility of
+regulating public employees’ speech. The Court allows a
+government entity to regulate that expression in aid of
+managing its workforce to effectively provide public ser-
+vices. That is just what a government aims to do when it
+enforces a fair-share agreement. And so, the key point
+about today’s decision is that it creates an unjustified hole
+in the law, applicable to union fees alone. This case is sui
+generis among those addressing public employee speech—
+and will almost surely remain so.
+                                   III
+   But the worse part of today’s opinion is where the ma-
+jority subverts all known principles of stare decisis. The
+majority makes plain, in the first 33 pages of its decision,
+that it believes Abood was wrong.4 But even if that were
+true (which it is not), it is not enough. “Respecting stare
+decisis means sticking to some wrong decisions.” Kimble
+v. Marvel Entertainment, LLC, 576 U. S. ___, ___ (2015)
+(slip op., at 7). Any departure from settled precedent (so
+the Court has often stated) demands a “special justifica-
+tion—over and above the belief that the precedent was
+wrongly decided.” Id., at ___ (slip op., at 8) (internal quo-
+tation marks omitted); see, e.g., Arizona v. Rumsey, 467
+U. S. 203, 212 (1984). And the majority does not have
+anything close. To the contrary: all that is “special” in this
+case—especially the massive reliance interests at stake—
+demands retaining Abood, beyond even the normal
+precedent.
+   Consider first why these principles about precedent are
+so important. Stare decisis—“the idea that today’s Court
+——————
+  4 And then, after ostensibly turning to stare decisis, the majority
+spends another four pages insisting that Abood was “not well rea-
+soned,” which is just more of the same. Ante, at 38; see ante, at 35–38.
+
+
+20 JANUS v. STATE, COUNTY, AND MUNICIPAL EMPLOYEES
+                      KAGAN, J., dissenting
+should stand by yesterday’s decisions”—is “a foundation
+stone of the rule of law.” Kimble, 576 U. S., at ___ (slip
+op., at 7) (quoting Michigan v. Bay Mills Indian Commu-
+nity, 572 U. S. ___, ___ (2014) (slip op., at 15)). It “pro-
+motes the evenhanded, predictable, and consistent devel-
+opment” of legal doctrine. Payne v. Tennessee, 501 U. S.
+808, 827 (1991). It fosters respect for and reliance on
+judicial decisions. See ibid. And it “contributes to the
+actual and perceived integrity of the judicial process,”
+ibid., by ensuring that decisions are “founded in the law
+rather than in the proclivities of individuals,” Vasquez v.
+Hillery, 474 U. S. 254, 265 (1986).
+   And Abood is not just any precedent: It is embedded in
+the law (not to mention, as I’ll later address, in the world)
+in a way not many decisions are. Over four decades, this
+Court has cited Abood favorably many times, and has
+affirmed and applied its central distinction between the
+costs of collective bargaining (which the government can
+charge to all employees) and those of political activities
+(which it cannot). See, e.g., Locke v. Karass, 555 U. S. 207,
+213–214 (2009); Lehnert, 500 U. S., at 519; Teachers v.
+Hudson, 475 U. S. 292, 301–302 (1986); Ellis v. Railway
+Clerks, 466 U. S. 435, 455–457 (1984). Reviewing those
+decisions not a decade ago, this Court—unanimously—
+called the Abood rule “a general First Amendment princi-
+ple.” Locke, 555 U. S., at 213. And indeed, the Court has
+relied on that rule when deciding cases involving com-
+pelled speech subsidies outside the labor sphere—cases
+today’s decision does not question. See, e.g., Keller v. State
+Bar of Cal., 496 U. S. 1, 9–17 (1990) (state bar fees); Board
+of Regents of Univ. of Wis. System v. Southworth, 529 U. S.
+217, 230–232 (2000) (public university student fees);
+Glickman v. Wileman Brothers & Elliott, Inc., 521 U. S.
+457, 471–473 (1997) (commercial advertising assess-
+ments); see also n. 3, supra.
+   Ignoring our repeated validation of Abood, the majority
+
+
+                   Cite as: 585 U. S. ____ (2018)            21
+                       KAGAN, J., dissenting
+claims it has become “an outlier among our First Amend-
+ment cases.” Ante, at 42. That claim fails most spectacu-
+larly for reasons already discussed: Abood coheres with
+the Pickering approach to reviewing regulation of public
+employees’ speech. See supra, at 11–13. Needing to
+stretch further, the majority suggests that Abood conflicts
+with “our political patronage decisions.” Ante, at 44. But
+in fact those decisions strike a balance much like Abood’s.
+On the one hand, the Court has enabled governments to
+compel policymakers to support a political party, because
+that requirement (like fees for collective bargaining) can
+reasonably be thought to advance the interest in work-
+place effectiveness. See Elrod v. Burns, 427 U. S. 347,
+366–367 (1976); Branti v. Finkel, 445 U. S. 507, 517
+(1980). On the other hand, the Court has barred govern-
+ments from extending that rule to non-policymaking em-
+ployees because that application (like fees for political
+campaigns) can’t be thought to promote that interest, see
+Elrod, 427 U. S., at 366; the government is instead trying
+to “leverage the employment relationship” to achieve other
+goals, Garcetti, 547 U. S., at 419. So all that the majority
+has left is Knox and Harris. See ante, at 43. Dicta in
+those recent decisions indeed began the assault on Abood
+that has culminated today. But neither actually ad-
+dressed the extent to which a public employer may regu-
+late its own employees’ speech. Relying on them is boot-
+strapping—and mocking stare decisis.              Don’t like a
+decision? Just throw some gratuitous criticisms into a
+couple of opinions and a few years later point to them as
+“special justifications.”
+   The majority is likewise wrong to invoke “workability”
+as a reason for overruling Abood. Ante, at 38. Does Abood
+require drawing a line? Yes, between a union’s collective-
+bargaining activities and its political activities. Is that
+line perfectly and pristinely “precis[e],” as the majority
+demands? Ante, at 38. Well, not quite that—but as exer-
+
+
+22 JANUS v. STATE, COUNTY, AND MUNICIPAL EMPLOYEES
+                       KAGAN, J., dissenting
+cises of constitutional linedrawing go, Abood stands well
+above average. In the 40 years since Abood, this Court
+has had to resolve only a handful of cases raising ques-
+tions about the distinction. To my knowledge, the circuit
+courts are not divided on any classification issue; neither
+are they issuing distress signals of the kind that some-
+times prompt the Court to reverse a decision. See, e.g.,
+Johnson v. United States, 576 U. S. ___ (2015) (overruling
+precedent because of frequent splits and mass confusion).
+And that tranquility is unsurprising: There may be some
+gray areas (there always are), but in the mine run of
+cases, everyone knows the difference between politicking
+and collective bargaining. The majority cites some disa-
+greement in two of the classification cases this Court
+decided—as if non-unanimity among Justices were some-
+thing startling. And it notes that a dissenter in one of
+those cases called the Court’s approach “malleable” and
+“not principled,” ante, at 39—as though those weren’t
+stock terms in dissenting vocabulary. See, e.g., Murr v.
+Wisconsin, 582 U. S. ___, ___ (2017) (ROBERTS, C. J., dis-
+senting) (slip op., at 2); Dietz v. Bouldin, 579 U. S. ___, ___
+(2016) (THOMAS, J., dissenting) (slip op., at 1); Alabama
+Legislative Black Caucus v. Alabama, 575 U. S. ___, ___
+(2015) (slip op., at 13) (SCALIA, J., dissenting). As I wrote
+in Harris a few Terms ago: “If the kind of hand-wringing
+about blurry lines that the majority offers were enough to
+justify breaking with precedent, we might have to discard
+whole volumes of the U. S. Reports.” 573 U. S., at ___ (slip
+op., at 15).
+   And in any event, one stare decisis factor—reliance—
+dominates all others here and demands keeping Abood.
+Stare decisis, this Court has held, “has added force when
+the legislature, in the public sphere, and citizens, in the
+private realm, have acted in reliance on a previous deci-
+sion.” Hilton v. South Carolina Public Railways Comm’n,
+502 U. S. 197, 202 (1991). That is because overruling a
+
+
+                     Cite as: 585 U. S. ____ (2018)                   23
+                         KAGAN, J., dissenting
+decision would then “require an extensive legislative
+response” or “dislodge settled rights and expectations.”
+Ibid. Both will happen here: The Court today wreaks
+havoc on entrenched legislative and contractual
+arrangements.
+   Over 20 States have by now enacted statutes authoriz-
+ing fair-share provisions. To be precise, 22 States, the
+District of Columbia, and Puerto Rico—plus another two
+States for police and firefighter unions. Many of those
+States have multiple statutory provisions, with variations
+for different categories of public employees. See, e.g., Brief
+for State of California as Amicus Curiae 24–25. Every one
+of them will now need to come up with new ways—
+elaborated in new statutes—to structure relations be-
+tween government employers and their workers. The
+majority responds, in a footnote no less, that this is of no
+proper concern to the Court. See ante, at 47, n. 27. But in
+fact, we have weighed heavily against “abandon[ing] our
+settled jurisprudence” that “[s]tate legislatures have relied
+upon” it and would have to “reexamine [and amend] their
+statutes” if it were overruled. Allied-Signal, Inc. v. Direc-
+tor, Div. of Taxation, 504 U. S. 768, 785 (1992); Hilton, 502
+U. S., at 203.
+   Still more, thousands of current contracts covering
+millions of workers provide for agency fees. Usually, this
+Court recognizes that “[c]onsiderations in favor of stare
+decisis are at their acme in cases involving property and
+contract rights.” Payne, 501 U. S., at 828. Not today. The
+majority undoes bargains reached all over the country.5 It
+prevents the parties from fulfilling other commitments
+they have made based on those agreements. It forces the
+——————
+  5 Indeed, some agency-fee provisions, if canceled, could bring down
+entire contracts because they lack severability clauses. See ante, at 46
+(noting that unions could have negotiated for that result); Brief for
+Governor Tom Wolf et al. as Amici Curiae 11.
+
+
+24 JANUS v. STATE, COUNTY, AND MUNICIPAL EMPLOYEES
+                       KAGAN, J., dissenting
+parties—immediately—to renegotiate once-settled terms
+and create new tradeoffs. It does so knowing that many of
+the parties will have to revise (or redo) multiple contracts
+simultaneously. (New York City, for example, has agreed
+to agency fees in 144 contracts with 97 public-sector un-
+ions. See Brief for New York City Municipal Labor Com-
+mittee as Amicus Curiae 4.) It does so knowing that those
+renegotiations will occur in an environment of legal uncer-
+tainty, as state governments scramble to enact new labor
+legislation. See supra, at 23. It does so with no real clue
+of what will happen next—of how its action will alter
+public-sector labor relations. It does so even though the
+government services affected—policing, firefighting, teach-
+ing, transportation, sanitation (and more)—affect the
+quality of life of tens of millions of Americans.
+   The majority asserts that no one should care much
+because the canceled agreements are “of rather short
+duration” and would “expire on their own in a few years’
+time.” Ante, at 45, 46. But to begin with, that response
+ignores the substantial time and effort that state legisla-
+tures will have to devote to revamping their statutory
+schemes. See supra, at 23. And anyway, it misunder-
+stands the nature of contract negotiations when the par-
+ties have a continuing relationship. The parties, in renew-
+ing an old collective-bargaining agreement, don’t start on
+an empty page. Instead, various “long-settled” terms—
+like fair-share provisions—are taken as a given. Brief for
+Governor Tom Wolf et al. 11; see Brief for New York City
+Sergeants Benevolent Assn. as Amicus Curiae 18. So the
+majority’s ruling does more than advance by a few years a
+future renegotiation (though even that would be signifi-
+cant). In most cases, it commands new bargaining over
+how to replace a term that the parties never expected to
+change. And not just new bargaining; given the interests
+at stake, complicated and possibly contentious bargaining
+
+
+                       Cite as: 585 U. S. ____ (2018)                 25
+                           KAGAN, J., dissenting
+as well. See Brief for Governor Tom Wolf et al. 11.6
+   The majority, though, offers another reason for not
+worrying about reliance: The parties, it says, “have been
+on notice for years regarding this Court’s misgivings about
+Abood.” Ante, at 45. Here, the majority proudly lays
+claim to its 6-year crusade to ban agency fees. In Knox,
+the majority relates, it described Abood as an “anomaly.”
+Ante, at 45 (quoting 567 U. S., at 311). Then, in Harris, it
+“cataloged Abood’s many weaknesses.”                     Ante, at 45.
+Finally, in Friedrichs, “we granted a petition for certiorari
+asking us to” reverse Abood, but found ourselves equally
+divided. Ante, at 45. “During this period of time,” the
+majority concludes, public-sector unions “must have un-
+derstood that the constitutionality of [an agency-fee]
+provision was uncertain.” Ibid. And so, says the majority,
+they should have structured their affairs accordingly.
+   But that argument reflects a radically wrong under-
+standing of how stare decisis operates. Justice Scalia once
+confronted a similar argument for “disregard[ing] reliance
+interests” and showed how antithetical it was to rule-of-
+law principles. Quill Corp. v. North Dakota, 504 U. S. 298,
+320 (1992) (concurring opinion). He noted first what we
+always tell lower courts: “If a precedent of this Court has
+direct application in a case, yet appears to rest on reasons
+rejected in some other line of decisions, [they] should
+follow the case which directly controls, leaving to this
+Court the prerogative of overruling its own decisions.” Id.,
+——————
+  6 In a single, cryptic sentence, the majority also claims that argu-
+ments about reliance “based on [Abood’s] clarity are misplaced” because
+Abood did not provide a “clear or easily applicable standard” to sepa-
+rate fees for collective bargaining from those for political activities.
+Ante, at 45. But to begin, the standard for separating those activities
+was clear and workable, as I have already shown. See supra, at 21–22.
+And in any event, the reliance Abood engendered was based not on the
+clarity of that line, but on the clarity of its holding that governments
+and unions could generally agree to fair-share arrangements.
+
+
+26 JANUS v. STATE, COUNTY, AND MUNICIPAL EMPLOYEES
+                        KAGAN, J., dissenting
+at 321 (quoting Rodriguez de Quijas v. Shearson/
+American Express, Inc., 490 U. S. 477, 484 (1989);
+some alterations omitted). That instruction, Justice Scalia
+explained, was “incompatible” with an expectation that
+“private parties anticipate our overrulings.” 406 U. S., at
+320. He concluded: “[R]eliance upon a square, unaban-
+doned holding of the Supreme Court is always justifiable
+reliance.” Ibid. Abood’s holding was square. It was una-
+bandoned before today. It was, in other words, the law—
+however much some were working overtime to make it
+not. Parties, both unions and governments, were thus
+justified in relying on it. And they did rely, to an extent
+rare among our decisions. To dismiss the overthrowing of
+their settled expectations as entailing no more than some
+“adjustments” and “unpleasant transition costs,” ante, at
+47, is to trivialize stare decisis.
+                                IV
+   There is no sugarcoating today’s opinion. The majority
+overthrows a decision entrenched in this Nation’s law—
+and in its economic life—for over 40 years. As a result, it
+prevents the American people, acting through their state
+and local officials, from making important choices about
+workplace governance. And it does so by weaponizing the
+First Amendment, in a way that unleashes judges, now
+and in the future, to intervene in economic and regulatory
+policy.
+   Departures from stare decisis are supposed to be “excep-
+tional action[s]” demanding “special justification,” Rum-
+sey, 467 U. S., at 212—but the majority offers nothing like
+that here. In contrast to the vigor of its attack on Abood,
+the majority’s discussion of stare decisis barely limps to
+the finish line. And no wonder: The standard factors this
+Court considers when deciding to overrule a decision all
+cut one way. Abood’s legal underpinnings have not eroded
+over time: Abood is now, as it was when issued, consistent
+
+
+                  Cite as: 585 U. S. ____ (2018)         27
+                      KAGAN, J., dissenting
+with this Court’s First Amendment law. Abood provided a
+workable standard for courts to apply. And Abood has
+generated enormous reliance interests. The majority has
+overruled Abood for no exceptional or special reason, but
+because it never liked the decision. It has overruled Abood
+because it wanted to.
+   Because, that is, it wanted to pick the winning side in
+what should be—and until now, has been—an energetic
+policy debate. Some state and local governments (and the
+constituents they serve) think that stable unions promote
+healthy labor relations and thereby improve the provision
+of services to the public. Other state and local govern-
+ments (and their constituents) think, to the contrary, that
+strong unions impose excessive costs and impair those
+services. Americans have debated the pros and cons for
+many decades—in large part, by deciding whether to use
+fair-share arrangements. Yesterday, 22 States were on
+one side, 28 on the other (ignoring a couple of in-
+betweeners).    Today, that healthy—that democratic—
+debate ends. The majority has adjudged who should
+prevail. Indeed, the majority is bursting with pride over
+what it has accomplished: Now those 22 States, it crows,
+“can follow the model of the federal government and 28
+other States.” Ante, at 47, n. 27.
+   And maybe most alarming, the majority has chosen the
+winners by turning the First Amendment into a sword,
+and using it against workaday economic and regulatory
+policy. Today is not the first time the Court has wielded
+the First Amendment in such an aggressive way. See, e.g.,
+National Institute of Family and Life Advocates v. Becerra,
+ante, p. ___ (invalidating a law requiring medical and
+counseling facilities to provide relevant information to
+users); Sorrell v. IMS Health Inc., 564 U. S. 552 (2011)
+(striking down a law that restricted pharmacies from
+selling various data). And it threatens not to be the last.
+Speech is everywhere—a part of every human activity
+
+
+28 JANUS v. STATE, COUNTY, AND MUNICIPAL EMPLOYEES
+                      KAGAN, J., dissenting
+(employment, health care, securities trading, you name it).
+For that reason, almost all economic and regulatory policy
+affects or touches speech. So the majority’s road runs
+long. And at every stop are black-robed rulers overriding
+citizens’ choices. The First Amendment was meant for
+better things. It was meant not to undermine but to pro-
+tect democratic governance—including over the role of
+public-sector unions.

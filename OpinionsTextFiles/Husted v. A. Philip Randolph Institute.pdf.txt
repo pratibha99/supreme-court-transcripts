@@ -1,0 +1,2241 @@
+(Slip Opinion)                OCTOBER TERM, 2017                                    1
+                                         Syllabus
+          NOTE: Where it is feasible, a syllabus (headnote) will be released, as is
+        being done in connection with this case, at the time the opinion is issued.
+        The syllabus constitutes no part of the opinion of the Court but has been
+        prepared by the Reporter of Decisions for the convenience of the reader.
+        See United States v. Detroit Timber & Lumber Co., 200 U. S. 321, 337.
+SUPREME COURT OF THE UNITED STATES
+                                         Syllabus
+  HUSTED, OHIO SECRETARY OF STATE v. A. PHILIP
+                    RANDOLPH INSTITUTE ET AL.
+ CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR
+                                THE SIXTH CIRCUIT
+      No. 16–980.      Argued January 10, 2018—Decided June 11, 2018
+The National Voter Registration Act (NVRA) addresses the removal of
+   ineligible voters from state voting rolls, 52 U. S. C. §20501(b), includ-
+   ing those who are ineligible “by reason of” a change in residence,
+   §20507(a)(4). The Act prescribes requirements that a State must
+   meet in order to remove a name on change-of-residence grounds,
+   §§20507(b), (c), (d). The most relevant of these are found in subsec-
+   tion (d), which provides that a State may not remove a name on
+   change-of-residence grounds unless the registrant either (A) confirms
+   in writing that he or she has moved or (B) fails to return a pread-
+   dressed, postage prepaid “return card” containing statutorily pre-
+   scribed content and then fails to vote in any election during the peri-
+   od covering the next two general federal elections.
+      In addition to these specific change-of-residence requirements, the
+   NVRA also contains a general “Failure-to-Vote Clause,” §20507(b)(2),
+   consisting of two parts. It first provides that a state removal pro-
+   gram “shall not result in the removal of the name of any per-
+   son . . . by reason of the person’s failure to vote.” Second, as added by
+   the Help America Vote Act of 2002 (HAVA), it specifies that “nothing
+   in [this prohibition] may be construed to prohibit a State from using
+   the procedures” described above—sending a return card and remov-
+   ing registrants who fail to return the card and fail to vote for the req-
+   uisite time. Since one of the requirements for removal under subsec-
+   tion (d) is the failure to vote, the explanation added by HAVA makes
+   clear that the Failure-to-Vote Clause’s prohibition on removal “by
+   reason of the person’s failure to vote” does not categorically preclude
+   using nonvoting as part of a test for removal. Another provision
+   makes this point even more clearly by providing that “no registrant
+
+
+2           HUSTED v. A. PHILIP RANDOLPH INSTITUTE
+                                  Syllabus
+  may be removed solely by reason of a failure to vote.” §21083(a)(4)(A)
+  (emphasis added).
+     Respondents contend that Ohio’s process for removing voters on
+  change-of-residence grounds violates this federal law. The Ohio pro-
+  cess at issue relies on the failure to vote for two years as a rough way
+  of identifying voters who may have moved. It sends these nonvoters
+  a preaddressed, postage prepaid return card, asking them to verify
+  that they still reside at the same address. Voters who do not return
+  the card and fail to vote in any election for four more years are pre-
+  sumed to have moved and are removed from the rolls.
+Held: The process that Ohio uses to remove voters on change-of-
+  residence grounds does not violate the Failure-to-Vote Clause or any
+  other part of the NVRA. Pp. 8–21.
+     (a) Ohio’s law does not violate the Failure-to-Vote Clause. Pp. 8–
+  16.
+       (1) Ohio’s removal process follows subsection (d) to the letter: It
+  does not remove a registrant on change-of-residence grounds unless
+  the registrant is sent and fails to mail back a return card and then
+  fails to vote for an additional four years. See §20507(d)(1)(B). Pp. 8–
+  9.
+       (2) Nonetheless, respondents argue that Ohio’s process violates
+  subsection (b)’s Failure-to-Vote Clause by using a person’s failure to
+  vote twice over: once as the trigger for sending return cards and
+  again as one of the two requirements for removal. But Congress
+  could not have meant for the Failure-to-Vote Clause to cannibalize
+  subsection (d) in that way. Instead, the Failure-to-Vote Clause, both
+  as originally enacted in the NVRA and as amended by HAVA, simply
+  forbids the use of nonvoting as the sole criterion for removing a regis-
+  trant, and Ohio does not use it that way. The phrase “by reason of”
+  in the Failure-to-Vote Clause denotes some form of causation, see
+  Gross v. FBL Financial Services, Inc., 557 U. S. 167, 176, and in con-
+  text sole causation is the only type of causation that harmonizes the
+  Failure-to-Vote Clause and subsection (d). Any other reading would
+  mean that a State that follows subsection (d) nevertheless can violate
+  the Failure-to-Vote Clause. When Congress enacted HAVA, it made
+  this point explicit by adding to the Failure-to-Vote Clause an expla-
+  nation of how the clause is to be read, i.e., in a way that does not con-
+  tradict subsection (d). Pp. 9–12.
+       (3) Respondents’ and the dissent’s alternative reading is incon-
+  sistent with both the text of the Failure-to-Vote Clause and the clari-
+  fication of its meaning in §21083(a)(4). Among other things, their
+  reading would make HAVA’s new language worse than redundant,
+  since no sensible person would read the Failure-to-Vote Clause as
+  prohibiting what subsections (c) and (d) expressly allow. Nor does
+
+
+                      Cite as: 584 U. S. ____ (2018)                      3
+                                 Syllabus
+  the Court’s interpretation render the Failure-to-Vote Clause super-
+  fluous; the clause retains meaning because it prohibits States from
+  using nonvoting both as the ground for removal and as the sole evi-
+  dence for another ground for removal (e.g., as the sole evidence that
+  someone has died). Pp. 12–15.
+       (4) Respondents’ additional argument—that so many registered
+  voters discard return cards upon receipt that the failure to send cards
+  back is worthless as evidence that an addressee has moved—is based
+  on a dubious empirical conclusion that conflicts with the congression-
+  al judgment found in subsection (d). Congress clearly did not think
+  that the failure to send back a return card was of no evidentiary val-
+  ue, having made that conduct one of the two requirements for remov-
+  al under subsection (d). Pp. 15–16.
+     (b) Nor has Ohio violated other NVRA provisions. Pp. 16–21.
+       (1) Ohio removes the registrants at issue on a permissible
+  ground: change of residence. The failure to return a notice and the
+  failure to vote simply serve as evidence that a registrant has moved,
+  not as the ground itself for removal. Pp. 16–17.
+       (2) The NVRA contains no “reliable indicator” prerequisite to
+  sending notices, requiring States to have good information that
+  someone has moved before sending them a return card. So long as
+  the trigger for sending such notices is “uniform, nondiscriminatory,
+  and in compliance with the Voting Rights Act,” §20507(b)(1), States
+  may use whatever trigger they think best, including the failure to
+  vote. Pp. 17–19.
+       (3) Ohio has not violated the NVRA’s “reasonable effort” provi-
+  sion, §20507(a)(4). Even assuming that this provision authorizes fed-
+  eral courts to go beyond the restrictions set out in subsections (b), (c),
+  and (d) and strike down a state law that does not meet some stand-
+  ard of “reasonableness,” Ohio’s process cannot be unreasonable be-
+  cause it uses the change-of-residence evidence that Congress said it
+  could: the failure to send back a notice coupled with the failure to
+  vote for the requisite period. Ohio’s process is accordingly lawful.
+  Pp. 19–21.
+838 F. 3d 699, reversed.
+  ALITO, J., delivered the opinion of the Court, in which ROBERTS, C. J.,
+and KENNEDY, THOMAS, and GORSUCH, JJ., joined. THOMAS, J., filed a
+concurring opinion. BREYER, J., filed a dissenting opinion, in which
+GINSBURG, SOTOMAYOR, and KAGAN, JJ., joined. SOTOMAYOR, J., filed a
+dissenting opinion.
+
+
+                         Cite as: 584 U. S. ____ (2018)                            1
+                               Opinion of the Court
+      NOTICE: This opinion is subject to formal revision before publication in the
+      preliminary print of the United States Reports. Readers are requested to
+      notify the Reporter of Decisions, Supreme Court of the United States, Wash-
+      ington, D. C. 20543, of any typographical or other formal errors, in order
+      that corrections may be made before the preliminary print goes to press.
+SUPREME COURT OF THE UNITED STATES
+                                     _________________
+                                      No. 16–980
+                                     _________________
+      JON HUSTED, OHIO SECRETARY OF STATE,
+            PETITIONER v. A. PHILIP RANDOLPH
+                             INSTITUTE, ET AL.
+  ON WRIT OF CERTIORARI TO THE UNITED STATES COURT OF
+                    APPEALS FOR THE SIXTH CIRCUIT
+                                   [June 11, 2018]
+   JUSTICE ALITO delivered the opinion of the Court.
+   It has been estimated that 24 million voter registrations
+in the United States—about one in eight—are either
+invalid or significantly inaccurate. Pew Center on the
+States, Election Initiatives Issue Brief (Feb. 2012). And
+about 2.75 million people are said to be registered to vote
+in more than one State. Ibid.
+   At issue in today’s case is an Ohio law that aims to keep
+the State’s voting lists up to date by removing the names
+of those who have moved out of the district where they are
+registered. Ohio uses the failure to vote for two years as a
+rough way of identifying voters who may have moved, and
+it then sends a preaddressed, postage prepaid card to
+these individuals asking them to verify that they still
+reside at the same address. Voters who do not return this
+card and fail to vote in any election for four more years are
+presumed to have moved and are removed from the rolls.
+We are asked to decide whether this program complies
+with federal law.
+
+
+2           HUSTED v. A. PHILIP RANDOLPH INSTITUTE
+                           Opinion of the Court
+                                     I
+                                     A
+    Like other States, Ohio requires voters to reside in the
+district in which they vote.                Ohio Rev. Code Ann.
+§3503.01(A) (West Supp. 2017); see National Conference of
+State Legislatures, Voting by Nonresidents and Non-
+citizens (Feb. 27, 2015). When voters move out of that
+district, they become ineligible to vote there.                    See
+§3503.01(A). And since more than 10% of Americans move
+every year, 1 deleting the names of those who have moved
+away is no small undertaking.
+    For many years, Congress left it up to the States to
+maintain accurate lists of those eligible to vote in federal
+elections, but in 1993, with the enactment of the National
+Voter Registration Act (NVRA), Congress intervened. The
+NVRA “erect[s] a complex superstructure of federal regu-
+lation atop state voter-registration systems.” Arizona v.
+Inter Tribal Council of Ariz., Inc., 570 U. S. 1, 5 (2013).
+The Act has two main objectives: increasing voter registra-
+tion and removing ineligible persons from the States’ voter
+registration rolls. See §2, 107 Stat. 77, 52 U. S. C.
+§20501(b).
+    To achieve the latter goal, the NVRA requires States to
+“conduct a general program that makes a reasonable effort
+to remove the names” of voters who are ineligible “by
+reason of ” death or change in residence. §20507(a)(4).
+——————
+   1 United States Census Bureau, CB16–189, Americans Moving at
+Historically Low Rates (Nov. 16, 2016), available at https://www.
+census.gov/newsroom/press-releases/2016/cb16-189.html (all Internet
+materials as last visited June 8, 2018). States must update the ad-
+dresses of even those voters who move within their county of residence,
+for (among other reasons) counties may contain multiple voting dis-
+tricts. Cf. post, at 12 (BREYER, J., dissenting). For example, Cuyahoga
+County contains 11 State House districts. See House District Map,
+Ohio House Districts 2012–2022, online at http://www.ohiohouse.gov/
+members/district-map.
+
+
+                        Cite as: 584 U. S. ____ (2018)                    3
+                             Opinion of the Court
+The Act also prescribes requirements that a State must
+meet in order to remove a name on change-of-residence
+grounds. §§20507(b), (c), (d).
+   The most important of these requirements is a prior
+notice obligation. Before the NVRA, some States removed
+registrants without giving any notice. See J. Harris, Nat.
+Munic. League, Model Voter Registration System 45 (rev.
+4th ed. 1957). The NVRA changed that by providing in
+§20507(d)(1) that a State may not remove a registrant’s
+name on change-of-residence grounds unless either (A) the
+registrant confirms in writing that he or she has moved or
+(B) the registrant fails to return a preaddressed, postage
+prepaid “return card” containing statutorily prescribed
+content. This card must explain what a registrant who
+has not moved needs to do in order to stay on the rolls, i.e.,
+either return the card or vote during the period covering
+the next two general federal elections. §20507(d)(2)(A).
+And for the benefit of those who have moved, the card
+must contain “information concerning how the registrant
+can continue to be eligible to vote.” §20507(d)(2)(B). If
+the State does not send such a card or otherwise get writ-
+ten notice that the person has moved, it may not remove
+the registrant on change-of-residence grounds.                          See
+§20507(d)(1). 2
+   While the NVRA is clear about the need to send a “re-
+turn card” (or obtain written confirmation of a move)
+before pruning a registrant’s name, no provision of federal
+law specifies the circumstances under which a return card
+——————
+  2 The  principal dissent attaches a misleading label to this return card,
+calling it a “ ‘last chance’ notice.” Post, at 6–7, 9–12 (opinion of BREYER,
+J.). It is actually no such thing. Sending back the notice does not
+represent a voter’s “last chance” to avoid having his or her name
+stricken from the rolls. Instead, such a voter has many more chances
+over a period of four years to avoid that result. All that the voter must
+do is vote in any election during that time.               See 52 U. S. C.
+§20507(d)(1)(B).
+
+
+4         HUSTED v. A. PHILIP RANDOLPH INSTITUTE
+                        Opinion of the Court
+may be sent. Accordingly, States take a variety of ap-
+proaches. See Nat. Assn. of Secretaries of State (NASS)
+Report: Maintenance of State Voter Registration Lists 5–6
+(Dec. 2017). The NVRA itself sets out one option. A State
+may send these cards to those who have submitted
+“change-of-address information” to the United States
+Postal Service. §20507(c)(1). Thirty-six States do at least
+that. See NASS Report, supra, at 5, and n. v (listing
+States). Other States send notices to every registered
+voter at specified intervals (say, once a year). See, e.g.,
+Iowa Code §48A.28.3 (2012); S. C. Code Ann. §§7–5–
+330(F), 7–5–340(2)–(3) (2017 Cum. Supp.); see also S. Rep.
+No. 103–6, p. 46 (1993). Still other States, including Ohio,
+take an intermediate approach, see NASS Report, supra,
+at 5–6, such as sending notices to those who have turned
+in their driver’s licenses, e.g., Ind. Code §§3–7–38.2–
+2(b)(2), (c)(4) (2004), or sending notices to those who have
+not voted for some period of time, see, e.g., Ga. Code Ann.
+§21–2–234 (Supp. 2017); Ohio Rev. Code Ann.
+§3503.21(B)(2); Okla. Admin. Code §230:15–11–19(a)(3)
+(2016); Pa. Stat. Ann., Tit. 25, §1901(b)(3) (Purdon 2007);
+Wis. Stat. Ann. §6.50(1) (2017 West Cum. Supp.).
+   When a State receives a return card confirming that a
+registrant has left the district, the State must remove the
+voter’s name from the rolls. §§20507(d)(1)(A), (3). And if
+the State receives a card stating that the registrant has
+not moved, the registrant’s name must be kept on the list.
+See §20507(d)(2)(A).
+   What if no return card is mailed back? Congress obvi-
+ously anticipated that some voters who received cards
+would fail to return them for any number of reasons, and
+it addressed this contingency in §20507(d), which, for
+convenience, we will simply call “subsection (d).” Subsec-
+tion (d) treats the failure to return a card as some evi-
+dence—but by no means conclusive proof—that the voter
+has moved. Instead, the voter’s name is kept on the list
+
+
+                   Cite as: 584 U. S. ____ (2018)            5
+                        Opinion of the Court
+for a period covering two general elections for federal office
+(usually about four years). Only if the registrant fails to
+vote during that period and does not otherwise confirm
+that he or she still lives in the district (e.g., by updating
+address information online) may the registrant’s name be
+removed. §20507(d)(2)(A); see §§20507(d)(1)(B), (3).
+   In addition to these specific change-of-residence re-
+quirements, the NVRA also imposes two general limita-
+tions that are applicable to state removal programs. First,
+all such programs must be “uniform, nondiscriminatory,
+and in compliance with the Voting Rights Act of 1965.”
+§20507(b)(1). Second, the NVRA contains what we will
+call the “Failure-to-Vote Clause.” See §20507(b)(2).
+   At present, this clause contains two parts. The first is a
+prohibition that was included in the NVRA when it was
+originally enacted in 1993. It provides that a state pro-
+gram “shall not result in the removal of the name of any
+person . . . by reason of the person’s failure to vote.” Ibid.
+The second part, added by the Help America Vote Act of
+2002 (HAVA), 116 Stat. 1666, explains the meaning of
+that prohibition. This explanation says that “nothing in
+[the prohibition] may be construed to prohibit a State from
+using the procedures described in [§§20507](c) and (d) to
+remove an individual from the official list of eligible vot-
+ers.” §20507(b)(2).
+   These referenced subsections, §§20507(c) and (d), are
+the provisions allowing the removal of registrants who
+either submitted change-of-address information to the
+Postal Service (subsection (c)) or did not mail back a re-
+turn card and did not vote during a period covering two
+general federal elections (subsection (d)). And since one of
+the requirements for removal under subsection (d) is the
+failure to vote during this period, the explanation added
+by HAVA in 2002 makes it clear that the statutory phrase
+“by reason of the person’s failure to vote” in the Failure-to-
+Vote Clause does not categorically preclude the use of
+
+
+6           HUSTED v. A. PHILIP RANDOLPH INSTITUTE
+                          Opinion of the Court
+nonvoting as part of a test for removal.
+   Another provision of HAVA makes this point more
+directly. After directing that “registrants who have not
+responded to a notice and . . . have not voted in 2 consecu-
+tive general elections for Federal office shall be removed,”
+it adds that “no registrant may be removed solely by rea-
+son of a failure to vote.” §21083(a)(4)(A) (emphasis added).
+                                    B
+   Since 1994, Ohio has used two procedures to identify
+and remove voters who have lost their residency
+qualification.
+   First, the State utilizes the Postal Service option set out
+in the NVRA. The State sends notices to registrants
+whom the Postal Service’s “national change of address
+service” identifies as having moved. Ohio Rev. Code Ann.
+§3503.21(B)(1). This procedure is undisputedly lawful.
+See 52 U. S. C. §20507(c)(1).
+   But because according to the Postal Service “[a]s many
+as 40 percent of people who move do not inform the Postal
+Service,” 3 Ohio does not rely on this information alone. In
+its so-called Supplemental Process, Ohio “identif[ies]
+electors whose lack of voter activity indicates they may
+have moved.” Record 401 (emphasis deleted). Under this
+process, Ohio sends notices to registrants who have “not
+engage[d] in any voter activity for a period of two consecu-
+tive years.” Id., at 1509. “Voter activity” includes “casting
+a ballot” in any election—whether general, primary, or
+special and whether federal, state, or local. See id., at
+1507. (And Ohio regularly holds elections on both even
+and odd years.) Moreover, the term “voter activity” is
+——————
+  3 U. S. Postal Service, Office of Inspector Gen., MS–MA–15–006,
+Strategies for Reducing Undeliverable as Addressed Mail 15 (2015); see
+also Brief for Buckeye Institute as Amicus Curiae 10. Respondents and
+one of their amici dispute this statistic. See Tr. of Oral Arg. 46; Brief
+for Asian Americans Advancing Justice et al. as Amici Curiae 27–28.
+
+
+                   Cite as: 584 U. S. ____ (2018)             7
+                        Opinion of the Court
+broader than simply voting. It also includes such things
+as “sign[ing] a petition,” “filing a voter registration form,
+and updating a voting address with a variety of [state]
+entities.” Id., at 295, 357.
+   After sending these notices, Ohio removes registrants
+from the rolls only if they “fai[l] to respond” and “con-
+tinu[e] to be inactive for an additional period of four con-
+secutive years, including two federal general elections.”
+Id., at 1509; see Ohio Rev. Code Ann. §3503.21(B)(2).
+Federal law specifies that a registration may be canceled if
+the registrant does not vote “in an election during the
+period” covering two general federal elections after notice,
+§20507(d)(1)(B)(ii), but Ohio rounds up to “four consecu-
+tive years” of nonvoting after notice, Record 1509. Thus, a
+person remains on the rolls if he or she votes in any elec-
+tion during that period—which in Ohio typically means
+voting in any of the at least four elections after notice.
+Combined with the two years of nonvoting before notice is
+sent, that makes a total of six years of nonvoting before
+removal. Ibid.
+                                 C
+   A pair of advocacy groups and an Ohio resident (re-
+spondents here) think that Ohio’s Supplemental Process
+violates the NVRA and HAVA. They sued petitioner,
+Ohio’s Secretary of State, seeking to enjoin this process.
+Respondents alleged, first, that Ohio removes voters who
+have not actually moved, thus purging the rolls of eligible
+voters.    They also contended that Ohio violates the
+NVRA’s Failure-to-Vote Clause because the failure to vote
+plays a prominent part in the Ohio removal scheme: Fail-
+ure to vote for two years triggers the sending of a return
+card, and if the card is not returned, failure to vote for four
+more years results in removal.
+   The District Court rejected both of these arguments and
+entered judgment for the Secretary. It held that Ohio’s
+
+
+8         HUSTED v. A. PHILIP RANDOLPH INSTITUTE
+                      Opinion of the Court
+Supplemental Process “mirror[s] the procedures estab-
+lished by the NVRA” for removing people on change-of-
+residence grounds and does not violate the Failure-to-Vote
+Clause because it does not remove anyone “solely for
+[their] failure to vote.” App. to Pet. for Cert. 43a, 57a,
+69a–70a.
+   A divided panel of the Court of Appeals for the Sixth
+Circuit reversed. 838 F. 3d 699 (2016). It focused on
+respondents’ second argument, holding that Ohio violates
+the Failure-to-Vote Clause because it sends change-of-
+residence notices “based ‘solely’ on a person’s failure to
+vote.” Id., at 711. In dissent, Judge Siler explained why
+he saw the case as a simple one: “The State cannot remove
+the registrant’s name from the rolls for a failure to vote
+only, and Ohio does not do [that].” Id., at 716.
+   We granted certiorari, 581 U. S. ___ (2017), and now
+reverse.
+                               II
+                               A
+   As noted, subsection (d), the provision of the NVRA that
+directly addresses the procedures that a State must follow
+before removing a registrant from the rolls on change-of-
+residence grounds, provides that a State may remove a
+registrant who “(i) has failed to respond to a notice” and
+“(ii) has not voted or appeared to vote . . . during the pe-
+riod beginning on the date of the notice and ending on the
+day after the date of the second general election for Fed-
+eral office that occurs after the date of the notice” (about
+four years). 52 U. S. C. §20507(d)(1)(B). Not only are
+States allowed to remove registrants who satisfy these
+requirements, but federal law makes this removal manda-
+tory. §20507(d)(3); see also §21083(a)(4)(A).
+   Ohio’s Supplemental Process follows subsection (d) to
+the letter. It is undisputed that Ohio does not remove a
+registrant on change-of-residence grounds unless the
+
+
+                   Cite as: 584 U. S. ____ (2018)           9
+                        Opinion of the Court
+registrant is sent and fails to mail back a return card and
+then fails to vote for an additional four years.
+                                 B
+   Respondents argue (and the Sixth Circuit held) that,
+even if Ohio’s process complies with subsection (d), it
+nevertheless violates the Failure-to-Vote Clause—the
+clause that generally prohibits States from removing
+people from the rolls “by reason of [a] person’s failure to
+vote.” §20507(b)(2); see also §21083(a)(4)(A). Respondents
+point out that Ohio’s Supplemental Process uses a person’s
+failure to vote twice: once as the trigger for sending return
+cards and again as one of the requirements for removal.
+Respondents conclude that this use of nonvoting is illegal.
+   We reject this argument because the Failure-to-Vote
+Clause, both as originally enacted in the NVRA and as
+amended by HAVA, simply forbids the use of nonvoting as
+the sole criterion for removing a registrant, and Ohio does
+not use it that way. Instead, as permitted by subsection
+(d), Ohio removes registrants only if they have failed to
+vote and have failed to respond to a notice.
+   When Congress clarified the meaning of the NVRA’s
+Failure-to-Vote Clause in HAVA, here is what it said:
+“[C]onsistent with the [NVRA], . . . no registrant may be
+removed solely by reason of a failure to vote.”
+§21083(a)(4)(A) (emphasis added). The meaning of these
+words is straightforward. “Solely” means “alone.” Web-
+ster’s Third New International Dictionary 2168 (2002);
+American Heritage Dictionary 1654 (4th ed. 2000). And
+“by reason of ” is a “quite formal” way of saying “[b]ecause
+of.” C. Ammer, American Heritage Dictionary of Idioms
+67 (2d ed. 2013). Thus, a State violates the Failure-to-
+Vote Clause only if it removes registrants for no reason
+other than their failure to vote.
+   This explanation of the meaning of the Failure-to-Vote
+Clause merely makes explicit what was implicit in the
+
+
+10        HUSTED v. A. PHILIP RANDOLPH INSTITUTE
+                      Opinion of the Court
+clause as originally enacted. At that time, the clause
+simply said that a state program “shall not result in the
+removal of the name of any person from the [rolls for
+federal elections] by reason of the person’s failure to vote.”
+107 Stat. 83. But that prohibition had to be read together
+with subsection (d), which authorized removal if a regis-
+trant did not send back a return card and also failed to
+vote during a period covering two successive general elec-
+tions for federal office. If possible, “[w]e must interpret
+the statute to give effect to both provisions,” Ricci v.
+DeStefano, 557 U. S. 557, 580 (2009), and here, that is
+quite easy.
+   The phrase “by reason of ” denotes some form of causa-
+tion. See Gross v. FBL Financial Services, Inc., 557 U. S.
+167, 176 (2009). Thus, the Failure-to-Vote Clause applies
+when nonvoting, in some sense, causes a registrant’s name
+to be removed, but the law recognizes several types of
+causation. When a statutory provision includes an unde-
+fined causation requirement, we look to context to decide
+whether the statute demands only but-for cause as op-
+posed to proximate cause or sole cause. See Holmes v.
+Securities Investor Protection Corporation, 503 U. S. 258,
+265–268 (1992). Cf. CSX Transp., Inc. v. McBride, 564
+U. S. 685, 692–693 (2011).
+   Which form of causation is required by the Failure-to-
+Vote Clause? We can readily rule out but-for causation. If
+“by reason of ” in the Failure-to-Vote Clause meant but-for
+causation, a State would violate the clause if the failure to
+vote played a necessary part in the removal of a name
+from the list. Burrage v. United States, 571 U. S. 204, 211
+(2014). But the removal process expressly authorized by
+subsection (d) allows a State to remove a registrant if the
+registrant, in addition to failing to send back a return
+card, fails to vote during a period covering two general
+federal elections. So if the Failure-to-Vote Clause were
+read in this way, it would cannibalize subsection (d).
+
+
+                   Cite as: 584 U. S. ____ (2018)            11
+                        Opinion of the Court
+   Interpreting the Failure-to-Vote Clause as incorporating
+a proximate cause requirement would lead to a similar
+problem. Proximate cause is an elusive concept, see
+McBride, supra, at 692–693, but no matter how the term
+is understood, it is hard to escape the conclusion that the
+failure to vote is a proximate cause of removal under
+subsection (d). If a registrant, having failed to send back a
+return card, also fails to vote during the period covering
+the next two general federal elections, removal is the
+direct, foreseeable, and closely connected consequence.
+See Paroline v. United States, 572 U. S. 434, 444–445
+(2014); Bridge v. Phoenix Bond & Indemnity Co., 553 U. S.
+639, 654 (2008).
+   By process of elimination, we are left with sole causa-
+tion. This reading harmonizes the Failure-to-Vote Clause
+and subsection (d) because the latter provision does not
+authorize removal solely by reason of a person’s failure to
+vote. Instead, subsection (d) authorizes removal only if a
+registrant also fails to mail back a return card.
+   For these reasons, we conclude that the Failure-to-Vote
+Clause, as originally enacted, referred to sole causation.
+And when Congress enacted HAVA, it made this point
+explicit. It added to the Failure-to-Vote Clause itself an
+explanation of how it is to be read, i.e., in a way that does
+not contradict subsection (d). And in language that cannot
+be misunderstood, it reiterated what the clause means:
+“[R]egistrants who have not responded to a notice and who
+have not voted in 2 consecutive general elections for Fed-
+eral office shall be removed from the official list of eligible
+voters, except that no registrant may be removed solely by
+reason of a failure to vote.” §21083(a)(4)(A) (emphasis
+added). In this way, HAVA dispelled any doubt that a
+state removal program may use the failure to vote as a
+factor (but not the sole factor) in removing names from the
+list of registered voters.
+   That is exactly what Ohio’s Supplemental Process does.
+
+
+12        HUSTED v. A. PHILIP RANDOLPH INSTITUTE
+                      Opinion of the Court
+It does not strike any registrant solely by reason of the
+failure to vote. Instead, as expressly permitted by federal
+law, it removes registrants only when they have failed to
+vote and have failed to respond to a change-of-residence
+notice.
+                               C
+   Respondents and the dissent advance an alternative
+interpretation of the Failure-to-Vote Clause, but that
+reading is inconsistent with both the text of the clause and
+the clarification of its meaning in §21083(a)(4)(A). Re-
+spondents argue that the clause allows States to consider
+nonvoting only to the extent that subsection (d) requires—
+that is, only after a registrant has failed to mail back a
+notice. Any other use of the failure to vote, including as
+the trigger for mailing a notice, they claim, is proscribed.
+In essence, respondents read the language added to the
+clause by HAVA—“except that nothing in this paragraph
+may be construed to prohibit a State from using the proce-
+dures described in subsections (c) and (d)”—as an excep-
+tion to the general rule forbidding the use of nonvoting.
+See Brief for Respondents 37. And the Sixth Circuit
+seemed to find this point dispositive, reasoning that “ ‘ex-
+ceptions in statutes must be strictly construed.’ ” 838
+F. 3d, at 708 (quoting Detroit Edison Co. v. SEC, 119 F. 2d
+730, 739 (CA6 1941)).
+   We reject this argument for three reasons. First, it
+distorts what the new language added by HAVA actually
+says. The new language does not create an exception to a
+general rule against the use of nonvoting. It does not say
+that the failure to vote may not be used “except that this
+paragraph does not prohibit a State from using the proce-
+dures described in subsections (c) and (d).” Instead, it
+says that “nothing in this paragraph may be construed” to
+have that effect. §20507(b)(2) (emphasis added). Thus, it
+sets out not an exception, but a rule of interpretation. It
+
+
+                  Cite as: 584 U. S. ____ (2018)          13
+                       Opinion of the Court
+does not narrow the language that precedes it; it clarifies
+what that language means. That is precisely what Con-
+gress said when it enacted HAVA: It added the “may not
+be construed” provision to “[c]larif[y],” not to alter, the
+prohibition’s scope. §903, 116 Stat. 1728.
+  Second, under respondents’ reading, HAVA’s new lan-
+guage is worse than superfluous. Even without the added
+language, no sensible person would read the Failure-to-
+Vote Clause as prohibiting what subsections (c) and (d)
+expressly allow. Yet according to respondents, that is all
+that the new language accomplishes. So at a minimum, it
+would be redundant.
+  But the implications of this reading are actually worse
+than that. There is no reason to create an exception to a
+prohibition unless the prohibition would otherwise forbid
+what the exception allows. So if the new language were
+an exception, it would seem to follow that prior to HAVA,
+the Failure-to-Vote Clause did outlaw what subsections (c)
+and (d) specifically authorize. And that, of course, would
+be nonsensical.
+  Third, respondents’ reading of the language that HAVA
+added to the Failure-to-Vote Clause makes it hard to
+understand why Congress prescribed in another section of
+the same Act, i.e., §21083(a)(4)(A), that “no registrant may
+be removed solely by reason of a failure to vote.” As inter-
+preted by respondents, the amended Failure-to-Vote
+Clause prohibits any use of nonvoting with just two nar-
+row exceptions—the uses allowed by subsections (c) and
+(d). So, according to respondents, the amended Failure-to-
+Vote Clause prohibits much more than §21083(a)(4)(A).
+That provision, in addition to allowing the use of nonvot-
+ing in accordance with subsections (c) and (d), also permits
+the use of nonvoting in any other way that does not treat
+nonvoting as the sole basis for removal.
+  There is no plausible reason why Congress would enact
+the provision that respondents envision. As interpreted by
+
+
+14        HUSTED v. A. PHILIP RANDOLPH INSTITUTE
+                       Opinion of the Court
+respondents, HAVA would be like a law that contains one
+provision making it illegal to drive with a blood alcohol
+level of 0.08 or higher and another provision making it
+illegal to drive with a blood alcohol level of 0.10 or higher.
+The second provision would not only be redundant; it
+would be confusing and downright silly.
+   Our reading, on the other hand, gives the new language
+added to the Failure-to-Vote Clause “real and substantial
+effect.” Husky Int’l Electronics, Inc. v. Ritz, 578 U. S. ___,
+___ (2016) (slip op., at 4) (internal quotation marks omit-
+ted). It clarifies the meaning of the prohibition against
+removal by reason of nonvoting, a matter that troubled
+some States prior to HAVA’s enactment. See, e.g., FEC
+Report on the NVRA to the 106th Congress 19 (1999).
+   Respondents and the dissent separately claim that the
+Failure-to-Vote Clause must be read to bar the use of
+nonvoting as a trigger for sending return cards because
+otherwise it would be “superfluous.” Post, at 17 (opinion of
+BREYER, J.); see Brief for Respondents 29. After all, sub-
+section (d) already prohibits States from removing regis-
+trants because of a failure to vote alone. See §20507(d)(1).
+To have meaning independent of subsection (d), respond-
+ents reason, the Failure-to-Vote Clause must prohibit
+other uses of the failure to vote, including its use as a
+trigger for sending out notices.
+   This argument is flawed because the Failure-to-Vote
+Clause has plenty of work to do under our reading. Most
+important, it prohibits the once-common state practice of
+removing registered voters simply because they failed to
+vote for some period of time.               Not too long ago,
+“[c]ancellation for failure to vote [was] the principal means
+used . . . to purge the [voter] lists.” Harris, Model Voter
+Registration System, at 44. States did not use a person’s
+failure to vote as evidence that the person had died or
+moved but as an independent ground for removal. See
+
+
+                      Cite as: 584 U. S. ____ (2018)                    15
+                           Opinion of the Court
+ibid. 4 Ohio was one such State. Its Constitution provided
+that “[a]ny elector who fails to vote in at least one election
+during any period of four consecutive years shall cease to
+be an elector unless he again registers to vote.” Art. V, §1
+(1977).
+   In addition, our reading prohibits States from using the
+failure to vote as the sole cause for removal on any ground,
+not just because of a change of residence. Recall that
+subsection (d)’s removal process applies only to change-of-
+residence removals but that the Failure-to-Vote Clause
+applies to all removals. Without the Failure-to-Vote
+Clause, therefore, States could use the failure to vote as
+conclusive evidence of ineligibility for some reason other
+than change of residence, such as death, mental incapac-
+ity, or a criminal conviction resulting in prolonged impris-
+onment.
+                                    D
+   Respondents put forth one additional argument regard-
+ing the Failure-to-Vote Clause. In essence, it boils down
+to this. So many properly registered voters simply discard
+return cards upon receipt that the failure to send them
+back is worthless as evidence that the addressee has
+moved. As respondents’ counsel put it at argument, “a
+notice that doesn’t get returned” tells the State “absolutely
+nothing about whether the person has moved.” Tr. of Oral
+Arg. 41, 58. According to respondents, when Ohio removes
+registrants for failing to respond to a notice and failing to
+vote, it functionally “removes people solely for non-voting”
+unless the State has additional “reliable evidence” that a
+registrant has moved. Id., at 49, 71.
+   This argument is based on a dubious empirical conclu-
+——————
+  4 See, e.g., Haw. Rev. Stat. §11–17(a) (1993); Idaho Code Ann. §34–
+435 (1981); Minn. Stat. §201.171 (1992); Mont. Code Ann. §13–2–401(1)
+(1993); N. J. Stat. Ann. §19:31–5 (West Supp. 1989); Okla. Stat., Tit. 26,
+§4–120.2 (1991); Utah Code §20–2–24(1)(b) (1991).
+
+
+16         HUSTED v. A. PHILIP RANDOLPH INSTITUTE
+                         Opinion of the Court
+sion that the NVRA and HAVA do not allow us to indulge.
+Congress clearly did not think that the failure to send
+back a return card was of no evidentiary value because
+Congress made that conduct one of the two requirements
+for removal under subsection (d).
+   Requiring additional evidence not only second-guesses
+the congressional judgment embodied in subsection (d)’s
+removal process, but it also second-guesses the judgment
+of the Ohio Legislature as expressed in the State’s Sup-
+plemental Process. The Constitution gives States the
+authority to set the qualifications for voting in congres-
+sional elections, Art. I, §2, cl. 1; Amdt. 17, as well as the
+authority to set the “Times, Places and Manner” to con-
+duct such elections in the absence of contrary congressional
+direction, Art. I, §4, cl. 1. We have no authority to dismiss
+the considered judgment of Congress and the Ohio Legis-
+lature regarding the probative value of a registrant’s
+failure to send back a return card. See Inter Tribal, 570
+U. S., at 16–19; see also id., at 36–37 (THOMAS, J., dissent-
+ing); id., at 42–43, 46 (ALITO, J., dissenting).
+   For all these reasons, we hold that Ohio law does not
+violate the Failure-to-Vote Clause.
+                                  III
+   We similarly reject respondents’ argument that Ohio
+violates other provisions of the NVRA and HAVA.
+                                   A
+   Respondents contend that Ohio removes registered
+voters on a ground not permitted by the NVRA. They
+claim that the NVRA permits the removal of a name for
+only a few specified reasons—a person’s request, criminal
+conviction, mental incapacity, death, change of residence,
+and initial ineligibility. Brief for Respondents 25–26; see
+52 U. S. C. §§20507(a)(3), (4). 5 And they argue that Ohio
+——————
+  5 We assume for the sake of argument that Congress has the constitu-
+
+
+                     Cite as: 584 U. S. ____ (2018)               17
+                          Opinion of the Court
+removes registrants for other reasons, namely, for failing
+to respond to a notice and failing to vote.
+   This argument plainly fails. Ohio simply treats the
+failure to return a notice and the failure to vote as evi-
+dence that a registrant has moved, not as a ground for
+removal. And in doing this, Ohio simply follows federal
+law. Subsection (d), which governs removals “on the
+ground that the registrant has changed residence,” treats
+the failure to return a notice and the failure to vote as
+evidence that this ground is satisfied. §20507(d)(1).
+   If respondents’ argument were correct, then it would
+also be illegal to remove a name under §20507(c) because
+that would constitute removal for submitting change-of-
+address information to the Postal Service. Likewise, if a
+State removed a name after receiving a death certificate or
+a judgment of criminal conviction, that would be illegal
+because receipt of such documents is not listed as a
+permitted ground for removal under §20507(a)(3) or
+§20507(a)(4). About this argument no more need be said.
+                                   B
+   Respondents maintain, finally, that Ohio’s procedure is
+illegal because the State sends out notices without having
+any “reliable indicator” that the addressee has moved.
+Brief for Respondents 31. The “[f]ailure to vote for a mere
+two-year period,” they argue, does not reliably “indicate
+that a registrant has moved out of the jurisdiction.” Id., at
+30; see also, e.g., Brief for State of New York et al. as
+Amici Curiae 13–28.
+   This argument also fails. The degree of correlation
+between the failure to vote for two years and a change of
+residence is debatable, but we know from subsection (d)
+that Congress thought that the failure to vote for a period
+——————
+tional authority to limit voting eligibility requirements in the way
+respondents suggest.
+
+
+18        HUSTED v. A. PHILIP RANDOLPH INSTITUTE
+                      Opinion of the Court
+of two consecutive general elections was a good indicator
+of change of residence, since it made nonvoting for that
+period an element of subsection (d)’s requirements for
+removal. In a similar vein, the Ohio Legislature appar-
+ently thought that nonvoting for two years was sufficiently
+correlated with a change of residence to justify sending a
+return card.
+   What matters for present purposes is not whether the
+Ohio Legislature overestimated the correlation between
+nonvoting and moving or whether it reached a wise policy
+judgment about when return cards should be sent. For us,
+all that matters is that no provision of the NVRA prohibits
+the legislature from implementing that judgment. Neither
+subsection (d) nor any other provision of the NVRA de-
+mands that a State have some particular quantum of
+evidence of a change of residence before sending a regis-
+trant a return card. So long as the trigger for sending
+such notices is “uniform, nondiscriminatory, and in com-
+pliance with the Voting Rights Act,” §20507(b)(1), States
+can use whatever plan they think best. That may be why
+not even the Sixth Circuit relied on this rationale.
+   Respondents attempt to find support for their argument
+in subsection (c), which allows States to send notices based
+on Postal Service change-of-address information. This
+provision, they argue, implicitly sets a minimum reliabil-
+ity requirement. Thus, they claim, a State may not send
+out a return card unless its evidence of change of resi-
+dence is at least as probative as the information obtained
+from the Postal Service. See Tr. of Oral Arg. 56.
+   Nothing in subsection (c) suggests that it is designed to
+play this role. Subsection (c) says that “[a] State may
+meet” its obligation “to remove the names” of ineligible
+voters on change-of-residence grounds by sending notices
+to voters who are shown by the Postal Service information
+to have moved, but subsection (c) does not even hint that it
+imposes any sort of minimum reliability requirement for
+
+
+                    Cite as: 584 U. S. ____ (2018)        19
+                         Opinion of the Court
+sending such notices. §§20507(a)(4), (c). By its terms,
+subsection (c) simply provides one way—the minimal
+way—in which a State “may meet the [NVRA’s] require-
+ment[s]” for change-of-residence removals.         §20507(c)
+(emphasis added). As respondents agreed at argument, it
+is not the only way. Tr. of Oral Arg. 53.
+                                  C
+   Nothing in the two dissents changes our analysis of the
+statutory language.
+                                  1
+   Despite its length and complexity, the principal dissent
+sets out only two arguments. See post, at 7–8 (opinion of
+BREYER, J.). The first is one that we have already dis-
+cussed at length, namely, that the Failure-to-Vote Clause
+prohibits any use of the failure to vote except as permitted
+by subsections (c) and (d). We have explained why this
+argument is insupportable, supra, at 12–16, and the dis-
+sent has no answer to any of the problems we identify.
+   The dissent’s only other argument is that Ohio’s process
+violates §20507(a)(4), which requires States to make a
+“reasonable effort” to remove the names of ineligible voters
+from the rolls. The dissent thinks that this provision
+authorizes the federal courts to go beyond the restrictions
+set out in subsections (b), (c), and (d) and to strike down
+any state law that does not meet their own standard of
+“reasonableness.” But see Brief for United States as
+Amicus Curiae 28–29. The dissent contends that Ohio’s
+system violates this supposed “reasonableness” require-
+ment primarily because it relies on the failure to mail back
+the postcard sent to those who have not engaged in voter
+activity for two years. Based on its own cobbled-together
+statistics, post, at 12–13, and a feature of human nature of
+which the dissent has apparently taken judicial notice
+(i.e., “the human tendency not to send back cards received
+
+
+20        HUSTED v. A. PHILIP RANDOLPH INSTITUTE
+                      Opinion of the Court
+in the mail,” post, at 13), the dissent argues that the fail-
+ure to send back the card in question “has no tendency to
+reveal accurately whether the registered voter has
+changed residences”; it is an “irrelevant factor” that
+“shows nothing at all that is statutorily significant.” Post,
+at 13–14, 17.
+   Whatever the meaning of §20507(a)(4)’s reference to
+reasonableness, the principal dissent’s argument fails
+since it is the federal NVRA, not Ohio law, that attaches
+importance to the failure to send back the card. See
+§§20507(d)(1)(B)(i), (d)(2)(A). The dissenters may not
+think that the failure to send back the card means any-
+thing, but that was not Congress’s view. The NVRA plainly
+reflects Congress’s judgment that the failure to send back
+the card, coupled with the failure to vote during the period
+covering the next two general federal elections, is signifi-
+cant evidence that the addressee has moved.
+   It is not our prerogative to judge the reasonableness of
+that congressional judgment, but we note that, whatever
+the general “human tendency” may be with respect to
+mailing back cards received in the mail, the notice sent
+under subsection (d) is nothing like the solicitations for
+commercial products or contributions that recipients may
+routinely discard. The notice in question here warns
+recipients that unless they take the simple and easy step
+of mailing back the preaddressed, postage prepaid card—
+or take the equally easy step of updating their information
+online—their names may be removed from the voting rolls
+if they do not vote during the next four years. See Record
+295–296, 357. It was Congress’s judgment that a reasona-
+ble person with an interest in voting is not likely to ignore
+notice of this sort.
+                               2
+   JUSTICE SOTOMAYOR’s dissent says nothing about what
+is relevant in this case—namely, the language of the
+
+
+                 Cite as: 584 U. S. ____ (2018)                21
+                      Opinion of the Court
+NVRA—but instead accuses us of “ignor[ing] the history of
+voter suppression” in this country and of “uphold[ing] a
+program that appears to further the . . . disenfranchise-
+ment of minority and low-income voters.” Post, at 5.
+Those charges are misconceived.
+   The NVRA prohibits state programs that are discrimi-
+natory, see §20507(b)(1), but respondents did not assert a
+claim under that provision. And JUSTICE SOTOMAYOR has
+not pointed to any evidence in the record that Ohio insti-
+tuted or has carried out its program with discriminatory
+intent.
+                         *     *      *
+   The dissents have a policy disagreement, not just with
+Ohio, but with Congress. But this case presents a ques-
+tion of statutory interpretation, not a question of policy.
+We have no authority to second-guess Congress or to
+decide whether Ohio’s Supplemental Process is the ideal
+method for keeping its voting rolls up to date. The only
+question before us is whether it violates federal law. It
+does not.
+   The judgment of the Sixth Circuit is reversed.
+                                                It is so ordered.
+
+
+                   Cite as: 584 U. S. ____ (2018)              1
+                       THOMAS, J., concurring
+SUPREME COURT OF THE UNITED STATES
+                            _________________
+                             No. 16–980
+                            _________________
+      JON HUSTED, OHIO SECRETARY OF STATE,
+          PETITIONER v. A. PHILIP RANDOLPH
+                      INSTITUTE, ET AL.
+ ON WRIT OF CERTIORARI TO THE UNITED STATES COURT OF
+               APPEALS FOR THE SIXTH CIRCUIT
+                          [June 11, 2018]
+   THOMAS, J., concurring.
+   I join the Court’s opinion in full. I write separately to
+add that respondents’ proposed interpretation of the Na-
+tional Voter Registration Act (NVRA) should also be re-
+jected because it would raise significant constitutional
+concerns.
+   Respondents would interpret the NVRA to prevent
+States from using failure to vote as evidence when decid-
+ing whether their voting qualifications have been satisfied.
+Brief for Respondents 25–30. The Court’s opinion explains
+why that reading is inconsistent with the text of the
+NVRA. See ante, at 7–18. But even if the NVRA were
+“susceptible” to respondents’ reading, it could not prevail
+because it “raises serious constitutional doubts” that the
+Court’s interpretation avoids. Jennings v. Rodriguez, 583
+U. S. ___, ___ (2018) (slip op., at 2).
+   As I have previously explained, constitutional text and
+history both “confirm that States have the exclusive au-
+thority to set voter qualifications and to determine whether
+those qualifications are satisfied.”            Arizona v. Inter
+Tribal Council of Ariz., Inc., 570 U. S. 1, 29 (2013)
+(THOMAS, J., dissenting). The Voter-Qualifications Clause
+provides that, in elections for the House of Representa-
+tives, “the Electors in each State shall have the Qualifica-
+
+
+2          HUSTED v. A. PHILIP RANDOLPH INSTITUTE
+                      THOMAS, J., concurring
+tions requisite for Electors of the most numerous Branch
+of the State Legislature.” U. S. Const., Art. I, §2, cl. 1.
+The Seventeenth Amendment imposes an identical re-
+quirement for elections of Senators. And the Constitution
+recognizes the authority of States to “appoint” Presidential
+electors “in such Manner as the Legislature thereof may
+direct.” Art. II, §1, cl. 2; see Inter Tribal Council of Ariz.,
+570 U. S., at 35, n. 2 (opinion of THOMAS, J.). States thus
+retain the authority to decide the qualifications to vote in
+federal elections, limited only by the requirement that
+they not “ ‘establish special requirements’ ” for congres-
+sional elections “ ‘that do not apply in elections for the
+state legislature.’ ” Id., at 26 (quoting U. S. Term Limits,
+Inc. v. Thornton, 514 U. S. 779, 865 (1995) (THOMAS, J.,
+dissenting)). And because the power to establish require-
+ments would mean little without the ability to enforce
+them, the Voter Qualifications Clause also “gives States
+the authority . . . to verify whether [their] qualifications
+are satisfied.” 570 U. S., at 28.
+   Respondents’ reading of the NVRA would seriously
+interfere with the States’ constitutional authority to set
+and enforce voter qualifications. To vote in Ohio, electors
+must have been a state resident 30 days before the elec-
+tion, as well as a resident of the county and precinct where
+they vote. Ohio Rev. Code Ann. §3503.01(A) (Lexis 2015);
+see also Ohio Const., Art. V, §1. Ohio uses a record of
+nonvoting as one piece of evidence that voters no longer
+satisfy the residence requirement. Reading the NVRA to
+bar Ohio from considering nonvoting would therefore
+interfere with the State’s “authority to verify” that its
+qualifications are met “in the way it deems necessary.”
+Inter Tribal Council of Ariz., supra, at 36. Respondents’
+reading thus renders the NVRA constitutionally suspect
+and should be disfavored. See Jennings, supra, at ___ (slip
+op., at 2).
+   Respondents counter that Congress’ power to regulate
+
+
+                    Cite as: 584 U. S. ____ (2018)           3
+                       THOMAS, J., concurring
+the “Times, Places and Manner” of holding congressional
+elections includes the power to impose limits on the evi-
+dence that a State may consider when maintaining its
+voter rolls. See Brief for Respondents 51–55; see also
+Art. I, §4, cl. 1 (“The Times, Places and Manner of holding
+Elections for Senators and Representatives, shall be pre-
+scribed in each State by the Legislature thereof; but the
+Congress may at any time by Law make or alter such
+Regulations, except as to the Places of chusing Senators”).
+But, as originally understood, the Times, Places and Man-
+ner Clause grants Congress power “only over the ‘when,
+where, and how’ of holding congressional elections,” not
+over the question of who can vote. Inter Tribal Council of
+Ariz., supra, at 29 (opinion of THOMAS, J.) (quoting T.
+Parsons, Notes of Convention Debates, Jan. 16, 1788, in 6
+Documentary History of the Ratification of the Constitu-
+tion 1211 (J. Kaminski & G. Saladino eds. 2000) (Massa-
+chusetts ratification delegate Sedgwick)). The “ ‘Manner of
+holding Elections’ ” was understood to refer to “the circum-
+stances under which elections were held and the mechan-
+ics of the actual election.” 570 U. S., at 30 (quoting Art. I,
+§4, cl. 1). It does not give Congress the authority to dis-
+place state voter qualifications or dictate what evidence a
+State may consider in deciding whether those qualifica-
+tions have been met. See 570 U. S., at 29–33. The Clause
+thus does not change the fact that respondents’ reading of
+the NVRA is constitutionally suspect.
+   The Court’s interpretation of the NVRA was already the
+correct reading of the statute: The NVRA does not prohibit
+a State from considering failure to vote as evidence that a
+registrant has moved. The fact that this reading avoids
+serious constitutional problems is an additional reason
+why, in my view, today’s decision is undoubtedly correct.
+
+
+                  Cite as: 584 U. S. ____ (2018)               1
+                      BREYER, J., dissenting
+SUPREME COURT OF THE UNITED STATES
+                           _________________
+                            No. 16–980
+                           _________________
+      JON HUSTED, OHIO SECRETARY OF STATE,
+          PETITIONER v. A. PHILIP RANDOLPH
+                     INSTITUTE, ET AL.
+ ON WRIT OF CERTIORARI TO THE UNITED STATES COURT OF
+              APPEALS FOR THE SIXTH CIRCUIT
+                         [June 11, 2018]
+  JUSTICE BREYER, with whom JUSTICE GINSBURG,
+JUSTICE SOTOMAYOR, and JUSTICE KAGAN join, dissenting.
+  Section 8 of the National Voter Registration Act of 1993
+requires States to “conduct a general program that makes
+a reasonable effort to remove the names of ineligible vot-
+ers from the official lists of eligible voters by reason of . . .
+a change in the residence of the registrant.” §8(a)(4), 107
+Stat. 82–83, 52 U. S. C. §20507(a)(4). This case concerns
+the State of Ohio’s change-of-residence removal program
+(called the “Supplemental Process”), under which a regis-
+tered voter’s failure to vote in a single federal election
+begins a process that may well result in the removal of
+that voter’s name from the federal voter rolls. See infra,
+at 7. The question is whether the Supplemental Process
+violates §8, which prohibits a State from removing regis-
+trants from the federal voter roll “by reason of the person’s
+failure to vote.” §20507(b)(2). In my view, Ohio’s program
+does just that. And I shall explain why and how that is so.
+                                   I
+  This case concerns the manner in which States maintain
+federal voter registration lists. In the late 19th and early
+20th centuries, a number of “[r]estrictive registration laws
+and administrative procedures” came into use across the
+
+
+2         HUSTED v. A. PHILIP RANDOLPH INSTITUTE
+                       BREYER, J., dissenting
+United States—from literacy tests to the poll tax and from
+strict residency requirements to “selective purges.” H. R.
+Rep. No. 103–9, p. 2 (1993). Each was designed “to keep
+certain groups of citizens from voting” and “discourage
+participation.” Ibid. By 1965, the Voting Rights Act
+abolished some of the “more obvious impediments to regis-
+tration,” but still, in 1993, Congress concluded that it had
+“unfinished business” to attend to in this domain. Id., at
+3. That year, Congress enacted the National Voter Regis-
+tration Act “to protect the integrity of the electoral pro-
+cess,” “increase the number of eligible citizens who regis-
+ter to vote in elections for Federal office,” and “ensure that
+accurate and current voter registration rolls are main-
+tained.” §20501(b). It did so mindful that “the purpose of
+our election process is not to test the fortitude and deter-
+mination of the voter, but to discern the will of the majority.”
+S. Rep. No. 103–6, p. 3 (1993).
+   In accordance with these aims, §8 of the Registration
+Act sets forth a series of requirements that States must
+satisfy in their “administration of voter registration for
+elections for Federal office.” §20507. Ohio’s Supplemental
+Process fails to comport with these requirements; it erects
+needless hurdles to voting of the kind Congress sought to
+eliminate by enacting the Registration Act. Four of §8’s
+provisions are critical to this case: subsections (a), (b), (c),
+and (d). The text of each subsection is detailed and con-
+tains multiple parts. Given the complexity of the statute,
+readers should consult these provisions themselves (see
+Appendix A, infra, at 21–24) and try to keep the thrust of
+those provisions in mind while reading this opinion. At
+the outset, I shall address each of them.
+                                A
+                                 1
+   We begin with subsection (a)’s “Reasonable Program”
+requirement. That provision says that “each State shall”:
+
+
+                   Cite as: 584 U. S. ____ (2018)             3
+                       BREYER, J., dissenting
+     “conduct a general program that makes a reasonable
+     effort to remove the names of ineligible voters from
+     the official lists of eligible voters by reason of . . . a
+     change in the residence of the registrant, in accord-
+     ance with subsections (b), (c), and (d).” §20507(a)(4).
+This provision tells each State that it must try to remove
+ineligible voters from the rolls, that it must act reasonably
+in doing so, and that, when it does so, it must follow the
+rules contained in the next three subsections of §8—
+namely, subsections (b), (c), and (d).
+                                 2
+  Subsection (b)’s “Failure-to-Vote” Clause generally
+forbids state change-of-residence removal programs that
+rely upon a registrant’s failure to vote as a basis for re-
+moving the registrant’s name from the federal voter roll.
+Before 1993, when Congress enacted this prohibition,
+many States would assume a registered voter had changed
+his address, and consequently remove that voter from the
+rolls, simply because the registrant had failed to vote.
+Recognizing that many registered voters who do not vote
+“may not have moved,” S. Rep. No. 103–6, at 17, Congress
+consequently prohibited States from using the failure to
+vote as a proxy for moving and thus a basis for purging the
+voter’s name from the rolls. The Failure-to-Vote Clause, as
+originally enacted, said:
+     “Any State program or activity to protect the integrity
+     of the electoral process by ensuring the maintenance
+     of an accurate and current voter registration roll for
+     elections for Federal office . . . shall not result in the
+     removal of the name of any person from the official
+     list of voters registered to vote in an election for Fed-
+     eral office by reason of the person’s failure to vote.”
+     107 Stat. 83; see §20507(b)(2).
+  As I shall discuss, Congress later clarified that “using
+
+
+4          HUSTED v. A. PHILIP RANDOLPH INSTITUTE
+                       BREYER, J., dissenting
+the procedures described in subsections (c) and (d) to
+remove an individual” from the federal voter roll is per-
+missible and does not violate the Failure-to-Vote Clause.
+See §8(b)(2) of the National Voter Registration Act, 107
+Stat. 83, and as amended, 116 Stat. 1728, 52 U. S. C.
+§20507(b)(2).
+                                 3
+   Subsection (c), which is entitled “Voter Removal Pro-
+grams,” explains how “[a] State may meet the requirement
+of subsection (a)(4).” §20507(c)(1). Because subsection
+(a)(4) itself incorporates all of the relevant requirements of
+subsections (b), (c), and (d) within it, see §20507(a)(4),
+subsection (c) sets forth one way a State can comply with
+the basic requirements of §8 at issue in this case (includ-
+ing subsection (b)). A State’s removal program qualifies
+under subsection (c) if the following two things are true
+about the program:
+        “(A) change-of-address information supplied by the
+     Postal Service through its licensees is used to identify
+     registrants whose addresses may have changed; and
+        “(B) if it appears [that] the registrant has moved to
+     a different residence address not in the same regis-
+     trar’s jurisdiction, the registrar uses the notice proce-
+     dure described in subsection (d)(2) to confirm the
+     change of address.” §20507(c)(1).
+The upshot is that subsection (c) explains one way a State
+may comply with subsection (a)’s Reasonable Program
+requirement without violating subsection (b)’s Failure-to-
+Vote prohibition. It is a roadmap that points to a two-step
+removal process. At step 1, States first identify registered
+voters whose addresses may have changed; here, subsec-
+tion (c) points to one (but not the only) method a State
+may use to do so. At step 2, subsection (c) explains,
+States must “confirm the change of address” by using a
+special notice procedure, which is further described in
+
+
+                    Cite as: 584 U. S. ____ (2018)           5
+                        BREYER, J., dissenting
+subsection (d).
+                                  4
+   Subsection (d) sets forth the final procedure, which Ohio
+refers to as the “Confirmation Procedure.” Brief for Peti-
+tioner 7. The statute makes clear that a State must use
+the Confirmation Procedure to “confirm” a change of ad-
+dress in respect to any registered voter it initially identi-
+fies as someone who has likely changed addresses. It
+works as follows: the State must send the registrant iden-
+tified as having likely moved a special kind of notice by
+forwardable mail. That notice must warn the registrant
+that his or her name will be removed from the voter roll
+unless the registrant either returns an attached card and
+confirms his or her current address in writing or votes in
+an election during the period covering the next two federal
+elections. In a sense, the notice a State is required to send
+as part of the Confirmation Procedure gives registered
+voters whom the State has identified as likely ineligible a
+“last chance” to correct the record before being removed from
+the federal registration list. The Confirmation Procedure is
+mandatory for all change-of-residence removals, regard-
+less of the method the State uses to make its initial identi-
+fication of registrants whose addresses may have changed.
+In particular, subsection (d) says:
+        “A State shall not remove the name of a registrant
+     from the official list of eligible voters . . . on the
+     ground that the registrant has changed residence un-
+     less the registrant [either]—
+        “(A) confirms in writing that the registrant has
+     changed residence to a place outside the registrar’s ju-
+     risdiction in which the registrant is registered; or
+        “(B)(i) has failed to respond to a notice described in
+     [subsection (d)(2)]; and (ii) has not voted [in two sub-
+     sequent federal elections].” §20507(d)(1).
+
+
+6        HUSTED v. A. PHILIP RANDOLPH INSTITUTE
+                      BREYER, J., dissenting
+  Subsection (d)(2) then goes on to describe (in consider-
+able detail) the “last chance” notice the State must send to
+the registrant. In particular, the notice must be sent by
+forwardable mail so that the notice will reach the regis-
+trant even if the registrant has changed addresses. It
+must include a postage-prepaid, preaddressed “return
+card” that the registrant may send back to the State to
+confirm or correct the State’s record of his or her current
+address. And, the notice must warn the registrant that
+unless the card is returned, if the registrant does not vote
+in the next two federal elections, then his or her name will
+be removed from the list of eligible voters.
+                         *      *      *
+  In sum, §8 tells States the following:
+    •  In general, establish a removal-from-registration
+       program that “makes a reasonable effort” to remove
+       voters who become ineligible because they change
+       residences.
+    •  Do not target registered voters for removal from
+       the registration roll because they have failed to
+       vote. However, “using the procedures described in
+       subsections (c) and (d) to remove an individual”
+       from the federal voter roll is permissible and does
+       not violate the Failure-to-Vote prohibition.
+    •  The procedures described in subsections (c) and (d)
+       consist of a two-step removal process in which at
+       step 1, the State uses change-of-address infor-
+       mation (which the State may obtain, for instance,
+       from the Postal Service) to identify registrants
+       whose addresses may have changed; and then at
+       step 2, the State must use the mandatory “last
+       chance” notice procedure described in subsection
+       (d) to confirm the change of address.
+    •  The “last chance” confirmation notice must be sent
+       by forwardable mail. It must also include a postage-
+
+
+                    Cite as: 584 U. S. ____ (2018)            7
+                        BREYER, J., dissenting
+        prepaid, preaddressed “return card” that the regis-
+        trant may send back to the State verifying his or
+        her current address. And it must warn the regis-
+        trant that unless the card is returned, if the regis-
+        trant does not vote in the next two federal elec-
+        tions, then his or her name will be removed from
+        the list of eligible voters.
+                                  B
+   The Supplemental Process, Ohio’s program for removing
+registrants from the federal rolls on the ground that the
+voter has changed his address, is much simpler. Each of
+Ohio’s 88 boards of elections sends its version of subsec-
+tion (d)’s “last chance” notice to those on a list “of individ-
+uals who, according to the board’s records, have not en-
+gaged in certain kinds of voter activity”—including
+“casting a ballot”—for a period of “generally two years.”
+Record 1507. Accordingly, each board’s list can include
+registered voters who failed to vote in a single federal
+election. And anyone on the list who “continues to be
+inactive” by failing to vote for the next “four consecutive
+years, including two federal elections,” and fails to respond
+to the notice is removed from the federal voter roll. Id., at
+1509. Under the Supplemental Process, a person’s failure
+to vote is the sole basis on which the State identifies a
+registrant as a person whose address may have changed
+and the sole reason Ohio initiates a registered voter’s
+removal using subsection (d)’s Confirmation Procedure.
+                                 II
+   Section 8 requires that Ohio’s program “mak[e] a rea-
+sonable effort to remove” ineligible registrants from the
+rolls because of “a change in the residence of the regis-
+trant,” and it must do so “in accordance with subsections
+(b), (c), and (d).” §20507(a)(4)(B). In my view, Ohio’s
+program is unlawful under §8 in two respects. It first
+
+
+8         HUSTED v. A. PHILIP RANDOLPH INSTITUTE
+                      BREYER, J., dissenting
+violates subsection (b)’s Failure-to-Vote prohibition be-
+cause Ohio uses nonvoting in a manner that is expressly
+prohibited and not otherwise authorized under §8. In
+addition, even if that were not so, the Supplemental Pro-
+cess also fails to satisfy subsection (a)’s Reasonable Pro-
+gram requirement, since using a registrant’s failure to
+vote is not a reasonable method for identifying voters
+whose registrations are likely invalid (because they have
+changed their addresses).
+   First, as to subsection (b)’s Failure-to-Vote Clause,
+recall that Ohio targets for removal registrants who fail to
+vote. In identifying registered voters who have likely
+changed residences by looking to see if those registrants
+failed to vote, Ohio’s program violates subsection (b)’s
+express prohibition on “[a]ny State program or activity
+[that] result[s] in the removal” of a registered voter “by
+reason of the person’s failure to vote.” §20507(b)(2) (em-
+phasis added). In my view, these words are most naturally
+read to prohibit a State from considering a registrant’s
+failure to vote as part of any process “that is used to start,
+or has the effect of starting, a purge of the voter rolls.”
+H. R. Rep. No. 103–9, at 15. In addition, Congress enacted
+the Failure-to-Vote Clause to prohibit “the elimination of
+names of voters from the rolls solely due to [a registrant’s]
+failure to respond to a mailing.” Ibid. But that is precisely
+what Ohio’s Supplemental Process does. The program
+violates subsection (b)’s prohibition because under it, a
+registrant who fails to vote in a single federal election,
+fails to respond to a forwardable notice, and fails to vote
+for another four years may well be purged. Record 1508.
+If the registrant had voted at any point, the registrant
+would not have been removed. See supra, at 7; infra, at
+11–14.
+   Ohio does use subsection (d)’s Confirmation Procedure,
+but that procedure alone does not satisfy §8’s require-
+ments. How do we know that Ohio’s use of the Confirma-
+
+
+                   Cite as: 584 U. S. ____ (2018)           9
+                       BREYER, J., dissenting
+tion Procedure alone cannot count as statutorily signifi-
+cant? The statute’s basic structure along with its lan-
+guage makes clear that this is so.
+   In respect to language, §8 says that the function of
+subsection (d)’s Confirmation Procedure is “to confirm the
+change of address” whenever the State has already “iden-
+tif[ied] registrants whose addresses may have changed.”
+§§20507(c)(1)(A), (d)(2). The function of the Confirmation
+Procedure is not to make the initial identification of regis-
+trants whose addresses may have changed. As a matter of
+English usage, you cannot confirm that an event happened
+without already having some reason to believe at least
+that it might have happened. Black’s Law Dictionary 298
+(6th ed. 1990) (defining “confirm” as meaning “[t]o com-
+plete or establish that which was imperfect or uncertain”).
+   Ohio, of course, says that it has a ground for believing
+that those persons they remove from the rolls have, in
+fact, changed their address, but the ground is the fact that
+the person did not vote—the very thing that the Failure-
+to-Vote Clause forbids Ohio to use as a basis for removing
+a registered voter from the registration roll.
+   In respect to structure, two statutory illustrations make
+clear what the word “confirm” already suggests, namely,
+that the Confirmation Procedure is a necessary but not a
+sufficient procedure for removing a registered voter from
+the voter roll. The first illustration of how the Confirma-
+tion Procedure is supposed to function appears in subsec-
+tion (c), which describes a removal process under which
+the State first identifies registrants who have likely
+changed addresses and then “confirm[s]” that change of
+residence using the Confirmation Procedure and sending
+the required “last chance” notice. §20507(c)(1) (emphasis
+added). The identification method subsection (c) says a
+State may use is “change-of-address information supplied
+by the Postal Service.” §20507(c)(1)(A). A person does not
+notify the Postal Service that he is moving unless he is
+
+
+10        HUSTED v. A. PHILIP RANDOLPH INSTITUTE
+                      BREYER, J., dissenting
+likely to move or has already moved. And, as the Regis-
+tration Act says, “if it appears from change-of-address
+provided by the Postal Service that . . . the registrant has
+moved to a different residence not in the same registrar’s
+jurisdiction,” the State has a reasonable (hence acceptable)
+basis for “us[ing] the notice procedure described in sub-
+section (d)(2) to confirm the change of address.”
+§20507(c)(1)(B).
+   The second illustration of how the Confirmation Proce-
+dure is supposed to function appears in a portion of the
+statute I have not yet discussed—namely, §6 of the Na-
+tional Voter Registration Act, which sets out the rules for
+voter registration by mail. See §6, 107 Stat. 80, 52
+U. S. C. §20505. In particular, §6(d), entitled “Undeliv-
+ered Notices,” says that, “[i]f a notice of the disposition of a
+mail voter registration application . . . is sent by nonfor-
+wardable mail and is returned undelivered,” at that point
+the State “may proceed in accordance with section 8(d),”
+namely, the Confirmation Procedure, and send the same
+“last chance” notice that I have just discussed. §20505(d)
+(emphasis added).
+   Note that §6(d) specifies a nonforwardable mailing—and
+not a forwardable mailing, like one specified in §8(d). This
+distinction matters. Why? If a person moves, a forward-
+able mailing will be sent along (i.e., “forwarded”) to that
+person’s new address; in contrast, a nonforwardable mail-
+ing will not be forwarded to the person’s new address but
+instead will be returned to the sender and marked “unde-
+liverable.” And so a nonforwardable mailing that is re-
+turned to the sender marked “undeliverable” indicates
+that the intended recipient may have moved. After all, the
+Postal Service, as the majority points out, returns mail
+marked “undeliverable” if the intended recipient has
+moved—not if the person still lives at his old address.
+Ante, at 6, and n. 3.
+   Under §6(d), the Registration Act expressly endorses
+
+
+                   Cite as: 584 U. S. ____ (2018)             11
+                       BREYER, J., dissenting
+nonforwardable mailings as a reasonable method for
+States to use at step 1 to identify registrants whose ad-
+dresses may have changed before the State proceeds to
+step 2 and sends the forwardable notice required under
+subsection (d)’s Confirmation Procedure.           Specifically,
+§6(d) explains that, if a State sends its registrants a mail-
+ing by nonforwardable mail (which States often do), and if
+“[that mailing] is returned undelivered,” the State has a
+fairly good reason for believing that the person has moved
+and therefore “may proceed in accordance with” §8(d) by
+sending the “last chance” forwardable notice that the
+Confirmation Procedure requires. §20505(d). In contrast
+to a nonforwardable notice that is returned undeliverable,
+which tells the State that a registrant has likely moved, a
+forwardable notice that elicits no response whatsoever
+tells the State close to nothing at all. That is because, as I
+shall discuss, most people who receive confirmation notices
+from the State simply do not send back the “return card”
+attached to that mailing—whether they have moved or
+not.
+   In sum, §6(d), just like §§8(a) and 8(c), indicates that the
+State, as an initial matter, must use a reasonable method
+to identify a person who has likely moved and then must
+send that person a confirmatory notice that will in effect
+give him a “last chance” to remain on the rolls. And these
+provisions thus tend to deny, not to support, the majority’s
+suggestion that somehow sending a “last chance” notice is
+itself a way (other than nonvoting) to identify someone
+who has likely moved.
+   I concede that some individuals who have, in fact,
+moved do, in fact, send a return card back to the State
+making clear that they have moved. And some registrants
+do send back a card saying that they have not moved.
+Thus, the Confirmation Procedure will sometimes help
+provide confirmation of what the initial identification
+procedure is supposed to accomplish: finding registrants
+
+
+12        HUSTED v. A. PHILIP RANDOLPH INSTITUTE
+                      BREYER, J., dissenting
+who have probably moved. But more often than not, the
+State fails to receive anything back from the registrant,
+and the fact that the State hears nothing from the regis-
+trant essentially proves nothing at all.
+   Anyone who doubts this last statement need simply
+consult figures in the record along with a few generally
+available statistics. As a general matter, the problem
+these numbers reveal is as follows: Very few registered
+voters move outside of their county of registration. But
+many registered voters fail to vote. Most registered voters
+who fail to vote also fail to respond to the State’s “last
+chance” notice. And the number of registered voters who
+both fail to vote and fail to respond to the “last chance”
+notice exceeds the number of registered voters who move
+outside of their county each year.
+   Consider the following facts. First, Ohio tells us that a
+small number of Americans—about 4% of all Americans—
+move outside of their county each year. Record 376. (The
+majority suggests the relevant number is 10%, ante, at 2,
+but that includes people who move within their county.)
+At the same time, a large number of American voters fail
+to vote, and Ohio voters are no exception. In 2014, around
+59% of Ohio’s registered voters failed to vote. See Brief for
+League of Women Voters et al. as Amici Curiae 16, and
+n. 12 (citing Ohio Secretary of State, 2014 Official Election
+Results).
+   Although many registrants fail to vote and only a small
+number move, under the Supplemental Process, Ohio uses
+a registrant’s failure to vote to identify that registrant as a
+person whose address has likely changed. The record
+shows that in 2012 Ohio identified about 1.5 million regis-
+tered voters—nearly 20% of its 8 million registered vot-
+ers—as likely ineligible to remain on the federal voter roll
+because they changed their residences. Record 475. Ohio
+then sent those 1.5 million registered voters subsubsection
+(d) “last chance” confirmation notices. In response to
+
+
+                   Cite as: 584 U. S. ____ (2018)          13
+                       BREYER, J., dissenting
+those 1.5 million notices, Ohio only received back about
+60,000 return cards (or 4%) which said, in effect, “You are
+right, Ohio. I have, in fact, moved.” Ibid. In addition,
+Ohio received back about 235,000 return cards which said,
+in effect, “You are wrong, Ohio, I have not moved.” In the
+end, however, there were more than 1,000,000 notices—the
+vast majority of notices sent—to which Ohio received back
+no return card at all. Ibid.
+   What about those registered voters—more than 1 mil-
+lion strong—who did not send back their return cards? Is
+there any reason at all (other than their failure to vote) to
+think they moved? The answer to this question must be
+no. There is no reason at all. First, those 1 million or so
+voters accounted for about 13% of Ohio’s voting popula-
+tion. So if those 1 million or so registered voters (or even
+half of them) had, in fact, moved, then vastly more people
+must move each year in Ohio than is generally true of the
+roughly 4% of all Americans who move to a different county
+nationwide (not all of whom are registered voters). See
+Id., at 376. But there is no reason to think this. Ohio
+offers no such reason. And the streets of Ohio’s cities are
+not filled with moving vans; nor has Cleveland become the
+Nation’s residential moving companies’ headquarters.
+Thus, I think it fair to assume (because of the human
+tendency not to send back cards received in the mail,
+confirmed strongly by the actual numbers in this record)
+the following: In respect to change of residence, the failure
+of more than 1 million Ohio voters to respond to forward-
+able notices (the vast majority of those sent) shows nothing
+at all that is statutorily significant.
+   To put the matter in the present statutory context:
+When a State relies upon a registrant’s failure to vote to
+initiate the Confirmation Procedure, it violates the Failure-
+to-Vote Clause, and a State’s subsequent use of the Con-
+firmation Procedure cannot save the State’s program from
+that defect. Even if that were not so, a nonreturned con-
+
+
+14        HUSTED v. A. PHILIP RANDOLPH INSTITUTE
+                       BREYER, J., dissenting
+firmation notice adds nothing to the State’s understanding
+of whether the voter has moved or not. And that, I repeat,
+is because a nonreturned confirmation notice (as the num-
+bers show) cannot reasonably indicate a change of address.
+   Finally, let us return to §8’s basic mandate and purpose.
+Ohio’s program must “mak[e] a reasonable effort to remove
+the names of ineligible voters” from its federal rolls on
+change-of-residence grounds.            §20507(a)(4) (emphasis
+added). Reasonableness under §8(a) is primarily meas-
+ured in terms of the program’s compliance with “subsec-
+tions (b), (c), and (d).” §20507(a)(4)(B). That includes the
+broad prohibition on removing registrants because of their
+failure to vote. More generally, the statute seeks to “pro-
+tect the integrity of the electoral process” and “ensure that
+accurate and current voter registration rolls are main-
+tained.” §§20501(b)(3), (4). Ohio’s system adds to its non-
+voting-based identification system a factor that has no
+tendency to reveal accurately whether the registered voter
+has changed residences. Nothing plus one is still one.
+And, if that “one” consists of a failure to vote, then Ohio’s
+program also fails to make the requisite “reasonable ef-
+fort” to comply with subsection (a)’s statutory mandate. It
+must violate the statute.
+                                III
+   The majority tries to find support in two provisions of a
+different statute, namely, the Help America Vote Act of
+2002, 116 Stat. 1666, the pertinent part of which is re-
+printed in Appendix B, infra, at 25–26. The first is enti-
+tled “Clarification of Ability of Election Officials To Re-
+move Registrants From Official List of Voters on Grounds
+of Change of Residence.” §903, id., at 1728. That provi-
+sion was added to the National Voter Registration Act’s
+Failure-to-Vote Clause, subsection (b)(2), which says that
+a State’s registrant removal program “shall not result in
+the removal of the name of any person from the official list
+
+
+                     Cite as: 584 U. S. ____ (2018)             15
+                         BREYER, J., dissenting
+. . . by reason of the person’s failure to vote.” §20507(b)(2);
+see supra, at 3. The “Clarification” adds:
+       “except that nothing in this paragraph may be con-
+       strued to prohibit a State from using the procedures
+       described in subsections (c) and (d) to remove an indi-
+       vidual from the official list of eligible voters if the in-
+       dividual—(A) has not either notified the applicable
+       registrar (in person or in writing) or responded . . . to
+       the [confirmation] notice sent by the applicable regis-
+       trar; and then (B) has not voted or appeared to vote in
+       2 or more consecutive general elections for Federal of-
+       fice.” §903, id., at 1728 (emphasis added).
+    This amendment simply clarified that the use of nonvot-
+ing specified in subsections (c) and (d) does not violate the
+Failure-to-Vote Clause. The majority asks why, if the
+matter is so simple, Congress added the new language at
+all. The answer to this question is just what the title
+attached to the new language says, namely, Congress
+added the new language for purposes of clarification. And
+the new language clarified any confusion States may have
+had about the relationship between, on the one hand,
+subsection (b)’s broad prohibition on any use of a person’s
+failure to vote in removal programs and, on the other
+hand, the requirement in subsections (c) and (d) that a
+State consider whether a registrant has failed to vote at
+the end of the Confirmation Procedure. This reading finds
+support in several other provisions in both the National
+Voter Registration Act and the Help America Vote
+Act, which make similar clarifications.                See, e.g.,
+§20507(c)(2)(B) (clarifying that a particular prohibition
+“shall not be construed to preclude” States from comply-
+ing with separate statutory obligations); see also
+§§20510(d)(2) (similar rule of construction), 21081(c)(1),
+21083(a)(1)(B), (a)(2)(A)(iii), (b)(5), (d)(1)(A)–(B); 21084.
+    The majority also points out that another provision of
+
+
+16        HUSTED v. A. PHILIP RANDOLPH INSTITUTE
+                     BREYER, J., dissenting
+the Help America Vote Act, §303. See §303(a)(4), 116 Stat.
+1708, 52 U. S. C. §21083(a)(4). That provision once again
+reaffirms that a State’s registration list-maintenance
+program must “mak[e] a reasonable effort to remove regis-
+trants who are ineligible to vote” and adds that “consistent
+with the National Voter Registration Act of 1993 . . . regis-
+trants who have not responded to a notice and who have
+not voted in 2 consecutive general elections for Federal
+office shall be removed from the official list of eligible
+voters, except that no registrant may be removed solely by
+reason of a failure to vote.” §21083(a)(4)(A) (emphasis
+added).
+   The majority tries to make much of the word “solely.”
+But the majority makes too much of too little. For one
+thing, the Registration Act’s Failure-to-Vote Clause under
+subsection (b) does not use the word “solely.” And §303 of
+the Help America Vote Act tells us to interpret its lan-
+guage (which includes the word “solely”) “consistent with
+the” Registration Act. §21083(a)(4)(A). For another, the
+Help America Vote Act says that “nothing in this [Act]
+may be construed to authorize or require conduct prohib-
+ited under [the National Voter Registration Act], or to su-
+persede, restrict or limit the application of . . . [t]he Na-
+tional Voter Registration Act.” §21145(a)(4).
+   The majority’s view of the statute leaves the Registra-
+tion Act’s Failure-to-Vote Clause with nothing to do in
+respect to change-of-address programs. Let anyone who
+doubts this read subsection (d) (while remaining aware of
+the fact that it requires the sending of a confirmation
+notice) and ask himself or herself: What else is there for
+the Failure-to-Vote Clause to do? The answer is nothing.
+Section 8(d) requires States to send a confirmation notice
+for all change-of-address removals, and, in the majority’s
+view, failing to respond to that forwardable notice is al-
+ways a valid cause for removal, even if that notice was
+sent by reason of the registrant’s initial failure to vote.
+
+
+                   Cite as: 584 U. S. ____ (2018)          17
+                       BREYER, J., dissenting
+Thus the Failure-to-Vote Clause is left with no independ-
+ent weight since complying with subsection (d) shields a
+State from violating subsection (b). To repeat the point,
+under the majority’s view, the Failure-to-Vote Clause is
+superfluous in respect to change-of-address programs:
+subsection (d) already accomplishes everything the major-
+ity says is required of a State’s removal program—namely,
+the sending of a notice.
+   Finally, even if we were to accept the majority’s premise
+that the question here is whether Ohio’s system removes
+registered voters from the registration list “solely by rea-
+son of a failure to vote,” that would not change anything.
+As I have argued, Part II, supra, the failure to respond to
+a forwardable notice is an irrelevant factor in terms of
+what it shows about whether that registrant changed his
+or her residence. To add an irrelevant factor to a failure to
+vote, say, a factor like having gone on vacation or having
+eaten too large a meal, cannot change Ohio’s sole use of
+“failure to vote” into something it is not.
+                                IV
+   JUSTICE THOMAS, concurring, suggests that my reading
+of the statute “ ‘raises serious constitutional doubts.’ ”
+Ante, at 1 (quoting Jennings v. Rodriguez, 583 U. S. ___,
+___ (2018) (slip op., at 2)). He believes that it “would
+seriously interfere with the States’ constitutional authority
+to set and enforce voter qualifications.” Ante, at 2. At the
+same time, the majority “assume[s]” that “Congress has
+the constitutional authority to limit voting eligibility
+requirements in the way respondents suggest.” Ante, at
+16, n. 5. But it suggests possible agreement with JUSTICE
+THOMAS, for it makes this assumption only “for the sake of
+argument.” Ibid.
+   Our cases indicate, however, that §8 neither exceeds
+Congress’ authority under the Elections Clause, Art. I, §4,
+nor interferes with the State’s authority under the Voter
+
+
+18        HUSTED v. A. PHILIP RANDOLPH INSTITUTE
+                      BREYER, J., dissenting
+Qualification Clause, Art. 1, §2. Indeed, this Court’s
+precedents interpreting the scope of congressional authority
+under the Elections Clause make clear that Congress has
+the constitutional power to adopt the statute before us.
+   The Elections Clause states:
+     “The Times, Places and Manner of holding Elections
+     for Senators and Representatives, shall be prescribed
+     in each State by the Legislature thereof; but the Con-
+     gress may at any time by Law make or alter such
+     Regulations, except as to the Places of chusing Sena-
+     tors.” U. S. Const., Art. I, §4, cl. 1.
+The Court has frequently said that “[t]he Clause’s sub-
+stantive scope is broad,” and that it “empowers Congress
+to pre-empt state regulations governing the ‘Times, Places
+and Manner’ of holding congressional elections.” Arizona
+v. Inter Tribal Council of Ariz., Inc., 570 U. S. 1, 8 (2013).
+We have long held that “[t]he power of Congress over the
+‘Times, Places and Manner’ of congressional elections ‘is
+paramount, and may be exercised at any time, and to any
+extent which it deems expedient; and so far as it is exer-
+cised, and no farther, the regulations effected supersede
+those of the State which are inconsistent therewith.’ ” Id.,
+at 9 (quoting Ex parte Siebold, 100 U. S. 371, 392 (1880)).
+   The words “ ‘Times, Places, and Manner,’ ” we have said,
+are “ ‘comprehensive words’ ” that “ ‘embrace authority to
+provide a complete code for congressional elections.’ ”
+Tribal Council, supra, at 8–9 (quoting Smiley v. Holm, 285
+U. S. 355, 366 (1932)). That “complete code” includes the
+constitutional authority to enact “regulations relating to
+‘registration.’ ” Ibid.; see also Cook v. Gralike, 531 U. S.
+510, 524 (2001) (same); Roudebush v. Hartke, 405 U. S. 15,
+24–25 (1972). That is precisely what §8 does.
+   Neither does §8 tell the States “who may vote in” federal
+elections. Tribal Council, 570 U. S., at 16. Instead, §8
+considers the manner of registering those whom the State
+
+
+                  Cite as: 584 U. S. ____ (2018)           19
+                      BREYER, J., dissenting
+itself considers qualified. Unlike the concurrence, I do not
+read our precedent as holding to the contrary. But see id.,
+at 26 (THOMAS, J., dissenting). And, our precedent strongly
+suggests that, given the importance of voting in a democ-
+racy, a State’s effort (because of failure to vote) to remove
+from a federal election roll those it considers otherwise
+qualified is unreasonable. Cf. Carrington v. Rash, 380
+U. S. 89, 91–93, 96 (1965) (State can impose “reasonable
+residence restrictions on the availability of the ballot” but
+cannot forbid otherwise qualified members of military to
+vote); see also Kramer v. Union Free School Dist. No. 15,
+395 U. S. 621, 625 (1969) (“States have the power to im-
+pose reasonable citizenship, age, and residency require-
+ments on the availability of the ballot” (emphasis added));
+Harper v. Virginia Bd. of Elections, 383 U. S. 663, 668
+(1966) (“To introduce wealth or payment of a fee as a
+measure of a voter’s qualifications is to introduce a capri-
+cious or irrelevant factor”).
+   For these reasons, with respect, I dissent.
+
+
+20         HUSTED v. A. PHILIP RANDOLPH INSTITUTE
+                       BREYER
+                 Appendix A to ,opinion
+                                 J., dissenting
+                                         of BREYER, J.
+                         APPENDIXES
+                                  A
+         The National Voter Registration Act of 1993
+“SEC. 2. FINDINGS AND PURPOSES.
+“(a) FINDINGS.—The Congress finds that—
+   “(1) The right of citizens of the United States to vote is a
+fundamental right;
+   “(2) it is the duty of the Federal, State, and local gov-
+ernments to promote the exercise of that right; and
+   “(3) discriminatory and unfair registration laws and
+procedures can have a direct and damaging effect on voter
+participation in elections for Federal office and dispropor-
+tionately harm voter participation . . . , including racial
+minorities.
+“(b) PURPOSES.—The purposes of this Act are—
+   “(1) to establish procedures that will increase the num-
+ber of eligible citizens who register to vote in elections for
+Federal office;
+   “(2) to make it possible for Federal, State, and local
+governments to implement this Act in a manner that
+enhances the participation of eligible citizens as voters in
+elections for Federal office;
+   “(3) to protect the integrity of the electoral process; and
+   “(4) to ensure that accurate and current voter registra-
+tion rolls are maintained.” 107 Stat. 77.
+“SEC. 5. SIMULTANEOUS APPLICATION FOR VOTER
+REGISTRATION AND APPLICATION FOR MOTOR VEHICLE
+DRIVER’S LICENSE.
+   “(d) CHANGE OF ADDRESS.—Any change of address form
+submitted in accordance with State law for purposes of a
+State motor vehicle driver's license shall serve as notifica-
+tion of change of address for voter registration with re-
+spect to elections for Federal office for the registrant in-
+
+
+                      Cite as: 584 U. S. ____ (2018)        21
+                  AppendixBREYER
+                             A to ,opinion
+                                    J., dissenting
+                                            of BREYER, J.
+volved unless the registrant states on the form that the
+change of address is not for voter registration purposes.”
+Id., at 79.
+“SEC. 6. MAIL REGISTRATION.
+   “(d) UNDELIVERED NOTICES. If a notice of the disposi-
+tion of a mail voter registration application under section
+8(a)(2) is sent by nonforwardable mail and is returned
+undelivered, the registrar may proceed in accordance with
+section 8(d).” Id., at 80.
+“SEC. 8. REQUIREMENTS WITH RESPECT TO ADMINI-
+STRATION OF VOTER REGISTRATION.
+   “(a) IN GENERAL—In the administration of voter regis-
+tration for elections for Federal office, each State shall—
+   “(1) ensure that any eligible applicant is registered to
+vote in an election—
+     .              .                 .              .    .
+   “(2) require the appropriate State election official to
+send notice to each applicant of the disposition of the
+application;
+   “(3) provide that the name of a registrant may not be
+removed from the official list of eligible voters except—
+   “(A) at the request of the registrant;
+   “(B) as provided by State law, by reason of criminal
+conviction or mental incapacity; or
+   “(C) as provided under paragraph (4);
+   “(4) conduct a general program that makes a reasonable
+effort to remove the names of ineligible voters from the
+official lists of eligible voters by reason of—
+   “(A) the death of the registrant; or
+   “(B) a change in the residence of the registrant, in ac-
+cordance with subsections (b), (c), and (d);
+     .              .                 .              .    .
+   “(b) CONFIRMATION OF VOTER REGISTRATION.—Any
+State program or activity to protect the integrity of the
+
+
+22         HUSTED v. A. PHILIP RANDOLPH INSTITUTE
+                         BREYER
+                  Appendix  A to ,opinion
+                                   J., dissenting
+                                           of BREYER, J.
+electoral process by ensuring the maintenance of an accu-
+rate and current voter registration roll for elections for
+Federal office—
+   “(1) shall be uniform, nondiscriminatory, and in compli-
+ance with the Voting Rights Act of 1965 (42 U. S. C. 1973
+et seq.); and
+   “(2) shall not result in the removal of the name of any
+person from the official list of voters registered to vote in
+an election for Federal office by reason of the person’s
+failure to vote.
+   “(c) VOTER REMOVAL PROGRAMS.—(1) A State may meet
+the requirement of subsection (a)(4) by establishing a
+program under which—
+   “(A) change-of-address information supplied by the
+Postal Service through its licensees is used to identify
+registrants whose addresses may have changed; and
+   “(B) if it appears from information provided by the
+Postal Service that—
+   “(i) a registrant has moved to a different residence ad-
+dress in the same registrar's jurisdiction in which the
+registrant is currently registered, the registrar changes
+the registration records to show the new address and
+sends the registrant a notice of the change by forwardable
+mail and a postage prepaid pre-addressed return form by
+which the registrant may verify or correct the address
+information; or
+   “(ii) the registrant has moved to a different residence
+address not in the same registrar's jurisdiction, the regis-
+trar uses the notice procedure described in subsection
+(d)(2) to confirm the change of address.
+   “(2)(A) A State shall complete, not later than 90 days
+prior to the date of a primary or general election for Fed-
+eral office, any program the purpose of which is to system-
+atically remove the names of ineligible voters from the
+official lists of eligible voters.
+   “(B) Subparagraph (A) shall not be construed to pre-
+
+
+                     Cite as: 584 U. S. ____ (2018)           23
+                         BREYER
+                  Appendix  A to ,opinion
+                                   J., dissenting
+                                           of BREYER, J.
+clude—
+   “(i) the removal of names from official lists of voters on a
+basis described in paragraph (3)(A) or (B) or (4)(A) of
+subsection (a); or
+   “(ii) correction of registration records pursuant to this
+Act.
+   “(d) REMOVAL OF NAMES FROM VOTING ROLLS.—“(1) A
+State shall not remove the name of a registrant from the
+official list of eligible voters in elections for Federal office
+on the ground that the registrant has changed residence
+unless the registrant—
+   “(A) confirms in writing that the registrant has changed
+residence to a place outside the registrar’s jurisdiction in
+which the registrant is registered; or
+   “(B)(i) has failed to respond to a notice described in
+paragraph (2); and
+   “(ii) has not voted or appeared to vote (and, if necessary,
+correct the registrar's record of the registrant's address) in
+an election during the period beginning on the date of the
+notice and ending on the day after the date of the second
+general election for Federal office that occurs after the
+date of the notice.
+   “(2) A notice is described in this paragraph if it is a
+postage prepaid and pre-addressed return card, sent by
+forwardable mail, on which the registrant may state his or
+her current address, together with a notice to the following
+effect:
+   “(A) If the registrant did not change his or her residence,
+or changed residence but remained in the registrar’s juris-
+diction, the registrant should return the card not later
+than the time provided for mail registration under subsec-
+tion (a)(1)(B). If the card is not returned, affirmation or
+confirmation of the registrant’s address may be required
+before the registrant is permitted to vote in a Federal
+election during the period beginning on the date of the
+notice and ending on the day after the date of the second
+
+
+24        HUSTED v. A. PHILIP RANDOLPH INSTITUTE
+                      BREYER
+                Appendix A to ,opinion
+                                J., dissenting
+                                        of BREYER, J.
+general election for Federal office that occurs after the
+date of the notice, and if the registrant does not vote in an
+election during that period the registrant’s name will be
+removed from the list of eligible voters.
+   “(B) If the registrant has changed residence to a place
+outside the registrar’s jurisdiction in which the registrant
+is registered, information concerning how the registrant
+can continue to be eligible to vote.
+   “(3) A voting registrar shall correct an official list of
+eligible voters in elections for Federal office in accordance
+with change of residence information obtained in conform-
+ance with this subsection.” Id., at 82–84.
+
+
+                    Cite as: 584 U. S. ____ (2018)            25
+                AppendixBREYER
+                           B to ,opinion
+                                  J., dissenting
+                                          of BREYER, J.
+                                   B
+             The Help America Vote Act of 2002
+“SEC. 303.           COMPUTERIZED STATEWIDE VOTER
+REGISTRATION LIST REQUIREMENTS AND REQUIRE-
+MENTS FOR VOTERS WHO REGISTER BY MAIL.
+   “(a) COMPUTERIZED STATEWIDE VOTER REGISTRATION
+LIST REQUIREMENTS.—
+     .            .                 .              .       .
+   “(4) MINIMUM STANDARD FOR ACCURACY OF STATE
+VOTER REGISTRATION RECORDS.—The State election sys-
+tem shall include provisions to ensure that voter registra-
+tion records in the State are accurate and are updated
+regularly, including the following:
+   “(A) A system of file maintenance that makes a reason-
+able effort to remove registrants who are ineligible to vote
+from the official list of eligible voters. Under such system,
+consistent with the National Voter Registration Act of
+1993 (42 U.S.C. 1973gg et seq.), registrants who have not
+responded to a notice and who have not voted in 2 consec-
+utive general elections for Federal office shall be removed
+from the official list of eligible voters, except that no regis-
+trant may be removed solely by reason of a failure to vote.
+   “(B) Safeguards to ensure that eligible voters are not
+removed in error from the official list of eligible voters.”
+116 Stat. 1708–1710.
+
+
+26         HUSTED v. A. PHILIP RANDOLPH INSTITUTE
+                       BREYER
+                Appendix B to ,opinion
+                                J., dissenting
+                                        of BREYER, J.
+“SEC. 903. CLARIFICATION OF ABILITY OF ELECTION
+OFFICIALS TO REMOVE REGISTRANTS FROM OFFICIAL
+LIST OF VOTERS ON GROUNDS OF CHANGE OF
+RESIDENCE.
+   “Section 8(b)(2) of the National Voter Registration Act of
+1993 . . . is amended by striking the period at the end and
+inserting the following: ‘‘, except that nothing in this
+paragraph may be construed to prohibit a State from
+using the procedures described in subsections (c) and (d) to
+remove an individual from the official list of eligible voters
+if the individual—
+   ‘‘(A) has not either notified the applicable registrar (in
+person or in writing) or responded during the period de-
+scribed in subparagraph (B) to the notice sent by the
+applicable registrar; and then
+   ‘‘(B) has not voted or appeared to vote in 2 or more
+consecutive general elections for Federal office.’’ Id., at
+1728.
+“SEC. 906. NO EFFECT ON OTHER LAWS.
+   “(a) IN GENERAL.— . . . [N]othing in this Act may be
+construed to authorize or require conduct prohibited under
+any of the following laws, or to supersede, restrict, or limit
+the application of such laws [including]:
+      .           .               .              .       .
+   “(4) The National Voter Registration Act of 1993.” Id.,
+at 1729.
+
+
+                  Cite as: 584 U. S. ____ (2018)            1
+                    SOTOMAYOR, J., dissenting
+SUPREME COURT OF THE UNITED STATES
+                           _________________
+                            No. 16–980
+                           _________________
+      JON HUSTED, OHIO SECRETARY OF STATE,
+          PETITIONER v. A. PHILIP RANDOLPH
+                     INSTITUTE, ET AL.
+ ON WRIT OF CERTIORARI TO THE UNITED STATES COURT OF
+               APPEALS FOR THE SIXTH CIRCUIT
+                         [June 11, 2018]
+   JUSTICE SOTOMAYOR, dissenting.
+   I join the principal dissent in full because I agree that
+the statutory text plainly supports respondents’ interpre-
+tation. I write separately to emphasize how that reading
+is bolstered by the essential purposes stated explicitly in
+the National Voter Registration Act of 1993 (NVRA) to
+increase the registration and enhance the participation
+of eligible voters in federal elections.         52 U. S. C.
+§§20501(b)(1)–(2). Congress enacted the NVRA against
+the backdrop of substantial efforts by States to disenfran-
+chise low-income and minority voters, including programs
+that purged eligible voters from registration lists because
+they failed to vote in prior elections. The Court errs in
+ignoring this history and distorting the statutory text to
+arrive at a conclusion that not only is contrary to the plain
+language of the NVRA but also contradicts the essential
+purposes of the statute, ultimately sanctioning the very
+purging that Congress expressly sought to protect against.
+   Concerted state efforts to prevent minorities from voting
+and to undermine the efficacy of their votes are an unfor-
+tunate feature of our country’s history. See Schuette v.
+BAMN, 572 U. S. 291, 337–338 (2014) (SOTOMAYOR, J.,
+dissenting). As the principal dissent explains, “[i]n the
+late 19th and early 20th centuries, a number of
+
+
+2          HUSTED v. A. PHILIP RANDOLPH INSTITUTE
+                     SOTOMAYOR, J., dissenting
+‘[r]estrictive registration laws and administrative proce-
+dures’ came to use across the United States.” Ante, at 1–2
+(opinion of BREYER, J.). States enforced “poll tax[es],
+literacy tests, residency requirements, selective purges,
+. . . and annual registration requirements,” which were
+developed “to keep certain groups of citizens from voting.”
+H. R. Rep. No. 103–9, p. 2 (1993). Particularly relevant
+here, some States erected procedures requiring voters to
+renew registrations “whenever [they] moved or failed to
+vote in an election,” which “sharply depressed turnout,
+particularly among blacks and immigrants.” A. Keyssar,
+The Right To Vote 124 (2009). Even after the passage of
+the Voting Rights Act in 1965, many obstacles remained.
+See ante, at 2 (opinion of BREYER, J.).
+    Congress was well aware of the “long history of such list
+cleaning mechanisms which have been used to violate the
+basic rights of citizens” when it enacted the NVRA.
+S. Rep. No. 103–6, p. 18 (1993). Congress thus made clear
+in the statutory findings that “the right of citizens of the
+United States to vote is a fundamental right,” that “it is
+the duty of the Federal, State, and local governments to
+promote the exercise of that right,” and that “discrimina-
+tory and unfair registration laws and procedures can have
+a direct and damaging effect on voter participation . . . and
+disproportionately harm voter participation by various
+groups, including racial minorities.” 52 U. S. C. §20501(a).
+In light of those findings, Congress enacted the NVRA
+with the express purposes of “increas[ing] the number of
+eligible citizens who register to vote” and “enhanc[ing] the
+participation of eligible citizens as voters.” §§20501(b)(1)–
+(2). These stated purposes serve at least in part to coun-
+teract the history of voter suppression, as evidenced by
+§20507(b)(2), which forbids “the removal of the name of
+any person from the official list of voters registered to vote
+in an election for Federal office by reason of the person’s
+failure to vote.” Ibid.
+
+
+                      Cite as: 584 U. S. ____ (2018)                    3
+                       SOTOMAYOR, J., dissenting
+   Of course, Congress also expressed other objectives, “to
+protect the integrity of the electoral process” and “to en-
+sure that accurate and current voter registration rolls are
+maintained.” §§20501(b)(3)–(4).* The statute contem-
+plates, however, that States can, and indeed must, further
+all four stated objectives. As relevant here, Congress
+crafted the NVRA with the understanding that, while
+States are required to make a “reasonable effort” to re-
+move ineligible voters from the registration lists,
+§20507(a)(4), such removal programs must be developed in
+a manner that “prevent[s] poor and illiterate voters from
+being caught in a purge system which will require them to
+needlessly re-register” and “prevent[s] abuse which has a
+disparate impact on minority communities,” S. Rep. No.
+103–6, at 18.
+   Ohio’s Supplemental Process reflects precisely the type
+of purge system that the NVRA was designed to prevent.
+Under the Supplemental Process, Ohio will purge a regis-
+trant from the rolls after six years of not voting, e.g., sit-
+ting out one Presidential election and two midterm elec-
+tions, and after failing to send back one piece of mail, even
+though there is no reasonable basis to believe the individ-
+ual actually moved. See ante, at 14 (BREYER, J., dissent-
+ing). This purge program burdens the rights of eligible
+voters. At best, purged voters are forced to “needlessly
+reregister” if they decide to vote in a subsequent election;
+at worst, they are prevented from voting at all because
+they never receive information about when and where
+——————
+  * The majority characterizes these objectives as ones to “remov[e]
+ineligible persons from the States’ voter registration rolls,” ante, at 2,
+but maintaining “accurate” rolls and “protecting the integrity of the
+electoral process” surely encompass more than just removing ineligible
+voters. An accurate voter roll and fair electoral process should also
+reflect the continued enrollment of eligible voters. In this way, the
+NVRA’s enhanced-participation and accuracy-maintenance goals are to
+be achieved simultaneously, and are mutually reinforcing.
+
+
+4         HUSTED v. A. PHILIP RANDOLPH INSTITUTE
+                    SOTOMAYOR, J., dissenting
+elections are taking place.
+   It is unsurprising in light of the history of such purge
+programs that numerous amici report that the Supple-
+mental Process has disproportionately affected minority,
+low-income, disabled, and veteran voters. As one example,
+amici point to an investigation that revealed that in Ham-
+ilton County, “African-American-majority neighborhoods
+in downtown Cincinnati had 10% of their voters removed
+due to inactivity” since 2012, as “compared to only 4% of
+voters in a suburban, majority-white neighborhood.” Brief
+for National Association for the Advancement of Colored
+People et al. as Amici Curiae 18–19. Amici also explain at
+length how low voter turnout rates, language-access prob-
+lems, mail delivery issues, inflexible work schedules, and
+transportation issues, among other obstacles, make it
+more difficult for many minority, low-income, disabled,
+homeless, and veteran voters to cast a ballot or return a
+notice, rendering them particularly vulnerable to unwar-
+ranted removal under the Supplemental Process. See
+Brief for Asian Americans Advancing Justice | AAJC et
+al. as Amici Curiae 15–26; Brief for National Disability
+Rights Network et al. as Amici Curiae 17, 21–24, 29–31;
+Brief for VoteVets Action Fund as Amicus Curiae 23–30.
+See also Brief for Libertarian National Committee as
+Amicus Curiae 19–22 (burdens on principled nonvoters).
+   Neither the majority nor Ohio meaningfully dispute that
+the Supplemental Process disproportionately burdens
+these communities. At oral argument, Ohio suggested
+that such a disparate impact is not pertinent to this case
+because respondents did not challenge the Supplemental
+Process under §20507(b)(1), which requires that any re-
+moval program “be uniform, nondiscriminatory, and in
+compliance with the Voting Rights Act.” Tr. of Oral Arg.
+23. The fact that respondents did not raise a claim under
+§20507(b)(1), however, is wholly irrelevant to our assess-
+ment of whether, as a matter of statutory interpretation,
+
+
+                   Cite as: 584 U. S. ____ (2018)           5
+                     SOTOMAYOR, J., dissenting
+the Supplemental Process removes voters “by reason of the
+person’s failure to vote” in violation of §20507(b)(2). Con-
+trary to the majority’s view, ante, at 20–21, the NVRA’s
+express findings and purpose are highly relevant to that
+interpretive analysis because they represent “the assumed
+facts and the purposes that the majority of the enacting
+legislature . . . had in mind, and these can shed light on
+the meaning of the operative provisions that follow.” A.
+Scalia & B. Garner, Reading Law 218 (2012). Respond-
+ents need not demonstrate discriminatory intent to estab-
+lish that Ohio’s interpretation of the NVRA is contrary to
+the statutory text and purpose.
+   In concluding that the Supplemental Process does not
+violate the NVRA, the majority does more than just mis-
+construe the statutory text. It entirely ignores the history
+of voter suppression against which the NVRA was enacted
+and upholds a program that appears to further the very
+disenfranchisement of minority and low-income voters
+that Congress set out to eradicate. States, though, need
+not choose to be so unwise. Our democracy rests on the
+ability of all individuals, regardless of race, income, or
+status, to exercise their right to vote. The majority of
+States have found ways to maintain accurate voter rolls
+without initiating removal processes based solely on an
+individual’s failure to vote. See App. to Brief for League of
+Women Voters of the United States et al. as Amici Curiae
+1a–9a; Brief for State of New York et al. as Amici Curiae
+22–28. Communities that are disproportionately affected
+by unnecessarily harsh registration laws should not toler-
+ate efforts to marginalize their influence in the political
+process, nor should allies who recognize blatant unfairness
+stand idly by. Today’s decision forces these communities
+and their allies to be even more proactive and vigilant in
+holding their States accountable and working to dismantle
+the obstacles they face in exercising the fundamental right
+to vote.

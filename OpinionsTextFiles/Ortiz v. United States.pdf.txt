@@ -1,0 +1,2808 @@
+(Slip Opinion)                OCTOBER TERM, 2017                                    1
+                                         Syllabus
+          NOTE: Where it is feasible, a syllabus (headnote) will be released, as is
+        being done in connection with this case, at the time the opinion is issued.
+        The syllabus constitutes no part of the opinion of the Court but has been
+        prepared by the Reporter of Decisions for the convenience of the reader.
+        See United States v. Detroit Timber & Lumber Co., 200 U. S. 321, 337.
+SUPREME COURT OF THE UNITED STATES
+                                         Syllabus
+                        ORTIZ v. UNITED STATES
+ CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR
+                               THE ARMED FORCES
+     No. 16–1423. Argued January 16, 2018—Decided June 22, 2018
+Congress has long provided for specialized military courts to adjudicate
+   charges against service members. Today, courts-martial hear cases
+   involving crimes unconnected with military service. They are also
+   subject to several tiers of appellate review, and thus are part of an in-
+   tegrated “court-martial system” that resembles civilian structures of
+   justice. That system begins with the court-martial itself, a tribunal
+   that determines guilt or innocence and levies punishment, up to life-
+   time imprisonment or execution. The next phase occurs at one of four
+   appellate courts: the Court of Criminal Appeals (CCA) for the Army,
+   Navy-Marine Corps, Air Force, or Coast Guard. They review deci-
+   sions where the sentence is a punitive discharge, incarceration for
+   more than one year, or death. The Court of Appeals for the Armed
+   Forces (CAAF) sits atop the court-martial system. The CAAF is a
+   “court of record” composed of five civilian judges, 10 U. S. C. §941,
+   which must review certain weighty cases and may review others. Fi-
+   nally, 28 U. S. C. §1259 gives this Court jurisdiction to review the
+   CAAF’s decisions by writ of certiorari.
+      Petitioner Keanu Ortiz, an Airman First Class, was convicted by a
+   court-martial of possessing and distributing child pornography, and
+   he was sentenced to two years’ imprisonment and a dishonorable dis-
+   charge. An Air Force CCA panel, including Colonel Martin Mitchell,
+   affirmed that decision. The CAAF then granted Ortiz’s petition for
+   review to consider whether Judge Mitchell was disqualified from
+   serving on the CCA because he had been appointed to the Court of
+   Military Commission Review (CMCR). The Secretary of Defense had
+   initially put Judge Mitchell on the CMCR under his statutory author-
+   ity to “assign [officers] who are appellate military judges” to serve on
+   that court. 10 U. S. C. §950f(b)(2). To moot a possible constitutional
+
+
+2                        ORTIZ v. UNITED STATES
+                                   Syllabus
+  problem with the assignment, the President (with the Senate’s advice
+  and consent) also appointed Judge Mitchell to the CMCR pursuant to
+  §950f(b)(3). Shortly thereafter, Judge Mitchell participated in Ortiz’s
+  CCA appeal.
+     Ortiz claimed that Judge Mitchell’s CMCR appointment barred his
+  continued CCA service under both a statute and the Constitution.
+  First, he argued that the appointment violated §973(b)(2)(A), which
+  provides that unless “otherwise authorized by law,” an active-duty
+  military officer “may not hold, or exercise the functions of,” certain
+  “civil office[s]” in the federal government. Second, he argued that the
+  Appointments Clause prohibits simultaneous service on the CMCR
+  and the CCA. The CAAF rejected both grounds for ordering another
+  appeal.
+Held:
+     1. This Court has jurisdiction to review the CAAF’s decisions. The
+  judicial character and constitutional pedigree of the court-martial
+  system enable this Court, in exercising appellate jurisdiction, to re-
+  view the decisions of the court sitting at its apex.
+     An amicus curiae, Professor Aditya Bamzai, argues that cases de-
+  cided by the CAAF do not fall within Article III’s grant of appellate
+  jurisdiction to this Court. In Marbury v. Madison, 1 Cranch 137,
+  Chief Justice Marshall explained that “the essential criterion of ap-
+  pellate jurisdiction” is “that it revises and corrects the proceedings in
+  a cause already instituted, and does not create that cause.” Id., at
+  175. Here, Ortiz’s petition asks the Court to “revise and correct” the
+  latest decision in a “cause” that began in and progressed through mil-
+  itary justice “proceedings.” Unless Chief Justice Marshall’s test im-
+  plicitly exempts cases instituted in a military court, the case is now
+  appellate.
+     There is no reason to make that distinction. The military justice
+  system’s essential character is judicial. Military courts decide cases
+  in strict accordance with a body of federal law and afford virtually
+  the same procedural protections to service members as those given in
+  a civilian criminal proceeding. The judgments a military tribunal
+  renders “rest on the same basis, and are surrounded by the same
+  considerations[, as] give conclusiveness to the judgments of other le-
+  gal tribunals.” Ex parte Reed, 100 U. S. 13, 23. Accordingly, such
+  judgments have res judicata and Double Jeopardy effect. The juris-
+  diction and structure of the court-martial system likewise resemble
+  those of other courts whose decisions this Court reviews. Courts-
+  martial try service members for garden-variety crimes unrelated to
+  military service, and can impose terms of imprisonment and capital
+  punishment. Their decisions are also subject to an appellate process
+  similar to the one found in most States. And just as important, the
+
+
+                    Cite as: 585 U. S. ____ (2018)                      3
+                               Syllabus
+constitutional foundation of courts-martial is not in the least inse-
+cure. See Dynes v. Hoover, 20 How. 65, 79. The court-martial is older
+than the Constitution, was recognized and sanctioned by the Fram-
+ers, and has been authorized here since the first Congress. Through-
+out that history, courts-martial have operated as instruments of mili-
+tary justice, not mere military command. They are bound, like any
+court, by the fundamental principles of law and the duty to adjudi-
+cate cases without partiality.
+   Bamzai argues that the Court lacks jurisdiction because the CAAF
+is not an Article III court, but is instead in the Executive Branch.
+This Court’s appellate jurisdiction, however, covers more than the de-
+cisions of Article III courts. This Court can review proceedings of
+state courts. See Martin v. Hunter’s Lessee, 1 Wheat. 304. It can also
+review certain non-Article III judicial systems created by Congress.
+In particular, the Court has upheld its exercise of appellate jurisdic-
+tion over decisions of non-Article III territorial courts, see United
+States v. Coe, 155 U. S. 76, and it has uncontroversially exercised ap-
+pellate jurisdiction over non-Article III District of Columbia courts,
+see Palmore v. United States, 411 U. S. 389. The non-Article III
+court-martial system stands on much the same footing as territorial
+and D. C. courts. All three rest on an expansive constitutional dele-
+gation, have deep historical roots, and perform an inherently judicial
+role. Thus, in Palmore, this Court viewed the military, territories,
+and District as “specialized areas having particularized needs” in
+which Article III “give[s] way to accommodate plenary grants of pow-
+er to Congress.” Id., at 408.
+   Bamzai does not provide a sufficient reason to divorce military
+courts from territorial and D. C. courts when it comes to defining this
+Court’s appellate jurisdiction. He first relies on the fact that territo-
+rial and D. C. courts exercise power over discrete geographic areas,
+while military courts do not. But this distinction does not matter to
+the jurisdictional inquiry. His second argument focuses on the fact
+that the CAAF is in the Executive Branch. In his view, two of the
+Court’s precedents—Ex parte Vallandigham, 1 Wall. 243, and Mar-
+bury, 1 Cranch 137—show that the Court may never accept appellate
+jurisdiction from any person or body within that branch. As to Val-
+landigham, that case goes to show only that not every military tribu-
+nal is alike. Unlike the military commission in Vallandigham, which
+lacked “judicial character,” 1 Wall., at 253, the CAAF is a permanent
+court of record established by Congress, and its decisions are final
+unless the Court reviews and reverses them. As to Marbury, James
+Madison’s failure to transmit William Marbury’s commission was not
+a judicial decision by a court. Here, by contrast, three constitutional-
+ly rooted courts rendered inherently judicial decisions. Pp. 5–19.
+
+
+4                       ORTIZ v. UNITED STATES
+                                   Syllabus
+     2. Judge Mitchell’s simultaneous service on the CCA and the
+  CMCR violated neither §973(b)(2)(A) nor the Appointments Clause.
+  Pp. 19–25.
+        (a) The statutory issue turns on two interlocking provisions. Sec-
+  tion 973(b)(2)(A) is the statute that Ortiz claims was violated here. It
+  prohibits military officers from “hold[ing], or exercis[ing] the func-
+  tions of,” certain “civil office[s]” in the federal government, “[e]xcept
+  as otherwise authorized by law.” Section 950f(b) is the statute that
+  the Government claims “otherwise authorize[s]” Judge Mitchell’s
+  CMCR service, even if a seat on that court is a covered “civil office.”
+  It provides two ways to become a CMCR judge. Under §950f(b)(2),
+  the Secretary of Defense “may assign” qualified officers serving on a
+  CCA to be judges on the CMCR. Under §950f(b)(3), the President
+  (with the Senate’s advice and consent) “may appoint” persons—
+  whether officers or civilians is unspecified—to CMCR judgeships.
+     Ortiz argues that Judge Mitchell was not “authorized by law” to
+  serve on the CMCR after his appointment because §950f(b)(3) makes
+  no express reference to military officers. In the circumstances here,
+  however, the express authorization to assign military officers to the
+  CMCR under §950f(b)(2) was the only thing necessary to exempt
+  Judge Mitchell from §973(b)(2)(A). Once the Secretary of Defense
+  placed Judge Mitchell on the CMCR pursuant to §950f(b)(2), the
+  President’s later appointment made no difference. It did not negate
+  the Secretary’s earlier action, but rather ratified what the Secretary
+  had already done. Thus, after the appointment, Judge Mitchell
+  served on the CMCR by virtue of both the Secretary’s assignment and
+  the President’s appointment. And because §950f(b)(2) expressly au-
+  thorized the Secretary’s assignment, Judge Mitchell’s CMCR service
+  could not run afoul of §973(b)(2)(A)’s general rule. Pp. 20–23.
+        (b) Ortiz also raises an Appointments Clause challenge to Judge
+  Mitchell’s simultaneous service on the CCA and the CMCR. That
+  Clause distinguishes between principal officers and inferior officers.
+  CCA judges are inferior officers. Ortiz views CMCR judges as princi-
+  pal officers. And Ortiz argues that, under the Appointments Clause,
+  a single judge cannot serve as an inferior officer on one court and a
+  principal officer on another. But the Court has never read the Ap-
+  pointments Clause to impose rules about dual service, separate and
+  distinct from methods of appointment. And if the Court were ever to
+  apply the Clause to dual-officeholding, it would not start here. Ortiz
+  does not show how Judge Mitchell’s CMCR service would result in
+  “undue influence” on his CCA colleagues. Pp. 23–25.
+76 M. J. 125 and 189, affirmed.
+  KAGAN, J., delivered the opinion of the Court, in which ROBERTS,
+
+
+                     Cite as: 585 U. S. ____ (2018)                   5
+                               Syllabus
+C. J., and KENNEDY, THOMAS, GINSBURG, BREYER, and SOTOMAYOR, JJ.,
+joined. THOMAS, J., filed a concurring opinion. ALITO, J., filed a dis-
+senting opinion, in which GORSUCH, J., joined.
+
+
+                         Cite as: 585 U. S. ____ (2018)                            1
+                               Opinion of the Court
+      NOTICE: This opinion is subject to formal revision before publication in the
+      preliminary print of the United States Reports. Readers are requested to
+      notify the Reporter of Decisions, Supreme Court of the United States, Wash-
+      ington, D. C. 20543, of any typographical or other formal errors, in order
+      that corrections may be made before the preliminary print goes to press.
+SUPREME COURT OF THE UNITED STATES
+                                     _________________
+                                     No. 16–1423
+                                     _________________
+KEANU D. W. ORTIZ, PETITIONER v. UNITED STATES
+ ON WRIT OF CERTIORARI TO THE UNITED STATES COURT OF
+                    APPEALS FOR THE ARMED FORCES
+                                   [June 22, 2018]
+   JUSTICE KAGAN delivered the opinion of the Court.
+   This case is about the legality of a military officer serv-
+ing as a judge on both an Air Force appeals court and the
+Court of Military Commission Review (CMCR). The peti-
+tioner, an airman convicted of crimes in the military jus-
+tice system, contends that the judge’s holding of dual
+offices violated a statute regulating military service, as
+well as the Constitution’s Appointments Clause. The
+Court of Appeals for the Armed Forces (CAAF) rejected
+those claims, and we granted a petition for certiorari. We
+hold first that this Court has jurisdiction to review deci-
+sions of the CAAF, even though it is not an Article III
+court. We then affirm the CAAF’s determination that the
+judge’s simultaneous service was lawful.
+                                             I
+   In the exercise of its authority over the armed forces,
+Congress has long provided for specialized military courts
+to adjudicate charges against service members. Today,
+trial-level courts-martial hear cases involving a wide
+range of offenses, including crimes unconnected with
+military service; as a result, the jurisdiction of those tri-
+bunals overlaps substantially with that of state and federal
+
+
+2                  ORTIZ v. UNITED STATES
+                      Opinion of the Court
+courts. See Solorio v. United States, 483 U. S. 435, 436
+(1987); United States v. Kebodeaux, 570 U. S. 387, 404
+(2013) (ALITO, J., concurring in judgment). And courts-
+martial are now subject to several tiers of appellate re-
+view, thus forming part of an integrated “court-martial
+system” that closely resembles civilian structures of jus-
+tice. United States v. Denedo, 556 U. S. 904, 920 (2009);
+see Weiss v. United States, 510 U. S. 163, 174 (1994).
+   That system begins with the court-martial itself, an
+officer-led tribunal convened to determine guilt or inno-
+cence and levy appropriate punishment, up to lifetime
+imprisonment or execution. See 10 U. S. C. §§816, 818,
+856a. The next phase of military justice occurs at one of
+four appellate courts: the Court of Criminal Appeals (CCA)
+for the Army, Navy-Marine Corps, Air Force, or Coast
+Guard. Those courts, using three-judge panels of either
+officers or civilians, review all decisions in which the
+sentence imposed involves a punitive discharge, incarcera-
+tion for more than one year, or death. See §§866(a)–(c).
+Atop the court-martial system is the CAAF, a “court of
+record” made up of five civilian judges appointed to serve
+15-year terms. §941; see §§942(a)–(b). The CAAF must
+review certain weighty cases (including those in which
+capital punishment was imposed), and may grant petitions
+for review in any others. See §867. Finally, this Court
+possesses statutory authority to step in afterward: Under
+28 U. S. C. §1259, we have jurisdiction to review the
+CAAF’s decisions by writ of certiorari.
+   Petitioner Keanu Ortiz’s case has run the gamut of this
+legal system. Ortiz, an Airman First Class in the Air
+Force, was charged with knowingly possessing and dis-
+tributing child pornography, in violation of the Uniform
+Code of Military Justice. A court-martial found Ortiz
+guilty as charged and imposed a sentence of two years’
+imprisonment and a dishonorable discharge. On appeal,
+an Air Force CCA panel, including Colonel Martin Mitch-
+
+
+                       Cite as: 585 U. S. ____ (2018)                   3
+                            Opinion of the Court
+ell, summarily affirmed the court-martial’s decision. The
+CAAF then granted Ortiz’s petition for review to consider
+whether Judge Mitchell was disqualified from serving on
+the CCA, thus entitling Ortiz to an appellate do-over.
+   That issue arose from Judge Mitchell’s simultaneous
+service on the CMCR. Congress created the CMCR as an
+appellate tribunal to review the decisions of military
+commissions, particularly those operating in Guantanamo
+Bay.1 The Secretary of Defense put Judge Mitchell on that
+court shortly after he became a member of the CCA, under
+a statutory provision authorizing the Secretary to “assign
+[officers] who are appellate military judges” to serve on
+the CMCR as well. 10 U. S. C. §950f(b)(2). Around the
+same time, a military-commission defendant argued to the
+Court of Appeals for the D. C. Circuit that the Appoint-
+ments Clause requires the President and Senate (rather
+than the Secretary) to place judges on the CMCR. The
+D. C. Circuit avoided resolving that issue, but suggested
+that the President and Senate could “put [it] to rest” by
+appointing the very CMCR judges whom the Secretary
+had previously assigned. In re al-Nashiri, 791 F. 3d 71, 86
+(2015). The President decided to take that advice, and
+nominated each of those judges—Mitchell, among them—
+under an adjacent statutory provision authorizing him to
+“appoint, by and with the advice and consent of the Sen-
+ate,” CMCR judges. §950f(b)(3). The Senate then con-
+firmed those nominations. About a month later, Judge
+Mitchell—now wearing his CCA robe—participated in the
+panel decision rejecting Ortiz’s appeal.
+   In Ortiz’s view, Judge Mitchell’s appointment to the
+CMCR barred his continued service on the CCA under
+——————
+  1 In contrast to courts-martial, military commissions have historically
+been used to substitute for civilian courts in times of martial law or
+temporary military government, as well as to try members of enemy
+forces for violations of the laws of war. See Hamdan v. Rumsfeld, 548
+U. S. 557, 595–597 (2006) (plurality opinion).
+
+
+4                   ORTIZ v. UNITED STATES
+                       Opinion of the Court
+both a statute and the Constitution. First, Ortiz invoked
+10 U. S. C. §973(b). That statute, designed to ensure
+civilian preeminence in government, provides that unless
+“otherwise authorized by law,” an active-duty military
+officer like Judge Mitchell “may not hold, or exercise the
+functions of,” certain “civil office[s]” in the Federal Gov-
+ernment. §973(b)(2)(A). According to Ortiz, a CMCR
+judgeship is a covered civil office, and no other law allowed
+the President to put Mitchell in that position: Thus, his
+appointment to the CMCR violated §973(b). See Brief in
+Support of Petition Granted in No. 16–0671 (CAAF),
+pp. 17–22. And the proper remedy, Ortiz argued, was to
+terminate Judge Mitchell’s military service effective the
+date of his CMCR appointment and void all his later ac-
+tions as a CCA judge—including his decision on Ortiz’s
+appeal. See ibid. Second and independently, Ortiz relied
+on the Appointments Clause to challenge Judge Mitchell’s
+dual service. See id., at 27–40. The premise of his argu-
+ment was that CMCR judges are “principal officers” under
+that Clause, whereas CCA judges (as this Court has held)
+are “inferior officers.” Edmond v. United States, 520 U. S.
+651, 666 (1997). Ortiz claimed that the Appointments
+Clause prohibits someone serving as a principal officer on
+one court (the CMCR) from sitting alongside inferior
+officers on another court (the CCA). Because Judge Mitch-
+ell had done just that, Ortiz concluded, the CCA’s ruling on
+his appeal could not stand.
+   The CAAF rejected both grounds for ordering another
+appeal. See 76 M. J. 189 (2017). In considering the statu-
+tory question, the court chose not to decide whether
+§973(b) precluded Judge Mitchell from serving on the
+CMCR while an active-duty officer. Even if so, the CAAF
+held, the remedy for the violation would not involve ter-
+minating the judge’s military service or voiding actions he
+took on the CCA. See id., at 192. Turning next to the
+constitutional issue, the CAAF “s[aw] no Appointments
+
+
+                     Cite as: 585 U. S. ____ (2018)                   5
+                          Opinion of the Court
+Clause problem.” Id., at 193. Even assuming Judge
+Mitchell was a principal officer when sitting on the CMCR,
+the court held, that status in no way affected his service
+on the CCA: “When Colonel Mitchell sits as a CCA
+judge, he is no different from any other CCA judge.” Ibid.
+The CAAF thus upheld the CCA’s affirmance of Ortiz’s
+convictions.
+   This Court granted Ortiz’s petition for certiorari to
+consider whether either §973(b) or the Appointments
+Clause prevents a military officer from serving, as Judge
+Mitchell did, on both a CCA and the CMCR. 582 U. S. ___
+(2017). We now affirm the decision below.2
+                                   II
+   We begin with a question of our own jurisdiction to
+review the CAAF’s decisions. Congress has explicitly
+authorized us to undertake such review in 28 U. S. C.
+§1259. See ibid. (“Decisions of the [CAAF] may be re-
+viewed by the Supreme Court by writ of certiorari”). Both
+the Federal Government and Ortiz view that grant of
+jurisdiction as constitutionally proper. But an amicus
+curiae, Professor Aditya Bamzai, argues that it goes be-
+yond what Article III allows. That position is a new one to
+this Court: We have previously reviewed nine CAAF deci-
+sions without anyone objecting that we lacked the power
+to do so.3 Still, we think the argument is serious, and
+——————
+  2 At the same time we issued a writ of certiorari in this case, we
+granted and consolidated petitions in two related cases—Dalmazzi v.
+United States, No. 16–961, and Cox v. United States, No. 16–1017.
+Those cases raise issues of statutory jurisdiction that our disposition
+today makes it unnecessary to resolve. We accordingly dismiss
+Dalmazzi, post, p. ___, and Cox, post, p. ___, as improvidently granted
+in opinions accompanying this decision.
+  3 See United States v. Denedo, 556 U. S. 904 (2009); Clinton v. Gold-
+smith, 526 U. S. 529 (1999); United States v. Scheffer, 523 U. S. 303
+(1998); Edmond v. United States, 520 U. S. 651 (1997); Loving v. United
+States, 517 U. S. 748 (1996); Ryder v. United States, 515 U. S. 177
+
+
+6                    ORTIZ v. UNITED STATES
+                         Opinion of the Court
+deserving of sustained consideration. That analysis leads
+us to conclude that the judicial character and constitu-
+tional pedigree of the court-martial system enable this
+Court, in exercising appellate jurisdiction, to review the
+decisions of the court sitting at its apex.
+   Bamzai starts with a proposition no one can contest—
+that our review of CAAF decisions cannot rest on our
+original jurisdiction. Brief for Aditya Bamzai as Amicus
+Curiae 11. Article III of the Constitution grants this
+Court original jurisdiction in a limited category of cases:
+those “affecting Ambassadors, other public Ministers and
+Consuls, and those in which a State shall be Party.” §2,
+cl. 2. That list, of course, does not embrace Ortiz’s case, or
+any other that the CAAF considers. And ever since Mar-
+bury v. Madison, 1 Cranch 137 (1803), this Court has
+recognized that our original jurisdiction cannot extend any
+further than the cases enumerated: If Congress attempts
+to confer more on us, we must (as Chief Justice Marshall
+famously did, in the pioneer act of judicial review) strike
+down the law. Id., at 174–180. As a result, Bamzai is
+right to insist that §1259 could not authorize this Court,
+as part of its original jurisdiction, to hear military cases
+like Ortiz’s.
+   The real issue is whether our appellate jurisdiction can
+cover such cases. Article III’s sole reference to appellate
+jurisdiction provides no apparent barrier, but also no
+substantial guidance: Following its specification of this
+Court’s original jurisdiction, Article III says only that in
+all “other Cases” that the Constitution comprehends (in-
+cluding cases, like this one, involving federal questions),
+“the supreme Court shall have appellate Jurisdiction, both
+as to Law and Fact.” §2, cl. 2. The Constitution’s failure
+——————
+(1995); Davis v. United States, 512 U. S. 452 (1994); Weiss v. United
+States, 510 U. S. 163 (1994); Solorio v. United States, 483 U. S. 435
+(1987).
+
+
+                     Cite as: 585 U. S. ____ (2018)                      7
+                          Opinion of the Court
+to say anything more about appellate jurisdiction leads
+Bamzai to focus on Chief Justice Marshall’s opinion in
+Marbury. See Brief for Bamzai 2–4, 12–14. In that case
+(as you surely recall), William Marbury petitioned this
+Court—without first asking any other—to issue a writ of
+mandamus to Secretary of State James Madison directing
+him to deliver a commission. After holding (as just related)
+that the Court’s original jurisdiction did not extend so far,
+Chief Justice Marshall also rejected the idea that the
+Court could provide the writ in the exercise of its appellate
+jurisdiction. “[T]he essential criterion of appellate juris-
+diction,” the Chief Justice explained, is “that it revises and
+corrects the proceedings in a cause already instituted, and
+does not create that cause.” 1 Cranch, at 175. Marbury’s
+petition, Chief Justice Marshall held, commenced the
+cause—or, to use the more modern word, the case; hence,
+it was not a matter for appellate jurisdiction. Bamzai
+contends that the same is true of Ortiz’s petition.
+   On any ordinary understanding of the great Chief Jus-
+tice’s words, that is a surprising claim. Ortiz’s petition
+asks us to “revise and correct” the latest decision in a
+“cause” that began in and progressed through military
+justice “proceedings.” Ibid. Or, as the Government puts
+the point, this case fits within Chief Justice Marshall’s
+standard because “it comes to th[is] Court on review of the
+Court of Appeals for the Armed Forces’ decision, which
+reviewed a criminal proceeding that originated in [a]
+court[ ]-martial.” Tr. of Oral Arg. 47–48. So this Court
+would hardly be the first to render a decision in the case.
+Unless Chief Justice Marshall’s test implicitly exempts
+cases instituted in a military court—as contrasted, for
+example, with an ordinary federal court—the case is now
+appellate.4
+——————
+  4 The dissent asserts that, in setting out that test, we have “basically
+proceed[ed] as though Marbury were our last word on the subject” and
+
+
+8                      ORTIZ v. UNITED STATES
+                           Opinion of the Court
+   The military justice system’s essential character—in a
+word, judicial—provides no reason to make that distinc-
+tion. Accord post, at 6–8 (THOMAS, J., concurring). Each
+level of military court decides criminal “cases” as that
+term is generally understood, and does so in strict accord-
+ance with a body of federal law (of course including the
+Constitution). The procedural protections afforded to a
+service member are “virtually the same” as those given in
+a civilian criminal proceeding, whether state or federal. 1
+D. Schlueter, Military Criminal Justice: Practice and
+Procedure §1–7, p. 50 (9th ed. 2015) (Schlueter). And the
+judgments a military tribunal renders, as this Court long
+ago observed, “rest on the same basis, and are surrounded
+by the same considerations[, as] give conclusiveness to the
+judgments of other legal tribunals.” Ex parte Reed, 100
+U. S. 13, 23 (1879). Accordingly, we have held that the
+“valid, final judgments of military courts, like those of any
+court of competent jurisdiction[,] have res judicata effect
+and preclude further litigation of the merits.” Schlesinger
+v. Councilman, 420 U. S. 738, 746 (1975). In particular,
+those judgments have identical effect under the Double
+Jeopardy Clause. See Grafton v. United States, 206 U. S.
+——————
+overlooked “two centuries of precedent.” Post, at 8 (opinion of ALITO,
+J.). But the cases the dissent faults us for failing to cite stand for the
+same principle that we—and more important, Marbury—already set
+out. They too say that our appellate jurisdiction permits us to review
+only prior judicial decisions, rendered by courts. See, e.g., Ex parte
+Yerger, 8 Wall. 85, 97 (1869) (Our “appellate jurisdiction” may “be
+exercised only in the revision of judicial decisions”); The Alicia, 7 Wall.
+571, 573 (1869) (“[A]n appellate jurisdiction necessarily implies some
+judicial determination . . . of an inferior tribunal, from which an appeal
+has been taken”); Cohens v. Virginia, 6 Wheat. 264, 396 (1821) (In
+exercising appellate jurisdiction, we act as a “supervising Court, whose
+peculiar province it is to correct the errors of an inferior Court”); Ex
+parte Bollman, 4 Cranch 75, 101 (1807) (We exercise “appellate juris-
+diction” in “revisi[ng] a decision of an inferior court”); post, at 4–6, 10,
+12. Marbury, then, remains the key precedent.
+
+
+                  Cite as: 585 U. S. ____ (2018)            9
+                       Opinion of the Court
+333, 345 (1907).
+   The jurisdiction and structure of the court-martial
+system likewise resemble those of other courts whose
+decisions we review. Although their jurisdiction has
+waxed and waned over time, courts-martial today can try
+service members for a vast swath of offenses, including
+garden-variety crimes unrelated to military service. See
+10 U. S. C. §§877–934; Solorio, 483 U. S., at 438–441;
+supra, at 1–2. As a result, the jurisdiction of those tribu-
+nals overlaps significantly with the criminal jurisdiction of
+federal and state courts. See Kebodeaux, 570 U. S., at 404
+(ALITO, J., concurring in judgment). The sentences meted
+out are also similar: Courts-martial can impose, on top of
+peculiarly military discipline, terms of imprisonment and
+capital punishment. See §818(a); post, at 6 (THOMAS, J.,
+concurring) (“[T]hese courts decide questions of the most
+momentous description, affecting even life itself” (quota-
+tion marks and ellipses omitted)). And the decisions of
+those tribunals are subject to an appellate process—what
+we have called an “integrated system of military courts
+and review procedures”—that replicates the judicial appa-
+ratus found in most States. Councilman, 420 U. S., at
+758. By the time a case like Ortiz’s arrives on our door-
+step under 28 U. S. C. §1259, it has passed through not
+one or two but three military courts (including two that
+can have civilian judges).
+   And just as important, the constitutional foundation of
+courts-martial—as judicial bodies responsible for “the trial
+and punishment” of service members—is not in the least
+insecure. Dynes v. Hoover, 20 How. 65, 79 (1858). The
+court-martial is in fact “older than the Constitution,” 1
+Schlueter §1–6(B), at 39; the Federalist Papers discuss
+“trials by courts-martial” under the Articles of Confedera-
+tion, see No. 40, p. 250 (C. Rossiter ed. 1961). When it
+came time to draft a new charter, the Framers “recog-
+ni[zed] and sanction[ed] existing military jurisdiction,” W.
+
+
+10                 ORTIZ v. UNITED STATES
+                      Opinion of the Court
+Winthrop, Military Law and Precedents 48 (2d ed. 1920)
+(emphasis deleted), by exempting from the Fifth Amend-
+ment’s Grand Jury Clause all “cases arising in the land or
+naval forces.” And by granting legislative power “[t]o
+make Rules for the Government and Regulation of the
+land and naval Forces,” the Framers also authorized
+Congress to carry forward courts-martial. Art. I, §8, cl. 14.
+Congress did not need to be told twice. The very first
+Congress continued the court-martial system as it then
+operated. See Winthrop, supra, at 47. And from that day
+to this one, Congress has maintained courts-martial in all
+their essentials to resolve criminal charges against service
+members. See 1 Schlueter §1–6, at 35–48.
+   Throughout that history, and reflecting the attributes
+described above, courts-martial have operated as instru-
+ments of military justice, not (as the dissent would have it)
+mere “military command,” post, at 18 (opinion of ALITO,
+J.). As one scholar has noted, courts-martial “have long
+been understood to exercise ‘judicial’ power,” of the same
+kind wielded by civilian courts. Nelson, Adjudication in
+the Political Branches, 107 Colum. L. Rev. 559, 576 (2007);
+see W. De Hart, Observations on Military Law 14 (1859)
+(Military courts are “imbued or endowed with the like
+essence of judicial power” as “ordinary courts of civil judi-
+cature”); accord post, at 6–8 (THOMAS, J., concurring).
+Attorney General Bates, even in the middle of the Civil
+War, characterized a court-martial “proceeding, from its
+inception, [a]s judicial,” because the “trial, finding, and
+sentence are the solemn acts of a court organized and
+conducted under the authority of and according to the
+prescribed forms of law.” Runkle v. United States, 122
+U. S. 543, 558 (1887) (quoting 11 Op. Atty. Gen. 19, 21
+(1864)). Colonel Winthrop—whom we have called the
+“Blackstone of Military Law,” Reid v. Covert, 354 U. S. 1,
+19, n. 38 (1957) (plurality opinion)—agreed with Bates.
+He regarded a court-martial as “in the strictest sense” a
+
+
+                      Cite as: 585 U. S. ____ (2018)                   11
+                           Opinion of the Court
+“court of law and justice”—“bound, like any court, by the
+fundamental principles of law” and the duty to adjudicate
+cases “without partiality, favor, or affection.” Winthrop,
+supra, at 54.5
+   Despite all this, Bamzai claims that “Marbury bars
+th[is] Court from deciding” any cases coming to us from
+the court-martial system. Brief for Bamzai 3. He begins,
+much as we did above, by explaining that under Marbury
+the Court can exercise appellate jurisdiction only when it
+is “supervising an earlier decision by a lower court.” Brief
+for Bamzai 13. The next step is where the argument gets
+interesting. The CAAF, Bamzai contends, simply does not
+qualify as such a body (nor does any other military tribu-
+nal). True enough, “the CAAF is called a ‘court’ ”; and true
+enough, it decides cases, just as other courts do. Id., at 3;
+see id., at 28. But the CAAF, Bamzai notes, is “not an
+Article III court,” id., at 3 (emphasis added): As all agree,
+——————
+  5 The independent adjudicative nature of courts-martial is not incon-
+sistent with their disciplinary function, as the dissent claims, see post,
+at 18–26. By adjudicating criminal charges against service members,
+courts-martial of course help to keep troops in line. But the way they
+do so—in comparison to, say, a commander in the field—is fundamen-
+tally judicial. Accord post, at 9 (THOMAS, J., concurring) (“While the
+CAAF is in the Executive Branch and its purpose is to help the Presi-
+dent maintain troop discipline, those facts do not change the nature of
+the power that it exercises”). Colonel Winthrop stated as much: Even
+while courts-martial “enforc[e] discipline” in the armed forces, they
+remain “as fully a court of law and justice as is any civil tribunal.” W.
+Winthrop, Military Law and Precedents 49, 54 (2d ed. 1920). And he
+was right. When a military judge convicts a service member and
+imposes punishment—up to execution—he is not meting out extra-
+judicial discipline. He is acting as a judge, in strict compliance with
+legal rules and principles—rather than as an “arm of military com-
+mand.” Post, at 18. It is in fact one of the glories of this country that
+the military justice system is so deeply rooted in the rule of law. In
+asserting the opposite—that military courts are not “judicial” in “char-
+acter”—the dissent cannot help but do what it says it would like to
+avoid: “denigrat[e the court-martial] system.” Post, at 27; see post,
+at 25.
+
+
+12                  ORTIZ v. UNITED STATES
+                       Opinion of the Court
+its members lack the tenure and salary protections that
+are the hallmarks of the Article III judiciary, see 10
+U. S. C. §§942(b), (c). Congress established the CAAF
+under its Article I, rather than its Article III, powers, and
+Congress located the CAAF (as we have previously ob-
+served) within the Executive Branch, rather than the
+judicial one. See §941; Edmond, 520 U. S., at 664, and n.
+2. Those facts, in Bamzai’s view, prevent this Court from
+exercising appellate jurisdiction over the CAAF. “For
+constitutional purposes,” Bamzai concludes, the members
+of the CAAF “stand on equal footing with James Madison
+in Marbury.” Brief for Bamzai 4. (With variations here
+and there, the dissent makes the same basic argument.)
+   But this Court’s appellate jurisdiction, as Justice Story
+made clear ages ago, covers more than the decisions of
+Article III courts. In Martin v. Hunter’s Lessee, 1 Wheat.
+304 (1816), we considered whether our appellate jurisdic-
+tion extends to the proceedings of state courts, in addition
+to those of the Article III federal judiciary. We said yes, as
+long as the case involves subject matter suitable for our
+review. Id., at 338–352. For our “appellate power,” Story
+wrote, “is not limited by the terms of [Article III] to any
+particular courts.” Id., at 338. Or again: “[I]t will be in
+vain to search in the letter of the [C]onstitution for any
+qualification as to the tribunal” from which a given case
+comes. Ibid. The decisions we review might come from
+Article III courts, but they need not.
+   The same lesson emerges from two contexts yet more
+closely resembling this one—each involving a non-Article
+III judicial system created by Congress. First, in United
+States v. Coe, 155 U. S. 76 (1894), this Court upheld the
+exercise of appellate jurisdiction over decisions of federal
+territorial courts, despite their lack of Article III status.
+We observed there that the Constitution grants Congress
+broad authority over the territories: to “make all needful
+Rules and Regulations respecting” those areas. Art. IV,
+
+
+                         Cite as: 585 U. S. ____ (2018)                  13
+                              Opinion of the Court
+§3, cl. 2; see Coe, 155 U. S., at 85. And we recognized that
+Congress, with this Court’s permission, had long used that
+power to create territorial courts that did not comply with
+Article III. See ibid. Chief Justice Marshall had held
+such a court constitutional in 1828 even though its author-
+ity was “not a part of that judicial power which is defined
+in the 3d article.” American Ins. Co. v. 356 Bales of Cot-
+ton, 1 Pet. 511, 546 (1828); see Coe, 155 U. S., at 85 (de-
+scribing that opinion as having “settled” that Article III
+“does not exhaust the power of Congress to establish
+courts”). The exception to Article III for territorial courts
+was thus an established and prominent part of the legal
+landscape by the time Coe addressed this Court’s role in
+reviewing their decisions. And so the Court found the
+issue simple. “There has never been any question,” we
+declared, “that the judicial action of [territorial courts]
+may, in accordance with the Constitution, be subjected to
+[our] appellate jurisdiction.” Id., at 86.
+    Second, we have routinely, and uncontroversially, exer-
+cised appellate jurisdiction over cases adjudicated in the
+non-Article III District of Columbia courts.6 Here too, the
+Constitution grants Congress an unqualified power: to
+legislate for the District “in all Cases whatsoever.” Art. I,
+§8, cl. 17. Under that provision, we long ago determined,
+“Congress has the entire control over the [D]istrict for
+every purpose of government,” including that of “organiz-
+ing a judicial department.” Kendall v. United States ex rel.
+Stokes, 12 Pet. 524, 619 (1838). So when Congress in-
+——————
+   6 See, e.g., Artis v. District of Columbia, 583 U. S. ___ (2018); Turner
+v. United States, 582 U. S. ___ (2017); United States v. Dixon, 509 U. S.
+688 (1993); Jones v. United States, 463 U. S. 354 (1983); Tuten v.
+United States, 460 U. S. 660 (1983); Whalen v. United States, 445 U. S.
+684 (1980); United States v. Crews, 445 U. S. 463 (1980); Pernell v.
+Southall Realty, 416 U. S. 363 (1974); Palmore v. United States, 411
+U. S. 389 (1973). In none of these or similar cases has anyone ever
+challenged our appellate jurisdiction.
+
+
+14                  ORTIZ v. UNITED STATES
+                       Opinion of the Court
+voked that authority to create a set of local courts, this
+Court upheld the legislation—even though the judges on
+those courts lacked Article III protections. See Palmore v.
+United States, 411 U. S. 389, 407–410 (1973). We relied
+on the Constitution’s “plenary grant[ ] of power to Con-
+gress to legislate with respect to” the national capital. Id.,
+at 408. And several years later, we referred as well to the
+“historical consensus” supporting congressional latitude
+over the District’s judiciary. Northern Pipeline Constr. Co.
+v. Marathon Pipe Line Co., 458 U. S. 50, 70 (1982) (plural-
+ity opinion); see id., at 65, n. 16. To be sure, we have
+never explicitly held, as we did in the territorial context,
+that those same considerations support our appellate
+jurisdiction over cases resolved in the D. C. courts. But
+some things go unsaid because they are self-evident. And
+indeed, even Bamzai readily acknowledges that this Court
+can review decisions of the D. C. Court of Appeals. See
+Brief for Bamzai 23, 25.
+   The non-Article III court-martial system stands on
+much the same footing as territorial and D. C. courts, as
+we have often noted. The former, just like the latter, rests
+on an expansive constitutional delegation: As this Court
+early held, Article I gives Congress the power—“entirely
+independent” of Article III—“to provide for the trial and
+punishment of military and naval offences in the manner
+then and now practiced by civilized nations.” Dynes, 20
+How., at 79; see supra, at 9. The former has, if anything,
+deeper historical roots, stretching from before this nation’s
+beginnings up to the present. See supra, at 9. And the
+former, no less than the others, performs an inherently
+judicial role, as to substantially similar cases. See supra,
+at 8–11. So it is not surprising that we have lumped the
+three together. In Palmore, the Court viewed the military,
+territories, and District as a triad of “specialized areas
+having particularized needs” in which Article III “give[s]
+way to accommodate plenary grants of power to Congress.”
+
+
+                       Cite as: 585 U. S. ____ (2018)                    15
+                            Opinion of the Court
+411 U. S., at 408. And in Northern Pipeline, the plurality
+said of all three that “a constitutional grant of power [as]
+historically understood” has bestowed “exceptional pow-
+ers” on Congress to create courts outside Article III. 458
+U. S., at 66, 70.7 Given those well-understood connections,
+we would need a powerful reason to divorce military
+courts from territorial and D. C. courts when it comes to
+defining our appellate jurisdiction.
+   And Bamzai fails to deliver one. His initial attempt
+relies on a simple fact about territorial and D. C. courts:
+They exercise power over “discrete geographic areas.”
+Brief for Bamzai 23. Military courts do not; they instead
+exercise power over discrete individuals—i.e., members of
+the armed forces. So Bamzai gives us a distinction: places
+vs. people. What he does not offer is a good reason why
+that distinction should matter in our jurisdictional in-
+quiry—why it is one of substance, rather than conven-
+——————
+  7 In addition, several Justices in separate opinions have made the
+same linkage. See, e.g., Wellness Int’l Network, Ltd. v. Sharif, 575 U. S.
+___, ___ (2015) (ROBERTS, C. J., dissenting) (slip op., at 3) (noting that
+“narrow exceptions permit Congress to establish non-Article III courts
+to exercise general jurisdiction in the territories and the District of
+Columbia [and] to serve as military tribunals”); id., at ___–___
+(THOMAS, J., dissenting) (slip op., at 7–8) (referring to territorial courts
+and courts-martial as “unique historical exceptions” to Article III);
+Stern v. Marshall, 564 U. S. 462, 504–505 (2011) (Scalia, J., concurring)
+(noting the “firmly established historical practice” of exempting territo-
+rial courts and courts-martial from Article III’s demands).
+     The dissent must dismiss all this authority, from Justices both
+functionalist and formalist, to aver that “it is only when Congress
+legislates for the Territories and the District that it may lawfully vest
+judicial power in tribunals that do not conform to Article III.” Post, at
+16; see post, at 14–16. Not so, we have made clear, because (once
+again) of an exceptional grant of power to Congress, an entrenched
+historical practice, and (for some more functionalist judges) particular-
+ized needs. The result is “that Congress has the power [apart from
+Article III] to provide for the adjudication of disputes among the Armed
+Forces,” just as in the territories and the District. Wellness, 575 U. S.,
+at ___ (THOMAS, J., dissenting) (slip op., at 8).
+
+
+16                 ORTIZ v. UNITED STATES
+                      Opinion of the Court
+ience. He mentions that the territorial and D. C. courts
+are “functional equivalents of state courts.” Id., at 24; see
+Tr. of Oral Arg. 33, 35. But for starters, that could be said
+of courts-martial too. As we have described, they try all
+the “ordinary criminal offenses” (murder, assault, robbery,
+drug crimes, etc., etc., etc.) that state courts do. Kebo-
+deaux, 570 U. S., at 404 (ALITO, J., concurring in judg-
+ment); see supra, at 1–2, 9. And more fundamentally, we
+do not see why geographical state-likeness, rather than
+historical court-likeness, should dispose of the issue. As
+we have shown, the petition here asks us to “revise[] and
+correct[ ] the proceedings in a cause already instituted” in
+a judicial system recognized since the founding as compe-
+tent to render the most serious decisions. Marbury, 1
+Cranch, at 175; see supra, at 8–11. That should make the
+case an appeal, whether or not the domain that system
+covers is precisely analogous to, say, Alabama.
+   So Bamzai tries another route to cleave off military
+courts, this time focusing on their location in the Execu-
+tive Branch. See Brief for Bamzai 26–30. Bamzai actually
+never says in what branch (if any) he thinks territorial
+and D. C. courts reside. But he knows—because this
+Court has said—that the CAAF is an “Executive Branch
+entity.” Edmond, 520 U. S., at 664, and n. 2; see supra, at
+12. And in Bamzai’s view, two of our precedents show that
+we may never accept appellate jurisdiction from any per-
+son or body within that branch. See Brief for Bamzai 2–4.
+The first case he cites is Ex parte Vallandigham, 1 Wall.
+243 (1864), in which the Court held that it lacked jurisdic-
+tion over decisions of a temporary Civil War-era military
+commission. See id., at 251–252. The second is Marbury
+itself, in which the Court held (as if this needed repeating)
+that it lacked jurisdiction to review James Madison’s
+refusal to deliver a commission appointing William Mar-
+bury a justice of the peace. See 1 Cranch, at 175–176;
+supra, at 7.
+
+
+                       Cite as: 585 U. S. ____ (2018)                 17
+                            Opinion of the Court
+    As to the first, Vallandigham goes to show only that not
+every military tribunal is alike. The commission the
+Court considered there was established by General Am-
+brose Burnside (he of the notorious facial hair) for a time-
+limited, specialized purpose—to try persons within the
+military Department of Ohio (Burnside’s then-command)
+for aiding the Confederacy. See 1 Wall., at 243–244. And
+the General kept firm control of the commission (made up
+entirely of his own field officers): After personally ordering
+Vallandigham’s arrest, he (and he alone) also reviewed the
+commission’s findings and sentence. See id., at 247–248;
+J. McPherson, Battle Cry of Freedom 596–597 (1988).
+This Court therefore found that the commission lacked
+“judicial character.” 1 Wall., at 253. It was more an ad-
+junct to a general than a real court—and so we did not
+have appellate jurisdiction over its decisions.8 But the
+——————
+   8 The dissent offers a different—and doubly misleading—explanation
+for Vallandigham. First, it says that we found jurisdiction lacking
+because the commission was “was not one of the ‘courts of the United
+States’ established under Article III.” Post, at 11 (quoting Vallan-
+digham, 1 Wall., at 251). But the dissent is reading from the wrong
+part of the opinion. Vallandigham contained two holdings—first (and
+relevant here), that Article III precluded the Court from exercising
+appellate jurisdiction over the commission’s decisions, and second (and
+irrelevant here), that the Judiciary Act of 1789 had not authorized such
+jurisdiction. The language the dissent quotes relates only to the
+irrelevant statutory holding: The Judiciary Act, the Court explained,
+confined our jurisdiction to decisions of Article III courts, and the
+commission did not fit under that rubric. By contrast, the language we
+quote in the text formed the basis of the Court’s constitutional hold-
+ing—which is all that matters here. Second, the dissent contends that
+Vallandigham “recognized that the military tribunal had ‘judicial
+character,’” even as it found jurisdiction lacking. Post, at 11. Not so.
+Vallandigham expressly rejected the argument that the commission
+had “judicial character.” 1 Wall., at 253. Though the Court understood
+that the commission pronounced guilt and imposed sentences, it did not
+think the commission was acting as a court in rendering its decisions.
+See ibid. (citing United States v. Ferreira, 13 How. 40, 46–47 (1852), in
+which the Court held that a claims tribunal was without judicial
+
+
+18                      ORTIZ v. UNITED STATES
+                            Opinion of the Court
+very thing that Burnside’s commission lacked, the court-
+martial system—and, in particular, the CAAF (whose
+decision Ortiz asks us to review)—possesses in spades.
+Once again, the CAAF is a permanent “court of record”
+created by Congress; it stands at the acme of a firmly
+entrenched judicial system that exercises broad jurisdic-
+tion in accordance with established rules and procedures;
+and its own decisions are final (except if we review and
+reverse them). See supra, at 1–2, 8–11.9 That is “judicial
+character” more than sufficient to separate the CAAF from
+Burnside’s commission, and align it instead with territorial
+and D. C. (and also state and federal) courts of appeals.
+    And the differences between the CAAF’s decisions and
+James Madison’s delivery refusal should have already
+leaped off the page. To state the obvious: James Madison
+was not a court, either in name or in function. He was the
+Secretary of State—the head of a cabinet department
+(and, by the way, the right arm of the President). Like-
+wise, Madison’s failure to transmit Marbury’s commission
+was not a judicial decision; it was an enforcement action
+(though in the form of non-action), pertaining only to the
+——————
+“character” and labeled its decisions the “award[s] of a commissioner,”
+“not the judgment[s] of a court of justice”).
+   9 The dissent contends that the CAAF’s decisions are not always final
+because the President, relevant branch secretary, or one of his subordi-
+nates must approve a sentence of death or dismissal from the armed
+forces before it goes into effect. See post, at 28–29. But as the Govern-
+ment has explained, the President’s (or other executive official’s)
+authority at that stage extends only to punishment: It is “akin to relief
+by commutation in the federal or state system.” Tr. of Oral Arg. 57; see
+Loving v. United States, 62 M. J. 235, 247 (CAAF 2005) (likening the
+approval authority to “executive clemency powers”). The President,
+even when “mitigat[ing a] sentence[,]” cannot “upset[ ] the conviction”
+or “the judgment of the CAAF.” Tr. of Oral Arg. 55–56. Rather, as we
+said above, the CAAF’s judgment is final when issued (except if we
+reverse it). See 10 U. S. C. §871(c)(1) (stating that even when a sen-
+tence is subject to an executive official’s approval, the “judgment” is
+“final” when judicial review is concluded).
+
+
+                   Cite as: 585 U. S. ____ (2018)         19
+                        Opinion of the Court
+execution of law. As Chief Justice Marshall saw, Secre-
+tary Madison merely triggered the case of Marbury v.
+Madison; he did not hear and resolve it, as a judicial body
+would have done. See 1 Cranch, at 175. The Chief Jus-
+tice’s opinion thus cleanly divides that case from this one,
+even if both (as Bamzai notes) formally involve executive
+officers. Here, three constitutionally rooted courts, ending
+with the CAAF, rendered inherently judicial decisions—
+just as such tribunals have done since our nation’s found-
+ing. In reviewing, “revis[ing,] and correct[ing]” those
+proceedings, as Ortiz asks, we do nothing more or different
+than in generally exercising our appellate jurisdiction.
+Ibid.
+   But finally, in holding that much, we say nothing about
+whether we could exercise appellate jurisdiction over cases
+from other adjudicative bodies in the Executive Branch,
+including those in administrative agencies. Our resolution
+of the jurisdictional issue here has rested on the judicial
+character, as well as the constitutional foundations and
+history, of the court-martial system. We have relied, too,
+on the connections that our cases have long drawn be-
+tween that judicial system and those of the territories and
+the District. If Congress were to grant us appellate juris-
+diction over decisions of newer entities advancing an
+administrative (rather than judicial) mission, the question
+would be different—and the answer not found in this
+opinion.
+                                III
+   We may now turn to the issues we took this case to
+decide. Recall that Ortiz seeks a new appeal proceeding
+before the Air Force CCA, based on Judge Mitchell’s par-
+ticipation in his last one. See supra, at 2–4. Ortiz’s chal-
+lenge turns on Judge Mitchell’s simultaneous service on
+another court, the CMCR. Originally, the Secretary of
+Defense had assigned Judge Mitchell to sit on that court.
+
+
+20                 ORTIZ v. UNITED STATES
+                      Opinion of the Court
+Then, to moot a possible constitutional problem with
+Judge Mitchell’s CMCR service, the President (with the
+Senate’s advice and consent) appointed Judge Mitchell as
+well. A short time later, Judge Mitchell ruled on Ortiz’s
+CCA appeal. Ortiz contends that doing so violated both a
+federal statute and the Appointments Clause. We dis-
+agree on both counts.
+                               A
+   The statutory issue respecting Judge Mitchell’s dual
+service turns on two interlocking provisions. The first is
+§973(b)(2)(A)—the statute Ortiz claims was violated here.
+As noted earlier, that law—in the interest of ensuring
+civilian preeminence in government—prohibits active-duty
+military officers like Judge Mitchell from “hold[ing], or
+exercis[ing] the functions of,” certain “civil office[s]” in the
+Federal Government, “[e]xcept as otherwise authorized by
+law.” See supra, at 4. The second is §950f(b)—a statute
+the Government claims “otherwise authorize[s]” Judge
+Mitchell’s service on the CMCR, even if a seat on that
+court is a covered “civil office.” As also noted above,
+§950f(b) provides two ways to become a CMCR judge. See
+supra, at 3. Under §950f(b)(2), the Secretary of Defense
+“may assign” qualified officers serving on a CCA to “be
+judges on the [CMCR]” as well. And under §950f(b)(3), the
+President (with the Senate’s advice and consent) “may
+appoint” persons—whether officers or civilians is unspeci-
+fied—to CMCR judgeships.
+   Against that statutory backdrop, Ortiz claims that
+Judge Mitchell became disqualified from serving on the
+CCA the moment his presidential appointment to the
+CMCR became final. See Brief for Petitioners 39–42.
+Notably, Ortiz has no statutory objection to Judge Mitch-
+ell’s simultaneous service on those courts before that
+date—when he sat on the CMCR solely by virtue of the
+Secretary of Defense’s assignment. See id., at 40. Nor
+
+
+                   Cite as: 585 U. S. ____ (2018)            21
+                        Opinion of the Court
+could he reasonably lodge such a complaint, for
+§950f(b)(2), in no uncertain terms, “otherwise authorize[s]”
+the Secretary to place a military judge on the CMCR—
+thus exempting such an officer from §973(b)(2)(A)’s prohi-
+bition. But in Ortiz’s view, the provision in §950f(b)(3) for
+presidential appointments contains no similar authoriza-
+tion, because it makes no “express[ ] or unambiguous[ ]”
+reference to military officers. Id., at 20. And so, Ortiz
+concludes, §973(b)(2)(A)’s general rule must govern.
+   In the circumstances here, however, the authorization in
+§950f(b)(2) was the only thing necessary to exempt Judge
+Mitchell from the civil office-holding ban—not just before
+but also after his presidential appointment. That provi-
+sion, as just noted, unambiguously permitted the Secre-
+tary of Defense to place Judge Mitchell on the CMCR,
+even if such a judgeship is a “civil office.” See supra, at 20.
+And once that happened, the President’s later appoint-
+ment of Judge Mitchell made not a whit of difference.
+Nothing in §950f (or any other law) suggests that the
+President’s appointment erased or otherwise negated the
+Secretary’s earlier action. To the contrary, that appoint-
+ment (made for purposes of protecting against a constitu-
+tional challenge, see supra, at 3) merely ratified what the
+Secretary had already done. The nomination papers that
+the President submitted to the Senate reflect that fact.
+They sought confirmation of Judge Mitchell’s appointment
+as a CMCR judge “[i]n accordance with [his] continued
+status as [a CMCR] judge pursuant to [his] assignment by
+the Secretary of Defense[,] under 10 U. S. C. Section
+950f(b)(2).” 162 Cong. Rec. S1474 (Mar. 14, 2016). So
+after the Senate approved the nomination, Judge Mitchell
+served on the CMCR by virtue of both the Secretary’s
+assignment and the President’s appointment. And be-
+cause §950f(b)(2) expressly authorized the Secretary’s
+assignment, Judge Mitchell’s service on the CMCR could
+
+
+22                      ORTIZ v. UNITED STATES
+                           Opinion of the Court
+not run afoul of §973(b)(2)(A)’s general rule.10
+   Ortiz argues in response that the President’s appoint-
+ment demanded its own clear authorization because only
+that appointment put Judge Mitchell into a “new office.”
+Reply Brief 7. According to Ortiz, an officer who receives a
+secretarial assignment to the CMCR “exercise[s] additional
+duties”—but he does not hold a second position. Tr. of
+Oral Arg. 13. A presidential appointment alone, he says,
+effects that more dramatic change. And Ortiz contends
+that §973(b)(2)(A)’s rule cares about that difference. That
+law, Ortiz says, requires a legislative authorization when,
+and only when, a service member receives a whole new
+office—which is to say here when, and only when, the
+President appoints a judge to the CMCR. See Tr. of Oral
+Arg. 4–5 (stating that §973(b)(2)(A) “prohibit[s] military
+officers from holding [civil offices] absent express con-
+gressional authorization, while generally allowing mili-
+tary officers to be assigned to exercise the duties of such
+positions”).
+   But that argument is contrary to §973(b)(2)(A)’s text, as
+well as to the purposes it reflects. The statute draws no
+distinction between secretarial assignees and presidential
+appointees, nor between those who exercise the duties of
+an office and those who formally hold it. True enough, we
+have sometimes referred to §973(b)(2)(A) as a rule about
+——————
+  10 We state no opinion on a broader argument the Government
+makes—that §950f(b)(2) would exempt Judge Mitchell from
+§973(b)(2)(A)’s office-holding ban even if the Secretary had not assigned
+him to the CMCR before the President’s appointment. See Brief for
+United States 27–29. And because we hold that the Secretary’s as-
+signment authorized Judge Mitchell to serve on the CMCR while an
+active-duty military officer, we need not decide whether a CMCR
+judgeship is a covered “civil office” subject to §973(b)(2)(A). Neither
+need we address the remedial issue on which the CAAF ruled, see
+supra, at 4—i.e., whether a violation of §973(b)(2)(A) would have
+immediately terminated Judge Mitchell’s military service and voided
+later decisions he made (including in Ortiz’s case) as a military judge.
+
+
+                   Cite as: 585 U. S. ____ (2018)          23
+                        Opinion of the Court
+dual “office-holding,” see supra, at 21, 22, n. 10—but that
+is mere shorthand. In fact, §973(b)(2)(A)’s prohibition
+applies broadly, and uniformly, to any military officer who
+“hold[s], or exercise[s] the functions of,” a covered civil
+office. And the “except as otherwise authorized” caveat
+applies in the same way—to “hold[ing]” and “exercis[ing]”
+alike. So the very distinction that Ortiz relies on, the
+statute rejects: Indeed, the law could not be clearer in its
+indifference. That is because Congress determined that
+military officers threaten civilian preeminence in govern-
+ment by either “hold[ing]” or “exercis[ing] the functions of ”
+important civil offices. Except . . . if Congress decides
+otherwise and says as much.
+   And once again, here Congress did exactly that. Judge
+Mitchell became a CMCR judge, while remaining in the
+military, because of a secretarial assignment that Con-
+gress explicitly authorized. See supra, at 20–21. After his
+presidential appointment, he continued on the same court,
+doing the same work, in keeping with the same congres-
+sional approval. Even supposing he obtained a “new
+office” in the way Ortiz says, that acquisition is of no
+moment. With or without that formal office, Judge Mitch-
+ell “h[e]ld, or exercise[d] the functions of,” a CMCR judge-
+ship, and so was subject to §973(b)(2)(A)’s ban. But like-
+wise, with or without that formal office, Judge Mitchell
+could receive permission from Congress to do the job—that
+is, to sit as a judge on the CMCR. And §950f(b)(2) gave
+Judge Mitchell that legislative green light, from the date
+of his assignment through his ruling on Ortiz’s case and
+beyond.
+                                 B
+   Finally, Ortiz raises an Appointments Clause challenge
+to Judge Mitchell’s simultaneous service on the CCA and
+the CMCR. That Clause provides that the President
+“shall nominate, and by and with the Advice and Consent
+
+
+24                 ORTIZ v. UNITED STATES
+                       Opinion of the Court
+of the Senate, shall appoint” the “Officers of the United
+States,” but that “Congress may by Law vest the Ap-
+pointment of such inferior Officers, as they think proper,
+in the President alone, in the Courts of Law, or in the
+Heads of Departments.” Art. II, §2, cl. 2. Litigants usually
+invoke the Appointments Clause when they object to how
+a government official is placed in his office. A litigant may
+assert, for example, that because someone is a principal
+rather than an inferior officer, he must be nominated by
+the President and confirmed by the Senate. (Recall that
+just such an argument about CMCR judges led to Judge
+Mitchell’s presidential appointment. See supra, at 3.) But
+Ortiz’s argument is not of that genre. He does not claim
+that the process used to make Judge Mitchell either a
+CCA judge or a CMCR judge violated the Appointments
+Clause. Instead, he claims to find in that Clause a princi-
+ple relating to dual service. A CCA judge, Ortiz notes, is
+an inferior officer. See Edmond, 520 U. S., at 666. But a
+CMCR judge, he says (though the Government has argued
+otherwise), is a principal officer. And in Ortiz’s view, a
+single judge cannot, consistent with the Appointments
+Clause, serve as an inferior officer on one court and a
+principal officer on another. He calls such dual office-
+holding “incongru[ous]” and “functionally incompatible.”
+Brief for Petitioners 50. The problem, he suggests, is that
+the other (inferior officer) judges on the CCA will be “un-
+duly influenced by” Judge Mitchell’s principal-officer
+status on the CMCR. Id., at 51.
+   But that argument stretches too far. This Court has
+never read the Appointments Clause to impose rules about
+dual service, separate and distinct from methods of ap-
+pointment. Nor has it ever recognized principles of “in-
+congruity” or “incompatibility” to test the permissibility of
+holding two offices. As Ortiz himself acknowledges, he can
+“cite no authority holding that the Appointments Clause
+prohibits this sort of simultaneous service.” Id., at 52.
+
+
+                  Cite as: 585 U. S. ____ (2018)                25
+                       Opinion of the Court
+  And if we were ever to apply the Clause to dual office-
+holding, we would not start here. Ortiz tells no plausible
+story about how Judge Mitchell’s service on the CMCR
+would result in “undue influence” on his CCA colleagues.
+The CMCR does not review the CCA’s decisions (or vice
+versa); indeed, the two courts do not have any overlapping
+jurisdiction. They are parts of separate judicial systems,
+adjudicating different kinds of charges against different
+kinds of defendants. See supra, at 1–3, and n. 1. We
+cannot imagine that anyone on the CCA acceded to Judge
+Mitchell’s views because he also sat on the CMCR—any
+more than we can imagine a judge on an Article III Court
+of Appeals yielding to a colleague because she did double
+duty on the Foreign Intelligence Surveillance Court of
+Review (another specialized court). The CAAF put the
+point well: “When Colonel Mitchell sits as a CCA judge, he
+is no different from any other CCA judge.” 76 M. J., at
+193; see supra, at 5. So there is no violation of the Ap-
+pointments Clause.
+                               IV
+  This Court has appellate jurisdiction to review the
+CAAF’s decisions. In exercising that jurisdiction, we hold
+that Judge Mitchell’s simultaneous service on the CCA
+and the CMCR violated neither §973(b)(2)(A)’s office-
+holding ban nor the Constitution’s Appointments Clause.
+We therefore affirm the judgment below.
+                                                 It is so ordered.
+
+
+                      Cite as: 585 U. S. ____ (2018)               1
+                          THOMAS, J., concurring
+SUPREME COURT OF THE UNITED STATES
+                                _________________
+                                No. 16–1423
+                                _________________
+KEANU D. W. ORTIZ, PETITIONER v. UNITED STATES
+ ON WRIT OF CERTIORARI TO THE UNITED STATES COURT OF
+                  APPEALS FOR THE ARMED FORCES
+                              [June 22, 2018]
+   JUSTICE THOMAS, concurring.
+   I join the Court’s opinion in full, which persuasively
+explains why petitioner’s statutory and constitutional
+arguments lack merit. I also agree that the statute giving
+this Court appellate jurisdiction to review the decisions of
+the Court of Appeals for the Armed Forces (CAAF), 28
+U. S. C. §1259, complies with Article III of the Constitu-
+tion. I write separately to explain why that conclusion is
+consistent with the Founders’ understanding of judicial
+power—specifically, the distinction they drew between
+public and private rights.1
+                                        I
+   Article III vests “[t]he judicial Power of the United
+States” in this Court and any inferior courts that Congress
+chooses to establish. §1. The judicial power includes the
+power to resolve the specific types of “Cases” and “Contro-
+versies” listed in §2. Article III divides this Court’s juris-
+diction over those cases into two categories: “original
+Jurisdiction” and “appellate Jurisdiction.” This Court has
+original jurisdiction in cases affecting ambassadors, other
+public ministers, and consuls, and cases in which a State
+is a party. This Court has appellate jurisdiction “[i]n all
+——————
+  1 I express no view on any other arguments that were not raised by
+the parties or amicus in this case, including any arguments based on
+Article II of the Constitution.
+
+
+2                  ORTIZ v. UNITED STATES
+                     THOMAS, J., concurring
+the other Cases before mentioned” in §2. Because all
+agree that the CAAF decides “other Cases” that are not
+reserved for this Court’s original jurisdiction, we can
+review its decisions only under our appellate jurisdiction.
+   The text of Article III imposes two important limits on
+this Court’s appellate jurisdiction. First, as mentioned,
+this Court can review only the “other Cases” that are
+“before mentioned”—i.e., the subject matters of cases
+listed in §2 that are not reserved for its original jurisdic-
+tion. Second, this Court’s “appellate Jurisdiction” cannot
+be “original.” As Chief Justice Marshall explained, “the
+essential criterion of appellate jurisdiction” is that “it
+revises and corrects the proceedings in a cause already
+instituted, and does not create that cause.” Marbury v.
+Madison, 1 Cranch 137, 175 (1803). Thus, this Court
+cannot exercise appellate jurisdiction unless it is review-
+ing an already completed exercise of “judicial power.” In
+re Sanborn, 148 U. S. 222, 224 (1893); see also The Alicia,
+7 Wall. 571, 573 (1869) (“An appellate jurisdiction neces-
+sarily implies some judicial determination, some judg-
+ment, decree, or order of an inferior tribunal, from which
+an appeal has been taken”); 3 J. Story, Commentaries on
+the Constitution of the United States §1755, p. 627 (1833)
+(explaining that this Court can review only decisions “by
+one clothed with judicial authority, and acting in a judicial
+capacity”).
+   Other than these two limits, the text of Article III im-
+poses no other self-executing constraints on this Court’s
+appellate jurisdiction. Most notably, it does not require
+appeals to come from any specific type of tribunal, such as
+an Article III court. As Justice Story explained, “The
+appellate power is not limited by the terms of the third
+article to any particular courts. . . . It is the case, then, and
+not the court, that gives the jurisdiction. If the judicial
+power extends to the case, it will be in vain to search in
+the letter of the constitution for any qualification as to the
+
+
+                  Cite as: 585 U. S. ____ (2018)             3
+                     THOMAS, J., concurring
+tribunal.” Martin v. Hunter’s Lessee, 1 Wheat. 304, 338
+(1816). Hamilton made the same point years earlier: “The
+Constitution in direct terms gives an appellate jurisdiction
+to the Supreme Court in all the enumerated cases . . . ,
+without a single expression to confine its operation to the
+inferior federal courts. The objects of appeal, not the
+tribunals from which it is to be made, are alone contem-
+plated.” The Federalist No. 82, pp. 493–494 (C. Rossiter
+ed. 1961); see also id., No. 81, at 489 (A. Hamilton) (reject-
+ing a “technical interpretation” of the word “appellate” and
+defining it to mean “nothing more than the power of one
+tribunal to review the proceedings of another”). This
+Court has relied on the lack of tribunal-specific limits in
+Article III to exercise appellate jurisdiction over several
+types of non-Article III courts, including state courts, see
+Martin, supra, at 338, and territorial courts, see United
+States v. Coe, 155 U. S. 76, 85–86 (1894); Wellness Int’l
+Network, Ltd. v. Sharif, 575 U. S. ___–___, n. 2 (2015)
+(THOMAS, J., dissenting) (slip op., at 7–8, n. 2) (discussing
+American Ins. Co. v. 356 Bales of Cotton, 1 Pet. 511, 546
+(1828)). In short, this Court’s appellate jurisdiction re-
+quires the exercise of a judicial power, not necessarily
+“[t]he judicial Power of the United States” that Article III
+vests exclusively in the federal courts, §1 (emphasis
+added).
+   The Founders’ understanding of judicial power was
+heavily influenced by the well-known distinction between
+public and private rights. See Spokeo, Inc. v. Robins, 578
+U. S. ___, ___–___ (2016) (THOMAS, J., concurring) (slip
+op., at 1–2); Wellness, supra, at ___–___ (opinion of
+THOMAS, J.) (slip op., at 6–11); Nelson, Adjudication in the
+Political Branches, 107 Colum. L. Rev. 559, 565 (2007)
+(Nelson). Public rights “ ‘belon[g] to the people at large,’ ”
+while private rights belong to “ ‘each individual.’ ” Well-
+ness, 575 U. S., at ___ (opinion of THOMAS, J.) (slip op.,
+at 9). The three classic private rights—life, liberty, and
+
+
+4                  ORTIZ v. UNITED STATES
+                      THOMAS, J., concurring
+property—are “ ‘unalienable’ ” and “ ‘absolute,’ ” as they are
+“not dependent upon the will of the government.” Ibid.
+The Founders linked the disposition of private rights with
+the exercise of judicial power. See id., at ___ (slip op., at
+10). They considered “the power to act conclusively
+against [private] rights [as] the core of the judicial power.”
+Ibid.
+  A disposition of private rights did not amount to an
+exercise of judicial power, however, unless it also satisfied
+“some basic procedural requirements.” Nelson 574. Stated
+differently, the disposition had to “assume such a form
+that the judicial power is capable of acting on it.” Osborn
+v. Bank of United States, 9 Wheat. 738, 819 (1824).
+“[T]hat form generally required the presence (actual or
+constructive) of adverse parties who had been given some
+opportunity to be heard before the court rendered a final
+judgment that bound them.” Nelson 574. Once a dispute
+took this form, judicial power is exercised by “ ‘deter-
+min[ing] all differences according to the established law.’ ”
+Wellness, supra, at ___ (opinion of THOMAS, J.) (slip op., at
+6) (quoting J. Locke, Second Treatise of Civil Government
+§125, p. 63 (J. Gough ed. 1947)).
+                               II
+                                A
+  So understood, the CAAF exercises a judicial power. As
+I explained in Wellness, military courts adjudicate core
+private rights to life, liberty, and property. See 575 U. S.,
+at ___–___ (dissenting opinion) (slip op., at 6–7). That
+these courts adjudicate core private rights does not con-
+tradict the Vesting Clause of Article III, which permits
+only federal courts to exercise “the judicial Power of the
+United States.” Like other provisions of the Constitution,
+this language must be read against “commonly accepted
+background understandings and interpretative principles
+in place when the Constitution was written,” including the
+
+
+                  Cite as: 585 U. S. ____ (2018)            5
+                     THOMAS, J., concurring
+principle that general constitutional rules could apply
+“differently to civil than to military entities.” Mascott,
+Who Are “Officers of the United States”? 70 Stan. L. Rev.
+443, 480–483 (2018) (citing Nelson 576); see also Northern
+Pipeline Constr. Co. v. Marathon Pipe Line Co., 458 U. S.
+50, 64 (1982) (plurality opinion) (explaining that inter-
+preting Article III to exclude military courts “simply
+acknowledge[s] that the literal command of Art. III . . .
+must be interpreted in light of . . . historical context . . .
+and of the structural imperatives of the Constitution as a
+whole”). Based on the “constellation of constitutional
+provisions that [indicate] Congress has the power to pro-
+vide for the adjudication of disputes among the Armed
+Forces it creates,” our precedents have long construed the
+Vesting Clause of Article III to extend “only to civilian
+judicial power.” Wellness, 575 U. S., at ___ (opinion of
+THOMAS, J.) (slip op., at 8) (citing Dynes v. Hoover, 20
+How. 65, 78–79 (1858)). In other words, the powers that
+the Constitution gives Congress over the military are “so
+exceptional” that they are thought to include the power to
+create courts that can exercise a judicial power outside the
+confines of Article III. Northern Pipeline, supra, at 64.
+Thus, military courts are better thought of as an “excep-
+tion” or “carve-out” from the Vesting Clause of Article III,
+rather than an entity that does not implicate the Vesting
+Clause because it does not exercise judicial power in the
+first place. See Wellness, supra, at ___–___ (opinion of
+THOMAS, J.) (slip op., at 6–8).
+   No party in this case challenges the legitimacy of the
+historical exception for military courts. And for good
+reason: “At the time of the Framing, . . . it was already
+common for nations to organize military tribunals that
+stood apart from the ordinary civilian courts, and the
+United States itself had done so.” Nelson 576. As the
+Court explains, military courts predate the Constitution,
+were well-known to the Founders, were authorized by the
+
+
+6                  ORTIZ v. UNITED STATES
+                      THOMAS, J., concurring
+First Congress, and are expressly contemplated by the
+Fifth Amendment. Ante, at 9. The crucial point for pre-
+sent purposes, however, is that military courts are consid-
+ered exempt from the structural requirements of Article
+III “because of other provisions of the Constitution, not
+because of the definition of judicial power.” Wellness, 575
+U. S., at ___ (opinion of THOMAS, J.) (slip op., at 8) (citing
+Nelson 576). They plainly fall within that definition.
+   Military courts “have long been understood to exercise
+‘judicial’ power” because they “act upon core private rights
+to person and property.” Id., at 576. “[C]lothed with
+judicial powers,” these courts decide “questions of the most
+momentous description, affecting . . . even life itself.” W.
+De Hart, Observations on Military Law 14 (1859); see also
+11 Op. Atty. Gen. 19, 21 (1864) (explaining that military
+courts are “judicial” because they “pass upon the most
+sacred questions of human rights . . . which, in the very
+nature of things, . . . must be adjudged according to law”).
+Here, for example, the CAAF adjudicated the legality of
+petitioner’s child-pornography convictions and his sen-
+tence of two years confinement—a classic deprivation of
+liberty, see Obergefell v. Hodges, 576 U. S. ___, ___–___
+(2015) (THOMAS, J., dissenting) (slip op., at 4–6). “The
+passing of judgment on the life and liberty of those con-
+victed by the government in a military trial surely falls
+within the judicial power.” Willis, The Constitution, the
+United States Court of Military Appeals and the Future,
+57 Mil. L. Rev. 27, 84 (1972). This Court has acknowl-
+edged that military courts adjudicate core private rights,
+as it has repeatedly held that the prosecution of non-
+servicemembers in these courts would violate Article III.
+See Northern Pipeline, supra, at 66, n. 17 (plurality opin-
+ion); e.g., United States ex rel. Toth v. Quarles, 350 U. S.
+11 (1955) (former servicemembers); Reid v. Covert, 354
+
+
+                       Cite as: 585 U. S. ____ (2018)                    7
+                           THOMAS, J., concurring
+U. S. 1 (1957) (spouses of servicemembers).2
+    In addition to adjudicating private rights, the CAAF’s
+cases “assume such a form that the judicial power is capa-
+ble of acting on [them].” Osborn, 9 Wheat., at 819. The
+CAAF adjudicates cases involving “adverse parties who
+ha[ve] been given some opportunity to be heard.” Nelson
+574. It has independent authority to “prescribe” its own
+“rules of procedure,” 10 U. S. C. §944, which provide for
+briefing, oral argument, and other procedures that mirror
+a federal court of appeals. See generally CAAF Rules of
+Practice and Proc. (2017). The CAAF also decides cases
+“ ‘according to the established law.’ ” Wellness, 575 U. S.,
+at ___ (opinion of THOMAS, J.) (slip op., at 6). It can act
+“only with respect to matters of law,” §867(c), and its
+civilian judges decide cases by independently interpreting
+the Constitution, the Uniform Code of Military Justice,
+and other federal laws. Lastly, the CAAF renders “final
+judgment[s] that b[ind] [the parties].” Nelson 574. Its
+judgments are “final and conclusive” as soon as they are
+published and are “binding upon all departments, courts,
+agencies, and officers of the United States.” §876. The
+Executive Branch has no statutory authority to review or
+modify the CAAF’s decisions.3 In short, when it comes to
+——————
+   2 Servicemembers consent to military jurisdiction when they enlist.
+While this consent might allow military courts to adjudicate a service-
+member’s private rights, it does not transform the nature of the power
+that the military courts exercise, or somehow transform the service-
+member’s private right to life, liberty, or property into a public right.
+See Wellness Int’l Network, Ltd. v. Sharif, 575 U. S. ___, ___, ___ (2015)
+(THOMAS, J., dissenting) (slip op., at 6, 14).
+   3 Unlike the CAAF’s decisions, court-martial proceedings are not final
+until they are approved by the convening authority. See 10 U. S. C.
+§876. But the CAAF does not review court-martial proceedings until
+after they have been approved and have been reviewed by an interme-
+diate Court of Criminal Appeals. See §867(c). Because “the [CAAF]
+reviews court-martial convictions after executive branch review ends,”
+the “[r]eview of its decisions in the Supreme Court of the United States,
+
+
+8                        ORTIZ v. UNITED STATES
+                            THOMAS, J., concurring
+the CAAF, “ ‘[t]he whole proceeding from its inception is
+judicial.’ ” Runkle v. United States, 122 U. S. 543, 558
+(1887) (quoting 11 Op. Atty. Gen., at 21).4
+                                        B
+   Professor Bamzai contends that the CAAF exercises an
+executive, not a judicial, power. He notes that this Court
+has described the CAAF as an “Executive Branch entity,”
+Edmond v. United States, 520 U. S. 651, 664 (1997), and
+he cites commentators who describe military courts as
+“instrumentalities of the executive power” because they
+help the President maintain discipline over the Armed
+Forces, W. Winthrop, Military Law and Precedents 49 (2d
+ed. 1920); G. Davis, Military Law of the United States 15
+(2d ed. 1909). Professor Bamzai also compares the CAAF
+to administrative agencies, which he contends exercise
+executive power. If agencies exercised core judicial power,
+he notes, they would be acting unconstitutionally because
+——————
+by certiorari, . . . poses no finality problems” under Article III. Pfander,
+Article I Tribunals, Article III Courts, and the Judicial Power of the
+United States, 118 Harv. L. Rev. 643, 717, n. 327 (2004).
+  4 Most of the statutes cited above are unique to the CAAF—the court
+whose decision we are reviewing and, thus, the only one that matters
+for purposes of our appellate jurisdiction. I express no view on whether
+this Court could directly review the CAAF, absent these statutes. And
+I express no view on whether this Court could directly review the
+decisions of other military courts, such as courts-martial or military
+commissions. Cf. id., at 723, n. 358 (suggesting that this Court could
+not directly review courts-martial and military commissions because
+their proceedings are “summary” and “create no record to support writ
+of error review”); Choper & Yoo, Wartime Process: A Dialogue on
+Congressional Power to Remove Issues from the Federal Courts, 95 Cal.
+L. Rev. 1243, 1283 (2007) (suggesting that the adjudication of the rights
+of enemy aliens by law-of-war military commissions might be better
+understood as exercising the President’s power to conduct war, not
+judicial power). And, of course, this Court’s appellate jurisdiction does
+not allow it to directly review decisions of the Executive Branch that do
+not “assume such a form that the judicial power is capable of acting on
+[them].” Osborn v. Bank of United States, 9 Wheat. 738, 819 (1824).
+
+
+                    Cite as: 585 U. S. ____ (2018)            9
+                       THOMAS, J., concurring
+they do not enjoy the structural protections of Article III.
+See Arlington v. FCC, 569 U. S. 290, 304, n. 4 (2013).
+   These arguments miss the mark. While the CAAF is in
+the Executive Branch and its purpose is to help the Presi-
+dent maintain troop discipline, those facts do not change
+the nature of the power that it exercises. See Brigadier
+General S. T. Ansell’s Brief Filed in Support of His Office
+Opinion (Dec. 11, 1917), reprinted in Hearings on S. 64
+before the Subcommittee of the Senate Committee on
+Military Affairs, 66th Cong., 1st Sess., 71, 76 (1919). And
+it is the nature of the power, not the branch exercising it,
+that controls our appellate jurisdiction:
+     “The controlling question is whether the function to be
+     exercised . . . is a judicial function . . . . We must not
+     ‘be misled by a name, but look to the substance and
+     intent of the proceeding.’ United States v. Ritchie, 17
+     How. 525, 534 [(1855)]. ‘It is not important . . .
+     whether such a proceeding was originally begun by an
+     administrative or executive determination, if when it
+     comes to the court, whether legislative or constitu-
+     tional, it calls for the exercise of only the judicial
+     power.’ ” Federal Radio Comm’n v. Nelson Brothers
+     Bond & Mortgage Co. (Station WIBO), 289 U. S. 266,
+     277–278 (1933) (some citations omitted).
+As explained, the CAAF exercises a judicial power because
+it adjudicates private rights. That the Constitution per-
+mits this Executive Branch entity to exercise a particular
+judicial power—due to the political branches’ expansive
+constitutional powers over the military—does not change
+the analysis.
+   Professor Bamzai’s analogy to administrative agencies is
+flawed. Professor Bamzai assumes that, when adminis-
+trative agencies adjudicate private rights, they are not
+exercising judicial power. But they are. See B&B Hard-
+ware, Inc. v. Hargis Industries, Inc., 575 U. S. ___, ___–___
+
+
+10                 ORTIZ v. UNITED STATES
+                     THOMAS, J., concurring
+(2015) (THOMAS, J., dissenting) (slip op., at 11–12). In
+fact, they are unconstitutionally exercising “[t]he judicial
+Power of the United States,” as agencies are not Article III
+courts and do not “enjoy a unique, textually based” carve-
+out from the Vesting Clause of Article III. Wellness, 575
+U. S., at ___ (opinion of THOMAS, J.) (slip op., at 14). The
+CAAF does enjoy such a carveout, as I explained in Well-
+ness. But both it and administrative agencies exercise a
+judicial power when they adjudicate private rights. Con-
+trary to the premise underlying Professor Bamzai’s argu-
+ment, questions implicating the separation of powers
+cannot be answered by arguing, in circular fashion, that
+whatever the Executive Branch does is necessarily an
+exercise of executive power.
+                         *     *      *
+   Because the CAAF exercises a judicial power, the stat-
+ute giving this Court appellate jurisdiction over its deci-
+sions does not violate Article III. For these reasons, and
+the reasons given by the Court, I concur.
+
+
+                    Cite as: 585 U. S. ____ (2018)                  1
+                         ALITO, J., dissenting
+SUPREME COURT OF THE UNITED STATES
+                             _________________
+                             No. 16–1423
+                             _________________
+KEANU D. W. ORTIZ, PETITIONER v. UNITED STATES
+ ON WRIT OF CERTIORARI TO THE UNITED STATES COURT OF
+                APPEALS FOR THE ARMED FORCES
+                           [June 22, 2018]
+   JUSTICE ALITO, with whom JUSTICE GORSUCH joins,
+dissenting.
+   I begin with a story that is familiar to students of con-
+stitutional law. After his Federalist Party was defeated in
+the pivotal election of 1800, outgoing President John
+Adams attempted to fill the Federal Judiciary with indi-
+viduals favored by his party. The Senate confirmed Ad-
+ams’s nominees, and Adams diligently signed their com-
+missions and sent them to the Secretary of State, one John
+Marshall, so that the Great Seal could be affixed and the
+commissions could be delivered. Most of the commissions
+were promptly sealed and dispatched, but a few were left
+behind, including the commission of William Marbury,
+who had been nominated and confirmed as a justice of the
+peace for the District of Columbia.
+   After Thomas Jefferson was sworn in as the Nation’s
+third President, he was furious about Adams’s eleventh-
+hour judicial appointments,1 and his Secretary of State,
+James Madison, made a fateful decision. Evaluating the
+facts and the law as he saw them, Madison concluded that
+he was under no legal obligation to deliver the commis-
+sions that had been left in Marshall’s office, and he decided
+not to do so.
+——————
+  1 Letter from Thomas Jefferson to Henry Knox (Mar. 27, 1801), in 33
+Papers of Thomas Jefferson 465, 466 (B. Oberg ed. 2006.).
+
+
+2                    ORTIZ v. UNITED STATES
+                         ALITO, J., dissenting
+   Outraged, Marbury filed suit directly in our Court,
+asking that Madison be ordered to deliver his commission.
+But we dismissed his case, holding, among other things,
+that it did not fall within our “appellate jurisdiction.”
+Marbury v. Madison, 1 Cranch 137, 175–176, 180 (1803).
+Why? Because “appellate jurisdiction” means jurisdiction
+to review “the proceedings in a cause [i.e., a case] already
+instituted” in another court. Id., at 175. Madison was an
+Executive Branch officer, not a court, and therefore Mar-
+bury’s dispute with Madison did not become a “cause” or
+case until it was brought before this Court. As a result,
+review of Madison’s decision did not fall within our “appel-
+late” jurisdiction. Id., at 175–176.
+   That conclusion was straightforward enough. But sup-
+pose that Madison’s decisionmaking process had been
+more formal. Suppose that he had heard argument about
+his legal obligations—and perhaps even testimony about
+Marbury’s qualifications. (After all, President Jefferson
+reappointed some of Adams’s nominees, but not Mar-
+bury.2) Or suppose Madison had convened an Executive
+Branch committee to make an initial determination.
+Suppose that this entity was labeled the “Court of Com-
+mission Review.” Suppose that the members wore robes
+and were called judges, held their meeting in a court-
+house, and adopted court-like procedures. With all these
+adornments, would Madison’s decision have fallen within
+our appellate jurisdiction? Would Marbury v. Madison
+have come out the other way?
+   The answer is no, and the reason is the same as before.
+Our appellate jurisdiction permits us to review one thing:
+the lawful exercise of judicial power. Lower federal courts
+exercise the judicial power of the United States. State
+courts exercise the judicial power of sovereign state gov-
+——————
+  2 Prakash, The Appointment and Removal of William J. Marbury and
+When an Office Vests, 89 Notre Dame L. Rev. 199, 209 (2013).
+
+
+                   Cite as: 585 U. S. ____ (2018)          3
+                        ALITO, J., dissenting
+ernments. Even territorial courts, we have held, exercise
+the judicial power of the territorial governments set up by
+Congress. Executive Branch officers, on the other hand,
+cannot lawfully exercise the judicial power of any sover-
+eign, no matter how court-like their decisionmaking pro-
+cess might appear. That means their decisions cannot be
+appealed directly to our Court.
+  We have followed this rule for more than two centuries.
+It squarely resolves this case. Courts-martial are older
+than the Republic and have always been understood to be
+Executive Branch entities that help the President, as
+Commander in Chief, to discipline the Armed Forces. As
+currently constituted, military tribunals do not comply
+with Article III, and thus they cannot exercise the Federal
+Government’s judicial power. That fact compels us to
+dismiss Ortiz’s petition for lack of jurisdiction.
+  Today’s decision is unprecedented, and it flatly violates
+the unambiguous text of the Constitution. Although the
+arguments in the various opinions issued today may seem
+complex, the ultimate issue is really quite simple. The
+Court and the concurrence say that Congress may confer
+part of the judicial power of the United States on an entity
+that is indisputably part of the Executive Branch. But
+Article III of the Constitution vests “[t]he judicial Power
+of the United States”—every single drop of it—in “one
+supreme Court, and in such inferior Courts as the Con-
+gress may from time to time ordain and establish” in
+compliance with that Article. A decision more contrary to
+the plain words of the Constitution is not easy to recall.
+                                  I
+  Under Article III of the Constitution, the judicial power
+of the United States may be vested only in tribunals
+whose judges have life tenure and salary protection. §1.
+“There is no exception to this rule in the Constitution.”
+Benner v. Porter, 9 How. 235, 244 (1850); Oil States Energy
+
+
+4                  ORTIZ v. UNITED STATES
+                      ALITO, J., dissenting
+Services, LLC v. Greene’s Energy Group, LLC, 584 U. S.
+___, ___ (2018) (slip op., at 5–6); Stern v. Marshall, 564
+U. S. 462, 503 (2011); Martin v. Hunter’s Lessee, 1 Wheat.
+304, 330–331 (1816) (Story, J.).
+   The Court of Appeals for the Armed Forces (CAAF) is
+not such a tribunal. Its judges serve 15-year terms and
+can be removed by the President for cause. 10 U. S. C.
+§§942(b), (c). As the majority acknowledges, the CAAF is
+an Executive Branch entity, and as such, it cannot be
+vested with the judicial power conferred by Article III.
+If the CAAF were to do something that either amounts to
+or requires the exercise of judicial power, it would be
+unconstitutional.
+   After specifying the only institutions that may exercise
+the judicial power of the United States, Article III defines
+the permissible scope of the jurisdiction of this Court.
+Article III allows us to exercise both “original” and “appel-
+late” jurisdiction. Our original jurisdiction is limited to
+“Cases affecting Ambassadors, other public Ministers and
+Consuls, and those in which a State shall be Party,” §2, so
+it is obvious that Ortiz’s case does not fall within our
+original jurisdiction. But what about our appellate juris-
+diction? If we directly reviewed a decision of the CAAF,
+would that be an exercise of “appellate” review in the
+sense meant by Article III? The answer is no.
+                                A
+   The understanding of appellate jurisdiction embodied in
+Article III has deep roots. Blackstone explained that a
+“court of appeal” has jurisdiction only to “reverse or affirm
+the judgment of the inferior courts.” 3 W. Blackstone,
+Commentaries on the Laws of England 411 (1768) (Black-
+stone) (emphasis added). Echoing Blackstone, we have
+held that our appellate jurisdiction permits us to act only
+as “[a] supervising Court, whose peculiar province it is to
+correct the errors of an inferior Court.” Cohens v. Vir-
+
+
+                  Cite as: 585 U. S. ____ (2018)            5
+                       ALITO, J., dissenting
+ginia, 6 Wheat. 264, 396 (1821) (Marshall, C. J.). And we
+have reiterated that “[a]n appellate jurisdiction necessarily
+implies some judicial determination, some judgment,
+decree, or order of an inferior tribunal, from which an
+appeal has been taken.” The Alicia, 7 Wall. 571, 573
+(1869); Webster v. Cooper, 10 How. 54, 55 (1850); 3 J.
+Story, Commentaries on the Constitution of the United
+States §916, p. 652 (1833) (Story).
+   Those principles make it easy to understand what Mar-
+bury meant when it held that “[i]t is the essential criterion
+of appellate jurisdiction, that it revises and corrects the
+proceedings in a cause already instituted, and does not
+create that cause.” 1 Cranch, at 175. The cause (or case)
+must have been created previously, somewhere else. And
+as Blackstone suggested, what “creates” a “case” in the
+relevant sense—that is, what transforms a dispute into a
+“case” that an appellate court has jurisdiction to resolve—
+is the prior submission of the dispute to a tribunal that is
+lawfully vested with judicial power.
+   We held exactly that not long after Marbury, and in a
+decision no less seminal. A dispute “becomes a case” for
+purposes of Article III, we held, only when it “assume[s]
+such a form that the judicial power is capable of acting on
+it. That power is capable of acting only when the subject
+is submitted to it by a party who asserts his rights in the
+form prescribed by law. It then becomes a case.” Osborn
+v. Bank of United States, 9 Wheat. 738, 819 (1824) (Mar-
+shall, C. J.) (emphasis added). Hence, in order to create a
+“case” that Article III permits us to review on appeal, a
+litigant must have first “submitted” the dispute to another
+tribunal that was “capable” of exercising the “judicial
+power” of the government to which the tribunal belongs.
+As discussed, Executive Branch tribunals cannot fill that
+essential role.
+   We reiterated this principle in Cohens, another founda-
+tional precedent of the Marshall Court. “To commence a
+
+
+6                   ORTIZ v. UNITED STATES
+                       ALITO, J., dissenting
+suit,” Chief Justice Marshall explained, “is to demand
+something by the institution of process in a Court of jus-
+tice.” 6 Wheat., at 408 (emphasis added). Courts of justice
+are those tribunals “erected by” the sovereign and properly
+vested with the sovereign’s own “power of judicature.” 1
+Blackstone 257 (1765). When the sovereign is the Federal
+Government, that means only courts established under
+Article III, for only those courts may exercise the judicial
+power of the United States. See Cohens, supra, at 405;
+The Federalist No. 78, pp. 469–472 (C. Rossiter ed. 1961)
+(“the courts of justice” are those described in Article III).
+    This view of appellate jurisdiction explains why, in
+Martin v. Hunter’s Lessee, Justice Story declared that “if
+. . . congress should not establish [inferior Article III]
+courts, the appellate jurisdiction of the supreme court
+would have nothing to act upon, unless it could act upon
+cases pending in the state courts.” 1 Wheat., at 339–340.
+Without decisions of Article III courts or state courts to
+review, our appellate jurisdiction would have lain idle—
+but not because there were no Executive Branch tribunals,
+like the CAAF, deciding federal questions. To the contrary,
+executive agencies have “conduct[ed] adjudications”—often
+taking “ ‘judicial’ forms”—“since the beginning of the Re-
+public.” Arlington v. FCC, 569 U. S. 290, 304–305, n. 4
+(2013); Freytag v. Commissioner, 501 U. S. 868, 910 (1991)
+(Scalia, J., concurring in part and concurring in judg-
+ment); see generally J. Mashaw, Creating the Administra-
+tive Constitution 34–35 (2012).
+    Such Executive Branch adjudications, however, do not
+give rise to “cases” that Article III grants us appellate
+jurisdiction to review, precisely because officers of the
+Executive Branch cannot lawfully be vested with judicial
+power. That is why Chief Justice Marshall declared,
+without qualification, that “[a] mandamus to an officer [of
+the Executive Branch] is held to be the exercise of original
+jurisdiction; but a mandamus to an inferior court of the
+
+
+                  Cite as: 585 U. S. ____ (2018)            7
+                       ALITO, J., dissenting
+United States, is in the nature of appellate jurisdiction.”
+Ex parte Crane, 5 Pet. 190, 193 (1831) (emphasis added).
+Time has not sown doubts about the truth of that rule.
+E.g., Verizon Md. Inc. v. Public Serv. Comm’n of Md., 535
+U. S. 635, 644, n. 3 (2002) (“judicial review of executive
+action, including determinations made by a state adminis-
+trative agency,” involves the exercise of federal court’s
+“original jurisdiction” rather than its “appellate jurisdic-
+tion,” which covers only “state-court judgments”); L. Jaffe,
+Judicial Control of Administrative Action 263, n. 5 (1965).
+   We have taken this same approach when deciding
+whether we may assert appellate jurisdiction to review the
+decision of a state tribunal: We look to state law to see
+whether the tribunal in question was eligible to receive
+the State’s judicial power. E.g., Betts v. Brady, 316 U. S.
+455, 458–460 (1942); cf. Chicago, R. I. & P. R. Co. v. Stude,
+346 U. S. 574, 578–579 (1954) (federal courts cannot exer-
+cise removal jurisdiction—which is appellate in nature,
+Martin, supra, at 349—while a dispute is still in state
+“administrative” proceedings; removal is proper only after
+“the jurisdiction of the state district court is invoked”);
+Verizon Md., supra.
+                                 B
+   This understanding of appellate jurisdiction bars our
+review here. The dispute between Ortiz and the Federal
+Government has been presented to four tribunals: the
+initial court-martial, the Air Force Court of Criminal
+Appeals, the CAAF, and this Court. Each of those tribu-
+nals belongs to a branch of the Federal Government. Yet
+only one of them—our Court—is capable, under the Con-
+stitution, of exercising the Government’s judicial power.
+Thus, the dispute between Ortiz and the Federal Govern-
+ment did not become an Article III “case” until Ortiz peti-
+tioned our Court to hear it. That means our present adju-
+dication—no less than our adjudication of the dispute
+
+
+8                  ORTIZ v. UNITED STATES
+                       ALITO, J., dissenting
+between Marbury and Madison—lacks “the essential
+criterion of appellate jurisdiction.” 1 Cranch, at 175.
+   The majority does not question this framework; indeed,
+it acknowledges that, per Marbury, we can assert jurisdic-
+tion here only if the dispute before us blossomed into an
+Article III “case” before it landed at our doorstep. Ante, at
+6–7. Curiously, however, the majority basically proceeds
+as though Marbury were our last word on the subject.
+Ante, at 6–8. That is simply not right. As discussed, our
+foundational precedents expressly delineate the prerequi-
+sites to the formation of a constitutional case: The dispute
+must, at a minimum, have been previously presented to
+and decided by a tribunal lawfully vested with the judicial
+power of the government to which it belongs. Nothing of
+the sort occurred here; traversing a series of “proceedings”
+internal to the Executive Branch, ante, at 7, does not
+count. And while there undoubtedly are differences be-
+tween this case and Marbury, even some that “lea[p] off
+the page,” ante, at 18, those distinctions are irrelevant to
+our jurisdiction. The dispositive common ground is that,
+just as in Marbury, we are here asked to resolve a dispute
+that has been presented only to Executive Branch officers.
+The present dispute thus lies beyond the “peculiar prov-
+ince” of our appellate jurisdiction to review. Cohens, 6
+Wheat., at 396.
+                                 C
+   If there were any doubt that Article III forbids us to
+take appeals directly from the Executive Branch, two
+centuries of precedent—almost all of it overlooked by the
+majority—would put those doubts to rest.
+                                 1
+   First consider the history of our relationship with the
+Court of Claims. Congress established that court in 1855
+to adjudicate claims against the United States. §1, 10
+
+
+                  Cite as: 585 U. S. ____ (2018)             9
+                       ALITO, J., dissenting
+Stat. 612. Congress provided the court’s judges with life
+tenure and salary protection, just as Article III requires.
+Ibid. The Court of Claims was a court of record, and it
+followed all the procedures—and possessed all the ancil-
+lary powers (subpoena, contempt, etc.)—that one would
+expect to find in a court of justice. §§3–7, 10 Stat. 613; §4,
+12 Stat. 765–766. Its decisions had preclusive effect, and
+were appealable directly to our Court. §§7, 5, id., at 766.
+If the court rendered judgment for a claimant, however,
+the Secretary of the Treasury could partially revise its
+decision by modifying the amount of the judgment to be
+paid (though not the court’s legal conclusion that the
+claimant was in the right). §14, id., at 768.
+   Under principles as old as Hayburn’s Case, 2 Dall. 409
+(1792), a court whose judgments are not self-executing no
+more complies with Article III than a tribunal whose
+judges are not life tenured. For that reason alone, we
+dismissed for lack of jurisdiction the first time a party
+appealed a Court of Claims decision directly to our Court.
+Gordon v. United States, 2 Wall. 561 (1865), 117 U. S.
+Appx. 697 (1864). It did not even matter that the court’s
+decision in that case had been against the claimant, and
+was thus immune from revision, and would have been
+fully binding if we had affirmed. All that mattered was
+that the Court of Claims, like the CAAF, lacked an attrib-
+ute that Article III makes prerequisite to the vesting of
+judicial power. Id., at 704. In words that apply as much
+here, we said that “the so-called judgments of the Court of
+Claims . . . could not be deemed an exercise of judicial
+power, and could not, therefore, be revised by this court.”
+In re Sanborn, 148 U. S. 222, 224 (1893). It was irrelevant
+how much the Court of Claims otherwise “resemble[d] . . .
+courts whose decisions we review.” Ante, at 9.
+   The story does not end there, however. In 1866 Con-
+gress did something it has never done with respect to
+courts-martial: It brought the Court of Claims into com-
+
+
+10                 ORTIZ v. UNITED STATES
+                       ALITO, J., dissenting
+pliance with Article III by repealing the provision that
+made some of its decisions revisable by the Treasury
+Secretary. Ch. 19, §1, 14 Stat. 9. We began hearing ap-
+peals from it “immediately.” United States v. Jones, 119
+U. S. 477, 478 (1886). We now were able to “accep[t] ap-
+pellate jurisdiction over what was, necessarily, an exercise
+of the judicial power which alone [we] may review.” Glid-
+den Co. v. Zdanok, 370 U. S. 530, 554 (1962) (plurality
+opinion) (citing Marbury, supra, at 174–175; emphasis
+added).
+                                 2
+   Next consider our practice in entertaining petitions for
+writs of habeas corpus.
+   Four years after Marbury, we reaffirmed its core holding
+in Ex parte Bollman, 4 Cranch 75 (1807) (Marshall, C. J.).
+Two men were taken into federal custody, and their con-
+finement was approved by an Article III court. United
+States v. Bollman, 24 F. Cas. 1189, 1190, 1196 (No.
+14,622) (CC DC 1807). They then petitioned our Court for
+a writ of habeas corpus. Applying Marbury, we held that
+the jurisdiction “which the court is now asked to exercise
+is clearly appellate. It is the revision of a decision of an
+inferior court.” 4 Cranch, at 101.
+   Contrast Bollman with Ex parte Barry, 2 How. 65 (1844)
+(Story, J.), and In re Metzger, 5 How. 176 (1847). In Barry,
+the petitioner sought relief in this Court without first
+presenting his claim to an inferior federal court or a state
+court, and so Justice Story explained that “[t]he case,
+then, is one avowedly and nakedly for the exercise of
+original jurisdiction by this court,” and was required to be
+dismissed. 2 How., at 65. In Metzger, “the district judge”
+had “heard and decided” the lawfulness of the petitioner’s
+custody, but the judge had done so only “at his chambers,
+and not in court.” 5 How., at 191 (emphasis added). His
+judgment was not provisional, like some early Court of
+
+
+                   Cite as: 585 U. S. ____ (2018)              11
+                        ALITO, J., dissenting
+Claims decisions—but his status as a judge at chambers
+was still fatal to our jurisdiction. In a technical sense, a
+judge at chambers “exercises a special authority” distinct
+from the judicial power vested by Article III—which meant
+that the Constitution would permit us to review his deci-
+sion in “[t]he exercise of an original jurisdiction only.” Id.,
+at 191–192.
+                                  3
+    Finally, and especially pertinent here, we have adhered
+to the Marbury principle in the many instances in our
+Court’s history in which we have been asked to review the
+decision of a military tribunal. First, in Ex parte Vallan-
+digham, 1 Wall. 243 (1864), an Ohio resident had been
+tried and sentenced by a military commission, and its
+decision became final after being approved up the chain of
+command. Vallandigham sought relief directly from our
+Court, without first petitioning a lower federal court. We
+held that we lacked jurisdiction. Id., at 254. The military
+commission, like the CAAF, was not one of the “courts of
+the United States” established under Article III, id., at
+251, and thus it could not exercise the judicial power of the
+Federal Government, but could exercise only “a special
+authority,” id., at 253—just like the Court of Claims, and
+just like a judge at chambers. Given that fact, we held it
+was “certain” that any review of its decisions could take
+place only in the exercise of our original, and not appel-
+late, jurisdiction. Id., at 251–252. And despite what the
+majority seems to think, see ante, at 17, n. 8, in Vallan-
+digham we recognized that the military tribunal had
+“judicial character” in the sense that it had “the authority
+. . . to examine, to decide and sentence,” but—in the same
+breath—we affirmed the crucial point, namely, that such
+character “ ‘is not judicial . . . in the sense in which judicial
+power is granted to the courts of the United States.’ ” 1
+Wall., at 253 (emphasis added).
+
+
+12                 ORTIZ v. UNITED STATES
+                      ALITO, J., dissenting
+   Contrast Vallandigham with a pair of decisions we
+issued shortly thereafter. In Ex parte Milligan, 4 Wall. 2
+(1866), and Ex parte Yerger, 8 Wall. 85 (1869), we again
+were asked to grant relief to petitioners who, just like
+Vallandigham (and just like Ortiz), were in custody under
+orders of a non-Article III military tribunal. But unlike
+Vallandigham and Ortiz, Milligan and Yerger first sought
+relief in a lower federal court. Milligan, supra, at 107–
+108; Yerger, 8 Wall., at 102–103. That fact made all the
+difference—again, because of the rule that we possess,
+“under the Constitution, an appellate jurisdiction, to be
+exercised only in the revision of judicial decisions.” Id., at
+97. The decisions of non-Article III military courts do not
+qualify.
+   Similarly, after World War II we received “more than a
+hundred” habeas petitions from individuals in the custody
+of “various American or international military tribunals
+abroad,” almost none of whom had “first sought [relief ] in
+a lower federal court.” R. Fallon, J. Manning, D. Meltzer,
+& D. Shapiro, Hart and Wechsler’s The Federal Courts
+and the Federal System 292 (7th ed. 2015). Consistent
+with Marbury, we denied review in every one. Fallon,
+supra, at 292–293. Thus, while it is surely true that “not
+every military tribunal is alike” in all respects, ante, at 17,
+before today, they were at least alike in this respect: Their
+decisions could not be reviewed directly here.
+                                D
+   The unbroken line of authorities discussed above vividly
+illustrates the nature and limits of our appellate jurisdic-
+tion as defined in Article III. Today’s decision cannot be
+squared with those authorities, and the majority barely
+even tries. The majority says not a word about the Court
+of Claims, even though that tribunal surely had sufficient
+“court-likeness,” ante, at 16 (emphasis deleted), to come
+within the scope of our appellate jurisdiction under today’s
+
+
+                  Cite as: 585 U. S. ____ (2018)           13
+                       ALITO, J., dissenting
+test. Nor does the majority acknowledge the slew of on-
+point habeas decisions—save for Vallandigham, which it
+waves away by emphasizing irrelevant factual details (like
+the commanding officer’s facial hair). Despite its running
+refrain that the CAAF displays a “judicial character,” ante,
+at 6 (emphasis added); see also ante, at 8, 18, 19, the
+majority simply never comes to grips with the substance of
+our holdings: We may not hear an appeal directly from
+any tribunal that has not been lawfully vested with judi-
+cial power. That rule directly covers the CAAF, and it
+bars our review.
+                                 II
+   Having said very little about a large body of controlling
+precedent, the majority says very much about the fact that
+we have long heard appeals directly from territorial courts
+and the courts of the District of Columbia. Ante, at 12–16.
+The majority claims to be looking for a “powerful reason”
+why our appellate jurisdiction should treat courts-martial
+any differently. Ante, at 15. A careful reading of our
+decisions shows that we have a good reason ready at
+hand—one that is fully consistent with Marbury.
+   The reason, as I explain below, is this: Congress enjoys a
+unique authority to create governments for the Territories
+and the District of Columbia and to confer on the various
+branches of those governments powers that are distinct
+from the legislative, executive, and judicial power of the
+United States. Thus, for example, the courts of the Dis-
+trict of Columbia exercise the judicial power of the Dis-
+trict, not that of the United States. The courts of the
+United States Virgin Islands exercise the judicial power of
+that Territory, not the judicial power of the United States.
+By contrast, the CAAF and other military tribunals are
+indisputably part of the Executive Branch of the Govern-
+ment of the United States. They exercise the power of the
+United States, not that of any other government, and since
+
+
+14                 ORTIZ v. UNITED STATES
+                      ALITO, J., dissenting
+they are part of the Executive, the only power that they
+may lawfully exercise is executive, not judicial. Unless
+they are removed from the Executive Branch and trans-
+formed into Article III courts, they may not exercise any
+part of the judicial power of the United States. Nor need
+they exercise judicial power to carry out their functions, as
+we have always understood.
+                                A
+   We have long said that Congress’s authority to govern
+the Territories and the District of Columbia stems as
+much from its inherent sovereign powers as it does from
+specific constitutional provisions in Articles IV and I. Sere
+v. Pitot, 6 Cranch 332, 336–337 (1810) (Marshall, C. J.);
+American Ins. Co. v. 356 Bales of Cotton, 1 Pet. 511, 546
+(1828) (Marshall, C. J.); Late Corp. of Church of Jesus
+Christ of Latter-day Saints v. United States, 136 U. S. 1,
+42 (1890); see also Art. IV, §3, cl. 2 (Territories); Art. I, §8,
+cl. 17 (District). Perhaps reflecting that view, the found-
+ing generation understood—and for more than two centu-
+ries, we have recognized—that Congress’s power to govern
+the Territories and the District is sui generis in one very
+specific respect: When exercising it, Congress is not bound
+by the Vesting Clauses of Articles I, II, and III.
+   The Vesting Clauses impose strict limits on the kinds of
+institutions that Congress can vest with legislative, execu-
+tive, and judicial power. See generally Department of
+Transportation v. Association of American Railroads, 575
+U. S. ___, ___–___ (2015) (THOMAS, J., concurring in judg-
+ment) (slip op., at 2–3). Those limits apply when Congress
+legislates in every other area, including when it regulates
+the Armed Forces. See Loving v. United States, 517 U. S.
+748, 767–768, 771–774 (1996) (Article I nondelegation
+doctrine applies to congressional regulation of courts-
+martial). But it has been our consistent view that those
+same limits do not apply when Congress creates institu-
+
+
+                   Cite as: 585 U. S. ____ (2018)          15
+                        ALITO, J., dissenting
+tions to govern the Territories and the District. As we
+said in Benner v. Porter, 9 How. 235, 242 (1850), territorial
+governments set up by Congress “are not organized under
+the Constitution, nor subject to its complex distribution of
+the powers of government, as the organic law; but are the
+creations, exclusively, of the legislative department.”
+Congress may therefore give territorial governments “a
+legislative, an executive, and a judiciary, with such powers
+as it has been their will to assign to those departments.”
+Sere, supra, at 337. That is why we have often repeated
+that “[i]n legislating for [the Territories], Congress exer-
+cises the combined powers of the general, and of a state
+government.” American Ins. Co., supra, at 546; Palmore v.
+United States, 411 U. S. 389, 403 (1973). Just as the
+Vesting Clauses do not constrain the States in organizing
+their own governments, Dreyer v. Illinois, 187 U. S. 71, 84
+(1902), those Clauses do not constrain Congress in organ-
+izing territorial governments.
+   Thus, unlike any of its other powers, Congress’s power
+over the Territories allows it to create governments in
+miniature, and to vest those governments with the legisla-
+tive, executive, and judicial powers, not of the United
+States, but of the Territory itself. For that reason we have
+upheld delegations of legislative, executive, and judicial
+power to territorial governments despite acknowledging
+that each one would be incompatible with the Vesting
+Clauses of the Federal Constitution if those Clauses ap-
+plied. See, e.g., Dorr v. United States, 195 U. S. 138, 153
+(1904) (territorial legislature); Cincinnati Soap Co. v.
+United States, 301 U. S. 308, 322–323 (1937); Snow v.
+United States, 18 Wall. 317, 321–322 (1873) (territorial
+executive); American Ins. Co., supra (territorial courts);
+Sere, supra; Kendall v. United States ex rel. Stokes, 12 Pet.
+524, 619 (1838); Keller v. Potomac Elec. Power Co., 261
+U. S. 428, 442–443 (1923).
+   The Framers evidently shared this view. Thus, James
+
+
+16                   ORTIZ v. UNITED STATES
+                        ALITO, J., dissenting
+Madison took it for granted that Congress could create “a
+municipal legislature” for the District of Columbia, The
+Federalist No. 43, at 272–273, something that would
+otherwise violate the Vesting Clause of Article I, which
+prohibits Congress from delegating legislative powers to
+any other entity, Wayman v. Southard, 10 Wheat. 1, 42–
+43 (1825) (Marshall, C. J.). And Justice Story declared,
+without hesitation, that “[w]hat shall be the form of gov-
+ernment established in the territories depends exclusively
+upon the discretion of congress. Having a right to erect a
+territorial government, they may confer on it such powers,
+legislative, judicial, and executive, as they may deem
+best.” 3 Story §667, at 478.
+   The upshot is that it is only when Congress legislates for
+the Territories and the District that it may lawfully vest
+judicial power in tribunals that do not conform to Article
+III. And that, in turn, explains why territorial courts and
+those of the District—exercising the judicial power of their
+respective governments—may have their decisions ap-
+pealed directly here. We said as much in United States v.
+Coe, 155 U. S. 76, 86 (1894), where we explained that
+because Congress’s “power of government . . . over the
+Territories . . . includes the ultimate executive, legislative,
+and judicial power, it follows that the judicial action of all
+inferior courts established by Congress may, in accordance
+with the Constitution, be subjected to [our] appellate
+jurisdiction.”
+   The rule of appellate jurisdiction we recognized in Coe is
+identical to the rule we have applied ever since Marbury:
+Our appellate jurisdiction is proper only if the underlying
+decision represents an exercise of judicial power lawfully
+vested in the tribunal below. Territorial courts and those
+of the District of Columbia have such power; the CAAF
+does not, and cannot be given it so long as it fails to com-
+ply with Article III. That is reason enough to treat these
+
+
+                        Cite as: 585 U. S. ____ (2018)                    17
+                             ALITO, J., dissenting
+tribunals differently.3
+                                       B
+    The majority responds to this conclusion by suggesting,
+albeit without much elaboration, that just as the Constitu-
+tion gives Congress the “exceptional” power to confer non-
+Article III judicial power on the courts of the Territories
+and the District of Columbia, the Constitution also gives
+Congress the “exceptional” power to vest military tribu-
+nals with non-Article III judicial power. See ante, at 15,
+and n. 7. But the Vesting Clauses are exclusive, which
+means that the Government’s judicial power is not shared
+between Article II and Article III. See supra, at 3–4 (col-
+lecting cases); see also, e.g., Arlington, 569 U. S., at 304–
+305, n. 4; Ex parte Randolph, 20 F. Cas. 242, 254 (No.
+11,558) (CC Va. 1833) (Marshall, C. J.) (those whose “offices
+are held at the pleasure of the president . . . are, conse-
+quently, incapable of exercising any portion of the judicial
+power”); Association of American Railroads, 575 U. S., at
+___, ___ (THOMAS, J., concurring in judgment) (slip op., at
+2, 9); B&B Hardware, Inc. v. Hargis Industries, Inc., 575
+——————
+   3 It is true that our decisions concerning territorial governments, and
+territorial courts in particular, have had their share of critics. See, e.g.,
+M. Redish, Federal Jurisdiction: Tensions in the Allocation of Judicial
+Power 36–39 (1980); Currie, The Constitution in the Supreme Court:
+The Powers of the Federal Courts, 1801–1835, 49 U. Chi. L. Rev. 646,
+719 (1982); C. Wright, Law of Federal Courts 41 (4th ed. 1983); Fallon,
+Of Legislative Courts, Administrative Agencies, and Article III, 101
+Harv. L. Rev. 915, 972 (1988); Bator, The Constitution as Architecture:
+Legislative and Administrative Courts Under Article III, 65 Ind. L. J.
+233, 240–242 (1990); G. Lawson & G. Seidman, The Constitution of
+Empire 149 (2004). But the theory underlying our cases was widely
+shared at the founding; our decisions have never seriously questioned
+it; and, if taken at face value, it coheres with the rest of our jurispru-
+dence. Seeing no need to revisit these precedents, I would not disturb
+them. I certainly would not do what the majority has done: stretch an
+arguably anomalous doctrine and export it (in mutated form) to other
+contexts where it can only cause mischief.
+
+
+18                 ORTIZ v. UNITED STATES
+                       ALITO, J., dissenting
+U. S. ___, ___ (2015) (THOMAS, J., dissenting) (slip op., at
+11). And neither the majority nor the concurrence ever
+explains how the Constitution’s various provisions relating
+to the military, through their penumbras and emanations,
+can be said to produce a hybrid executive-judicial power
+that is nowhere mentioned in the Constitution’s text, that
+is foreclosed by its structure, and that had gone almost
+entirely unnoticed before today.
+   Thus, to make the majority’s argument parallel to the
+argument regarding the courts of the Territories and the
+District of Columbia, the majority would have to argue
+that the military, like the governments of the Territories
+and the District, is somehow not part of the Federal Gov-
+ernment—“not organized under the Constitution, . . . as
+the organic law,” Benner, 9 How., at 242—but is a gov-
+ernment unto itself. To set out that argument, however, is
+to expose its weakness, for nothing could be more antithet-
+ical to the Constitution and to our traditional understand-
+ing of the relationship between the military and civilian
+authority. The military is not an entity unto itself, sepa-
+rate from the civilian government established by the
+Constitution. On the contrary, it is part of the Executive
+Branch of the Government of the United States, and it is
+under the command of the President, who is given the
+power of Commander in Chief and is ultimately answer-
+able to the people.
+   To appreciate the constitutional status of military tri-
+bunals, it is helpful to recall their origins. Courts-martial
+are older than the Republic, and they have always been
+understood to be an arm of military command exercising
+executive power, as opposed to independent courts of law
+exercising judicial power. Blackstone declared that the
+court-martial system of the British Empire was based
+solely on “the necessity of order and discipline” in the
+military. 1 Blackstone 400. Indeed, Blackstone explained
+that courts-martial exercise a “discretionary power” to
+
+
+                   Cite as: 585 U. S. ____ (2018)           19
+                        ALITO, J., dissenting
+“inflict” “punishment . . . extend[ing] to death itself,”
+which was “to be guided by the directions of the crown,” in
+express contrast to “the king’s courts” which dispense
+“justice according to the laws of the land.” Id., at 402, 400.
+The crown’s “extensive” power over the military—
+exercised, in part, through courts-martial—was “executive
+power.” Id., at 408. Many others have echoed the point.
+Thus, “[a]t the time of our separation [from Britain], . . . a
+court-martial . . . was not a judicial body. Its functions
+were not judicial functions. It was but an agency of the
+power of military command to do its bidding.” Ansell,
+Military Justice, 5 Cornell L. Q. 1, 6 (1919).
+   When the United States declared its independence and
+prepared for war with Britain, the leaders of the new
+Nation were deeply impressed by the British court-martial
+system and sought to replicate it. John Adams, who in
+1776 drafted the Continental Articles for the Government
+of the Army, was convinced that it would be “in vain” for
+the American patriots to seek “a more complete system of
+military discipline” than the existing British model. 3 The
+Works of John Adams 68 (C. Adams ed. 1851). He and
+Thomas Jefferson therefore proposed adopting “the British
+articles of war, totidem verbis.” Id., at 68–69. The Conti-
+nental Congress agreed. Id., at 69. And when the Consti-
+tution and the Bill of Rights were adopted, no one sug-
+gested that this required any alteration of the existing
+system of military justice. On the contrary, as the majority
+recounts, the First Congress continued the existing arti-
+cles of war unchanged. Ante, at 10. Courts-martial fit
+effortlessly into the structure of government established
+by the Constitution. They were instruments of military
+command. Under the Constitution, the President, as the
+head of the Executive Branch, was made the Commander
+in Chief. Art. II, §2. So the role of the courts-martial was
+to assist the President in the exercise of that command
+authority.
+
+
+20                 ORTIZ v. UNITED STATES
+                      ALITO, J., dissenting
+   The ratification of the Constitution and the Bill of
+Rights did naturally raise some constitutional questions.
+For example, founding-era courts-martial adjudicated a
+long list of offenses, some carrying capital punishment,
+including for crimes involving homicide, assault, and theft.
+American Articles of War of 1776, §13, in 2 W. Winthrop,
+Military Law and Precedents 1495–1498 (2d ed. 1896)
+(Winthrop); see also, e.g., American Articles of War of
+1806, Arts. 39, 51, 54, in id., at 1514–1516. In civilian life,
+a person charged with similar offenses was entitled to
+protections, such as trial by jury, that were unavailable in
+courts-martial. Moreover, the Constitution entitled such
+persons to judicial process—which courts-martial, lacking
+the necessary structural attributes of Article III courts,
+could not afford. So how could they try serious crimes,
+including even capital offenses?
+   The simple answer goes back to the fundamental nature
+of courts-martial as instruments of command. As Black-
+stone recognized, the enforcement of military discipline,
+an essential feature of any effective fighting force, was
+viewed as an executive prerogative. It represented the
+exercise of the power given to the President as the head of
+the Executive Branch and the Commander in Chief and
+delegated by him to military commanders. Thus, adjudi-
+cations by courts-martial are executive decisions; courts-
+martial are not courts; they do not wield judicial power;
+and their proceedings are not criminal prosecutions within
+the meaning of the Constitution. As we explained in
+Milligan, the need to maintain military order required
+those serving in the military to surrender certain rights
+that they enjoyed in civilian life and to submit to disci-
+pline by the military command. Although Milligan con-
+firmed the general rule that “it is the birthright of every
+American citizen” to have the Federal Government adjudi-
+cate criminal charges against him only in an Article III
+court, 4 Wall., at 119, 122, we also stated that “[e]very one
+
+
+                       Cite as: 585 U. S. ____ (2018)                     21
+                            ALITO, J., dissenting
+connected with” “the military or naval service . . . while
+thus serving, surrenders his right to be tried by the civil
+courts,” id., at 123. That is why the historical evidence
+strongly suggests that the provisions of the Bill of Rights
+were not originally understood to apply to courts-martial.
+See Prakash, The Sweeping Domestic War Powers of
+Congress, 113 Mich. L. Rev. 1337, 1346 (2015); Wiener,
+Courts-Martial and the Bill of Rights: The Original Prac-
+tice II, 72 Harv. L. Rev. 266, 290–291, 294 (1958); see also
+1 Winthrop 54, 241, 430, 605; Milligan, supra, at 137–138
+(Chase, C. J., concurring in judgment).4
+   Due to reforms adopted in the recent past, it is possible
+today to mistake a military tribunal for a regular court
+and thus to forget its fundamental nature as an instru-
+ment of military discipline, but no one would have made
+that mistake at the time of the founding and for many
+years thereafter. Notwithstanding modest reforms in
+1874, a court-martial continued into the 20th century to
+serve “primarily as a function or instrument of the execu-
+tive department to be used in maintaining discipline in
+the armed forces. It was therefore not a ‘court,’ as that
+term is normally used.” Schlueter, The Court-Martial: An
+Historical Survey, 87 Mil. L. Rev. 129, 150–153, 154–155
+(1980). Hence, Colonel Winthrop—whom we have called
+“the ‘Blackstone of Military Law,’ ” Reid v. Covert, 354
+U. S. 1, 19, n. 38 (1957) (plurality opinion)—echoed the
+original Blackstone in describing courts-martial as “simply
+instrumentalities of the executive power, provided by Con-
+gress for the President as Commander-in-chief, to aid him
+in properly commanding the army and navy and enforcing
+——————
+  4 In fact, “for over half a century after the adoption of the Bill of
+Rights, its provisions were never invoked in a military situation save in
+a single instance,” and in that case “the denial of its applicability to the
+military . . . was approved by no less an authority than the father of the
+Bill of Rights himself.” Wiener, Courts-Martial and the Bill of Rights:
+The Original Practice II, 72 Harv. L. Rev. 266, 291 (1958).
+
+
+22                 ORTIZ v. UNITED STATES
+                      ALITO, J., dissenting
+discipline therein.” 1 Winthrop 54.
+   Indeed, Brigadier General Samuel T. Ansell, who served
+as acting Judge Advocate General from 1917 to 1919,
+groused that the American system at the time of World
+War I was still “basically . . . the British system as it
+existed at the time of the separation,” and described it as
+one “arising out of and regulated by the mere power of
+Military Command rather than Law.” Ansell, 5 Cornell
+L. Q., at 1. Around the same time, Edmund Morgan—who
+would later help draft the Uniform Code of Military Jus-
+tice (UCMJ)—declared it “too clear for argument that the
+principle at the foundation of the existing system is the
+supremacy of military command. To maintain that princi-
+ple, military command dominates and controls the pro-
+ceeding from its initiation to the final execution of the
+sentence. While the actual trial has the semblance of a
+judicial proceeding and is required to be conducted pursu-
+ant to the forms of law, . . . [i]n truth and in fact, . . .
+courts-martial are exactly what Colonel Winthrop has
+asserted them to be.” Morgan, The Existing Court-Martial
+System and the Ansell Army Articles, 29 Yale L. J. 52, 66
+(1919).
+   For instance, until 1920 the President and commanding
+officers could disapprove a court-martial sentence and
+order that a more severe one be imposed instead, for
+whatever reason. We twice upheld the constitutionality of
+this practice, Swaim v. United States, 165 U. S. 553, 564–
+566 (1897); Ex parte Reed, 100 U. S. 13, 20, 23 (1879),
+which was widely used during World War I, see Wiener,
+supra, at 273. Similarly, until 1920 it was permissible for
+the same officer to serve as both prosecutor and defense
+counsel in the same case. West, A History of Command
+Influence on the Military Judicial System, 18 UCLA
+L. Rev. 1, 14 (1970). Congress discontinued such practices
+by statute, but through the end of World War II, courts-
+martial remained blunt instruments to enforce discipline.
+
+
+                   Cite as: 585 U. S. ____ (2018)               23
+                        ALITO, J., dissenting
+Schlueter, supra, at 157–158; see also West, supra, at 8,
+n. 18.
+   It is precisely because Article II authorizes the Presi-
+dent to discipline the military without invoking the judi-
+cial power of the United States that that the Constitution
+has always been understood to permit courts-martial to
+operate in the manner described above. Thus, in Dynes v.
+Hoover, 20 How. 65, 79 (1858), we said that the Constitu-
+tion makes clear that the Government’s power to “tr[y]
+and punis[h]” military offenses “is given without any
+connection between it and the 3d article of the Constitu-
+tion defining the judicial power of the United States;
+indeed, that the two powers are entirely independent of
+each other.”
+   Moreover, the principle that the Government need not
+exercise judicial power when it adjudicates military of-
+fenses accords with the historical understanding of the
+meaning of due process. In the 19th century, it was widely
+believed that the constitutional guarantee of due process
+imposed the rule that the Government must exercise its
+judicial power before depriving anyone of a core private
+right. See generally Nelson, Adjudication in the Political
+Branches, 107 Colum. L. Rev. 559, 562, 568–569, and n. 42
+(2007); e.g., Cohen v. Wright, 22 Cal. 293, 318 (1863) (“The
+terms ‘due process of law’ have a distinct legal significa-
+tion, clearly securing to every person . . . a judicial trial . . .
+before he can be deprived of life, liberty, or property”);
+Murray’s Lessee v. Hoboken Land & Improvement Co., 18
+How. 272, 275, 280 (1856) (similar). Yet for most of our
+history we held that “[t]o those in the military or naval
+service of the United States the military law is due pro-
+cess.” Reaves v. Ainsworth, 219 U. S. 296, 304 (1911);
+United States ex rel. French v. Weeks, 259 U. S. 326, 335
+(1922); see also Milligan, 4 Wall., at 138 (Chase, C. J.,
+concurring in judgment) (“the power of Congress, in the
+government of the land and naval forces and of the militia,
+
+
+24                 ORTIZ v. UNITED STATES
+                       ALITO, J., dissenting
+is not at all affected by the fifth or any other amend-
+ment”); Wiener, 72 Harv. L. Rev., at 279 (in the history of
+courts-martial, “of due process of law as a constitutional
+concept, there is no trace”); cf. 1 Blackstone 403–404
+(explaining the basic due process rights soldiers surrender
+upon entering the army).
+   This understanding of the power wielded by military
+tribunals parallels our current jurisprudence regarding
+the authority of other Executive Branch entities to adjudi-
+cate disputes that affect individual rights. An exercise of
+judicial power may be necessary for the disposition of
+private rights, including the rights at stake in a criminal
+case. B&B Hardware, 575 U. S., at ___–___ (THOMAS, J.,
+dissenting) (slip op., at 12–13); see also Wellness Int’l
+Network, Ltd. v. Sharif, 575 U. S. ___, ___ (2015) (THOMAS,
+J., dissenting) (slip op., at 6). But the adjudication of
+public rights does not demand the exercise of judicial
+power. Id., at ___–___ (slip op., at 6–7). Similarly, en-
+forcement of military discipline is not a function that
+demands the exercise of judicial power, either. Dynes,
+supra; Murray’s Lessee, supra, at 284.
+   In short, military offenses are “exceptions” to Article III
+in the same way that true public rights disputes are ex-
+ceptions to Article III: the Federal Government can adju-
+dicate either one without exercising its judicial power.
+This means that when Congress assigns either of these
+functions to an Executive Branch tribunal—whether the
+Patent Trial and Appeal Board, the Court of Claims, or the
+CAAF—that does not imply that the tribunal in question
+is exercising judicial power. And the point holds notwith-
+standing the undoubted fidelity to “the rule of law” that
+such officers bring to their tasks. Ante, at 11, n. 5. Con-
+trary to the majority’s odd suggestion, acting “in strict
+compliance with legal rules and principles” is not a
+uniquely judicial virtue. Ibid. The most basic duty of the
+President and his subordinates, after all, is to “take Care
+
+
+                  Cite as: 585 U. S. ____ (2018)           25
+                       ALITO, J., dissenting
+that the Laws be faithfully executed.” Art. II, §3 (empha-
+sis added). Hence, acting with fidelity to law is something
+every executive officer is charged with doing, but those
+officers remain executive officers all the same. For that
+reason, and in light of the history recounted above, the
+majority’s suggestion that “[t]he military justice system’s
+essential character” is “judicial,” and has been “main-
+tained” as such since the “very first Congress,” ante, at 8,
+10, simply does not square with the actual operation of the
+court-martial system or the consensus view of its place in
+our constitutional scheme.
+                                 C
+   In response to this history, the majority tries to enlist
+Colonel Winthrop as an ally, ante, at 10–11, and n. 5, but
+Winthrop had a firmer grasp than the majority on the
+distinction between functions that can be described as
+“judicial” in a colloquial sense and functions that repre-
+sent an exercise of “judicial power” in the constitutional
+sense. Thus, while Winthrop observed that courts-martial
+resemble constitutional courts in certain respects, he
+made those observations “[n]otwithstanding that the
+court-martial is only an instrumentality of the executive
+power having no relation or connection, in law, with the
+judicial establishments of the country.” 1 Winthrop 61
+(emphasis added). Nor was Winthrop the only military
+commentator who employed such terms casually from time
+to time. E.g., W. De Hart, Observations on Military Law 6
+(1859) (describing an officer’s authority to appoint mem-
+bers of a court-martial as “a legislative power”); id., at 14
+(describing courts-martial as “being clothed with judicial
+powers”). Indeed, our own Court has frequently described
+functions as “judicial” in a colloquial sense, despite know-
+ing they are executive in the constitutional sense. E.g.,
+Smelting Co. v. Kemp, 104 U. S. 636, 640 (1882) (Land
+Department officers “exercise a judicial function” although
+
+
+26                  ORTIZ v. UNITED STATES
+                       ALITO, J., dissenting
+they are “part of the administrative and executive branch
+of the government”); Murray’s Lessee, 18 How., at 280–
+281; Vallandigham, 1 Wall., at 253; Arlington, 569 U. S.,
+at 304–305, n. 4.
+   The majority’s reliance on Attorney General Bates is
+even weaker. Ante, at 10. Bates wrote a memo to Presi-
+dent Lincoln opining that when the President acts to
+“approve and confirm the sentence of a court martial,” or
+to “revis[e] its proceedings,” Congress intended him to “act
+judicially—that is, [to] exercise the discretion confided to
+him within the limits of law.” 11 Op. Atty. Gen. 20–21
+(1864). Bates was arguing that a President could not
+revoke a court-martial sentence after it had been carried
+into execution. He was describing an implicit limit on the
+power of the President under the system of military justice
+established by statute. His reference to certain Presiden-
+tial actions as “judicial” had nothing to do with judicial
+review, and in Vallandigham, supra, at 254, we rejected
+the idea that “the President’s action” in approving a court-
+martial decision is an exercise of judicial power that we
+can review directly.
+   In sum, the majority has done nothing to undermine the
+overwhelming historical consensus that courts-martial
+permissibly carry out their functions by exercising execu-
+tive rather than judicial power.
+                                III
+   What remains of the majority’s analysis boils down to
+the assertion that courts-martial “resemble” conventional
+courts, ante, at 9, indeed, that “court-likeness” is the
+dispositive issue, ante, at 16 (emphasis deleted).
+   The first thing to be said in response to this theory is
+that we have “never adopted a ‘looks like’ test to deter-
+mine if an adjudication” involves an exercise of judicial
+power. Oil States, 584 U. S., at ___ (slip op., at 15). On
+the contrary, we have frequently repudiated this mode of
+
+
+                   Cite as: 585 U. S. ____ (2018)           27
+                        ALITO, J., dissenting
+analysis as utterly inadequate to police separation-of-
+powers disputes. See, e.g., INS v. Chadha, 462 U. S. 919,
+953, n. 16 (1983); Arlington, supra; Gordon, 117 U. S.
+Appx., at 699. In fact, of all the cases on which the majority
+relies, not a single one suggests that our appellate juris-
+diction turns on the extent to which the underlying tribu-
+nal looks like a court.
+   In any event, the majority’s “looks like” test fails on its
+own terms. It is certainly true that today’s military justice
+system provides many protections for the accused and is
+staffed by officers who perform their duties diligently,
+responsibly, and with an appropriate degree of independ-
+ence. Nothing I say about the current system should be
+interpreted as denigrating that system or as impugning
+the dedication, professionalism, and integrity of the offi-
+cers who serve in it, notwithstanding the majority’s insist-
+ence to the contrary. Ante, at 11, n. 5. As explained
+above, military officers’ undoubted fidelity to law has
+nothing to do with the court-martial system’s status under
+our Constitution. That status is what my point here
+concerns. And that status has never changed.
+   Today’s court-martial system was put in place in 1950,
+when Congress enacted the UCMJ in response to criticism
+following World War II. 64 Stat. 108. Among its innova-
+tions, the UCMJ subjected courts-martial to more elabo-
+rate procedural rules than ever before. It also created a
+system of internal appellate tribunals within the military
+chain of command. Those entities—which we now call the
+Army, Navy-Marine Corps, Air Force, and Coast Guard
+Courts of Criminal Appeals and the Court of Appeals for
+the Armed Forces—did not exist before 1950. Congress
+augmented this system in 1983, for the first time in Amer-
+ican history providing for direct Supreme Court review of
+certain decisions of the highest military tribunal. 97 Stat.
+1405–1406; 10 U. S. C. §867a; 28 U. S. C. §1259.
+   Such reforms, as I have indicated, are fully consistent
+
+
+28                 ORTIZ v. UNITED STATES
+                       ALITO, J., dissenting
+with the President’s overriding duty to “faithfully ex-
+ecut[e]” the laws. Art. II, §3. Hence, even after Congress
+passed the UCMJ, we continued to recognize that the
+court-martial system “has always been and continues to be
+primarily an instrument of discipline,” O’Callahan v.
+Parker, 395 U. S. 258, 266 (1969), and that “courts-martial
+are constitutional instruments to carry out congressional
+and executive will,” Palmore, 411 U. S., at 404; see also,
+e.g., Reid, 354 U. S., at 36 (plurality opinion); United
+States ex rel. Toth v. Quarles, 350 U. S. 11, 17 (1955);
+Chappell v. Wallace, 462 U. S. 296, 300 (1983). For that
+reason, even if the majority were to begin its analysis in
+1950, and to confine it to the CAAF—which the majority
+has not done—it would still be incorrect to perceive any-
+thing other than executive power at issue here.
+   An examination of the CAAF confirms this point. The
+CAAF’s members are appointed by the President for a
+term of years, and he may remove them for cause, 10
+U. S. C. §§942(b), (c), under a standard we have recognized
+as “very broad,” Bowsher v. Synar, 478 U. S. 714, 729
+(1986). These and other provisions of the UCMJ “make
+clear that [the CAAF] is within the Executive Branch.”
+Edmond v. United States, 520 U. S. 651, 664, n. 2 (1997).
+For instance, the CAAF is subject to oversight by the
+Secretaries of Defense, Homeland Security, and the mili-
+tary departments, and its members must meet annually to
+discuss their work with members of the military and
+appointees of the Secretary of Defense. 10 U. S. C. §946.
+The CAAF must review any case a Judge Advocate Gen-
+eral orders it to hear. §867(a)(2). And, contrary to the
+majority’s assertion, the CAAF’s decisions are not “final
+(except if we review and reverse them).” Ante, at 18.
+   In fact, in the most serious cases that the CAAF re-
+views—those in which a court-martial imposes a sentence
+of death or dismissal from the Armed Forces—the CAAF’s
+judgment cannot be executed until the President, the
+
+
+                      Cite as: 585 U. S. ____ (2018)               29
+                           ALITO, J., dissenting
+relevant branch Secretary, or one of his subordinates
+approves it. 10 U. S. C. §§871(a), (b). That is why the
+UCMJ provides that “[a]fter [the CAAF] has acted on a
+case,” the “convening authority [shall] take action in ac-
+cordance with that decision,” “unless there is to be further
+action by the President or the Secretary concerned.”
+§867(e) (emphasis added). In such cases the “proceedings,
+findings, and sentences” of the court-martial system—
+including the CAAF’s “appellate review”—are not final
+until approved. §876.5 Indeed, even if our Court affirms
+such a judgment, it cannot be executed until the relevant
+military authority approves it—a requirement that is not
+subject to any timeframe or substantive standards. See
+Manual for Courts-Martial, United States Rule for Courts-
+Martial 1205(b) (2016).6
+    Such revisory powers have always been a feature of the
+court-martial system. 1 Winthrop 683. And because the
+UCMJ preserves the chain of command’s historic revisory
+power over the CAAF’s most significant decisions, there is
+no way for us to conclude that the CAAF is “judicial”
+under any known definition of that term. And it should
+not matter that Ortiz’s own sentence is not subject to
+——————
+   5 Thus, JUSTICE THOMAS is mistaken when he asserts that “[t]he Ex-
+ecutive Branch has no statutory authority to review or modify the
+CAAF’s decisions.” Ante, at 7 (concurring opinion). And anyway, even
+if the CAAF’s decisions were final, it would not imply that they are
+judicial. Insofar as the Government can adjudicate military offenses
+without exercising its judicial power, finality would be equally con-
+sistent with executive as well as judicial power.
+   6 For example, in 1996 we granted certiorari to the CAAF and af-
+firmed the court-martial conviction and capital sentence of Dwight
+Loving. Loving v. United States, 517 U. S. 748 (1996). Yet our judg-
+ment could not be deemed final—and hence could not be carried out—
+until the President approved it. Neither President Clinton nor Presi-
+dent Bush would do so. Loving v. United States, 68 M. J. 1, 3 (CAAF
+2009). President Obama eventually commuted the sentence to life
+without parole, https://www.justice.gov/pardon/obama-commutations
+(as last visited June 21, 2018).
+
+
+30                 ORTIZ v. UNITED STATES
+                       ALITO, J., dissenting
+approval, just as it did not matter that the Court of Claims
+decision at issue in Gordon was not subject to review by
+the Treasury Secretary. This point is elementary. At
+least since Hayburn’s Case, 2 Dall., at 411, n., 413, n., it
+has been firmly established that it is “radically incon-
+sistent” with the “judicial power” for any court’s judg-
+ments, “under any circumstances,” to “be liable to a rever-
+sion, or even suspension,” by members of the Executive or
+Legislative Branches. Indeed, “[t]he award of execution is
+a part, and an essential part of every judgment passed by
+a court exercising judicial power.” Gordon, 117 U. S.
+Appx., at 702; Plaut v. Spendthrift Farm, Inc., 514 U. S.
+211, 218–219 (1995).
+   Simply put, the CAAF’s Executive Branch status is
+more than a label. The CAAF is what we have always
+thought it to be: an agent of executive power to aid the
+Commander in Chief. It follows that our appellate juris-
+diction does not permit us to review its decisions directly.
+That conclusion is unaffected by Congress’s decision to
+give greater procedural protections to members of the
+military. Nor would the conclusion be altered if Congress
+imported into the military justice system additional rights
+and procedures required in the civilian courts. If Congress
+wants us to review CAAF decisions, it can convert that
+tribunal into an Article III court or it can make CAAF
+decisions reviewable first in a lower federal court—
+perhaps one of the regional Courts of Appeals or the Fed-
+eral Circuit—with additional review available here. But
+as long as the CAAF retains its current status as an Exec-
+utive Branch entity, Congress cannot give our Court juris-
+diction to review its decisions directly.
+                         *       *      *
+   The arguments in this case might appear technical, but
+important interests are at stake. The division between
+our Court’s original and appellate jurisdiction provoked
+
+
+                   Cite as: 585 U. S. ____ (2018)           31
+                        ALITO, J., dissenting
+extended and impassioned debate at the time of the found-
+ing. See Amar, Marbury, Section 13, and the Original
+Jurisdiction of the Supreme Court, 56 U. Chi. L. Rev. 443,
+468–478 (1989). The Framers well understood that the
+resolution of this dry jurisdictional issue would have
+practical effects, ibid., and in a similar vein, the Court’s
+holding that the CAAF exercises something akin to judi-
+cial power will have unavoidable implications for many
+important issues that may arise regarding the operation of
+the military justice system, not to mention judicial review
+of the many decisions handed down by administrative
+agencies.
+   The majority disclaims the latter possibility, ante, at 19,
+but its effort is halfhearted at best. In reality there is no
+relevant distinction, so far as our appellate jurisdiction is
+concerned, between the court-martial system and the
+“other adjudicative bodies in the Executive Branch” that
+the majority tells us not to worry about. Ibid. The majority
+cites the “judicial character . . . of the court-martial
+system,” as well as its “constitutional foundations and
+history,” ibid., but as I have explained, the constitutional
+foundations, history, and fundamental character of mili-
+tary tribunals show that they are Executive Branch enti-
+ties that can only permissibly exercise executive power—
+just like civilian administrative agencies.
+   The Founders erected a high wall around our original
+jurisdiction, deliberately confining it to two classes of
+cases that were unlikely to touch the lives of most people.
+See The Federalist No. 81, at 488. Today’s decision erodes
+that wall. Because the Court ignores both the wisdom of
+the Founders, the clear, consistent teaching of our prece-
+dents, and the unambiguous text of the Constitution, I
+respectfully dissent.

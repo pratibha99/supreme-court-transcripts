@@ -1,0 +1,1872 @@
+(Slip Opinion)                 OCTOBER TERM, 2017                                    1
+                                          Syllabus
+           NOTE: Where it is feasible, a syllabus (headnote) will be released, as is
+         being done in connection with this case, at the time the opinion is issued.
+         The syllabus constitutes no part of the opinion of the Court but has been
+         prepared by the Reporter of Decisions for the convenience of the reader.
+         See United States v. Detroit Timber & Lumber Co., 200 U. S. 321, 337.
+SUPREME COURT OF THE UNITED STATES
+                                          Syllabus
+     MURPHY, GOVERNOR OF NEW JERSEY, ET AL. v.
+     NATIONAL COLLEGIATE ATHLETIC ASSN. ET AL.
+ CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR
+                                 THE THIRD CIRCUIT
+     No. 16–476.       Argued December 4, 2017—Decided May 14, 2018*
+The Professional and Amateur Sports Protection Act (PASPA) makes it
+   unlawful for a State or its subdivisions “to sponsor, operate, adver-
+   tise, promote, license, or authorize by law or compact . . . a lottery,
+   sweepstakes, or other betting, gambling, or wagering scheme based
+   . . . on” competitive sporting events, 28 U. S. C. §3702(1), and for “a
+   person to sponsor, operate, advertise, or promote” those same gam-
+   bling schemes if done “pursuant to the law or compact of a govern-
+   mental entity,” §3702(2). But PASPA does not make sports gambling
+   itself a federal crime. Instead, it allows the Attorney General, as well
+   as professional and amateur sports organizations, to bring civil ac-
+   tions to enjoin violations. §3703. “Grandfather” provisions allow ex-
+   isting forms of sports gambling to continue in four States,
+   §3704(a)(1)–(2), and another provision would have permitted New
+   Jersey to set up a sports gambling scheme in Atlantic City within a
+   year of PASPA’s enactment, §3704(a)(3).
+       New Jersey did not take advantage of that option but has since had
+   a change of heart. After voters approved an amendment to the State
+   Constitution giving the legislature the authority to legalize sports
+   gambling schemes in Atlantic City and at horseracing tracks, the leg-
+   islature enacted a 2012 law doing just that. The NCAA and three
+   major professional sports leagues brought an action in federal court
+   against New Jersey’s Governor and other state officials (hereinafter
+   New Jersey), seeking to enjoin the law on the ground that it violates
+——————
+   * Together with No. 16–477, New Jersey Thoroughbred Horsemen’s
+Assn., Inc. v. National Collegiate Athletic Assn. et al., also on certiorari
+to the same court.
+
+
+2      MURPHY v. NATIONAL COLLEGIATE ATHLETIC ASSN.
+                                 Syllabus
+  PASPA. New Jersey countered that PASPA violates the Constitu-
+  tion’s “anticommandeering” principle by preventing the State from
+  modifying or repealing its laws prohibiting sports gambling. The
+  District Court found no anticommandeering violation, the Third Cir-
+  cuit affirmed, and this Court denied review.
+     In 2014, the New Jersey Legislature enacted the law at issue in
+  these cases. Instead of affirmatively authorizing sports gambling
+  schemes, this law repeals state-law provisions that prohibited such
+  schemes, insofar as they concerned wagering on sporting events by
+  persons 21 years of age or older; at a horseracing track or a casino or
+  gambling house in Atlantic City; and only as to wagers on sporting
+  events not involving a New Jersey college team or a collegiate event
+  taking place in the State. Plaintiffs in the earlier suit, respondents
+  here, filed a new action in federal court. They won in the District
+  Court, and the Third Circuit affirmed, holding that the 2014 law, no
+  less than the 2012 one, violates PASPA. The court further held that
+  the prohibition does not “commandeer” the States in violation of the
+  Constitution.
+Held:
+     1. When a State completely or partially repeals old laws banning
+  sports gambling schemes, it “authorize[s]” those schemes under
+  PASPA. Pp. 9–14.
+        (a) Pointing out that one accepted meaning of “authorize” is
+  “permit,” petitioners contend that any state law that has the effect of
+  permitting sports gambling, including a law totally or partially re-
+  pealing a prior prohibition, amounts to authorization. Respondents
+  maintain that “authorize” requires affirmative action, and that the
+  2014 law affirmatively acts by empowering a defined group of entities
+  and endowing them with the authority to conduct sports gambling
+  operations. They do not take the position that PASPA bans all modi-
+  fications of laws prohibiting sports gambling schemes, but just how
+  far they think a modification could go is not clear. Similarly, the
+  United States, as amicus, claims that the State’s 2014 law qualifies
+  as an authorization. PASPA, it contends, neither prohibits a State
+  from enacting a complete repeal nor outlaws all partial repeals. But
+  the United States also does not set out any clear rule for distinguish-
+  ing between partial repeals that constitute the “authorization” of
+  sports gambling and those that are permissible. Pp. 10–11.
+        (b) Taking into account the fact that all forms of sports gambling
+  were illegal in the great majority of States at the time of PASPA’s
+  enactment, the repeal of a state law banning sports gambling not
+  only “permits” sports gambling but also gives those now free to conduct
+  a sports betting operation the “right or authority to act.” The inter-
+  pretation adopted by the Third Circuit and advocated by respondents
+
+
+                     Cite as: 584 U. S. ____ (2018)                    3
+                               Syllabus
+and the United States not only ignores the situation that Congress
+faced when it enacted PASPA but also leads to results that Congress
+is most unlikely to have wanted. Pp. 11–13.
+      (c) Respondents and the United States cannot invoke the canon
+of interpretation that a statute should not be held to be unconstitu-
+tional if there is any reasonable interpretation that can save it. Even
+if the law could be interpreted as respondents and the United States
+suggest, it would still violate the anticommandeering principle.
+Pp. 13–14.
+   2. PASPA’s provision prohibiting state authorization of sports
+gambling schemes violates the anticommandeering rule. Pp. 14–24.
+      (a) As the Tenth Amendment confirms, all legislative power not
+conferred on Congress by the Constitution is reserved for the States.
+Absent from the list of conferred powers is the power to issue direct
+orders to the governments of the States. The anticommandeering
+doctrine that emerged in New York v. United States, 505 U. S. 144,
+and Printz v. United States, 521 U. S. 898, simply represents the
+recognition of this limitation. Thus, “Congress may not simply ‘com-
+mandeer the legislative process of the States by directly compelling
+them to enact and enforce a federal regulatory program.’ ” New York,
+supra, at 161. Adherence to the anticommandeering principle is im-
+portant for several reasons, including, as significant here, that the
+rule serves as “one of the Constitution’s structural safeguards of lib-
+erty,” Printz, supra, at 921, that the rule promotes political accounta-
+bility, and that the rule prevents Congress from shifting the costs of
+regulation to the States. Pp. 14–18.
+      (b) PASPA’s anti-authorization provision unequivocally dictates
+what a state legislature may and may not do. The distinction be-
+tween compelling a State to enact legislation and prohibiting a State
+from enacting new laws is an empty one. The basic principle—that
+Congress cannot issue direct orders to state legislatures—applies in
+either event. Pp. 18–19.
+      (c) Contrary to the claim of respondents and the United States,
+this Court’s precedents do not show that PASPA’s anti-authorization
+provision is constitutional. South Carolina v. Baker, 485 U. S. 505;
+Reno v. Condon, 528 U. S. 141; Hodel v. Virginia Surface Mining &
+Reclamation Assn., Inc., 452 U. S. 264; FERC v. Mississippi, 456
+U. S. 742, distinguished. Pp. 19–21.
+      (d) Nor does the anti-authorization provision constitute a valid
+preemption provision. To preempt state law, it must satisfy two re-
+quirements. It must represent the exercise of a power conferred on
+Congress by the Constitution. And, since the Constitution “confers
+upon Congress the power to regulate individuals, not States,” New
+York, supra, at 177, it must be best read as one that regulates private
+
+
+4     MURPHY v. NATIONAL COLLEGIATE ATHLETIC ASSN.
+                                 Syllabus
+  actors. There is no way that the PASPA anti-authorization provision
+  can be understood as a regulation of private actors. It does not confer
+  any federal rights on private actors interested in conducting sports
+  gambling operations or impose any federal restrictions on private ac-
+  tors. Pp. 21–24.
+       3. PASPA’s provision prohibiting state “licens[ing]” of sports
+  gambling schemes also violates the anticommandeering rule. It is-
+  sues a direct order to the state legislature and suffers from the same
+  defect as the prohibition of state authorization. Thus, this Court
+  need not decide whether New Jersey’s 2014 law violates PASPA’s anti-
+  licensing provision. Pp. 24–25.
+       4. No provision of PASPA is severable from the provisions direct-
+  ly at issue. Pp. 26–30.
+          (a) Section 3702(1)’s provisions prohibiting States from “op-
+  erat[ing],” “sponsor[ing],” or “promot[ing]” sports gambling schemes
+  cannot be severed. Striking the state authorization and licensing
+  provisions while leaving the state operation provision standing would
+  result in a scheme sharply different from what Congress contemplat-
+  ed when PASPA was enacted. For example, had Congress known
+  that States would be free to authorize sports gambling in privately
+  owned casinos, it is unlikely that it would have wanted to prevent
+  States from operating sports lotteries. Nor is it likely that Congress
+  would have wanted to prohibit such an ill-defined category of state
+  conduct as sponsorship or promotion. Pp. 26–27.
+          (b) Congress would not want to sever the PASPA provisions
+  that prohibit a private actor from “sponsor[ing],” “operat[ing],” or
+  “promot[ing]” sports gambling schemes “pursuant to” state law.
+  §3702(2). PASPA’s enforcement scheme makes clear that §3702(1)
+  and §3702(2) were meant to operate together. That scheme—suited
+  for challenging state authorization or licensing or a small number of
+  private operations—would break down if a State broadly decriminal-
+  ized sports gambling. Pp. 27–29.
+          (c) PASPA’s provisions prohibiting the “advertis[ing]” of sports
+  gambling are also not severable. See §§3702(1)–(2). If they were al-
+  lowed to stand, federal law would forbid the advertising of an activity
+  that is legal under both federal and state law—something that Con-
+  gress has rarely done. Pp. 29–30.
+ 832 F. 3d 389, reversed.
+  ALITO, J., delivered the opinion of the Court, in which ROBERTS, C. J.,
+and KENNEDY, THOMAS, KAGAN, and GORSUCH, JJ., joined, and in which
+BREYER, J., joined as to all but Part VI–B. THOMAS, J., filed a concur-
+ring opinion. BREYER, J., filed an opinion concurring in part and dis-
+senting in part. GINSBURG, J., filed a dissenting opinion, in which SO-
+TOMAYOR, J., joined, and in which BREYER, J., joined in part.
+
+
+                        Cite as: 584 U. S. ____ (2018)                            1
+                              Opinion of the Court
+     NOTICE: This opinion is subject to formal revision before publication in the
+     preliminary print of the United States Reports. Readers are requested to
+     notify the Reporter of Decisions, Supreme Court of the United States, Wash­
+     ington, D. C. 20543, of any typographical or other formal errors, in order
+     that corrections may be made before the preliminary print goes to press.
+SUPREME COURT OF THE UNITED STATES
+                                    _________________
+                            Nos. 16–476 and 16–477
+                                    _________________
+        PHILIP D. MURPHY, GOVERNOR OF NEW
+                  JERSEY, ET AL., PETITIONERS
+16–476                                     v.
+             NATIONAL COLLEGIATE ATHLETIC
+                          ASSOCIATION, ET AL.
+    NEW JERSEY THOROUGHBRED HORSEMEN’S
+               ASSOCIATION, INC., PETITIONER
+16–477                                     v.
+             NATIONAL COLLEGIATE ATHLETIC
+                          ASSOCIATION, ET AL.
+ ON WRITS OF CERTIORARI TO THE UNITED STATES COURT OF
+                   APPEALS FOR THE THIRD CIRCUIT
+                                   [May 14, 2018]
+  JUSTICE ALITO delivered the opinion of the Court.
+  The State of New Jersey wants to legalize sports gam­
+bling at casinos and horseracing tracks, but a federal law,
+the Professional and Amateur Sports Protection Act,
+generally makes it unlawful for a State to “authorize”
+sports gambling schemes. 28 U. S. C. §3702(1). We must
+decide whether this provision is compatible with the sys­
+tem of “dual sovereignty” embodied in the Constitution.
+                                            I
+                                           A
+  Americans have never been of one mind about gambling,
+
+
+2      MURPHY v. NATIONAL COLLEGIATE ATHLETIC ASSN.
+                            Opinion of the Court
+and attitudes have swung back and forth. By the end of
+the 19th century, gambling was largely banned through­
+out the country,1 but beginning in the 1920s and 1930s,
+laws prohibiting gambling were gradually loosened.
+   New Jersey’s experience is illustrative. In 1897, New
+Jersey adopted a constitutional amendment that barred
+all gambling in the State.2 But during the Depression, the
+State permitted parimutuel betting on horse races as a
+way of increasing state revenue,3 and in 1953, churches
+and other nonprofit organizations were allowed to host
+bingo games.4 In 1970, New Jersey became the third
+State to run a state lottery,5 and within five years, 10
+other States followed suit.6
+   By the 1960s, Atlantic City, “once the most fashionable
+resort of the Atlantic Coast,” had fallen on hard times,7
+and casino gambling came to be seen as a way to revitalize
+the city.8 In 1974, a referendum on statewide legalization
+failed,9 but two years later, voters approved a narrower
+measure allowing casino gambling in Atlantic City alone.10
+At that time, Nevada was the only other State with legal
+——————
+  1 See Nat. Gambling Impact Study Comm’n, Final Report, p. 2–1
+(1999) (Final Report); S. Durham & K. Hashimoto, The History of
+Gambling in America 34–35 (2010).
+  2 See Atlantic City Racing Assn. v. Attorney General, 98 N. J. 535,
+539–541, 489 A. 2d 165, 167–168 (1985).
+  3 See Note, The Casino Act: Gambling’s Past and the Casino Act’s
+Future, 10 Rutgers-Camden L. J. 279, 287 (1979) (The Casino Act).
+  4 Id., at 288; see also N. J. Const., Art. 4, §7, ¶2(A); Bingo Licensing
+Law, N. J. Stat. Ann. §5:8–24 et seq. ( West 2012).
+  5 See State Lottery Law, N. J. Stat. Ann. §5:9–1 et seq.; The Casino
+Act, at 288; N. J. Const., Art. 4, §7, ¶2(C); Final Report, at 2–1.
+  6 Id., at 2–1.
+  7 T. White, The Making of the President 1964, p. 275 (1965).
+  8 See D. Clary, Gangsters to Governors 152–153 (2017) (Clary).
+  9 See The Casino Act, at 289.
+  10 See ibid.; N. J. Const., Art. 4, §7, ¶2(D).
+
+
+                        Cite as: 584 U. S. ____ (2018)                3
+                             Opinion of the Court
+casinos,11 and thus for a while the Atlantic City casinos
+had an east coast monopoly. “With 60 million people
+living within a one-tank car trip away,” Atlantic City
+became “the most popular tourist destination in the United
+States.”12 But that favorable situation eventually came
+to an end.
+   With the enactment of the Indian Gaming Regulatory
+Act in 1988, 25 U. S. C. §2701 et seq., casinos opened on
+Indian land throughout the country. Some were located
+within driving distance of Atlantic City,13 and nearby
+States (and many others) legalized casino gambling.14 But
+Nevada remained the only state venue for legal sports
+gambling in casinos, and sports gambling is immensely
+popular.15
+   Sports gambling, however, has long had strong opposi­
+tion. Opponents argue that it is particularly addictive and
+especially attractive to young people with a strong interest
+in sports,16 and in the past gamblers corrupted and seri­
+ously damaged the reputation of professional and amateur
+sports.17 Apprehensive about the potential effects of
+——————
+  11 Clary  146.
+  12 Id., at 146, 158.
+  13 Id., at 208–210.
+  14 Casinos now operate in New York, Pennsylvania, Delaware, and
+Maryland. See American Gaming Assn., 2016 State of the States, p. 8,
+online at https://www.americangaming.org/sites/default/files/2016%20
+State%20of%20the%20States_FINAL.pdf (all Internet materials as last
+visited May 4, 2018).
+  15 See, e.g., Brief for American Gaming Assn. as Amicus Curiae 1–2.
+  16 See, e.g., Final Report, at 3–10; B. Bradley, The Professional and
+Amateur Sports Protection Act—Policy Concerns Behind Senate Bill
+474, 2 Seton Hall J. Sport L. 5, 7 (1992); Brief for Stop Predatory
+Gambling et al. as Amici Curiae 22–23.
+  17 For example, in 1919, professional gamblers are said to have paid
+members of the Chicago White Sox to throw the World Series, an
+episode that was thought to have threatened baseball’s status as the
+Nation’s pastime. See E. Asinof, Eight Men Out: The Black Sox and
+
+
+4       MURPHY v. NATIONAL COLLEGIATE ATHLETIC ASSN.
+                             Opinion of the Court
+sports gambling, professional sports leagues and the
+National Collegiate Athletic Association (NCAA) long
+opposed legalization.18
+                                      B
+    By the 1990s, there were signs that the trend that had
+brought about the legalization of many other forms of
+gambling might extend to sports gambling,19 and this
+sparked federal efforts to stem the tide. Opponents of
+sports gambling turned to the legislation now before us,
+the Professional and Amateur Sports Protection Act
+(PASPA). 28 U. S. C. §3701 et seq. PASPA’s proponents
+argued that it would protect young people, and one of the
+bill’s sponsors, Senator Bill Bradley of New Jersey, a
+former college and professional basketball star, stressed
+that the law was needed to safeguard the integrity of
+sports.20 The Department of Justice opposed the bill,21 but
+it was passed and signed into law.
+    PASPA’s most important provision, part of which is
+directly at issue in these cases, makes it “unlawful” for a
+State or any of its subdivisions22 “to sponsor, operate,
+——————
+the 1919 World Series 5, 198–199 (1963). And in the early 1950s, the
+Nation was shocked when several college basketball players were
+convicted for shaving points. S. Cohen, The Game They Played 183–
+238 (1977). This scandal is said to have nearly killed college basket­
+ball. See generally C. Rosen, Scandals of ’51: How the Gamblers
+Almost Killed College Basketball (1978).
+   18 See Professional and Amateur Sports Protection, S. Rep. No. 102–
+248, p. 8 (1991); Hearing before the Subcommittee on Patents, Copy­
+rights and Trademarks of the Senate Committee on the Judiciary, 102d
+Cong., 1st Sess., 21, 39, 46–47, 59–60, 227 (1991) (S. Hrg. 102–499)
+(statements by representatives of major sports leagues opposing sports
+gambling).
+   19 S. Rep. No. 102–248, at 5.
+   20 S. Hrg. 102–499, at 10–14.
+   21 App. to Pet. for Cert. in No. 16–476, p. 225a.
+   22 The statute applies to any “governmental entity,” which is defined
+
+
+                       Cite as: 584 U. S. ____ (2018)                    5
+                            Opinion of the Court
+advertise, promote, license, or authorize by law or compact
+. . . a lottery, sweepstakes, or other betting, gambling, or
+wagering scheme based . . . on” competitive sporting
+events. §3702(1). In parallel, §3702(2) makes it “unlaw­
+ful” for “a person to sponsor, operate, advertise, or pro­
+mote” those same gambling schemes23—but only if this is
+done “pursuant to the law or compact of a governmental
+entity.” PASPA does not make sports gambling a federal
+crime (and thus was not anticipated to impose a signifi­
+cant law enforcement burden on the Federal Govern­
+ment).24 Instead, PASPA allows the Attorney General, as
+well as professional and amateur sports organizations, to
+bring civil actions to enjoin violations. §3703.
+    At the time of PASPA’s adoption, a few jurisdictions
+allowed some form of sports gambling. In Nevada, sports
+gambling was legal in casinos,25 and three States hosted
+sports lotteries or allowed sports pools.26 PASPA contains
+“grandfather” provisions allowing these activities to con­
+tinue. §3704(a)(1)–(2). Another provision gave New Jer­
+sey the option of legalizing sports gambling in Atlantic
+City—provided that it did so within one year of the law’s
+——————
+as “a State, a political subdivision of a State, or an entity or organiza­
+tion . . . that has governmental authority within the territorial bounda­
+ries of the United States.” 28 U. S. C. §3701(2).
+   23 PASPA does not define the term “scheme.” The United States has
+not offered a definition of the term but suggests that it encompasses
+only those forms of gambling having some unspecified degree of organi­
+zation or structure. See Brief for United States as Amicus Curiae 28–
+29. For convenience, we will use the term “sports gambling” to refer to
+whatever forms of sports gambling fall within PASPA’s reach.
+   24 The Congressional Budget Office estimated that PASPA would not
+require the appropriation of any federal funds. S. Rep. No. 102–248, at
+10.
+   25 Ibid.
+   26 Ibid.; 138 Cong. Rec. 12973.
+
+
+6     MURPHY v. NATIONAL COLLEGIATE ATHLETIC ASSN.
+                          Opinion of the Court
+effective date. §3704(a)(3).27
+   New Jersey did not take advantage of this special op­
+tion, but by 2011, with Atlantic City facing stiff competi­
+tion, the State had a change of heart. New Jersey voters
+approved an amendment to the State Constitution making
+it lawful for the legislature to authorize sports gambling,
+Art. IV, §7, ¶2(D), (F), and in 2012 the legislature enacted
+a law doing just that, 2011 N. J. Laws p. 1723 (2012 Act).
+   The 2012 Act quickly came under attack. The major
+professional sports leagues and the NCAA brought an
+action in federal court against the New Jersey Governor
+and other state officials (hereinafter New Jersey), seeking
+to enjoin the new law on the ground that it violated
+PASPA. In response, the State argued, among other
+things, that PASPA unconstitutionally infringed the
+State’s sovereign authority to end its sports gambling ban.
+See National Collegiate Athletic Assn. v. Christie, 926
+F. Supp. 2d 551, 561 (NJ 2013).
+   In making this argument, the State relied primarily on
+two cases, New York v. United States, 505 U. S. 144
+(1992), and Printz v. United States, 521 U. S. 898 (1997),
+in which we struck down federal laws based on what has
+been dubbed the “anticommandeering” principle. In New
+York, we held that a federal law unconstitutionally or­
+dered the State to regulate in accordance with federal
+standards, and in Printz, we found that another federal
+statute unconstitutionally compelled state officers to
+enforce federal law.
+   Relying on these cases, New Jersey argued that PASPA
+is similarly flawed because it regulates a State’s exercise
+——————
+  27 Although this provision did not specifically mention New Jersey or
+Atlantic City, its requirements—permitting legalization only “in a
+municipality” with an uninterrupted 10-year history of legal casino
+gaming—did not fit anyplace else.
+
+
+                  Cite as: 584 U. S. ____ (2018)             7
+                       Opinion of the Court
+of its lawmaking power by prohibiting it from modifying or
+repealing its laws prohibiting sports gambling. See Na-
+tional Collegiate Athletic Assn. v. Christie, 926
+F. Supp. 2d, at 561–562. The plaintiffs countered that
+PASPA is critically different from the commandeering
+cases because it does not command the States to take any
+affirmative act. Id., at 562. Without an affirmative fed­
+eral command to do something, the plaintiffs insisted, there
+can be no claim of commandeering. Ibid.
+   The District Court found no anticommandeering viola­
+tion, id., at 569–573, and a divided panel of the Third
+Circuit affirmed, National Collegiate Athletic Assn. v.
+Christie, 730 F. 3d 208 (2013) (Christie I ). The panel
+thought it significant that PASPA does not impose any
+affirmative command. Id., at 231. In the words of the
+panel, “PASPA does not require or coerce the states to lift
+a finger.” Ibid. (emphasis deleted). The panel recognized
+that an affirmative command (for example, “Do not re­
+peal”) can often be phrased as a prohibition (“Repeal is
+prohibited”), but the panel did not interpret PASPA as
+prohibiting the repeal of laws outlawing sports gambling.
+Id., at 232. A repeal, it thought, would not amount to
+“authoriz[ation]” and thus would fall outside the scope of
+§3702(1). “[T]he lack of an affirmative prohibition of an
+activity,” the panel wrote, “does not mean it is affirmatively
+authorized by law. The right to do that which is not
+prohibited derives not from the authority of the state but
+from the inherent rights of the people.” Id., at 232 (em­
+phasis deleted).
+   New Jersey filed a petition for a writ of certiorari, rais­
+ing the anticommandeering issue. Opposing certiorari,
+the United States told this Court that PASPA does not
+require New Jersey “to leave in place the state-law prohi­
+bitions against sports gambling that it had chosen to
+adopt prior to PASPA’s enactment. To the contrary, New
+Jersey is free to repeal those prohibitions in whole or in
+
+
+8     MURPHY v. NATIONAL COLLEGIATE ATHLETIC ASSN.
+                      Opinion of the Court
+part.” Brief for United States in Opposition in Christie v.
+National Collegiate Athletic Assn., O. T. 2013, No. 13–967
+etc., p. 11. See also Brief for Respondents in Opposition in
+No. 13–967 etc., p. 23 (“Nothing in that unambiguous
+language compels states to prohibit or maintain any exist­
+ing prohibition on sports gambling”). We denied review.
+Christie v. National Collegiate Athletic Assn., 573 U. S. ___
+(2014).
+   Picking up on the suggestion that a partial repeal would
+be allowed, the New Jersey Legislature enacted the law
+now before us. 2014 N. J. Laws p. 602 (2014 Act). The
+2014 Act declares that it is not to be interpreted as caus­
+ing the State to authorize, license, sponsor, operate, adver­
+tise, or promote sports gambling. Ibid. Instead, it is
+framed as a repealer. Specifically, it repeals the provi­
+sions of state law prohibiting sports gambling insofar as
+they concerned the “placement and acceptance of wagers”
+on sporting events by persons 21 years of age or older at a
+horseracing track or a casino or gambling house in Atlan­
+tic City. Ibid. The new law also specified that the repeal
+was effective only as to wagers on sporting events not
+involving a New Jersey college team or a collegiate event
+taking place in the State. Ibid.
+   Predictably, the same plaintiffs promptly commenced a
+new action in federal court. They won in the District
+Court, National Collegiate Athletic Assn. v. Christie, 61
+F. Supp. 3d 488 (NJ 2014), and the case was eventually
+heard by the Third Circuit sitting en banc. The en banc
+court affirmed, finding that the new law, no less than the
+old one, violated PASPA by “author[izing]” sports gam­
+bling. National Collegiate Athletic Assn. v. Governor of
+N. J., 832 F. 3d 389 (2016) (case below). The court was
+unmoved by the New Jersey Legislature’s “artful[]” at­
+tempt to frame the 2014 Act as a repealer. Id., at 397.
+Looking at what the law “actually does,” the court con­
+cluded that it constitutes an authorization because it
+
+
+                  Cite as: 584 U. S. ____ (2018)            9
+                       Opinion of the Court
+“selectively remove[s] a prohibition on sports wagering in
+a manner that permissively channels wagering activity to
+particular locations or operators.” Id., at 397, 401. The
+court disavowed some of the reasoning in the Christie I
+opinion, finding its discussion of “the relationship between
+a ‘repeal’ and an ‘authorization’ to have been too facile.”
+832 F. 3d, at 401. But the court declined to say whether a
+repeal that was more complete than the 2014 Act would
+still amount to an authorization. The court observed that
+a partial repeal that allowed only “de minimis wagers
+between friends and family would not have nearly the type
+of authorizing effect” that it found in the 2014 Act, and it
+added: “We need not . . . articulate a line whereby a partial
+repeal of a sports wagering ban amounts to an authoriza­
+tion under PASPA, if indeed such a line could be drawn.”
+Id., at 402 (emphasis added).
+   Having found that the 2014 Act violates PASPA’s prohi­
+bition of state authorization of sports gambling schemes,
+the court went on to hold that this prohibition does not
+contravene the anticommandeering principle because it
+“does not command states to take affirmative actions.”
+Id., at 401.
+   We granted review to decide the important constitutional
+question presented by these cases, sub nom. Christie v.
+National Collegiate Athletic Assn., 582 U. S. ___ (2017).
+                                II
+   Before considering the constitutionality of the PASPA
+provision prohibiting States from “author[izing]” sports
+gambling, we first examine its meaning. The parties
+advance dueling interpretations, and this dispute has an
+important bearing on the constitutional issue that we
+must decide. Neither respondents nor the United States,
+appearing as an amicus in support of respondents, con­
+tends that the provision at issue would be constitutional if
+petitioners’ interpretation is correct. Indeed, the United
+
+
+10    MURPHY v. NATIONAL COLLEGIATE ATHLETIC ASSN.
+                      Opinion of the Court
+States expressly concedes that the provision is unconstitu­
+tional if it means what petitioners claim. Brief for United
+States 8, 19.
+                               A
+   Petitioners argue that the anti-authorization provision
+requires States to maintain their existing laws against
+sports gambling without alteration. One of the accepted
+meanings of the term “authorize,” they point out, is “per­
+mit.” Brief for Petitioners in No. 16–476, p. 42 (citing
+Black’s Law Dictionary 133 (6th ed. 1990); Webster’s
+Third New International Dictionary 146 (1992)). They
+therefore contend that any state law that has the effect of
+permitting sports gambling, including a law totally or
+partially repealing a prior prohibition, amounts to an
+authorization. Brief for Petitioners in No. 16–476, at 42.
+   Respondents interpret the provision more narrowly.
+They claim that the primary definition of “authorize”
+requires affirmative action. Brief for Respondents 39. To
+authorize, they maintain, means “ ‘[t]o empower; to give a
+right or authority to act; to endow with authority.’ ” Ibid.
+(quoting Black’s Law Dictionary, at 133). And this, they
+say, is precisely what the 2014 Act does: It empowers a
+defined group of entities, and it endows them with the
+authority to conduct sports gambling operations.
+   Respondents do not take the position that PASPA bans
+all modifications of old laws against sports gambling, Brief
+for Respondents 20, but just how far they think a modifi­
+cation could go is not clear. They write that a State “can
+also repeal or enhance [laws prohibiting sports gambling]
+without running afoul of PASPA” but that it “cannot ‘par­
+tially repeal’ a general prohibition for only one or two
+preferred providers, or only as to sports-gambling schemes
+conducted by the state.” Ibid. Later in their brief, they
+elaborate on this point:
+     “If, for example, a state had an existing felony prohi­
+
+
+                  Cite as: 584 U. S. ____ (2018)           11
+                       Opinion of the Court
+     bition on all lotteries, it could maintain the law, it
+     could repeal the law, it could downgrade the crime to
+     a misdemeanor or increase the penalty . . . . But if the
+     state modified its law, whether through a new author­
+     ization or through an amendment partially repealing
+     the existing prohibition, to authorize the state to con­
+     duct a sports lottery, that modified law would be
+     preempted.” Id., at 31.
+   The United States makes a similar argument. PASPA,
+it contends, does not prohibit a State from enacting a
+complete repeal because “one would not ordinarily say
+that private conduct is ‘authorized by law’ simply because
+the government has not prohibited it.” Brief for United
+States 17. But the United States claims that “[t]he 2014
+Act’s selective and conditional permission to engage in
+conduct that is generally prohibited certainly qualifies” as
+an authorization. Ibid. The United States does not argue
+that PASPA outlaws all partial repeals, but it does not set
+out any clear rule for distinguishing between partial re­
+peals that constitute the “authorization” of sports gam­
+bling and those that are permissible. The most that it is
+willing to say is that a State could “eliminat[e] prohibi­
+tions on sports gambling involving wagers by adults or
+wagers below a certain dollar threshold.” Id., at 29.
+                                B
+   In our view, petitioners’ interpretation is correct: When
+a State completely or partially repeals old laws banning
+sports gambling, it “authorize[s]” that activity. This is
+clear when the state-law landscape at the time of PASPA’s
+enactment is taken into account. At that time, all forms of
+sports gambling were illegal in the great majority of
+States, and in that context, the competing definitions
+offered by the parties lead to the same conclusion. The
+repeal of a state law banning sports gambling not only
+“permits” sports gambling (petitioners’ favored definition);
+
+
+12    MURPHY v. NATIONAL COLLEGIATE ATHLETIC ASSN.
+                           Opinion of the Court
+it also gives those now free to conduct a sports betting
+operation the “right or authority to act”; it “empowers”
+them (respondents’ and the United States’s definition).
+   The concept of state “authorization” makes sense only
+against a backdrop of prohibition or regulation. A State is
+not regarded as authorizing everything that it does not
+prohibit or regulate. No one would use the term in that
+way. For example, no one would say that a State “author­
+izes” its residents to brush their teeth or eat apples or sing
+in the shower. We commonly speak of state authoriza-
+tion only if the activity in question would otherwise be
+restricted.28
+   The United States counters that, even if the term “au­
+thorize,” standing alone, is interpreted as petitioners
+claim, PASPA contains additional language that precludes
+that reading. The provision at issue refers to “author­
+iz[ation] by law,” §3702(1) (emphasis added), and the
+parallel provision governing private conduct, §3702(2),
+applies to conduct done “pursuant to the law . . . of a gov­
+ernmental entity.” The United States maintains that one
+“would not naturally describe a person conducting a
+sports-gambling operation that is merely left unregulated
+as acting ‘pursuant to’ state law.” Brief for United States
+18. But one might well say exactly that if the person
+previously was prohibited from engaging in the activity.
+(“Now that the State has legalized the sale of marijuana,
+Joe is able to sell the drug pursuant to state law.”)
+   The United States also claims to find support for its
+interpretation in the fact that the authorization ban ap-
+——————
+  28 See, e.g., A. McCullum, Vermont’s legal recreational marijuana law:
+What you should know, USA Today Network (Jan. 23, 2018), online at
+https://www.usatoday.com/story/news/nation-now/ 2018/ 01 /23 / vermont­
+legal-marijuana-law-what-know/1056869001/ (“Vermont . . . bec[ame]
+the first [State] in the country to authorize the recreational use of
+[marijuana] by an act of a state legislature.” (emphasis added)).
+
+
+                  Cite as: 584 U. S. ____ (2018)          13
+                       Opinion of the Court
+plies to all “governmental entities.” It is implausible, the
+United States submits, to think that Congress “commanded
+every county, district, and municipality in the Nation to
+prohibit sports betting.” Ibid. But in making this argu­
+ment, the United States again ignores the legal landscape
+at the time of PASPA’s enactment. At that time, sports
+gambling was generally prohibited by state law, and
+therefore a State’s political subdivisions were powerless to
+legalize the activity. But what if a State enacted a law
+enabling, but not requiring, one or more of its subdivisions
+to decide whether to authorize sports gambling? Such
+a state law would not itself authorize sports gambling.
+The ban on legalization at the local level addresses this
+problem.
+  The interpretation adopted by the Third Circuit and
+advocated by respondents and the United States not only
+ignores the situation that Congress faced when it enacted
+PASPA but also leads to results that Congress is most
+unlikely to have wanted. This is illustrated by the im­
+plausible conclusions that all of those favoring alternative
+interpretations have been forced to reach about the extent
+to which the provision permits the repeal of laws banning
+sports gambling.
+  The Third Circuit could not say which, if any, partial
+repeals are allowed. 832 F. 3d, at 402. Respondents and
+the United States tell us that the PASPA ban on state
+authorization allows complete repeals, but beyond that
+they identify no clear line. It is improbable that Congress
+meant to enact such a nebulous regime.
+                                C
+  The respondents and United States argue that even if
+there is some doubt about the correctness of their inter­
+pretation of the anti-authorization provision, that inter­
+pretation should be adopted in order to avoid any anti-
+commandeering problem that would arise if the provision
+
+
+14    MURPHY v. NATIONAL COLLEGIATE ATHLETIC ASSN.
+                       Opinion of the Court
+were construed to require States to maintain their laws
+prohibiting sports gambling. Brief for Respondents 38;
+Brief for United States 19. They invoke the canon of
+interpretation that a statute should not be held to be
+unconstitutional if there is any reasonable interpretation
+that can save it. See Jennings v. Rodriguez, 583 U. S. ___,
+___ (2018) (slip op., at 12). The plausibility of the alterna­
+tive interpretations is debatable, but even if the law could
+be interpreted as respondents and the United States
+suggest, it would still violate the anticommandeering
+principle, as we now explain.
+                               III
+                                A
+   The anticommandeering doctrine may sound arcane, but
+it is simply the expression of a fundamental structural
+decision incorporated into the Constitution, i.e., the deci­
+sion to withhold from Congress the power to issue orders
+directly to the States. When the original States declared
+their independence, they claimed the powers inherent in
+sovereignty—in the words of the Declaration of Independ­
+ence, the authority “to do all . . . Acts and Things which
+Independent States may of right do.” ¶32. The Constitu­
+tion limited but did not abolish the sovereign powers of the
+States, which retained “a residuary and inviolable sover­
+eignty.” The Federalist No. 39, p. 245 (C. Rossiter ed.
+1961). Thus, both the Federal Government and the States
+wield sovereign powers, and that is why our system of
+government is said to be one of “dual sovereignty.” Greg-
+ory v. Ashcroft, 501 U. S. 452, 457 (1991).
+   The Constitution limits state sovereignty in several
+ways. It directly prohibits the States from exercising some
+attributes of sovereignty. See, e.g., Art. I, §10. Some
+grants of power to the Federal Government have been held
+to impose implicit restrictions on the States. See, e.g.,
+Department of Revenue of Ky. v. Davis, 553 U. S. 328
+
+
+                   Cite as: 584 U. S. ____ (2018)          15
+                        Opinion of the Court
+(2008); American Ins. Assn. v. Garamendi, 539 U. S. 396
+(2003). And the Constitution indirectly restricts the
+States by granting certain legislative powers to Congress,
+see Art. I, §8, while providing in the Supremacy Clause
+that federal law is the “supreme Law of the Land . . . any
+Thing in the Constitution or Laws of any State to the
+Contrary notwithstanding,” Art. VI, cl. 2. This means that
+when federal and state law conflict, federal law prevails
+and state law is preempted.
+   The legislative powers granted to Congress are sizable,
+but they are not unlimited. The Constitution confers on
+Congress not plenary legislative power but only certain
+enumerated powers. Therefore, all other legislative power
+is reserved for the States, as the Tenth Amendment con­
+firms. And conspicuously absent from the list of powers
+given to Congress is the power to issue direct orders to the
+governments of the States. The anticommandeering doc­
+trine simply represents the recognition of this limit on
+congressional authority.
+   Although the anticommandeering principle is simple
+and basic, it did not emerge in our cases until relatively
+recently, when Congress attempted in a few isolated in­
+stances to extend its authority in unprecedented ways.
+The pioneering case was New York v. United States, 505
+U. S. 144 (1992), which concerned a federal law that re­
+quired a State, under certain circumstances, either to
+“take title” to low-level radioactive waste or to “regulat[e]
+according to the instructions of Congress.” Id., at 175. In
+enacting this provision, Congress issued orders to either
+the legislative or executive branch of state government
+(depending on the branch authorized by state law to take
+the actions demanded). Either way, the Court held, the
+provision was unconstitutional because “the Constitution
+does not empower Congress to subject state governments
+to this type of instruction.” Id., at 176.
+   Justice O’Connor’s opinion for the Court traced this rule
+
+
+16    MURPHY v. NATIONAL COLLEGIATE ATHLETIC ASSN.
+                        Opinion of the Court
+to the basic structure of government established under the
+Constitution. The Constitution, she noted, “confers upon
+Congress the power to regulate individuals, not States.”
+Id., at 166. In this respect, the Constitution represented a
+sharp break from the Articles of Confederation. “Under
+the Articles of Confederation, Congress lacked the author­
+ity in most respects to govern the people directly.” Id., at
+163. Instead, Congress was limited to acting “ ‘only upon
+the States.’ ” Id., at 162 (quoting Lane County v. Oregon, 7
+Wall. 71, 76 (1869)). Alexander Hamilton, among others,
+saw this as “ ‘[t]he great and radical vice in . . . the existing
+Confederation.’ ” 505 U. S., at 163 (quoting The Federalist
+No. 15, at 108). The Constitutional Convention considered
+plans that would have preserved this basic structure, but
+it rejected them in favor of a plan under which “Congress
+would exercise its legislative authority directly over indi­
+viduals rather than over States.” 505 U. S., at 165.
+   As to what this structure means with regard to Con­
+gress’s authority to control state legislatures, New York
+was clear and emphatic. The opinion recalled that “no
+Member of the Court ha[d] ever suggested” that even “a
+particularly strong federal interest” “would enable Con­
+gress to command a state government to enact state regu­
+lation.” Id., at 178 (emphasis in original). “We have
+always understood that even where Congress has the
+authority under the Constitution to pass laws requiring or
+prohibiting certain acts, it lacks the power directly to
+compel the States to require or prohibit those acts.” Id., at
+166. “Congress may not simply ‘commandee[r] the legisla­
+tive processes of the States by directly compelling them to
+enact and enforce a federal regulatory program.’ ” Id., at
+161 (quoting Hodel v. Virginia Surface Mining & Recla-
+mation Assn., Inc., 452 U. S. 264, 288 (1981)). “Where a
+federal interest is sufficiently strong to cause Congress to
+legislate, it must do so directly; it may not conscript state
+governments as its agents.” 505 U. S., at 178.
+
+
+                   Cite as: 584 U. S. ____ (2018)            17
+                        Opinion of the Court
+   Five years after New York, the Court applied the same
+principles to a federal statute requiring state and local law
+enforcement officers to perform background checks and
+related tasks in connection with applications for handgun
+licenses. Printz, 521 U. S. 898. Holding this provision
+unconstitutional, the Court put the point succinctly: “The
+Federal Government” may not “command the States’
+officers, or those of their political subdivisions, to adminis­
+ter or enforce a federal regulatory program.” Id., at 935.
+This rule applies, Printz held, not only to state officers
+with policymaking responsibility but also to those as­
+signed more mundane tasks. Id., at 929–930.
+                                 B
+   Our opinions in New York and Printz explained why
+adherence to the anticommandeering principle is im­
+portant. Without attempting a complete survey, we men­
+tion several reasons that are significant here.
+   First, the rule serves as “one of the Constitution’s struc­
+tural protections of liberty.” Printz, supra, at 921. “The
+Constitution does not protect the sovereignty of States for
+the benefit of the States or state governments as abstract
+political entities.” New York, supra, at 181. “To the con­
+trary, the Constitution divides authority between federal
+and state governments for the protection of individuals.”
+Ibid. “ ‘[A] healthy balance of power between the States
+and the Federal Government [reduces] the risk of tyranny
+and abuse from either front.’ ” Id., at 181–182 (quoting
+Gregory, 501 U. S., at 458).
+   Second, the anticommandeering rule promotes political
+accountability. When Congress itself regulates, the re­
+sponsibility for the benefits and burdens of the regulation
+is apparent. Voters who like or dislike the effects of the
+regulation know who to credit or blame. By contrast, if a
+State imposes regulations only because it has been com­
+manded to do so by Congress, responsibility is blurred.
+
+
+18    MURPHY v. NATIONAL COLLEGIATE ATHLETIC ASSN.
+                        Opinion of the Court
+See New York, supra, at 168–169; Printz, supra, at 929–
+930.
+   Third, the anticommandeering principle prevents Con­
+gress from shifting the costs of regulation to the States. If
+Congress enacts a law and requires enforcement by the
+Executive Branch, it must appropriate the funds needed to
+administer the program. It is pressured to weigh the
+expected benefits of the program against its costs. But if
+Congress can compel the States to enact and enforce its
+program, Congress need not engage in any such analysis.
+See, e.g., E. Young, Two Cheers for Process Federalism, 46
+Vill. L. Rev. 1349, 1360–1361 (2001).
+                                IV
+                                 A
+   The PASPA provision at issue here—prohibiting state
+authorization of sports gambling—violates the anticom­
+mandeering rule. That provision unequivocally dictates
+what a state legislature may and may not do. And this is
+true under either our interpretation or that advocated by
+respondents and the United States. In either event, state
+legislatures are put under the direct control of Congress.
+It is as if federal officers were installed in state legislative
+chambers and were armed with the authority to stop
+legislators from voting on any offending proposals. A more
+direct affront to state sovereignty is not easy to imagine.
+   Neither respondents nor the United States contends
+that Congress can compel a State to enact legislation, but
+they say that prohibiting a State from enacting new laws
+is another matter. See Brief for Respondents 19; Brief for
+United States 12. Noting that the laws challenged in New
+York and Printz “told states what they must do instead of
+what they must not do,” respondents contend that com­
+mandeering occurs “only when Congress goes beyond
+precluding state action and affirmatively commands it.”
+Brief for Respondents 19 (emphasis deleted).
+
+
+                  Cite as: 584 U. S. ____ (2018)           19
+                       Opinion of the Court
+   This distinction is empty. It was a matter of happen­
+stance that the laws challenged in New York and Printz
+commanded “affirmative” action as opposed to imposing a
+prohibition. The basic principle—that Congress cannot
+issue direct orders to state legislatures—applies in either
+event.
+   Here is an illustration. PASPA includes an exemption
+for States that permitted sports betting at the time of
+enactment, §3704, but suppose Congress did not adopt
+such an exemption. Suppose Congress ordered States
+with legalized sports betting to take the affirmative step of
+criminalizing that activity and ordered the remaining
+States to retain their laws prohibiting sports betting.
+There is no good reason why the former would intrude
+more deeply on state sovereignty than the latter.
+                                B
+   Respondents and the United States claim that prior
+decisions of this Court show that PASPA’s anti-
+authorization provision is constitutional, but they misread
+those cases. In none of them did we uphold the constitu­
+tionality of a federal statute that commanded state legis­
+latures to enact or refrain from enacting state law.
+   In South Carolina v. Baker, 485 U. S. 505 (1988), the
+federal law simply altered the federal tax treatment of
+private investments. Specifically, it removed the federal
+tax exemption for interest earned on state and local bonds
+unless they were issued in registered rather than bearer
+form. This law did not order the States to enact or main­
+tain any existing laws. Rather, it simply had the indirect
+effect of pressuring States to increase the rate paid on
+their bearer bonds in order to make them competitive with
+other bonds paying taxable interest.
+   In any event, even if we assume that removal of the tax
+exemption was tantamount to an outright prohibition of
+the issuance of bearer bonds, see id., at 511, the law would
+
+
+20    MURPHY v. NATIONAL COLLEGIATE ATHLETIC ASSN.
+                      Opinion of the Court
+simply treat state bonds the same as private bonds. The
+anticommandeering doctrine does not apply when Con­
+gress evenhandedly regulates an activity in which both
+States and private actors engage.
+   That principle formed the basis for the Court’s decision
+in Reno v. Condon, 528 U. S. 141 (2000), which concerned
+a federal law restricting the disclosure and dissemination
+of personal information provided in applications for driv­
+er’s licenses. The law applied equally to state and private
+actors. It did not regulate the States’ sovereign authority
+to “regulate their own citizens.” Id., at 151.
+   In Hodel, 452 U. S., at 289, the federal law, which in­
+volved what has been called “cooperative federalism,” by
+no means commandeered the state legislative process.
+Congress enacted a statute that comprehensively regulated
+surface coal mining and offered States the choice of
+“either implement[ing]” the federal program “or else
+yield[ing] to a federally administered regulatory program.”
+Ibid. Thus, the federal law allowed but did not require the
+States to implement a federal program. “States [were] not
+compelled to enforce the [federal] standards, to expend
+any state funds, or to participate in the federal regulatory
+program in any manner whatsoever.” Id., at 288. If a
+State did not “wish” to bear the burden of regulation, the
+“full regulatory burden [would] be borne by the Federal
+Government.” Ibid.
+   Finally, in FERC v. Mississippi, 456 U. S. 742 (1982),
+the federal law in question issued no command to a state
+legislature. Enacted to restrain the consumption of oil
+and natural gas, the federal law directed state utility
+regulatory commissions to consider, but not necessarily to
+adopt, federal “ ‘rate design’ and regulatory standards.”
+Id., at 746. The Court held that this modest requirement
+did not infringe the States’ sovereign powers, but the
+Court warned that it had “never . . . sanctioned explicitly a
+federal command to the States to promulgate and enforce
+
+
+                   Cite as: 584 U. S. ____ (2018)          21
+                        Opinion of the Court
+laws and regulations.” Id., at 761–762. FERC was decided
+well before our decisions in New York and Printz, and
+PASPA, unlike the law in FERC, does far more than re­
+quire States to consider Congress’s preference that the
+legalization of sports gambling be halted. See Printz, 521
+U. S., at 929 (distinguishing FERC ).
+   In sum, none of the prior decisions on which respond­
+ents and the United States rely involved federal laws that
+commandeered the state legislative process. None con­
+cerned laws that directed the States either to enact or to
+refrain from enacting a regulation of the conduct of activi­
+ties occurring within their borders. Therefore, none of
+these precedents supports the constitutionality of the
+PASPA provision at issue here.
+                                 V
+   Respondents and the United States defend the anti-
+authorization prohibition on the ground that it constitutes
+a valid preemption provision, but it is no such thing.
+Preemption is based on the Supremacy Clause, and that
+Clause is not an independent grant of legislative power to
+Congress. Instead, it simply provides “a rule of decision.”
+Armstrong v. Exceptional Child Center, Inc., 575 U. S. ___,
+___ (2015) (slip op., at 3). It specifies that federal law is
+supreme in case of a conflict with state law. Therefore, in
+order for the PASPA provision to preempt state law, it
+must satisfy two requirements. First, it must represent
+the exercise of a power conferred on Congress by the Con­
+stitution; pointing to the Supremacy Clause will not do.
+Second, since the Constitution “confers upon Congress the
+power to regulate individuals, not States,” New York, 505
+U. S., at 166, the PASPA provision at issue must be best
+read as one that regulates private actors.
+   Our cases have identified three different types of
+preemption—“conflict,” “express,” and “field,” see English
+v. General Elec. Co., 496 U. S. 72, 78–79 (1990)—but all of
+
+
+22    MURPHY v. NATIONAL COLLEGIATE ATHLETIC ASSN.
+                       Opinion of the Court
+them work in the same way: Congress enacts a law that
+imposes restrictions or confers rights on private actors; a
+state law confers rights or imposes restrictions that con­
+flict with the federal law; and therefore the federal law
+takes precedence and the state law is preempted.
+   This mechanism is shown most clearly in cases involv­
+ing “conflict preemption.” A recent example is Mutual
+Pharmaceutical Co. v. Bartlett, 570 U. S. 472 (2013). In
+that case, a federal law enacted under the Commerce
+Clause regulated manufacturers of generic drugs, prohib­
+iting them from altering either the composition or labeling
+approved by the Food and Drug Administration. A State’s
+tort law, however, effectively required a manufacturer to
+supplement the warnings included in the FDA-approved
+label. Id., at 480–486. We held that the state law was
+preempted because it imposed a duty that was incon­
+sistent—i.e., in conflict—with federal law. Id., at 493.
+   “Express preemption” operates in essentially the same
+way, but this is often obscured by the language used by
+Congress in framing preemption provisions. The provision
+at issue in Morales v. Trans World Airlines, Inc., 504 U. S.
+374 (1992), is illustrative. The Airline Deregulation Act of
+1978 lifted prior federal regulations of airlines, and “[t]o
+ensure that the States would not undo federal deregula­
+tion with regulation of their own,” id., at 378, the Act
+provided that “no State or political subdivision thereof . . .
+shall enact or enforce any law, rule, regulation, standard,
+or other provision having the force and effect of law relat­
+ing to rates, routes, or services of any [covered] air car­
+rier.” 49 U. S. C. App. §1305(a)(1) (1988 ed.).
+   This language might appear to operate directly on the
+States, but it is a mistake to be confused by the way in
+which a preemption provision is phrased. As we recently
+explained, “we do not require Congress to employ a partic­
+ular linguistic formulation when preempting state law.”
+Coventry Health Care of Mo., Inc. v. Nevils, 581 U. S. ___,
+
+
+                   Cite as: 584 U. S. ____ (2018)           23
+                        Opinion of the Court
+___–___ (2017) (slip op., at 10–11). And if we look beyond
+the phrasing employed in the Airline Deregulation Act’s
+preemption provision, it is clear that this provision oper­
+ates just like any other federal law with preemptive effect.
+It confers on private entities (i.e., covered carriers) a fed­
+eral right to engage in certain conduct subject only to
+certain (federal) constraints.
+   “Field preemption” operates in the same way. Field
+preemption occurs when federal law occupies a “field” of
+regulation “so comprehensively that it has left no room for
+supplementary state legislation.” R. J. Reynolds Tobacco
+Co. v. Durham County, 479 U. S. 130, 140 (1986). In
+describing field preemption, we have sometimes used the
+same sort of shorthand employed by Congress in express
+preemption provisions. See, e.g., Oneok, Inc. v. Learjet,
+Inc., 575 U. S. ___, ___ (2015) (slip op., at 2) (“Congress
+has forbidden the State to take action in the field that the
+federal statute pre-empts”).           But in substance, field
+preemption does not involve congressional commands to
+the States. Instead, like all other forms of preemption, it
+concerns a clash between a constitutional exercise of
+Congress’s legislative power and conflicting state law. See
+Crosby v. National Foreign Trade Council, 530 U. S. 363,
+372, n. 6 (2000).
+   The Court’s decision in Arizona v. United States, 567
+U. S. 387 (2012), shows how this works. Noting that
+federal statutes “provide a full set of standards governing
+alien registration,” we concluded that these laws “reflect[ ]
+a congressional decision to foreclose any state regulation
+in the area, even if it is parallel to federal standards.” Id.,
+at 401. What this means is that the federal registration
+provisions not only impose federal registration obligations
+on aliens but also confer a federal right to be free from any
+other registration requirements.
+   In sum, regardless of the language sometimes used by
+Congress and this Court, every form of preemption is
+
+
+24    MURPHY v. NATIONAL COLLEGIATE ATHLETIC ASSN.
+                      Opinion of the Court
+based on a federal law that regulates the conduct of pri­
+vate actors, not the States.
+   Once this is understood, it is clear that the PASPA
+provision prohibiting state authorization of sports gam­
+bling is not a preemption provision because there is no
+way in which this provision can be understood as a regula­
+tion of private actors. It certainly does not confer any
+federal rights on private actors interested in conducting
+sports gambling operations. (It does not give them a
+federal right to engage in sports gambling.) Nor does it
+impose any federal restrictions on private actors. If a
+private citizen or company started a sports gambling
+operation, either with or without state authorization,
+§3702(1) would not be violated and would not provide any
+ground for a civil action by the Attorney General or any
+other party. Thus, there is simply no way to understand
+the provision prohibiting state authorization as anything
+other than a direct command to the States. And that is
+exactly what the anticommandeering rule does not allow.
+   In so holding, we recognize that a closely related provi­
+sion of PASPA, §3702(2), does restrict private conduct, but
+that is not the provision challenged by petitioners. In Part
+VI–B–2, infra, we consider whether §3702(2) is severable
+from the provision directly at issue in these cases.
+                              VI
+   Having concluded that §3702(1) violates the anti-
+commandeering doctrine, we consider two additional
+questions: first, whether the decision below should be
+affirmed on an alternative ground and, second, whether
+our decision regarding the anti-authorization provision
+dooms the remainder of PASPA.
+                               A
+   Respondents and the United States argue that, even if
+we disagree with the Third Circuit’s decision regarding
+
+
+                       Cite as: 584 U. S. ____ (2018)                     25
+                            Opinion of the Court
+the constitutionality of the anti-authorization provision,
+we should nevertheless affirm based on PASPA’s prohibi­
+tion of state “licens[ing]” of sports gambling. Brief for
+Respondents 43, n. 10; Brief for United States 34–35.
+Although New Jersey’s 2014 Act does not expressly pro­
+vide for the licensing of sports gambling operations, re­
+spondents and the United States contend that the law
+effectively achieves that result because the only entities
+that it authorizes to engage in that activity, i.e., casinos
+and racetracks, are already required to be licensed. Ibid.
+    We need not decide whether the 2014 Act violates
+PASPA’s prohibition of state “licens[ing]” because that
+provision suffers from the same defect as the prohibition of
+state authorization. It issues a direct order to the state
+legislature.29 Just as Congress lacks the power to order a
+state legislature not to enact a law authorizing sports
+gambling, it may not order a state legislature to refrain
+from enacting a law licensing sports gambling.30
+                                      B
+    We therefore turn to the question whether, as petition­
+ers maintain, our decision regarding PASPA’s prohibition
+of the authorization and licensing of sports gambling
+operations dooms the remainder of the Act. In order for
+other PASPA provisions to fall, it must be “evident that
+——————
+   29 Even if the prohibition of state licensing were not itself unconstitu­
+tional, we do not think it could be severed from the invalid provision
+forbidding state authorization. The provision of PASPA giving New
+Jersey the option of legalizing sports gambling within one year of
+enactment applied only to casinos operated “pursuant to a compre-
+hensive system of State regulation.” §3704(a)(3)(B). This shows
+that Congress preferred tightly regulated sports gambling over total
+deregulation.
+   30 The dissent apparently disagrees with our holding that the provi­
+sions forbidding state authorization and licensing violate the anticom­
+mandering principle, but it provides no explanation for its position.
+
+
+26   MURPHY v. NATIONAL COLLEGIATE ATHLETIC ASSN.
+                      Opinion of the Court
+[Congress] would not have enacted those provisions which
+are within its power, independently of [those] which [are]
+not.” Alaska Airlines, Inc. v. Brock, 480 U. S. 678, 684
+(1987) (internal quotation marks omitted). In conducting
+that inquiry, we ask whether the law remains “fully opera­
+tive” without the invalid provisions, Free Enterprise Fund
+v. Public Company Accounting Oversight Bd., 561 U. S.
+477, 509 (2010) (internal quotation marks omitted), but
+“we cannot rewrite a statute and give it an effect altogether
+different from that sought by the measure viewed as a
+whole,” Railroad Retirement Bd. v. Alton R. Co., 295 U. S.
+330, 362 (1935). We will consider each of the provisions at
+issue separately.
+                               1
+   Under 28 U. S. C. §3702(1), States are prohibited from
+“operat[ing],” “sponsor[ing],” or “promot[ing]” sports gam­
+bling schemes. If the provisions prohibiting state authori­
+zation and licensing are stricken but the prohibition on
+state “operat[ion]” is left standing, the result would be a
+scheme sharply different from what Congress contemplated
+when PASPA was enacted.              At that time, Congress
+knew that New Jersey was considering the legalization of
+sports gambling in the privately owned Atlantic City
+casinos and that other States were thinking about the
+institution of state-run sports lotteries. PASPA addressed
+both of these potential developments. It gave New Jersey
+one year to legalize sports gambling in Atlantic City but
+otherwise banned the authorization of sports gambling in
+casinos, and it likewise prohibited the spread of state-run
+lotteries. If Congress had known that States would be free
+to authorize sports gambling in privately owned casinos,
+would it have nevertheless wanted to prevent States from
+running sports lotteries?
+   That seems most unlikely. State-run lotteries, which
+sold tickets costing only a few dollars, were thought more
+
+
+                     Cite as: 584 U. S. ____ (2018)       27
+                          Opinion of the Court
+benign than other forms of gambling, and that is why they
+had been adopted in many States. Casino gambling, on
+the other hand, was generally regarded as far more dan­
+gerous. A gambler at a casino can easily incur heavy
+losses, and the legalization of privately owned casinos was
+known to create the threat of infiltration by organized
+crime, as Nevada’s early experience had notoriously
+shown.31 To the Congress that adopted PASPA, legalizing
+sports gambling in privately owned casinos while prohibit­
+ing state-run sports lotteries would have seemed exactly
+backwards.
+   Prohibiting the States from engaging in commercial
+activities that are permitted for private parties would also
+have been unusual, and it is unclear what might justify
+such disparate treatment. Respondents suggest that
+Congress wanted to prevent States from taking steps that
+the public might interpret as the endorsement of sports
+gambling, Brief for Respondents 39, but we have never
+held that the Constitution permits the Federal Govern­
+ment to prevent a state legislature from expressing its
+views on subjects of public importance. For these reasons,
+we do not think that the provision barring state operation
+of sports gambling can be severed.
+   We reach the same conclusion with respect to the provi­
+sions prohibiting state “sponsor[ship]” and “promot[ion].”
+The line between authorization, licensing, and operation,
+on the one hand, and sponsorship or promotion, on the
+other, is too uncertain. It is unlikely that Congress would
+have wanted to prohibit such an ill-defined category of
+state conduct.
+                                   2
+   Nor do we think that Congress would have wanted to
+——————
+  31 See Clary 84–102.
+
+
+28   MURPHY v. NATIONAL COLLEGIATE ATHLETIC ASSN.
+                      Opinion of the Court
+sever the PASPA provisions that prohibit a private actor
+from “sponsor[ing],” “operat[ing],” or “promot[ing]” sports
+gambling schemes “pursuant to” state law. §3702(2). These
+provisions were obviously meant to work together with the
+provisions in §3702(1) that impose similar restrictions on
+governmental entities. If Congress had known that the
+latter provisions would fall, we do not think it would have
+wanted the former to stand alone.
+   The present cases illustrate exactly how Congress must
+have intended §3702(1) and §3702(2) to work. If a State
+attempted to authorize particular private entities to en­
+gage in sports gambling, the State could be sued under
+§3702(1), and the private entity could be sued at the same
+time under §3702(2). The two sets of provisions were
+meant to be deployed in tandem to stop what PASPA
+aimed to prevent: state legalization of sports gambling.
+But if, as we now hold, Congress lacks the authority to
+prohibit a State from legalizing sports gambling, the
+prohibition of private conduct under §3702(2) ceases to
+implement any coherent federal policy.
+   Under §3702(2), private conduct violates federal law
+only if it is permitted by state law. That strange rule is
+exactly the opposite of the general federal approach to
+gambling. Under 18 U. S. C. §1955, operating a gambling
+business violates federal law only if that conduct is illegal
+under state or local law. Similarly, 18 U. S. C. §1953,
+which criminalizes the interstate transmission of wager­
+ing paraphernalia, and 18 U. S. C. §1084, which outlaws
+the interstate transmission of information that assists in
+the placing of a bet on a sporting event, apply only if the
+underlying gambling is illegal under state law. See also
+18 U. S. C. §1952 (making it illegal to travel in interstate
+commerce to further a gambling business that is illegal
+under applicable state law).
+   These provisions implement a coherent federal policy:
+They respect the policy choices of the people of each State
+
+
+                      Cite as: 584 U. S. ____ (2018)                       29
+                           Opinion of the Court
+on the controversial issue of gambling. By contrast, if
+§3702(2) is severed from §3702(1), it implements a per­
+verse policy that undermines whatever policy is favored by
+the people of a State. If the people of a State support the
+legalization of sports gambling, federal law would make
+the activity illegal. But if a State outlaws sports gam­
+bling, that activity would be lawful under §3702(2). We do
+not think that Congress ever contemplated that such a
+weird result would come to pass.
+   PASPA’s enforcement scheme reinforces this conclusion.
+PASPA authorizes civil suits by the Attorney General and
+sports organizations but does not make sports gambling a
+federal crime or provide civil penalties for violations. This
+enforcement scheme is suited for challenging state author­
+ization or licensing or a small number of private opera­
+tions, but the scheme would break down if a State broadly
+decriminalized sports gambling. It is revealing that the
+Congressional Budget Office estimated that PASPA would
+impose “no cost” on the Federal Government, see S. Rep.
+No. 102–248, p. 10 (1991), a conclusion that would certainly
+be incorrect if enforcement required a multiplicity of
+civil suits and applications to hold illegal bookies and other
+private parties in contempt.32
+                                     3
+   The remaining question that we must decide is whether
+the provisions of PASPA prohibiting the “advertis[ing]” of
+sports gambling are severable. See §§3702(1)–(2). If these
+provisions were allowed to stand, federal law would forbid
+the advertising of an activity that is legal under both
+——————
+  32 Of course, one need not rely on the Senate Report for the com­
+monsense proposition that leaving §3702(2) in place could wildly
+change the fiscal calculus, “giv[ing] it an effect altogether different from
+that sought by the measure viewed as a whole.” Railroad Retirement
+Bd. v. Alton R. Co., 295 U. S. 330, 362 (1935).
+
+
+30    MURPHY v. NATIONAL COLLEGIATE ATHLETIC ASSN.
+                       Opinion of the Court
+federal and state law, and that is something that Congress
+has rarely done. For example, the advertising of ciga­
+rettes is heavily regulated but not totally banned. See
+Federal Cigarette Labeling and Advertising Act, 79 Stat.
+282; Family Smoking Prevention and Tobacco Control Act,
+§§201–204, 123 Stat. 1842–1848.
+   It is true that at one time federal law prohibited the use
+of the mail or interstate commerce to distribute adver­
+tisements of lotteries that were permitted under state law,
+but that is no longer the case. See United States v. Edge
+Broadcasting Co., 509 U. S. 418, 421–423 (1993). In 1975,
+Congress passed a new statute, codified at 18 U. S. C.
+§1307, that explicitly exempts print advertisements re­
+garding a lottery lawfully conducted by States, and in
+Greater New Orleans Broadcasting Assn., Inc. v. United
+States, 527 U. S. 173, 176 (1999), we held that the First
+Amendment protects the right of a radio or television
+station in a State with a lottery to run such advertise­
+ments. In light of these developments, we do not think
+that Congress would want the advertising provisions to
+stand if the remainder of PASPA must fall.
+   For these reasons, we hold that no provision of PASPA
+is severable from the provision directly at issue in these
+cases.
+                          *     *      *
+   The legalization of sports gambling is a controversial
+subject. Supporters argue that legalization will produce
+revenue for the States and critically weaken illegal sports
+betting operations, which are often run by organized
+crime. Opponents contend that legalizing sports gambling
+will hook the young on gambling, encourage people of
+modest means to squander their savings and earnings,
+and corrupt professional and college sports.
+   The legalization of sports gambling requires an im­
+portant policy choice, but the choice is not ours to make.
+
+
+                   Cite as: 584 U. S. ____ (2018)                31
+                        Opinion of the Court
+Congress can regulate sports gambling directly, but if it
+elects not to do so, each State is free to act on its own. Our
+job is to interpret the law Congress has enacted and decide
+whether it is consistent with the Constitution. PASPA is
+not. PASPA “regulate[s] state governments’ regulation” of
+their citizens, New York, 505 U. S., at 166. The Constitu­
+tion gives Congress no such power.
+   The judgment of the Third Circuit is reversed.
+                                                  It is so ordered.
+
+
+                  Cite as: 584 U. S. ____ (2018)           1
+                     THOMAS, J., concurring
+SUPREME COURT OF THE UNITED STATES
+                           _________________
+                    Nos. 16–476 and 16–477
+                           _________________
+       PHILIP D. MURPHY, GOVERNOR OF NEW
+             JERSEY, ET AL., PETITIONERS
+16–476                            v.
+          NATIONAL COLLEGIATE ATHLETIC
+                  ASSOCIATION, ET AL.
+    NEW JERSEY THOROUGHBRED HORSEMEN’S
+           ASSOCIATION, INC., PETITIONER
+16–477                            v.
+          NATIONAL COLLEGIATE ATHLETIC
+                  ASSOCIATION, ET AL.
+ ON WRITS OF CERTIORARI TO THE UNITED STATES COURT OF
+             APPEALS FOR THE THIRD CIRCUIT
+                          [May 14, 2018]
+  JUSTICE THOMAS, concurring.
+  I join the Court’s opinion in its entirety. I write sepa-
+rately, however, to express my growing discomfort with
+our modern severability precedents.
+  I agree with the Court that the Professional and Ama-
+teur Sports Protection Act (PASPA) exceeds Congress’
+Article I authority to the extent it prohibits New Jersey
+from “authoriz[ing]” or “licens[ing]” sports gambling, 28
+U. S. C. §3702(1). Unlike the dissent, I do “doubt” that
+Congress can prohibit sports gambling that does not cross
+state lines. Post, at 2 (opinion of GINSBURG, J.); see Li-
+cense Tax Cases, 5 Wall. 462, 470–471 (1867) (holding that
+Congress has “no power” to regulate “the internal com-
+merce or domestic trade of the States,” including the
+intrastate sale of lottery tickets); United States v. Lopez,
+
+
+2    MURPHY v. NATIONAL COLLEGIATE ATHLETIC ASSN.
+                      THOMAS, J., concurring
+514 U. S. 549, 587–601 (1995) (THOMAS, J., concurring)
+(documenting why the Commerce Clause does not permit
+Congress to regulate purely local activities that have a
+substantial effect on interstate commerce). But even
+assuming the Commerce Clause allows Congress to pro-
+hibit intrastate sports gambling “directly,” it “does not
+authorize Congress to regulate state governments’ regula-
+tion of interstate commerce.” New York v. United States,
+505 U. S. 144, 166 (1992). The Necessary and Proper
+Clause does not give Congress this power either, as a law
+is not “proper” if it “subvert[s] basic principles of federal-
+ism and dual sovereignty.” Gonzales v. Raich, 545 U. S. 1,
+65 (2005) (THOMAS, J., dissenting). Commandeering the
+States, as PASPA does, subverts those principles. See
+Printz v. United States, 521 U. S. 898, 923–924 (1997).
+   Because PASPA is at least partially unconstitutional,
+our precedents instruct us to determine “which portions of
+the . . . statute we must sever and excise.” United States
+v. Booker, 543 U. S. 220, 258 (2005) (emphasis deleted).
+The Court must make this severability determination by
+asking a counterfactual question: “ ‘Would Congress still
+have passed’ the valid sections ‘had it known’ about the
+constitutional invalidity of the other portions of the stat-
+ute?” Id., at 246 (quoting Denver Area Ed. Telecommuni-
+cations Consortium, Inc. v. FCC, 518 U. S. 727, 767 (1996)
+(plurality opinion)). I join the Court’s opinion because it
+gives the best answer it can to this question, and no party
+has asked us to apply a different test. But in a future
+case, we should take another look at our severability
+precedents.
+   Those precedents appear to be in tension with traditional
+limits on judicial authority. Early American courts did
+not have a severability doctrine. See Walsh, Partial Un-
+constitutionality, 85 N. Y. U. L. Rev. 738, 769 (2010)
+(Walsh). They recognized that the judicial power is, fun-
+damentally, the power to render judgments in individual
+
+
+                   Cite as: 584 U. S. ____ (2018)           3
+                      THOMAS, J., concurring
+cases. See id., at 755; Baude, The Judgment Power, 96
+Geo. L. J. 1807, 1815 (2008). Judicial review was a by-
+product of that process. See generally P. Hamburger, Law
+and Judicial Duty (2008); Prakash & Yoo, The Origins of
+Judicial Review, 70 U. Chi. L. Rev. 887 (2003). As Chief
+Justice Marshall famously explained, “[i]t is emphatically
+the province and duty of the judicial department to say
+what the law is” because “[t]hose who apply the rule to
+particular cases, must of necessity expound and interpret
+that rule.” Marbury v. Madison, 1 Cranch 137, 177 (1803).
+If a plaintiff relies on a statute but a defendant argues
+that the statute conflicts with the Constitution, then
+courts must resolve that dispute and, if they agree with
+the defendant, follow the higher law of the Constitution.
+See id., at 177–178; The Federalist No. 78, p. 467
+(C. Rossiter ed. 1961) (A. Hamilton). Thus, when early
+American courts determined that a statute was unconsti-
+tutional, they would simply decline to enforce it in the case
+before them. See Walsh 755–766. “[T]here was no ‘next
+step’ in which courts inquired into whether the legislature
+would have preferred no law at all to the constitutional
+remainder.” Id., at 777.
+   Despite this historical practice, the Court’s modern
+cases treat the severability doctrine as a “remedy” for
+constitutional violations and ask which provisions of the
+statute must be “excised.” See, e.g., Ayotte v. Planned
+Parenthood of Northern New Eng., 546 U. S. 320, 329
+(2006); Booker, supra, at 245; Alaska Airlines, Inc. v.
+Brock, 480 U. S. 678, 686 (1987). This language cannot be
+taken literally. Invalidating a statute is not a “remedy,”
+like an injunction, a declaration, or damages. See Harri-
+son, Severability, Remedies, and Constitutional Adjudica-
+tion, 83 Geo. Wash. L. Rev. 56, 82–88 (2014) (Harrison).
+Remedies “operate with respect to specific parties,” not “on
+legal rules in the abstract.” Id., at 85; see also Massachu-
+setts v. Mellon, 262 U. S. 447, 488 (1923) (explaining that
+
+
+4     MURPHY v. NATIONAL COLLEGIATE ATHLETIC ASSN.
+                         THOMAS, J., concurring
+the power “to review and annul acts of Congress” is “little
+more than the negative power to disregard an unconstitu-
+tional enactment” and that “the court enjoins . . . not the
+execution of the statute, but the acts of the official”). And
+courts do not have the power to “excise” or “strike down”
+statutes. See 39 Op. Atty. Gen. 22, 22–23 (1937) (“The
+decisions are practically in accord in holding that the
+courts have no power to repeal or abolish a statute”);
+Harrison 82 (“[C]ourts do not make [nonseverable] provi-
+sions inoperative . . . . Invalidation by courts is a figure of
+speech”); Mitchell, The Writ-of-Erasure Fallacy, 104 Va.
+L. Rev. (forthcoming 2018) (manuscript, at 4) (“The federal
+courts have no authority to erase a duly enacted law from
+the statute books”), online at https://papers.ssrn.com/sol3/
+papers.cfm?abstract_id=3158038 (as last visited May 11,
+2018).
+   Because courts cannot take a blue pencil to statutes, the
+severability doctrine must be an exercise in statutory
+interpretation. In other words, the severability doctrine
+has courts decide how a statute operates once they con-
+clude that part of it cannot be constitutionally enforced.
+See Fallon, As-Applied and Facial Challenges and Third-
+Party Standing, 113 Harv. L. Rev. 1321, 1333–1334
+(2000); Harrison 88. But even under this view, the sever-
+ability doctrine is still dubious for at least two reasons.
+   First, the severability doctrine does not follow basic
+principles of statutory interpretation. Instead of requiring
+courts to determine what a statute means, the severability
+doctrine requires courts to make “a nebulous inquiry into
+hypothetical congressional intent.” Booker, supra, at 320,
+n. 7 (THOMAS, J., dissenting in part). It requires judges to
+determine what Congress would have intended had it
+known that part of its statute was unconstitutional.* But
+——————
+  * The first court to engage in this counterfactual exploration of legis-
+lative intent was the Massachusetts Supreme Judicial Court in Warren
+
+
+                      Cite as: 584 U. S. ____ (2018)                     5
+                         THOMAS, J., concurring
+it seems unlikely that the enacting Congress had any
+intent on this question; Congress typically does not pass
+statutes with the expectation that some part will later be
+deemed unconstitutional. See Walsh 740–741; Stern,
+Separability and Separability Clauses in the Supreme
+Court, 51 Harv. L. Rev. 76, 98 (1937) (Stern). Without any
+actual evidence of intent, the severability doctrine invites
+courts to rely on their own views about what the best
+statute would be. See Walsh 752–753; Stern 112–113.
+More fundamentally, even if courts could discern Con-
+gress’ hypothetical intentions, intentions do not count
+unless they are enshrined in a text that makes it through
+the constitutional processes of bicameralism and present-
+ment. See Wyeth v. Levine, 555 U. S. 555, 586–588 (2009)
+(THOMAS, J., concurring in judgment). Because we have
+“ ‘a Government of laws, not of men,’ ” we are governed by
+“legislated text,” not “legislators’ intentions”—and espe-
+cially not legislators’ hypothetical intentions. Zuni Public
+School Dist. No. 89 v. Department of Education, 550 U. S.
+81, 119 (2007) (Scalia, J., dissenting). Yet hypothetical
+intent is exactly what the severability doctrine turns on,
+at least when Congress has not expressed its fallback
+position in the text.
+    Second, the severability doctrine often requires courts to
+weigh in on statutory provisions that no party has stand-
+ing to challenge, bringing courts dangerously close to
+issuing advisory opinions. See Stern 77; Lea, Situational
+Severability, 103 Va. L. Rev. 735, 788–803 (2017) (Lea). If
+one provision of a statute is deemed unconstitutional, the
+severability doctrine places every other provision at risk of
+——————
+v. Mayor and Aldermen of Charlestown, 68 Mass. 84, 99 (1854). This
+Court adopted the Warren formulation in the late 19th century, see
+Allen v. Louisiana, 103 U. S. 80, 84 (1881), an era when statutory
+interpretation privileged Congress’ unexpressed “intent” over the
+enacted text, see, e.g., Church of Holy Trinity v. United States, 143
+U. S. 457, 472 (1892); United States v. Moore, 95 U. S. 760, 763 (1878).
+
+
+6     MURPHY v. NATIONAL COLLEGIATE ATHLETIC ASSN.
+                     THOMAS, J., concurring
+being declared nonseverable and thus inoperative; our
+precedents do not ask whether the plaintiff has standing
+to challenge those other provisions. See National Federa-
+tion of Independent Business v. Sebelius, 567 U. S. 519,
+696–697 (2012) (joint dissent) (citing, as an example,
+Williams v. Standard Oil Co. of La., 278 U. S. 235, 242–
+244 (1929)). True, the plaintiff had standing to challenge
+the unconstitutional part of the statute. But the severa-
+bility doctrine comes into play only after the court has
+resolved that issue—typically the only live controversy
+between the parties. In every other context, a plaintiff
+must demonstrate standing for each part of the statute
+that he wants to challenge. See Lea 789, 751, and nn. 79–
+80 (citing, as examples, Davis v. Federal Election Comm’n,
+554 U. S. 724, 733–734 (2008); DaimlerChrysler Corp. v.
+Cuno, 547 U. S. 332, 346, 350–353 (2006)). The severabil-
+ity doctrine is thus an unexplained exception to the nor-
+mal rules of standing, as well as the separation-of-powers
+principles that those rules protect. See Steel Co. v. Citi-
+zens for Better Environment, 523 U. S. 83, 101 (1998).
+   In sum, our modern severability precedents are in ten-
+sion with longstanding limits on the judicial power. And,
+though no party in this case has asked us to reconsider
+these precedents, at some point, it behooves us to do so.
+
+
+                    Cite as: 584 U. S. ____ (2018)                 1
+        BREYER, J., concurring
+                        Opinioninofpart    and, dissenting
+                                      BREYER    J.         in part
+SUPREME COURT OF THE UNITED STATES
+                             _________________
+                      Nos. 16–476 and 16–477
+                             _________________
+       PHILIP D. MURPHY, GOVERNOR OF NEW
+             JERSEY, ET AL., PETITIONERS
+16–476                              v.
+          NATIONAL COLLEGIATE ATHLETIC
+                     ASSOCIATION, ET AL.
+    NEW JERSEY THOROUGHBRED HORSEMEN’S
+           ASSOCIATION, INC., PETITIONER
+16–477                              v.
+          NATIONAL COLLEGIATE ATHLETIC
+                     ASSOCIATION, ET AL.
+ ON WRITS OF CERTIORARI TO THE UNITED STATES COURT OF
+              APPEALS FOR THE THIRD CIRCUIT
+                            [May 14, 2018]
+  JUSTICE BREYER, concurring in part and dissenting in
+part.
+  I agree with JUSTICE GINSBURG that 28 U. S. C.
+§3702(2) is severable from the challenged portion of
+§3702(1). The challenged part of subsection (1) prohibits a
+State from “author[izing]” or “licens[ing]” sports gambling
+schemes; subsection (2) prohibits individuals from “spon-
+sor[ing], operat[ing], advertis[ing], or promot[ing]” sports
+gambling schemes “pursuant to the law . . . of a govern-
+mental entity.” The first says that a State cannot author-
+ize sports gambling schemes under state law; the second
+says that (just in case a State finds a way to do so) sports
+gambling schemes that a State authorizes are unlawful
+under federal law regardless. As JUSTICE GINSBURG
+makes clear, the latter section can live comfortably on its
+
+
+2     MURPHY v. NATIONAL COLLEGIATE ATHLETIC ASSN.
+         BREYER, J., concurring
+                         Opinioninofpart and, dissenting
+                                     BREYER   J.         in part
+own without the first.
+  Why would Congress enact both these provisions? The
+obvious answer is that Congress wanted to “keep sports
+gambling from spreading.” S. Rep. No. 102–248, pp. 4–6
+(1991). It feared that widespread sports gambling would
+“threate[n] to change the nature of sporting events from
+wholesome entertainment for all ages to devices for gam-
+bling.” Id., at 4. And it may have preferred that state
+authorities enforce state law forbidding sports gambling
+than require federal authorities to bring civil suits to
+enforce federal law forbidding about the same thing.
+Alternatively, Congress might have seen subsection (2) as
+a backup, called into play if subsection (1)’s requirements,
+directed to the States, turned out to be unconstitutional—
+which, of course, is just what has happened. Neither of
+these objectives is unreasonable.
+  So read, the two subsections both forbid sports gambling
+but §3702(2) applies federal policy directly to individuals
+while the challenged part of §3702(1) forces the States to
+prohibit sports gambling schemes (thereby shifting the
+burden of enforcing federal regulatory policy from the
+Federal Government to state governments).                        Section
+3702(2), addressed to individuals, standing alone seeks to
+achieve Congress’ objective of halting the spread of sports
+gambling schemes by “regulat[ing] interstate commerce
+directly.” New York v. United States, 505 U. S. 144, 166
+(1992). But the challenged part of subsection (1) seeks the
+same end indirectly by “regulat[ing] state governments’
+regulation of interstate commerce.” Ibid. And it does so
+by addressing the States (not individuals) directly and
+telling state legislatures what laws they must (or cannot)
+enact. Under our precedent, the first provision (directly
+and unconditionally telling States what laws they must
+enact) is unconstitutional, but the second (directly telling
+individuals what they cannot do) is not. See ibid.
+  As so interpreted, the statutes would make New Jersey’s
+
+
+                    Cite as: 584 U. S. ____ (2018)              3
+        BREYER, J., concurring
+                        Opinioninofpart and, dissenting
+                                    BREYER   J.         in part
+victory here mostly Pyrrhic. But that is because the only
+problem with the challenged part of §3702(1) lies in its
+means, not its end. Congress has the constitutional power
+to prohibit sports gambling schemes, and no party here
+argues that there is any constitutional defect in §3702(2)’s
+alternative means of doing so.
+  I consequently join JUSTICE GINSBURG’s dissenting
+opinion in part, and all but Part VI–B of the Court’s
+opinion.
+
+
+                   Cite as: 584 U. S. ____ (2018)         1
+                      GINSBURG, J., dissenting
+SUPREME COURT OF THE UNITED STATES
+                            _________________
+                     Nos. 16–476 and 16–477
+                            _________________
+       PHILIP D. MURPHY, GOVERNOR OF NEW
+              JERSEY, ET AL., PETITIONERS
+16–476                             v.
+          NATIONAL COLLEGIATE ATHLETIC
+                   ASSOCIATION, ET AL.
+    NEW JERSEY THOROUGHBRED HORSEMEN’S
+           ASSOCIATION, INC., PETITIONER
+16–477                             v.
+          NATIONAL COLLEGIATE ATHLETIC
+                   ASSOCIATION, ET AL.
+ ON WRITS OF CERTIORARI TO THE UNITED STATES COURT OF
+               APPEALS FOR THE THIRD CIRCUIT
+                           [May 14, 2018]
+   JUSTICE GINSBURG, with whom JUSTICE SOTOMAYOR
+joins, and with whom JUSTICE BREYER joins in part,
+dissenting.
+   The petition for certiorari filed by the Governor of New
+Jersey invited the Court to consider a sole question: “Does
+a federal statute that prohibits modification or repeal of
+state-law prohibitions on private conduct impermissibly
+commandeer the regulatory power of States in contraven-
+tion of New York v. United States, 505 U. S. 144 (1992)? ”
+Pet. for Cert. in No. 16–476, p. i.
+   Assuming, arguendo, a “yes” answer to that question,
+there would be no cause to deploy a wrecking ball destroy-
+ing the Professional and Amateur Sports Protection Act
+(PASPA) in its entirety, as the Court does today. Leaving
+out the alleged infirmity, i.e., “commandeering” state
+
+
+2      MURPHY v. NATIONAL COLLEGIATE ATHLETIC ASSN.
+                         GINSBURG, J., dissenting
+regulatory action by prohibiting the States from “author-
+iz[ing]” and “licens[ing]” sports-gambling schemes, 28
+U. S. C. §3702(1), two federal edicts should remain intact.
+First, PASPA bans States themselves (or their agencies)
+from “sponsor[ing], operat[ing], advertis[ing], [or] pro-
+mot[ing]” sports-gambling schemes. Ibid. Second, PASPA
+stops private parties from “sponsor[ing], operat[ing], ad-
+vertis[ing], or promot[ing]” sports-gambling schemes if
+state law authorizes them to do so. §3702(2).1 Nothing in
+these §3702(1) and §3702(2) prohibitions commands States
+to do anything other than desist from conduct federal law
+proscribes.2 Nor is there any doubt that Congress has
+power to regulate gambling on a nationwide basis, author-
+ity Congress exercised in PASPA. See Gonzales v. Raich,
+545 U. S. 1, 17 (2005) (“Our case law firmly establishes
+Congress’ power to regulate purely local activities that are
+part of an economic ‘class of activities’ that have a sub-
+stantial effect on interstate commerce.”).
+   Surely, the accountability concern that gave birth to the
+anticommandeering doctrine is not implicated in any
+federal proscription other than the bans on States’ author-
+izing and licensing sports-gambling schemes. The concern
+triggering the doctrine arises only “where the Federal
+Government compels States to regulate” or to enforce
+federal law, thereby creating the appearance that state
+officials are responsible for policies Congress forced them
+to enact. New York v. United States, 505 U. S. 144, 168
+(1992). If States themselves and private parties may not
+——————
+  1 PASPA   was not designed to eliminate any and all sports gambling.
+The statute targets sports-gambling schemes, i.e., organized markets
+for sports gambling, whether operated by a State or by a third party
+under state authorization.
+  2 In lieu of a flat ban, PASPA prohibits third parties from operating
+sports-gambling schemes only if state law permits them to do so. If
+a state ban is in place, of course, there is no need for a federal
+proscription.
+
+
+                     Cite as: 584 U. S. ____ (2018)                   3
+                        GINSBURG, J., dissenting
+operate sports-gambling schemes, responsibility for the
+proscriptions is hardly blurred. It cannot be maintained
+credibly that state officials have anything to do with the
+restraints.      Unmistakably, the foreclosure of sports-
+gambling schemes, whether state run or privately oper-
+ated, is chargeable to congressional, not state, legislative
+action.
+   When a statute reveals a constitutional flaw, the Court
+ordinarily engages in a salvage rather than a demolition
+operation: It “limit[s] the solution [to] severing any prob-
+lematic portions while leaving the remainder intact.” Free
+Enterprise Fund v. Public Company Accounting Oversight
+Bd., 561 U. S. 477, 508 (2010) (internal quotation marks
+omitted). The relevant question is whether the Legisla-
+ture would have wanted unproblematic aspects of the
+legislation to survive or would want them to fall along
+with the infirmity.3 As the Court stated in New York,
+“[u]nless it is evident that the Legislature would not have
+enacted those provisions which are within its power, . . .
+the invalid part may be dropped if what is left is fully
+operative as a law.” 505 U. S., at 186 (internal quotation
+marks omitted). Here, it is scarcely arguable that Con-
+gress “would have preferred no statute at all,” Executive
+Benefits Ins. Agency v. Arkison, 573 U. S. ___, ___ (2014)
+(slip op., at 10), over one that simply stops States and
+private parties alike from operating sports-gambling
+schemes.
+   The Court wields an ax to cut down §3702 instead of
+using a scalpel to trim the statute. It does so apparently
+in the mistaken assumption that private sports-gambling
+schemes would become lawful in the wake of its decision.
+——————
+  3 Notably, in the two decisions marking out and applying the anti-
+commandeering doctrine to invalidate federal law, the Court invalidated
+only the offending provision, not the entire statute. New York v.
+United States, 505 U. S. 144, 186–187 (1992); Printz v. United States,
+521 U. S. 898, 935 (1997).
+
+
+4      MURPHY v. NATIONAL COLLEGIATE ATHLETIC ASSN.
+                         GINSBURG, J., dissenting
+In particular, the Court holds that the prohibition on state
+“operat[ion]” of sports-gambling schemes cannot survive,
+because it does not believe Congress would have “wanted
+to prevent States from running sports lotteries” “had [it]
+known that States would be free to authorize sports gam-
+bling in privately owned casinos.” Ante, at 26. In so rea-
+soning, the Court shutters §3702(2), under which private
+parties are prohibited from operating sports-gambling
+schemes precisely when state law authorizes them to do
+so.4
+     This plain error pervasively infects the Court’s severa-
+bility analysis. The Court strikes Congress’ ban on state
+“sponsor[ship]” and “promot[ion]” of sports-gambling
+schemes because it has (mistakenly) struck Congress’
+prohibition on state “operat[ion]” of such schemes. See
+ante, at 27. It strikes Congress’ prohibitions on private
+“sponsor[ship],” “operat[ion],” and “promot[ion]” of sports-
+gambling schemes because it has (mistakenly) struck
+those same prohibitions on the States. See ante, at 27–28.
+And it strikes Congress’ prohibition on “advertis[ing]”
+sports-gambling schemes because it has struck everything
+else. See ante, at 29–30.
+                              *     *      *
+    In PASPA, shorn of the prohibition on modifying or
+repealing state law, Congress permissibly exercised its
+authority to regulate commerce by instructing States and
+private parties to refrain from operating sports-gambling
+schemes. On no rational ground can it be concluded that
+Congress would have preferred no statute at all if it could
+——————
+   4 As earlier indicated, see supra, at 2, direct federal regulation of
+sports-gambling schemes nationwide, including private-party schemes,
+falls within Congress’ power to regulate activities having a substantial
+effect on interstate commerce. See Gonzales v. Raich, 545 U. S. 1, 17
+(2005). Indeed, according to the Court, direct regulation is precisely
+what the anticommandeering doctrine requires. Ante, at 14–18.
+
+
+                 Cite as: 584 U. S. ____ (2018)          5
+                    GINSBURG, J., dissenting
+not prohibit States from authorizing or licensing such
+schemes. Deleting the alleged “commandeering” direc-
+tions would free the statute to accomplish just what Con-
+gress legitimately sought to achieve: stopping sports-
+gambling regimes while making it clear that the stoppage
+is attributable to federal, not state, action. I therefore
+dissent from the Court’s determination to destroy PASPA
+rather than salvage the statute.

@@ -1,0 +1,1478 @@
+(Slip Opinion)                OCTOBER TERM, 2017                                    1
+                                         Syllabus
+          NOTE: Where it is feasible, a syllabus (headnote) will be released, as is
+        being done in connection with this case, at the time the opinion is issued.
+        The syllabus constitutes no part of the opinion of the Court but has been
+        prepared by the Reporter of Decisions for the convenience of the reader.
+        See United States v. Detroit Timber & Lumber Co., 200 U. S. 321, 337.
+SUPREME COURT OF THE UNITED STATES
+                                         Syllabus
+           SOUTH DAKOTA v. WAYFAIR, INC., ET AL.
+    CERTIORARI TO THE SUPREME COURT OF SOUTH DAKOTA
+       No. 17–494.       Argued April 17, 2018—Decided June 21, 2018
+South Dakota, like many States, taxes the retail sales of goods and ser-
+   vices in the State. Sellers are required to collect and remit the tax to
+   the State, but if they do not then in-state consumers are responsible
+   for paying a use tax at the same rate. Under National Bellas Hess,
+   Inc. v. Department of Revenue of Ill., 386 U. S. 753, and Quill Corp. v.
+   North Dakota, 504 U. S. 298, South Dakota may not require a busi-
+   ness that has no physical presence in the State to collect its sales tax.
+   Consumer compliance rates are notoriously low, however, and it is
+   estimated that Bellas Hess and Quill cause South Dakota to lose be-
+   tween $48 and $58 million annually. Concerned about the erosion of
+   its sales tax base and corresponding loss of critical funding for state
+   and local services, the South Dakota Legislature enacted a law re-
+   quiring out-of-state sellers to collect and remit sales tax “as if the
+   seller had a physical presence in the State.” The Act covers only
+   sellers that, on an annual basis, deliver more than $100,000 of goods
+   or services into the State or engage in 200 or more separate transac-
+   tions for the delivery of goods or services into the State. Respond-
+   ents, top online retailers with no employees or real estate in South
+   Dakota, each meet the Act’s minimum sales or transactions require-
+   ment, but do not collect the State’s sales tax. South Dakota filed suit
+   in state court, seeking a declaration that the Act’s requirements are
+   valid and applicable to respondents and an injunction requiring re-
+   spondents to register for licenses to collect and remit the sales tax.
+   Respondents sought summary judgment, arguing that the Act is un-
+   constitutional. The trial court granted their motion. The State Su-
+   preme Court affirmed on the ground that Quill is controlling prece-
+   dent.
+Held: Because the physical presence rule of Quill is unsound and incor-
+   rect, Quill Corp. v. North Dakota, 504 U. S. 298, and National Bellas
+
+
+2                  SOUTH DAKOTA v. WAYFAIR, INC.
+                                  Syllabus
+  Hess, Inc. v. Department of Revenue of Ill., 386 U. S. 753, are over-
+  ruled. Pp. 5–24.
+    (a) An understanding of this Court’s Commerce Clause principles
+  and their application to state taxes is instructive here. Pp. 5–9.
+       (1) Two primary principles mark the boundaries of a State’s au-
+  thority to regulate interstate commerce: State regulations may not
+  discriminate against interstate commerce; and States may not im-
+  pose undue burdens on interstate commerce. These principles guide
+  the courts in adjudicating challenges to state laws under the Com-
+  merce Clause. Pp. 5–7.
+       (2) They also animate Commerce Clause precedents addressing
+  the validity of state taxes, which will be sustained so long as they (1)
+  apply to an activity with a substantial nexus with the taxing State,
+  (2) are fairly apportioned, (3) do not discriminate against interstate
+  commerce, and (4) are fairly related to the services the State pro-
+  vides. See Complete Auto Transit, Inc. v. Brady, 430 U. S. 274, 279.
+  Before Complete Auto, the Court held in Bellas Hess that a “seller
+  whose only connection with customers in the State is by common car-
+  rier or . . . mail” lacked the requisite minimum contacts with the
+  State required by the Due Process Clause and the Commerce Clause,
+  and that unless the retailer maintained a physical presence in the
+  State, the State lacked the power to require that retailer to collect a
+  local tax. 386 U. S., at 758. In Quill, the Court overruled the due
+  process holding, but not the Commerce Clause holding, grounding the
+  physical presence rule in Complete Auto’s requirement that a tax
+  have a “substantial nexus” with the activity being taxed. Pp. 7–9.
+    (b) The physical presence rule has long been criticized as giving
+  out-of-state sellers an advantage. Each year, it becomes further re-
+  moved from economic reality and results in significant revenue losses
+  to the States. These critiques underscore that the rule, both as first
+  formulated and as applied today, is an incorrect interpretation of the
+  Commerce Clause. Pp. 9–17.
+       (1) Quill is flawed on its own terms. First, the physical presence
+  rule is not a necessary interpretation of Complete Auto’s nexus re-
+  quirement. That requirement is “closely related,” Bellas Hess, 386
+  U. S. at 756, to the due process requirement that there be “some defi-
+  nite link, some minimum connection, between a state and the person,
+  property or transaction it seeks to tax.” Miller Brothers Co. v. Mary-
+  land, 347 U. S. 340, 344–345. And, as Quill itself recognized, a busi-
+  ness need not have a physical presence in a State to satisfy the de-
+  mands of due process. When considering whether a State may levy a
+  tax, Due Process and Commerce Clause standards, though not identi-
+  cal or coterminous, have significant parallels. The reasons given in
+  Quill for rejecting the physical presence rule for due process purposes
+
+
+                     Cite as: 585 U. S. ____ (2018)                      3
+                                 Syllabus
+apply as well to the question whether physical presence is a requisite
+for an out-of-state seller’s liability to remit sales taxes. Other aspects
+of the Court’s doctrine can better and more accurately address poten-
+tial burdens on interstate commerce, whether or not Quill’s physical
+presence rule is satisfied.
+   Second, Quill creates rather than resolves market distortions. In
+effect, it is a judicially created tax shelter for businesses that limit
+their physical presence in a State but sell their goods and services to
+the State’s consumers, something that has become easier and more
+prevalent as technology has advanced. The rule also produces an in-
+centive to avoid physical presence in multiple States, affecting devel-
+opment that might be efficient or desirable.
+   Third, Quill imposes the sort of arbitrary, formalistic distinction
+that the Court’s modern Commerce Clause precedents disavow in fa-
+vor of “a sensitive, case-by-case analysis of purposes and effects,”
+West Lynn Creamery, Inc. v. Healy, 512 U. S. 186, 201. It treats eco-
+nomically identical actors differently for arbitrary reasons. For ex-
+ample, a business that maintains a few items of inventory in a small
+warehouse in a State is required to collect and remit a tax on all of its
+sales in the State, while a seller with a pervasive Internet presence
+cannot be subject to the same tax for the sales of the same items.
+Pp. 10–14.
+     (2) When the day-to-day functions of marketing and distribution
+in the modern economy are considered, it becomes evident that
+Quill’s physical presence rule is artificial, not just “at its edges,” 504
+U. S. at 315, but in its entirety. Modern e-commerce does not align
+analytically with a test that relies on the sort of physical presence de-
+fined in Quill. And the Court should not maintain a rule that ignores
+substantial virtual connections to the State. Pp. 14–15.
+     (3) The physical presence rule of Bellas Hess and Quill is also an
+extraordinary imposition by the Judiciary on States’ authority to col-
+lect taxes and perform critical public functions. Forty-one States, two
+Territories, and the District of Columbia have asked the Court to re-
+ject Quill’s test. Helping respondents’ customers evade a lawful tax
+unfairly shifts an increased share of the taxes to those consumers
+who buy from competitors with a physical presence in the State. It is
+essential to public confidence in the tax system that the Court avoid
+creating inequitable exceptions. And it is also essential to the confi-
+dence placed in the Court’s Commerce Clause decisions. By giving
+some online retailers an arbitrary advantage over their competitors
+who collect state sales taxes, Quill’s physical presence rule has lim-
+ited States’ ability to seek long-term prosperity and has prevented
+market participants from competing on an even playing field.
+Pp. 16–17.
+
+
+4                 SOUTH DAKOTA v. WAYFAIR, INC.
+                                  Syllabus
+     (c) Stare decisis can no longer support the Court’s prohibition of a
+  valid exercise of the States’ sovereign power. If it becomes apparent
+  that the Court’s Commerce Clause decisions prohibit the States from
+  exercising their lawful sovereign powers, the Court should be vigilant
+  in correcting the error. It is inconsistent with this Court’s proper role
+  to ask Congress to address a false constitutional premise of this
+  Court’s own creation. The Internet revolution has made Quill’s orig-
+  inal error all the more egregious and harmful. The Quill Court did
+  not have before it the present realities of the interstate marketplace,
+  where the Internet’s prevalence and power have changed the dynam-
+  ics of the national economy. The expansion of e-commerce has also
+  increased the revenue shortfall faced by States seeking to collect
+  their sales and use taxes, leading the South Dakota Legislature to
+  declare an emergency. The argument, moreover, that the physical
+  presence rule is clear and easy to apply is unsound, as attempts to
+  apply the physical presence rule to online retail sales have proved
+  unworkable.
+     Because the physical presence rule as defined by Quill is no longer
+  a clear or easily applicable standard, arguments for reliance based on
+  its clarity are misplaced. Stare decisis may accommodate “legitimate
+  reliance interest[s],” United States v. Ross, 456 U. S. 798, 824, but a
+  business “is in no position to found a constitutional right . . . on the
+  practical opportunities for tax avoidance,” Nelson v. Sears, Roebuck &
+  Co., 312 U. S. 359, 366. Startups and small businesses may benefit
+  from the physical presence rule, but here South Dakota affords small
+  merchants a reasonable degree of protection. Finally, other aspects
+  of the Court’s Commerce Clause doctrine can protect against any un-
+  due burden on interstate commerce, taking into consideration the
+  small businesses, startups, or others who engage in commerce across
+  state lines. The potential for such issues to arise in some later case
+  cannot justify retaining an artificial, anachronistic rule that deprives
+  States of vast revenues from major businesses. Pp. 17–22.
+     (d) In the absence of Quill and Bellas Hess, the first prong of the
+  Complete Auto test simply asks whether the tax applies to an activity
+  with a substantial nexus with the taxing State, 430 U. S., at 279.
+  Here, the nexus is clearly sufficient. The Act applies only to sellers
+  who engage in a significant quantity of business in the State, and re-
+  spondents are large, national companies that undoubtedly maintain
+  an extensive virtual presence. Any remaining claims regarding the
+  Commerce Clause’s application in the absence of Quill and Bellas
+  Hess may be addressed in the first instance on remand. Pp. 22–23.
+2017 S.D. 56, 901 N. W. 2d 754, vacated and remanded.
+  KENNEDY, J., delivered the opinion of the Court, in which THOMAS,
+
+
+                      Cite as: 585 U. S. ____ (2018)                     5
+                                Syllabus
+GINSBURG, ALITO, and GORSUCH, JJ., joined. THOMAS, J., and GORSUCH,
+J., filed concurring opinions. ROBERTS, C. J., filed a dissenting opinion,
+in which BREYER, SOTOMAYOR, and KAGAN, JJ., joined.
+
+
+                         Cite as: 585 U. S. ____ (2018)                            1
+                               Opinion of the Court
+      NOTICE: This opinion is subject to formal revision before publication in the
+      preliminary print of the United States Reports. Readers are requested to
+      notify the Reporter of Decisions, Supreme Court of the United States, Wash­
+      ington, D. C. 20543, of any typographical or other formal errors, in order
+      that corrections may be made before the preliminary print goes to press.
+SUPREME COURT OF THE UNITED STATES
+                                     _________________
+                                      No. 17–494
+                                     _________________
+   SOUTH DAKOTA, PETITIONER v. WAYFAIR, INC.,
+                                        ET AL.
+     ON WRIT OF CERTIORARI TO THE SUPREME COURT OF
+                                 SOUTH DAKOTA
+                                   [June 21, 2018]
+  JUSTICE KENNEDY delivered the opinion of the Court.
+  When a consumer purchases goods or services, the
+consumer’s State often imposes a sales tax. This case
+requires the Court to determine when an out-of-state
+seller can be required to collect and remit that tax. All
+concede that taxing the sales in question here is lawful.
+The question is whether the out-of-state seller can be held
+responsible for its payment, and this turns on a proper
+interpretation of the Commerce Clause, U. S. Const.,
+Art. I, §8, cl. 3.
+  In two earlier cases the Court held that an out-of-state
+seller’s liability to collect and remit the tax to the consum­
+er’s State depended on whether the seller had a physical
+presence in that State, but that mere shipment of goods
+into the consumer’s State, following an order from a cata­
+log, did not satisfy the physical presence requirement.
+National Bellas Hess, Inc. v. Department of Revenue of Ill.,
+386 U. S. 753 (1967); Quill Corp. v. North Dakota, 504
+U. S. 298 (1992). The Court granted certiorari here to
+reconsider the scope and validity of the physical presence
+rule mandated by those cases.
+
+
+2              SOUTH DAKOTA v. WAYFAIR, INC.
+                      Opinion of the Court
+                               I
+   Like most States, South Dakota has a sales tax. It taxes
+the retail sales of goods and services in the State. S. D.
+Codified Laws §§10–45–2, 10–45–4 (2010 and Supp. 2017).
+Sellers are generally required to collect and remit this tax
+to the Department of Revenue. §10–45–27.3. If for some
+reason the sales tax is not remitted by the seller, then in­
+state consumers are separately responsible for paying a
+use tax at the same rate. See §§10–46–2, 10–46–4, 10–46–
+6. Many States employ this kind of complementary sales
+and use tax regime.
+   Under this Court’s decisions in Bellas Hess and Quill,
+South Dakota may not require a business to collect its
+sales tax if the business lacks a physical presence in the
+State. Without that physical presence, South Dakota
+instead must rely on its residents to pay the use tax owed
+on their purchases from out-of-state sellers. “[T]he im­
+practicability of [this] collection from the multitude of
+individual purchasers is obvious.” National Geographic
+Soc. v. California Bd. of Equalization, 430 U. S. 551, 555
+(1977). And consumer compliance rates are notoriously
+low. See, e.g., GAO, Report to Congressional Requesters:
+Sales Taxes, States Could Gain Revenue from Expanded
+Authority, but Businesses Are Likely to Experience Com­
+pliance Costs 5 (GAO–18–114, Nov. 2017) (Sales Taxes
+Report); California State Bd. of Equalization, Revenue
+Estimate: Electronic Commerce and Mail Order Sales 7
+(2013) (Table 3) (estimating a 4 percent collection rate). It
+is estimated that Bellas Hess and Quill cause the States to
+lose between $8 and $33 billion every year. See Sales
+Taxes Report, at 11–12 (estimating $8 to $13 billion); Brief
+for Petitioner 34–35 (citing estimates of $23 and $33.9
+billion). In South Dakota alone, the Department of Reve­
+nue estimates revenue loss at $48 to $58 million annually.
+App. 24. Particularly because South Dakota has no state
+income tax, it must put substantial reliance on its sales
+
+
+                   Cite as: 585 U. S. ____ (2018)           3
+                        Opinion of the Court
+and use taxes for the revenue necessary to fund essential
+services. Those taxes account for over 60 percent of its
+general fund.
+   In 2016, South Dakota confronted the serious inequity
+Quill imposes by enacting S. 106—“An Act to provide for
+the collection of sales taxes from certain remote sellers, to
+establish certain Legislative findings, and to declare an
+emergency.” S. 106, 2016 Leg. Assembly, 91st Sess. (S. D.
+2016) (S. B. 106). The legislature found that the inability
+to collect sales tax from remote sellers was “seriously
+eroding the sales tax base” and “causing revenue losses
+and imminent harm . . . through the loss of critical fund­
+ing for state and local services.” §8(1). The legislature
+also declared an emergency: “Whereas, this Act is neces­
+sary for the support of the state government and its exist­
+ing public institutions, an emergency is hereby declared to
+exist.” §9. Fearing further erosion of the tax base,
+the legislature expressed its intention to “apply South
+Dakota’s sales and use tax obligations to the limit of
+federal and state constitutional doctrines” and noted the
+urgent need for this Court to reconsider its precedents.
+§§8(11), (8).
+   To that end, the Act requires out-of-state sellers to
+collect and remit sales tax “as if the seller had a physical
+presence in the state.” §1. The Act applies only to sellers
+that, on an annual basis, deliver more than $100,000 of
+goods or services into the State or engage in 200 or more
+separate transactions for the delivery of goods or services
+into the State. Ibid. The Act also forecloses the retroac­
+tive application of this requirement and provides means
+for the Act to be appropriately stayed until the constitu­
+tionality of the law has been clearly established. §§5, 3,
+8(10).
+   Respondents Wayfair, Inc., Overstock.com, Inc., and
+Newegg, Inc., are merchants with no employees or real
+estate in South Dakota. Wayfair, Inc., is a leading online
+
+
+4               SOUTH DAKOTA v. WAYFAIR, INC.
+                       Opinion of the Court
+retailer of home goods and furniture and had net revenues
+of over $4.7 billion last year. Overstock.com, Inc., is one of
+the top online retailers in the United States, selling a wide
+variety of products from home goods and furniture to
+clothing and jewelry; and it had net revenues of over $1.7
+billion last year. Newegg, Inc., is a major online retailer of
+consumer electronics in the United States. Each of these
+three companies ships its goods directly to purchasers
+throughout the United States, including South Dakota.
+Each easily meets the minimum sales or transactions
+requirement of the Act, but none collects South Dakota
+sales tax. 2017 S. D. 56, ¶¶ 10–11, 901 N. W. 2d 754, 759–
+760.
+   Pursuant to the Act’s provisions for expeditious judicial
+review, South Dakota filed a declaratory judgment action
+against respondents in state court, seeking a declaration
+that the requirements of the Act are valid and applicable
+to respondents and an injunction requiring respondents to
+register for licenses to collect and remit sales tax. App. 11,
+30. Respondents moved for summary judgment, arguing
+that the Act is unconstitutional. 901 N. W. 2d, at 759–
+760. South Dakota conceded that the Act cannot survive
+under Bellas Hess and Quill but asserted the importance,
+indeed the necessity, of asking this Court to review those
+earlier decisions in light of current economic realities. 901
+N. W. 2d, at 760; see also S. B. 106, §8. The trial court
+granted summary judgment to respondents. App. to Pet.
+for Cert. 17a.
+   The South Dakota Supreme Court affirmed. It stated:
+“However persuasive the State’s arguments on the merits
+of revisiting the issue, Quill has not been overruled [and]
+remains the controlling precedent on the issue of Com­
+merce Clause limitations on interstate collection of sales
+and use taxes.” 901 N. W. 2d, at 761. This Court granted
+certiorari. 583 U. S. ___ (2018).
+
+
+                   Cite as: 585 U. S. ____ (2018)            5
+                        Opinion of the Court
+                                 II
+   The Constitution grants Congress the power “[t]o regu­
+late Commerce . . . among the several States.” Art. I, §8,
+cl. 3. The Commerce Clause “reflect[s] a central concern of
+the Framers that was an immediate reason for calling the
+Constitutional Convention: the conviction that in order to
+succeed, the new Union would have to avoid the tenden­
+cies toward economic Balkanization that had plagued
+relations among the Colonies and later among the States
+under the Articles of Confederation.” Hughes v. Oklaho-
+ma, 441 U. S. 322, 325–326 (1979). Although the Com­
+merce Clause is written as an affirmative grant of authority
+to Congress, this Court has long held that in some
+instances it imposes limitations on the States absent
+congressional action. Of course, when Congress exercises
+its power to regulate commerce by enacting legislation, the
+legislation controls. Southern Pacific Co. v. Arizona ex rel.
+Sullivan, 325 U. S. 761, 769 (1945). But this Court has
+observed that “in general Congress has left it to the courts
+to formulate the rules” to preserve “the free flow of inter­
+state commerce.” Id., at 770.
+   To understand the issue presented in this case, it is
+instructive first to survey the general development of this
+Court’s Commerce Clause principles and then to review
+the application of those principles to state taxes.
+                                 A
+   From early in its history, a central function of this Court
+has been to adjudicate disputes that require interpretation
+of the Commerce Clause in order to determine its mean­
+ing, its reach, and the extent to which it limits state regu­
+lations of commerce. Gibbons v. Ogden, 9 Wheat. 1 (1824),
+began setting the course by defining the meaning of com­
+merce. Chief Justice Marshall explained that commerce
+included both “the interchange of commodities” and “com­
+mercial intercourse.” Id., at 189, 193. A concurring opin­
+
+
+6              SOUTH DAKOTA v. WAYFAIR, INC.
+                      Opinion of the Court
+ion further stated that Congress had the exclusive power
+to regulate commerce. See id., at 236 (opinion of Johnson,
+J.). Had that latter submission prevailed and States been
+denied the power of concurrent regulation, history might
+have seen sweeping federal regulations at an early date
+that foreclosed the States from experimentation with laws
+and policies of their own, or, on the other hand, proposals
+to reexamine Gibbons’ broad definition of commerce to
+accommodate the necessity of allowing States the power to
+enact laws to implement the political will of their people.
+   Just five years after Gibbons, however, in another opin­
+ion by Chief Justice Marshall, the Court sustained what in
+substance was a state regulation of interstate commerce.
+In Willson v. Black Bird Creek Marsh Co., 2 Pet. 245
+(1829), the Court allowed a State to dam and bank a
+stream that was part of an interstate water system, an
+action that likely would have been an impermissible in­
+trusion on the national power over commerce had it been
+the rule that only Congress could regulate in that sphere.
+See id., at 252. Thus, by implication at least, the Court
+indicated that the power to regulate commerce in some
+circumstances was held by the States and Congress con­
+currently. And so both a broad interpretation of interstate
+commerce and the concurrent regulatory power of the
+States can be traced to Gibbons and Willson.
+   Over the next few decades, the Court refined the doc­
+trine to accommodate the necessary balance between state
+and federal power. In Cooley v. Board of Wardens of Port
+of Philadelphia ex rel. Soc. for Relief of Distressed Pilots,
+12 How. 299 (1852), the Court addressed local laws regu­
+lating river pilots who operated in interstate waters and
+guided many ships on interstate or foreign voyages. The
+Court held that, while Congress surely could regulate on
+this subject had it chosen to act, the State, too, could
+regulate. The Court distinguished between those subjects
+that by their nature “imperatively deman[d] a single
+
+
+                    Cite as: 585 U. S. ____ (2018)         7
+                         Opinion of the Court
+uniform rule, operating equally on the commerce of the
+United States,” and those that “deman[d] th[e] diversity,
+which alone can meet . . . local necessities.” Id., at 319.
+Though considerable uncertainties were yet to be over­
+come, these precedents still laid the groundwork for the
+analytical framework that now prevails for Commerce
+Clause cases.
+  This Court’s doctrine has developed further with time.
+Modern precedents rest upon two primary principles that
+mark the boundaries of a State’s authority to regulate
+interstate commerce. First, state regulations may not
+discriminate against interstate commerce; and second,
+States may not impose undue burdens on interstate com­
+merce. State laws that discriminate against interstate
+commerce face “a virtually per se rule of invalidity.”
+Granholm v. Heald, 544 U. S. 460, 476 (2005) (internal
+quotation marks omitted). State laws that “regulat[e]
+even-handedly to effectuate a legitimate local public inter­
+est . . . will be upheld unless the burden imposed on such
+commerce is clearly excessive in relation to the putative
+local benefits.” Pike v. Bruce Church, Inc., 397 U. S. 137,
+142 (1970); see also Southern Pacific, supra, at 779. Al-
+though subject to exceptions and variations, see, e.g.,
+Hughes v. Alexandria Scrap Corp., 426 U. S. 794 (1976);
+Brown-Forman Distillers Corp. v. New York State Liquor
+Authority, 476 U. S. 573 (1986), these two principles guide
+the courts in adjudicating cases challenging state laws
+under the Commerce Clause.
+                                  B
+  These principles also animate the Court’s Commerce
+Clause precedents addressing the validity of state taxes.
+The Court explained the now-accepted framework for state
+taxation in Complete Auto Transit, Inc. v. Brady, 430 U. S.
+274 (1977). The Court held that a State “may tax exclu­
+sively interstate commerce so long as the tax does not
+
+
+8              SOUTH DAKOTA v. WAYFAIR, INC.
+                       Opinion of the Court
+create any effect forbidden by the Commerce Clause.” Id.,
+at 285. After all, “interstate commerce may be required to
+pay its fair share of state taxes.” D. H. Holmes Co. v.
+McNamara, 486 U. S. 24, 31 (1988). The Court will sus­
+tain a tax so long as it (1) applies to an activity with a
+substantial nexus with the taxing State, (2) is fairly ap­
+portioned, (3) does not discriminate against interstate
+commerce, and (4) is fairly related to the services the State
+provides. See Complete Auto, supra, at 279.
+   Before Complete Auto, the Court had addressed a chal­
+lenge to an Illinois tax that required out-of-state retailers
+to collect and remit taxes on sales made to consumers who
+purchased goods for use within Illinois. Bellas Hess, 386
+U. S., at 754–755. The Court held that a mail-order com­
+pany “whose only connection with customers in the State
+is by common carrier or the United States mail” lacked the
+requisite minimum contacts with the State required by
+both the Due Process Clause and the Commerce Clause.
+Id., at 758. Unless the retailer maintained a physical
+presence such as “retail outlets, solicitors, or property
+within a State,” the State lacked the power to require that
+retailer to collect a local use tax. Ibid. The dissent dis-
+agreed: “There should be no doubt that this large-scale,
+systematic, continuous solicitation and exploitation of the
+Illinois consumer market is a sufficient ‘nexus’ to require
+Bellas Hess to collect from Illinois customers and to remit
+the use tax.” Id., at 761–762 (opinion of Fortas, J., joined
+by Black and Douglas, JJ.).
+   In 1992, the Court reexamined the physical presence
+rule in Quill. That case presented a challenge to North
+Dakota’s “attempt to require an out-of-state mail-order
+house that has neither outlets nor sales representatives in
+the State to collect and pay a use tax on goods purchased
+for use within the State.” 504 U. S., at 301. Despite the
+fact that Bellas Hess linked due process and the Com­
+merce Clause together, the Court in Quill overruled the
+
+
+                   Cite as: 585 U. S. ____ (2018)            9
+                        Opinion of the Court
+due process holding, but not the Commerce Clause hold­
+ing; and it thus reaffirmed the physical presence rule. 504
+U. S., at 307–308, 317–318.
+   The Court in Quill recognized that intervening prece­
+dents, specifically Complete Auto, “might not dictate the
+same result were the issue to arise for the first time to­
+day.” 504 U. S., at 311. But, nevertheless, the Quill
+majority concluded that the physical presence rule was
+necessary to prevent undue burdens on interstate com­
+merce. Id., at 313, and n. 6. It grounded the physical
+presence rule in Complete Auto’s requirement that a tax
+have a “ ‘substantial nexus’ ” with the activity being taxed.
+504 U. S., at 311.
+   Three Justices based their decision to uphold the physi­
+cal presence rule on stare decisis alone. Id., at 320 (Scalia,
+J., joined by KENNEDY and THOMAS, JJ., concurring in
+part and concurring in judgment). Dissenting in relevant
+part, Justice White argued that “there is no relationship
+between the physical-presence/nexus rule the Court re­
+tains and Commerce Clause considerations that allegedly
+justify it.” Id., at 327 (opinion concurring in part and
+dissenting in part).
+                                III
+   The physical presence rule has “been the target of criti­
+cism over many years from many quarters.” Direct Mar-
+keting Assn. v. Brohl, 814 F. 3d 1129, 1148, 1150–1151
+(CA10 2016) (Gorsuch, J., concurring). Quill, it has been
+said, was “premised on assumptions that are unfounded”
+and “riddled with internal inconsistencies.” Rothfeld,
+Quill: Confusing the Commerce Clause, 56 Tax Notes 487,
+488 (1992). Quill created an inefficient “online sales tax
+loophole” that gives out-of-state businesses an advantage.
+A. Laffer & D. Arduin, Pro-Growth Tax Reform and E-
+Fairness 1, 4 (July 2013). And “while nexus rules are
+clearly necessary,” the Court “should focus on rules that
+
+
+10              SOUTH DAKOTA v. WAYFAIR, INC.
+                       Opinion of the Court
+are appropriate to the twenty-first century, not the nine­
+teenth.” Hellerstein, Deconstructing the Debate Over
+State Taxation of Electronic Commerce, 13 Harv. J. L. &
+Tech. 549, 553 (2000). Each year, the physical presence
+rule becomes further removed from economic reality and
+results in significant revenue losses to the States. These
+critiques underscore that the physical presence rule, both
+as first formulated and as applied today, is an incorrect
+interpretation of the Commerce Clause.
+                                A
+   Quill is flawed on its own terms. First, the physical
+presence rule is not a necessary interpretation of the
+requirement that a state tax must be “applied to an activ­
+ity with a substantial nexus with the taxing State.” Com-
+plete Auto, 430 U. S., at 279. Second, Quill creates rather
+than resolves market distortions. And third, Quill im-
+poses the sort of arbitrary, formalistic distinction that the
+Court’s modern Commerce Clause precedents disavow.
+                                1
+   All agree that South Dakota has the authority to tax
+these transactions. S. B. 106 applies to sales of “tangible
+personal property, products transferred electronically, or
+services for delivery into South Dakota.” §1 (emphasis
+added). “It has long been settled” that the sale of goods or
+services “has a sufficient nexus to the State in which the
+sale is consummated to be treated as a local transaction
+taxable by that State.” Oklahoma Tax Comm’n v. Jeffer-
+son Lines, Inc., 514 U. S. 175, 184 (1995); see also 2 C.
+Trost & P. Hartman, Federal Limitations on State and
+Local Taxation 2d §11:1, p. 471 (2003) (“Generally speak­
+ing, a sale is attributable to its destination”).
+   The central dispute is whether South Dakota may re­
+quire remote sellers to collect and remit the tax without
+some additional connection to the State. The Court has
+
+
+                    Cite as: 585 U. S. ____ (2018)          11
+                         Opinion of the Court
+previously stated that “[t]he imposition on the seller of the
+duty to insure collection of the tax from the purchaser does
+not violate the [C]ommerce [C]lause.” McGoldrick v.
+Berwind-White Coal Mining Co., 309 U. S. 33, 50, n. 9
+(1940). It is a “ ‘familiar and sanctioned device.’ ” Scripto,
+Inc. v. Carson, 362 U. S. 207, 212 (1960). There just must
+be “a substantial nexus with the taxing State.” Complete
+Auto, supra, at 279.
+    This nexus requirement is “closely related,” Bellas Hess,
+386 U. S., at 756, to the due process requirement that
+there be “some definite link, some minimum connection,
+between a state and the person, property or transaction it
+seeks to tax,” Miller Brothers Co. v. Maryland, 347 U. S.
+340, 344–345 (1954). It is settled law that a business need
+not have a physical presence in a State to satisfy the
+demands of due process. Burger King Corp. v. Rudzewicz,
+471 U. S. 462, 476 (1985). Although physical presence
+“ ‘frequently will enhance’ ” a business’ connection with a
+State, “ ‘it is an inescapable fact of modern commercial life
+that a substantial amount of business is transacted . . .
+[with no] need for physical presence within a State in
+which business is conducted.’ ” Quill, 504 U. S., at 308.
+Quill itself recognized that “[t]he requirements of due
+process are met irrespective of a corporation’s lack of
+physical presence in the taxing State.” Ibid.
+    When considering whether a State may levy a tax, Due
+Process and Commerce Clause standards may not be
+identical or coterminous, but there are significant paral­
+lels. The reasons given in Quill for rejecting the physical
+presence rule for due process purposes apply as well to the
+question whether physical presence is a requisite for an
+out-of-state seller’s liability to remit sales taxes. Physical
+presence is not necessary to create a substantial nexus.
+    The Quill majority expressed concern that without the
+physical presence rule “a state tax might unduly burden
+interstate commerce” by subjecting retailers to tax­
+
+
+12             SOUTH DAKOTA v. WAYFAIR, INC.
+                      Opinion of the Court
+collection obligations in thousands of different taxing
+jurisdictions. Id., at 313, n. 6. But the administrative
+costs of compliance, especially in the modern economy
+with its Internet technology, are largely unrelated to
+whether a company happens to have a physical presence
+in a State. For example, a business with one salesperson
+in each State must collect sales taxes in every jurisdiction
+in which goods are delivered; but a business with 500
+salespersons in one central location and a website accessi­
+ble in every State need not collect sales taxes on otherwise
+identical nationwide sales. In other words, under Quill, a
+small company with diverse physical presence might be
+equally or more burdened by compliance costs than a large
+remote seller. The physical presence rule is a poor proxy
+for the compliance costs faced by companies that do busi­
+ness in multiple States. Other aspects of the Court’s
+doctrine can better and more accurately address any
+potential burdens on interstate commerce, whether or not
+Quill’s physical presence rule is satisfied.
+                               2
+   The Court has consistently explained that the Com­
+merce Clause was designed to prevent States from engag­
+ing in economic discrimination so they would not divide
+into isolated, separable units. See Philadelphia v. New
+Jersey, 437 U. S. 617, 623 (1978). But it is “not the pur­
+pose of the [C]ommerce [C]lause to relieve those engaged
+in interstate commerce from their just share of state tax
+burden.” Complete Auto, supra, at 288 (internal quotation
+marks omitted). And it is certainly not the purpose of the
+Commerce Clause to permit the Judiciary to create market
+distortions. “If the Commerce Clause was intended to put
+businesses on an even playing field, the [physical pres­
+ence] rule is hardly a way to achieve that goal.” Quill,
+supra, at 329 (opinion of White, J.).
+   Quill puts both local businesses and many interstate
+
+
+                  Cite as: 585 U. S. ____ (2018)           13
+                       Opinion of the Court
+businesses with physical presence at a competitive disad­
+vantage relative to remote sellers. Remote sellers can
+avoid the regulatory burdens of tax collection and can offer
+de facto lower prices caused by the widespread failure of
+consumers to pay the tax on their own. This “guarantees a
+competitive benefit to certain firms simply because of the
+organizational form they choose” while the rest of the
+Court’s jurisprudence “is all about preventing discrimina­
+tion between firms.” Direct Marketing, 814 F. 3d, at 1150–
+1151 (Gorsuch, J., concurring). In effect, Quill has come to
+serve as a judicially created tax shelter for businesses that
+decide to limit their physical presence and still sell their
+goods and services to a State’s consumers—something that
+has become easier and more prevalent as technology has
+advanced.
+   Worse still, the rule produces an incentive to avoid
+physical presence in multiple States. Distortions caused
+by the desire of businesses to avoid tax collection mean
+that the market may currently lack storefronts, distribu­
+tion points, and employment centers that otherwise would
+be efficient or desirable. The Commerce Clause must not
+prefer interstate commerce only to the point where a
+merchant physically crosses state borders. Rejecting the
+physical presence rule is necessary to ensure that artificial
+competitive advantages are not created by this Court’s
+precedents. This Court should not prevent States from
+collecting lawful taxes through a physical presence rule
+that can be satisfied only if there is an employee or a
+building in the State.
+                                3
+   The Court’s Commerce Clause jurisprudence has “es­
+chewed formalism for a sensitive, case-by-case analysis of
+purposes and effects.” West Lynn Creamery, Inc. v. Healy,
+512 U. S. 186, 201 (1994). Quill, in contrast, treats eco­
+nomically identical actors differently, and for arbitrary
+
+
+14             SOUTH DAKOTA v. WAYFAIR, INC.
+                      Opinion of the Court
+reasons.
+   Consider, for example, two businesses that sell furniture
+online. The first stocks a few items of inventory in a small
+warehouse in North Sioux City, South Dakota. The sec­
+ond uses a major warehouse just across the border in
+South Sioux City, Nebraska, and maintains a sophisticated
+website with a virtual showroom accessible in every State,
+including South Dakota. By reason of its physical pres­
+ence, the first business must collect and remit a tax on all
+of its sales to customers from South Dakota, even those
+sales that have nothing to do with the warehouse. See
+National Geographic, 430 U. S., at 561; Scripto, Inc., 362
+U. S., at 211–212. But, under Quill, the second, hypothet­
+ical seller cannot be subject to the same tax for the sales of
+the same items made through a pervasive Internet pres­
+ence. This distinction simply makes no sense. So long as
+a state law avoids “any effect forbidden by the Commerce
+Clause,” Complete Auto, 430 U. S., at 285, courts should
+not rely on anachronistic formalisms to invalidate it. The
+basic principles of the Court’s Commerce Clause jurispru­
+dence are grounded in functional, marketplace dynamics;
+and States can and should consider those realities in
+enacting and enforcing their tax laws.
+                               B
+   The Quill Court itself acknowledged that the physical
+presence rule is “artificial at its edges.” 504 U. S., at 315.
+That was an understatement when Quill was decided; and
+when the day-to-day functions of marketing and distribu­
+tion in the modern economy are considered, it is all the
+more evident that the physical presence rule is artificial in
+its entirety.
+   Modern e-commerce does not align analytically with a
+test that relies on the sort of physical presence defined in
+Quill. In a footnote, Quill rejected the argument that
+“title to ‘a few floppy diskettes’ present in a State” was
+
+
+                   Cite as: 585 U. S. ____ (2018)         15
+                        Opinion of the Court
+sufficient to constitute a “substantial nexus,” id., at 315,
+n. 8. But it is not clear why a single employee or a single
+warehouse should create a substantial nexus while “physi­
+cal” aspects of pervasive modern technology should not.
+For example, a company with a website accessible in
+South Dakota may be said to have a physical presence in
+the State via the customers’ computers. A website may
+leave cookies saved to the customers’ hard drives, or cus­
+tomers may download the company’s app onto their
+phones. Or a company may lease data storage that is per­
+manently, or even occasionally, located in South Dakota.
+Cf. United States v. Microsoft Corp., 584 U. S. ___ (2018)
+(per curiam). What may have seemed like a “clear,”
+“bright-line tes[t]” when Quill was written now threatens
+to compound the arbitrary consequences that should have
+been apparent from the outset. 504 U. S., at 315.
+  The “dramatic technological and social changes” of our
+“increasingly interconnected economy” mean that buyers
+are “closer to most major retailers” than ever before—
+“regardless of how close or far the nearest storefront.”
+Direct Marketing Assn. v. Brohl, 575 U. S. ___, ___, ___
+(2015) (KENNEDY, J., concurring) (slip op., at 2, 3). Be­
+tween targeted advertising and instant access to most
+consumers via any internet-enabled device, “a business
+may be present in a State in a meaningful way without”
+that presence “being physical in the traditional sense of
+the term.” Id., at ___ (slip op., at 3). A virtual showroom
+can show far more inventory, in far more detail, and with
+greater opportunities for consumer and seller interaction
+than might be possible for local stores. Yet the continuous
+and pervasive virtual presence of retailers today is, under
+Quill, simply irrelevant. This Court should not maintain
+a rule that ignores these substantial virtual connections to
+the State.
+
+
+16             SOUTH DAKOTA v. WAYFAIR, INC.
+                      Opinion of the Court
+                               C
+   The physical presence rule as defined and enforced in
+Bellas Hess and Quill is not just a technical legal prob­
+lem—it is an extraordinary imposition by the Judiciary on
+States’ authority to collect taxes and perform critical
+public functions. Forty-one States, two Territories, and
+the District of Columbia now ask this Court to reject the
+test formulated in Quill. See Brief for Colorado et al. as
+Amici Curiae. Quill’s physical presence rule intrudes on
+States’ reasonable choices in enacting their tax systems.
+And that it allows remote sellers to escape an obligation to
+remit a lawful state tax is unfair and unjust. It is unfair
+and unjust to those competitors, both local and out of
+State, who must remit the tax; to the consumers who pay
+the tax; and to the States that seek fair enforcement of the
+sales tax, a tax many States for many years have consid­
+ered an indispensable source for raising revenue.
+   In essence, respondents ask this Court to retain a rule
+that allows their customers to escape payment of sales
+taxes—taxes that are essential to create and secure the
+active market they supply with goods and services. An
+example may suffice. Wayfair offers to sell a vast selection
+of furnishings. Its advertising seeks to create an image of
+beautiful, peaceful homes, but it also says that “ ‘[o]ne of
+the best things about buying through Wayfair is that we
+do not have to charge sales tax.’ ” Brief for Petitioner 55.
+What Wayfair ignores in its subtle offer to assist in tax
+evasion is that creating a dream home assumes solvent
+state and local governments. State taxes fund the police
+and fire departments that protect the homes containing
+their customers’ furniture and ensure goods are safely
+delivered; maintain the public roads and municipal ser­
+vices that allow communication with and access to cus­
+tomers; support the “sound local banking institutions to
+support credit transactions [and] courts to ensure collec­
+tion of the purchase price,” Quill, 504 U. S., at 328 (opin­
+
+
+                   Cite as: 585 U. S. ____ (2018)          17
+                        Opinion of the Court
+ion of White, J.); and help create the “climate of consumer
+confidence” that facilitates sales, see ibid. According    to
+respondents, it is unfair to stymie their tax-free solicita­
+tion of customers. But there is nothing unfair about re­
+quiring companies that avail themselves of the States’
+benefits to bear an equal share of the burden of tax collec­
+tion. Fairness dictates quite the opposite result. Helping
+respondents’ customers evade a lawful tax unfairly shifts
+to those consumers who buy from their competitors with a
+physical presence that satisfies Quill—even one ware­
+house or one salesperson—an increased share of the taxes.
+It is essential to public confidence in the tax system that
+the Court avoid creating inequitable exceptions. This is
+also essential to the confidence placed in this Court’s
+Commerce Clause decisions. Yet the physical presence
+rule undermines that necessary confidence by giving some
+online retailers an arbitrary advantage over their competi­
+tors who collect state sales taxes.
+   In the name of federalism and free markets, Quill does
+harm to both. The physical presence rule it defines has
+limited States’ ability to seek long-term prosperity and has
+prevented market participants from competing on an even
+playing field.
+                                IV
+   “Although we approach the reconsideration of our deci­
+sions with the utmost caution, stare decisis is not an inex­
+orable command.” Pearson v. Callahan, 555 U. S. 223, 233
+(2009) (quoting State Oil Co. v. Khan, 522 U. S. 3, 20
+(1997); alterations and internal quotation marks omitted).
+Here, stare decisis can no longer support the Court’s prohi­
+bition of a valid exercise of the States’ sovereign power.
+   If it becomes apparent that the Court’s Commerce
+Clause decisions prohibit the States from exercising their
+lawful sovereign powers in our federal system, the Court
+should be vigilant in correcting the error. While it can be
+
+
+18             SOUTH DAKOTA v. WAYFAIR, INC.
+                      Opinion of the Court
+conceded that Congress has the authority to change the
+physical presence rule, Congress cannot change the consti­
+tutional default rule. It is inconsistent with the Court’s
+proper role to ask Congress to address a false constitu­
+tional premise of this Court’s own creation. Courts have
+acted as the front line of review in this limited sphere; and
+hence it is important that their principles be accurate and
+logical, whether or not Congress can or will act in re­
+sponse. It is currently the Court, and not Congress, that
+is limiting the lawful prerogatives of the States.
+   Further, the real world implementation of Commerce
+Clause doctrines now makes it manifest that the physical
+presence rule as defined by Quill must give way to the
+“far-reaching systemic and structural changes in the
+economy” and “many other societal dimensions” caused by
+the Cyber Age. Direct Marketing, 575 U. S., at ___
+(KENNEDY, J., concurring) (slip op., at 3). Though Quill
+was wrong on its own terms when it was decided in 1992,
+since then the Internet revolution has made its earlier
+error all the more egregious and harmful.
+   The Quill Court did not have before it the present reali­
+ties of the interstate marketplace. In 1992, less than 2
+percent of Americans had Internet access. See Brief for
+Retail Litigation Center, Inc., et al. as Amici Curiae 11,
+and n. 10. Today that number is about 89 percent. Ibid.,
+and n. 11. When it decided Quill, the Court could not have
+envisioned a world in which the world’s largest retailer
+would be a remote seller, S. Li, Amazon Overtakes Wal-Mart
+as Biggest Retailer, L. A. Times, July 24, 2015, http://www.
+latimes.com/business/la-fi-amazon-walmart-20150724­
+story.html (all Internet materials as last visited June 18,
+2018).
+   The Internet’s prevalence and power have changed the
+dynamics of the national economy. In 1992, mail-order
+sales in the United States totaled $180 billion. 504 U. S.,
+at 329 (opinion of White, J.). Last year, e-commerce retail
+
+
+                  Cite as: 585 U. S. ____ (2018)            19
+                       Opinion of the Court
+sales alone were estimated at $453.5 billion. Dept. of
+Commerce, U. S. Census Bureau News, Quarterly Retail
+E-Commerce Sales: 4th Quarter 2017 (CB18–21, Feb. 16,
+2018). Combined with traditional remote sellers, the total
+exceeds half a trillion dollars. Sales Taxes Report, at 9.
+Since the Department of Commerce first began tracking e-
+commerce sales, those sales have increased tenfold from
+0.8 percent to 8.9 percent of total retail sales in the United
+States. Compare Dept. of Commerce, U. S. Census Bu­
+reau, Retail E-Commerce Sales in Fourth Quarter 2000
+(CB01–28, Feb. 16, 2001), https://www.census.gov/mrts/
+www/data/pdf/00Q4.pdf, with U. S. Census Bureau News,
+Quarterly Retail E-Commerce Sales: 4th Quarter 2017.
+And it is likely that this percentage will increase. Last
+year, e-commerce grew at four times the rate of traditional
+retail, and it shows no sign of any slower pace. See ibid.
+  This expansion has also increased the revenue shortfall
+faced by States seeking to collect their sales and use taxes.
+In 1992, it was estimated that the States were losing
+between $694 million and $3 billion per year in sales tax
+revenues as a result of the physical presence rule. Brief
+for Law Professors et al. as Amici Curiae 11, n. 7. Now
+estimates range from $8 to $33 billion. Sales Taxes Re­
+port, at 11–12; Brief for Petitioner 34–35. The South
+Dakota Legislature has declared an emergency, S. B. 106,
+§9, which again demonstrates urgency of overturning the
+physical presence rule.
+  The argument, moreover, that the physical presence
+rule is clear and easy to apply is unsound. Attempts to
+apply the physical presence rule to online retail sales are
+proving unworkable. States are already confronting the
+complexities of defining physical presence in the Cyber
+Age. For example, Massachusetts proposed a regulation
+that would have defined physical presence to include
+making apps available to be downloaded by in-state resi­
+dents and placing cookies on in-state residents’ web
+
+
+20             SOUTH DAKOTA v. WAYFAIR, INC.
+                       Opinion of the Court
+browsers. See 830 Code Mass. Regs. 64H.1.7 (2017). Ohio
+recently adopted a similar standard. See Ohio Rev. Code
+Ann. §5741.01(I)(2)(i) (Lexis Supp. 2018). Some States
+have enacted so-called “click through” nexus statutes,
+which define nexus to include out-of-state sellers that
+contract with in-state residents who refer customers for
+compensation.        See e.g., N. Y. Tax Law Ann.
+§1101(b)(8)(vi) (West 2017); Brief for Tax Foundation as
+Amicus Curiae 20–22 (listing 21 States with similar stat­
+utes). Others still, like Colorado, have imposed notice and
+reporting requirements on out-of-state retailers that fall
+just short of actually collecting and remitting the tax. See
+Direct Marketing, 814 F. 3d, at 1133 (discussing Colo. Rev.
+Stat. §39–21–112(3.5)); Brief for Tax Foundation 24–26
+(listing nine States with similar statutes). Statutes of this
+sort are likely to embroil courts in technical and arbitrary
+disputes about what counts as physical presence.
+   Reliance interests are a legitimate consideration when
+the Court weighs adherence to an earlier but flawed prec­
+edent. See Kimble v. Marvel Entertainment, LLC, 576
+U. S. ___, ___–___ (2015) (slip op., at 9–10). But even on
+its own terms, the physical presence rule as defined by
+Quill is no longer a clear or easily applicable standard, so
+arguments for reliance based on its clarity are misplaced.
+And, importantly, stare decisis accommodates only “legit­
+imate reliance interest[s].” United States v. Ross, 456
+U. S. 798, 824 (1982). Here, the tax distortion created by
+Quill exists in large part because consumers regularly fail
+to comply with lawful use taxes. Some remote retailers go
+so far as to advertise sales as tax free. See S. B. 106,
+§8(3); see also Brief for Petitioner 55. A business “is in no
+position to found a constitutional right on the practical
+opportunities for tax avoidance.” Nelson v. Sears, Roebuck
+& Co., 312 U. S. 359, 366 (1941).
+   Respondents argue that “the physical presence rule has
+permitted start-ups and small businesses to use the Inter­
+
+
+                  Cite as: 585 U. S. ____ (2018)          21
+                       Opinion of the Court
+net as a means to grow their companies and access a
+national market, without exposing them to the daunting
+complexity and business-development obstacles of nation­
+wide sales tax collection.” Brief for Respondents 29.
+These burdens may pose legitimate concerns in some
+instances, particularly for small businesses that make a
+small volume of sales to customers in many States. State
+taxes differ, not only in the rate imposed but also in the
+categories of goods that are taxed and, sometimes, the
+relevant date of purchase. Eventually, software that is
+available at a reasonable cost may make it easier for small
+businesses to cope with these problems. Indeed, as the
+physical presence rule no longer controls, those systems
+may well become available in a short period of time, either
+from private providers or from state taxing agencies them­
+selves. And in all events, Congress may legislate to ad­
+dress these problems if it deems it necessary and fit to
+do so.
+   In this case, however, South Dakota affords small mer­
+chants a reasonable degree of protection. The law at issue
+requires a merchant to collect the tax only if it does a
+considerable amount of business in the State; the law is
+not retroactive; and South Dakota is a party to the
+Streamlined Sales and Use Tax Agreement, see infra
+at 23.
+   Finally, other aspects of the Court’s Commerce Clause
+doctrine can protect against any undue burden on inter­
+state commerce, taking into consideration the small busi­
+nesses, startups, or others who engage in commerce across
+state lines. For example, the United States argues that
+tax-collection requirements should be analyzed under the
+balancing framework of Pike v. Bruce Church, Inc., 397
+U. S. 137. Others have argued that retroactive liability
+risks a double tax burden in violation of the Court’s appor­
+tionment jurisprudence because it would make both the
+buyer and the seller legally liable for collecting and remit­
+
+
+22             SOUTH DAKOTA v. WAYFAIR, INC.
+                       Opinion of the Court
+ting the tax on a transaction intended to be taxed only
+once. See Brief for Law Professors et al. as Amici Curiae
+7, n. 5. Complex state tax systems could have the effect of
+discriminating against interstate commerce. Concerns
+that complex state tax systems could be a burden on small
+business are answered in part by noting that, as discussed
+below, there are various plans already in place to simplify
+collection; and since in-state businesses pay the taxes as
+well, the risk of discrimination against out-of-state sellers
+is avoided. And, if some small businesses with only de
+minimis contacts seek relief from collection systems
+thought to be a burden, those entities may still do so
+under other theories. These issues are not before the
+Court in the instant case; but their potential to arise in
+some later case cannot justify retaining this artificial,
+anachronistic rule that deprives States of vast revenues
+from major businesses.
+   For these reasons, the Court concludes that the physical
+presence rule of Quill is unsound and incorrect. The
+Court’s decisions in Quill Corp. v. North Dakota, 504 U. S.
+298 (1992), and National Bellas Hess, Inc. v. Department
+of Revenue of Ill., 386 U. S. 753 (1967), should be, and now
+are, overruled.
+                                V
+   In the absence of Quill and Bellas Hess, the first prong
+of the Complete Auto test simply asks whether the tax
+applies to an activity with a substantial nexus with the
+taxing State. 430 U. S., at 279. “[S]uch a nexus is estab­
+lished when the taxpayer [or collector] ‘avails itself of the
+substantial privilege of carrying on business’ in that juris­
+diction.” Polar Tankers, Inc. v. City of Valdez, 557 U. S. 1,
+11 (2009).
+   Here, the nexus is clearly sufficient based on both the
+economic and virtual contacts respondents have with the
+State. The Act applies only to sellers that deliver more
+
+
+                   Cite as: 585 U. S. ____ (2018)         23
+                        Opinion of the Court
+than $100,000 of goods or services into South Dakota or
+engage in 200 or more separate transactions for the deliv­
+ery of goods and services into the State on an annual
+basis. S. B. 106, §1. This quantity of business could not
+have occurred unless the seller availed itself of the sub­
+stantial privilege of carrying on business in South Dakota.
+And respondents are large, national companies that un­
+doubtedly maintain an extensive virtual presence. Thus,
+the substantial nexus requirement of Complete Auto is
+satisfied in this case.
+   The question remains whether some other principle in
+the Court’s Commerce Clause doctrine might invalidate
+the Act. Because the Quill physical presence rule was an
+obvious barrier to the Act’s validity, these issues have not
+yet been litigated or briefed, and so the Court need not
+resolve them here. That said, South Dakota’s tax system
+includes several features that appear designed to prevent
+discrimination against or undue burdens upon interstate
+commerce. First, the Act applies a safe harbor to those
+who transact only limited business in South Dakota.
+Second, the Act ensures that no obligation to remit the
+sales tax may be applied retroactively. S. B. 106, §5.
+Third, South Dakota is one of more than 20 States that
+have adopted the Streamlined Sales and Use Tax Agree­
+ment. This system standardizes taxes to reduce adminis­
+trative and compliance costs: It requires a single, state
+level tax administration, uniform definitions of products
+and services, simplified tax rate structures, and other
+uniform rules. It also provides sellers access to sales tax
+administration software paid for by the State. Sellers who
+choose to use such software are immune from audit liabil­
+ity. See App. 26–27. Any remaining claims regarding the
+application of the Commerce Clause in the absence of
+Quill and Bellas Hess may be addressed in the first in­
+stance on remand.
+   The judgment of the Supreme Court of South Dakota is
+
+
+24            SOUTH DAKOTA v. WAYFAIR, INC.
+                     Opinion of the Court
+vacated, and the case is remanded for further proceedings
+not inconsistent with this opinion.
+                                          It is so ordered.
+
+
+                  Cite as: 585 U. S. ____ (2018)          1
+                     THOMAS, J., concurring
+SUPREME COURT OF THE UNITED STATES
+                           _________________
+                            No. 17–494
+                           _________________
+   SOUTH DAKOTA, PETITIONER v. WAYFAIR, INC.,
+                              ET AL.
+    ON WRIT OF CERTIORARI TO THE SUPREME COURT OF
+                        SOUTH DAKOTA
+                         [June 21, 2018]
+  JUSTICE THOMAS, concurring.
+  Justice Byron White joined the majority opinion in
+National Bellas Hess, Inc. v. Department of Revenue of Ill.,
+386 U. S. 753 (1967). Twenty-five years later, we had the
+opportunity to overrule Bellas Hess in Quill Corp. v. North
+Dakota, 504 U. S. 298 (1992). Only Justice White voted to
+do so. See id., at 322 (opinion concurring in part and
+dissenting in part). I should have joined his opinion.
+Today, I am slightly further removed from Quill than
+Justice White was from Bellas Hess. And like Justice
+White, a quarter century of experience has convinced me
+that Bellas Hess and Quill “can no longer be rationally
+justified.” 504 U. S., at 333. The same is true for this
+Court’s entire negative Commerce Clause jurisprudence.
+See Comptroller of Treasury of Md. v. Wynne, 575 U. S.
+___, ___ (2015) (THOMAS, J., dissenting) (slip op., at 1).
+Although I adhered to that jurisprudence in Quill, it is
+never too late to “surrende[r] former views to a better
+considered position.” McGrath v. Kristensen, 340 U. S.
+162, 178 (1950) (Jackson, J., concurring). I therefore join
+the Court’s opinion.
+
+
+                   Cite as: 585 U. S. ____ (2018)         1
+                      GORSUCH, J., concurring
+SUPREME COURT OF THE UNITED STATES
+                            _________________
+                             No. 17–494
+                            _________________
+   SOUTH DAKOTA, PETITIONER v. WAYFAIR, INC.,
+                               ET AL.
+     ON WRIT OF CERTIORARI TO THE SUPREME COURT OF
+                         SOUTH DAKOTA
+                          [June 21, 2018 ]
+   JUSTICE GORSUCH, concurring.
+   Our dormant commerce cases usually prevent States
+from discriminating between in-state and out-of-state
+firms. National Bellas Hess, Inc. v. Department of Reve-
+nue of Ill., 386 U. S. 753 (1967), and Quill Corp. v. North
+Dakota, 504 U. S. 298 (1992), do just the opposite. For
+years they have enforced a judicially created tax break for
+out-of-state Internet and mail-order firms at the expense
+of in-state brick-and-mortar rivals. See ante, at 12–13;
+Direct Marketing Assn. v. Brohl, 814 F. 3d, 1129, 1150
+(CA10 2016) (Gorsuch, J. concurring). As Justice White
+recognized 26 years ago, judges have no authority to con-
+struct a discriminatory “tax shelter” like this. Quill,
+supra, at 329 (opinion concurring in part and dissenting in
+part). The Court is right to correct the mistake and I am
+pleased to join its opinion.
+   My agreement with the Court’s discussion of the history
+of our dormant commerce clause jurisprudence, however,
+should not be mistaken for agreement with all aspects of
+the doctrine. The Commerce Clause is found in Article I
+and authorizes Congress to regulate interstate commerce.
+Meanwhile our dormant commerce cases suggest Article
+III courts may invalidate state laws that offend no con-
+gressional statute. Whether and how much of this can be
+squared with the text of the Commerce Clause, justified by
+
+
+2              SOUTH DAKOTA v. WAYFAIR, INC.
+                     GORSUCH, J., concurring
+stare decisis, or defended as misbranded products of feder-
+alism or antidiscrimination imperatives flowing from
+Article IV’s Privileges and Immunities Clause are ques-
+tions for another day. See Energy & Environment Legal
+Inst. v. Epel, 793 F. 3d 1169, 1171 (CA10 2015); Comptrol-
+ler of Treasury of Md. v. Wynne, 575 U. S. ___, ___–___
+(2015) (Scalia, J., dissenting) (slip op., at 1–3); Camps
+Newfound/Owatonna, Inc. v. Town of Harrison, 520 U. S.
+564, 610–620 (1997) (THOMAS, J., dissenting). Today we
+put Bellas Hess and Quill to rest and rightly end the
+paradox of condemning interstate discrimination in the
+national economy while promoting it ourselves.
+
+
+                    Cite as: 585 U. S. ____ (2018)           1
+                      ROBERTS, C. J., dissenting
+SUPREME COURT OF THE UNITED STATES
+                             _________________
+                              No. 17–494
+                             _________________
+   SOUTH DAKOTA, PETITIONER v. WAYFAIR, INC.,
+                                ET AL.
+     ON WRIT OF CERTIORARI TO THE SUPREME COURT OF
+                          SOUTH DAKOTA
+                           [June 21, 2018]
+   CHIEF JUSTICE ROBERTS, with whom JUSTICE BREYER,
+JUSTICE SOTOMAYOR, and JUSTICE KAGAN join, dissenting.
+   In National Bellas Hess, Inc. v. Department of Revenue
+of Ill., 386 U. S. 753 (1967), this Court held that, under the
+dormant Commerce Clause, a State could not require
+retailers without a physical presence in that State to
+collect taxes on the sale of goods to its residents. A quar-
+ter century later, in Quill Corp. v. North Dakota, 504 U. S.
+298 (1992), this Court was invited to overrule Bellas Hess
+but declined to do so. Another quarter century has passed,
+and another State now asks us to abandon the physical-
+presence rule. I would decline that invitation as well.
+   I agree that Bellas Hess was wrongly decided, for many
+of the reasons given by the Court. The Court argues in
+favor of overturning that decision because the “Internet’s
+prevalence and power have changed the dynamics of the
+national economy.” Ante, at 18. But that is the very
+reason I oppose discarding the physical-presence rule. E-
+commerce has grown into a significant and vibrant part of
+our national economy against the backdrop of established
+rules, including the physical-presence rule. Any alteration
+to those rules with the potential to disrupt the develop-
+ment of such a critical segment of the economy should be
+undertaken by Congress. The Court should not act on this
+important question of current economic policy, solely to
+
+
+2              SOUTH DAKOTA v. WAYFAIR, INC.
+                    ROBERTS, C. J., dissenting
+expiate a mistake it made over 50 years ago.
+                                I
+   This Court “does not overturn its precedents lightly.”
+Michigan v. Bay Mills Indian Community, 572 U. S. ___,
+___ (2014) (slip op., at 15). Departing from the doctrine of
+stare decisis is an “exceptional action” demanding “special
+justification.” Arizona v. Rumsey, 467 U. S. 203, 212
+(1984). The bar is even higher in fields in which Congress
+“exercises primary authority” and can, if it wishes, over-
+ride this Court’s decisions with contrary legislation. Bay
+Mills, 572 U. S., at ___ (slip op., at 16) (tribal sovereign
+immunity); see, e.g., Kimble v. Marvel Entertainment,
+LLC, 576 U. S. ___, ___ (2015) (slip op., at 8) (statutory
+interpretation); Halliburton Co. v. Erica P. John Fund,
+Inc., 573 U. S. ___, ___ (2014) (slip op., at 12) (judicially
+created doctrine implementing a judicially created cause of
+action). In such cases, we have said that “the burden
+borne by the party advocating the abandonment of an
+established precedent” is “greater” than usual. Patterson
+v. McLean Credit Union, 491 U. S. 164, 172 (1989). That
+is so “even where the error is a matter of serious concern,
+provided correction can be had by legislation.” Square D
+Co. v. Niagara Frontier Tariff Bureau, Inc., 476 U. S. 409,
+424 (1986) (quoting Burnet v. Coronado Oil & Gas Co., 285
+U. S. 393, 406 (1932) (Brandeis, J., dissenting)).
+   We have applied this heightened form of stare decisis in
+the dormant Commerce Clause context.             Under our
+dormant Commerce Clause precedents, when Congress
+has not yet legislated on a matter of interstate commerce,
+it is the province of “the courts to formulate the rules.”
+Southern Pacific Co. v. Arizona ex rel. Sullivan, 325 U. S.
+761, 770 (1945). But because Congress “has plenary power
+to regulate commerce among the States,” Quill, 504
+U. S., at 305, it may at any time replace such judicial rules
+with legislation of its own, see Prudential Ins. Co. v. Ben-
+
+
+                   Cite as: 585 U. S. ____ (2018)             3
+                     ROBERTS, C. J., dissenting
+jamin, 328 U. S. 408, 424–425 (1946).
+   In Quill, this Court emphasized that the decision to hew
+to the physical-presence rule on stare decisis grounds was
+“made easier by the fact that the underlying issue is not
+only one that Congress may be better qualified to resolve,
+but also one that Congress has the ultimate power to
+resolve.” 504 U. S., at 318 (footnote omitted). Even as-
+suming we had gone astray in Bellas Hess, the “very fact”
+of Congress’s superior authority in this realm “g[a]ve us
+pause and counsel[ed] withholding our hand.” Quill, 504
+U. S., at 318 (alterations omitted). We postulated that
+“the better part of both wisdom and valor [may be] to
+respect the judgment of the other branches of the Gov-
+ernment.” Id., at 319; see id., at 320 (Scalia, J., concurring
+in part and concurring in judgment) (recognizing that
+stare decisis has “special force” in the dormant Commerce
+Clause context due to Congress’s “final say over regulation
+of interstate commerce”). The Court thus left it to Con-
+gress “to decide whether, when, and to what extent the
+States may burden interstate mail-order concerns with a
+duty to collect use taxes.” Id., at 318 (majority opinion).
+                                II
+   This is neither the first, nor the second, but the third
+time this Court has been asked whether a State may
+obligate sellers with no physical presence within its bor-
+ders to collect tax on sales to residents. Whatever salience
+the adage “third time’s a charm” has in daily life, it is a
+poor guide to Supreme Court decisionmaking. If stare
+decisis applied with special force in Quill, it should be an
+even greater impediment to overruling precedent now,
+particularly since this Court in Quill “tossed [the ball] into
+Congress’s court, for acceptance or not as that branch
+elects.” Kimble, 576 U. S., at ___ (slip op., at 8); see Quill,
+504 U. S., at 318 (“Congress is now free to decide” the
+circumstances in which “the States may burden interstate
+
+
+4               SOUTH DAKOTA v. WAYFAIR, INC.
+                     ROBERTS, C. J., dissenting
+. . . concerns with a duty to collect use taxes”).
+    Congress has in fact been considering whether to alter
+the rule established in Bellas Hess for some time. See
+Addendum to Brief for Four United States Senators as
+Amici Curiae 1–4 (compiling efforts by Congress between
+2001 and 2017 to pass legislation respecting interstate
+sales tax collection); Brief for Rep. Bob Goodlatte et al. as
+Amici Curiae 20–23 (Goodlatte Brief) (same). Three bills
+addressing the issue are currently pending. See Market-
+place Fairness Act of 2017, S. 976, 115th Cong., 1st Sess.
+(2017); Remote Transactions Parity Act of 2017, H. R.
+2193, 115th Cong., 1st Sess. (2017); No Regulation With-
+out Representation Act, H. R. 2887, 115th Cong., 1st Sess.
+(2017). Nothing in today’s decision precludes Congress
+from continuing to seek a legislative solution. But by
+suddenly changing the ground rules, the Court may have
+waylaid Congress’s consideration of the issue. Armed with
+today’s decision, state officials can be expected to redirect
+their attention from working with Congress on a national
+solution, to securing new tax revenue from remote retail-
+ers. See, e.g., Brief for Sen. Ted Cruz et al. as Amici Curiae
+10–11 (“Overturning Quill would undo much of Con-
+gress’ work to find a workable national compromise under
+the Commerce Clause.”).
+    The Court proceeds with an inexplicable sense of urgency.
+It asserts that the passage of time is only increasing
+the need to take the extraordinary step of overruling
+Bellas Hess and Quill: “Each year, the physical presence
+rule becomes further removed from economic reality and
+results in significant revenue losses to the States.” Ante,
+at 10. The factual predicates for that assertion include a
+Government Accountability Office (GAO) estimate that,
+under the physical-presence rule, States lose billions of
+dollars annually in sales tax revenue. See ante, at 2, 19
+(citing GAO, Report to Congressional Requesters: Sales
+Taxes, States Could Gain Revenue from Expanded Au-
+
+
+                     Cite as: 585 U. S. ____ (2018)                  5
+                        ROBERTS, C. J., dissenting
+thority, but Businesses Are Likely to Experience Compli-
+ance Costs 5 (GAO–18–114, Nov. 2017) (Sales Taxes Re-
+port)). But evidence in the same GAO report indicates
+that the pendulum is swinging in the opposite direction,
+and has been for some time. States and local governments
+are already able to collect approximately 80 percent of the
+tax revenue that would be available if there were no phys-
+ical-presence rule. See Sales Taxes Report 8. Among the
+top 100 Internet retailers that rate is between 87 and 96
+percent. See id., at 41. Some companies, including the
+online behemoth Amazon,* now voluntarily collect and
+remit sales tax in every State that assesses one—even
+those in which they have no physical presence. See id., at
+10. To the extent the physical-presence rule is harming
+States, the harm is apparently receding with time.
+   The Court rests its decision to overrule Bellas Hess on
+the “present realities of the interstate marketplace.” Ante,
+at 18. As the Court puts it, allowing remote sellers to
+escape remitting a lawful tax is “unfair and unjust.” Ante,
+at 16. “[U]nfair and unjust to . . . competitors . . . who
+must remit the tax; to the consumers who pay the tax; and
+to the States that seek fair enforcement of the sales tax.”
+Ante, at 16. But “the present realities of the interstate
+marketplace” include the possibility that the marketplace
+itself could be affected by abandoning the physical-
+presence rule. The Court’s focus on unfairness and injus-
+tice does not appear to embrace consideration of that
+current public policy concern.
+   The Court, for example, breezily disregards the costs
+that its decision will impose on retailers. Correctly calcu-
+lating and remitting sales taxes on all e-commerce sales
+——————
+  * C. Isidore, Amazon To Start Collecting State Sales Taxes Every-
+where (Mar. 29, 2017), CNN Tech, http://money.cnn.com/2017/03/29/
+technology/amazon-sales-tax/index.html (all Internet materials as last
+visited June 19, 2018).
+
+
+6               SOUTH DAKOTA v. WAYFAIR, INC.
+                     ROBERTS, C. J., dissenting
+will likely prove baffling for many retailers. Over 10,000
+jurisdictions levy sales taxes, each with “different tax
+rates, different rules governing tax-exempt goods and
+services, different product category definitions, and differ-
+ent standards for determining whether an out-of-state
+seller has a substantial presence” in the jurisdiction.
+Sales Taxes Report 3. A few examples: New Jersey knit-
+ters pay sales tax on yarn purchased for art projects, but
+not on yarn earmarked for sweaters. See Brief for eBay,
+Inc., et al. as Amici Curiae 8, n. 3 (eBay Brief ). Texas
+taxes sales of plain deodorant at 6.25 percent but imposes
+no tax on deodorant with antiperspirant. See id., at 7.
+Illinois categorizes Twix and Snickers bars—chocolate-
+and-caramel confections usually displayed side-by-side in
+the candy aisle—as food and candy, respectively (Twix
+have flour; Snickers don’t), and taxes them differently.
+See id., at 8; Brief for Etsy, Inc., as Amicus Curiae 14–17
+(Etsy Brief ) (providing additional illustrations).
+   The burden will fall disproportionately on small busi-
+nesses. One vitalizing effect of the Internet has been
+connecting small, even “micro” businesses to potential
+buyers across the Nation. People starting a business
+selling their embroidered pillowcases or carved decoys can
+offer their wares throughout the country—but probably
+not if they have to figure out the tax due on every sale.
+See Sales Taxes Report 22 (indicating that “costs will
+likely increase the most for businesses that do not have
+established legal teams, software systems, or outside
+counsel to assist with compliance related questions”). And
+the software said to facilitate compliance is still in its
+infancy, and its capabilities and expense are subject to
+debate. See Etsy Brief 17–19 (describing the inadequacies
+of such software); eBay Brief 8–12 (same); Sales Taxes
+Report 16–20 (concluding that businesses will incur “high”
+compliance costs). The Court’s decision today will surely
+have the effect of dampening opportunities for commerce
+
+
+                  Cite as: 585 U. S. ____ (2018)           7
+                    ROBERTS, C. J., dissenting
+in a broad range of new markets.
+     A good reason to leave these matters to Congress is
+that legislators may more directly consider the competing
+interests at stake. Unlike this Court, Congress has the
+flexibility to address these questions in a wide variety of
+ways. As we have said in other dormant Commerce
+Clause cases, Congress “has the capacity to investigate
+and analyze facts beyond anything the Judiciary could
+match.” General Motors Corp. v. Tracy, 519 U. S. 278, 309
+(1997); see Department of Revenue of Ky. v. Davis, 553
+U. S. 328, 356 (2008).
+   Here, after investigation, Congress could reasonably
+decide that current trends might sufficiently expand tax
+revenues, obviating the need for an abrupt policy shift
+with potentially adverse consequences for e-commerce. Or
+Congress might decide that the benefits of allowing States
+to secure additional tax revenue outweigh any foreseeable
+harm to e-commerce. Or Congress might elect to accom-
+modate these competing interests, by, for example, allow-
+ing States to tax Internet sales by remote retailers only if
+revenue from such sales exceeds some set amount per
+year. See Goodlatte Brief 12–14 (providing varied exam-
+ples of how Congress could address sales tax collection).
+In any event, Congress can focus directly on current policy
+concerns rather than past legal mistakes. Congress can
+also provide a nuanced answer to the troubling question
+whether any change will have retroactive effect.
+   An erroneous decision from this Court may well
+have been an unintended factor contributing to the
+growth of e-commerce. See, e.g., W. Taylor, Who’s Writing
+the Book on Web Business? Fast Company (Oct. 31, 1996),
+https: // www.fastcompany.com / 27309 / whos-writing-book-
+web-business. The Court is of course correct that the
+Nation’s economy has changed dramatically since the time
+that Bellas Hess and Quill roamed the earth. I fear the
+Court today is compounding its past error by trying to fix
+
+
+8               SOUTH DAKOTA v. WAYFAIR, INC.
+                     ROBERTS, C. J., dissenting
+it in a totally different era. The Constitution gives Con-
+gress the power “[t]o regulate Commerce . . . among the
+several States.” Art. I, §8. I would let Congress decide
+whether to depart from the physical-presence rule that
+has governed this area for half a century.
+   I respectfully dissent.

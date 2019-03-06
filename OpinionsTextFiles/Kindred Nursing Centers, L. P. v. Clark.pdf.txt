@@ -1,0 +1,510 @@
+(Slip Opinion)                OCTOBER TERM, 2016                                    1
+                                         Syllabus
+          NOTE: Where it is feasible, a syllabus (headnote) will be released, as is
+        being done in connection with this case, at the time the opinion is issued.
+        The syllabus constitutes no part of the opinion of the Court but has been
+        prepared by the Reporter of Decisions for the convenience of the reader.
+        See United States v. Detroit Timber & Lumber Co., 200 U. S. 321, 337.
+SUPREME COURT OF THE UNITED STATES
+                                         Syllabus
+            KINDRED NURSING CENTERS LIMITED
+     PARTNERSHIP, DBA WINCHESTER CENTRE FOR
+    HEALTH AND REHABILITATION, NKA FOUNTAIN
+    CIRCLE HEALTH AND REHABILITATION, ET AL. v.
+                                   CLARK ET AL.
+       CERTIORARI TO THE SUPREME COURT OF KENTUCKY
+      No. 16–32. Argued February 22, 2017—Decided May 15, 2017
+Respondents Beverly Wellner and Janis Clark—the wife and daughter,
+   respectively, of Joe Wellner and Olive Clark—each held a power of
+   attorney affording her broad authority to manage her family mem-
+   ber’s affairs. When Joe and Olive moved into a nursing home operat-
+   ed by petitioner Kindred Nursing Centers L. P., Beverly and Janis
+   used their powers of attorney to complete all necessary paperwork.
+   As part of that process, each signed an arbitration agreement on her
+   relative’s behalf providing that any claims arising from the relative’s
+   stay at the facility would be resolved through binding arbitration.
+   After Joe and Olive died, their estates (represented by Beverly and
+   Janis) filed suits alleging that Kindred’s substandard care had
+   caused their deaths. Kindred moved to dismiss the cases, arguing
+   that the arbitration agreements prohibited bringing the disputes to
+   court. The trial court denied Kindred’s motions, and the Kentucky
+   Court of Appeals agreed that the suits could go forward.
+      The Kentucky Supreme Court consolidated the cases and affirmed.
+   The court initially found that the language of the Wellner power of
+   attorney did not permit Beverly to enter into an arbitration agree-
+   ment on Joe’s behalf, but that the Clark document gave Janis the ca-
+   pacity to do so on behalf of Olive. Nonetheless, the court held, both
+   arbitration agreements were invalid because neither power of attor-
+   ney specifically entitled the representative to enter into an arbitra-
+   tion agreement. Because the Kentucky Constitution declares the
+   rights of access to the courts and trial by jury to be “sacred” and “in-
+
+
+2           KINDRED NURSING CENTERS L. P. v. CLARK
+                                 Syllabus
+  violate,” the court determined, an agent could deprive her principal of
+  such rights only if expressly provided in the power of attorney.
+Held: The Kentucky Supreme Court’s clear-statement rule violates the
+  Federal Arbitration Act by singling out arbitration agreements for
+  disfavored treatment. Pp. 4–10.
+     (a) The FAA, which makes arbitration agreements “valid, irrevoca-
+  ble, and enforceable, save upon such grounds as exist at law or in eq-
+  uity for the revocation of any contract,” 9 U. S. C. §2, establishes an
+  equal-treatment principle: A court may invalidate an arbitration
+  agreement based on “generally applicable contract defenses,” but not
+  on legal rules that “apply only to arbitration or that derive their
+  meaning from the fact that an agreement to arbitrate is at issue,”
+  AT&T Mobility LLC v. Concepcion, 563 U. S. 333, 339. The Act thus
+  preempts any state rule that discriminates on its face against arbi-
+  tration or that covertly accomplishes the same objective by disfavor-
+  ing contracts that have the defining features of arbitration agree-
+  ments.
+     The Kentucky Supreme Court’s clear-statement rule fails to put
+  arbitration agreements on an equal plane with other contracts. By
+  requiring an explicit statement before an agent can relinquish her
+  principal’s right to go to court and receive a jury trial, the court did
+  exactly what this Court has barred: adopt a legal rule hinging on the
+  primary characteristic of an arbitration agreement. Pp. 4–7.
+     (b) In support of the decision below, respondents argue that the
+  clear-statement rule affects only contract formation, and that the
+  FAA does not apply to contract formation questions. But the Act’s
+  text says otherwise. The FAA cares not only about the “en-
+  force[ment]” of arbitration agreements, but also about their initial
+  “valid[ity]”—that is, about what it takes to enter into them. 9
+  U. S. C. §2. Precedent confirms the point. In Concepcion, the Court
+  noted the impermissibility of applying a contract defense like duress
+  “in a fashion that disfavors arbitration.” 563 U. S., at 341. That dis-
+  cussion would have made no sense if the FAA had nothing to say
+  about contract formation, because duress involves “unfair dealing at
+  the contract formation stage.” Morgan Stanley Capital Group Inc. v.
+  Public Util. Dist. No. 1 of Snohomish Cty., 554 U. S. 527, 547. Final-
+  ly, respondents’ view would make it trivially easy for States to un-
+  dermine the Act. Pp. 7–9.
+     (c) Because the Kentucky Supreme Court invalidated the Clark-
+  Kindred arbitration agreement based exclusively on the clear-
+  statement rule, the court must now enforce that agreement. But be-
+  cause it is unclear whether the court’s interpretation of the Wellner
+  document was wholly independent of its rule, the court should de-
+  termine on remand whether it adheres, in the absence of the rule, to
+
+
+                      Cite as: 581 U. S. ____ (2017)                   3
+                                 Syllabus
+  its prior reading of that power of attorney. Pp. 9–10.
+478 S. W. 3d 306, reversed in part, vacated in part, and remanded.
+  KAGAN, J., delivered the opinion of the Court, in which ROBERTS, C. J.,
+and KENNEDY, GINSBURG, BREYER, ALITO, and SOTOMAYOR, JJ., joined.
+THOMAS, J., filed a dissenting opinion. GORSUCH, J., took no part in the
+consideration or decision of the case.
+
+
+                         Cite as: 581 U. S. ____ (2017)                            1
+                               Opinion of the Court
+      NOTICE: This opinion is subject to formal revision before publication in the
+      preliminary print of the United States Reports. Readers are requested to
+      notify the Reporter of Decisions, Supreme Court of the United States, Wash-
+      ington, D. C. 20543, of any typographical or other formal errors, in order
+      that corrections may be made before the preliminary print goes to press.
+SUPREME COURT OF THE UNITED STATES
+                                     _________________
+                                       No. 16–32
+                                     _________________
+  KINDRED NURSING CENTERS LIMITED PARTNER-
+    SHIP, DBA WINCHESTER CENTRE FOR HEALTH
+           AND REHABILITATION, NKA FOUNTAIN
+              CIRCLE HEALTH AND REHABILITA-
+                    TION, ET AL., PETITIONERS v.
+                         JANIS E. CLARK ET AL.
+     ON WRIT OF CERTIORARI TO THE SUPREME COURT OF
+                                     KENTUCKY
+                                    [May 15, 2017]
+   JUSTICE KAGAN delivered the opinion of the Court.
+   The Federal Arbitration Act (FAA or Act) requires
+courts to place arbitration agreements “on equal footing
+with all other contracts.” DIRECTV, Inc. v. Imburgia, 577
+U. S. ___, ___ (2015) (slip op., at 6) (quoting Buckeye Check
+Cashing, Inc. v. Cardegna, 546 U. S. 440, 443 (2006)); see
+9 U. S. C. §2. In the decision below, the Kentucky Su-
+preme Court declined to give effect to two arbitration
+agreements executed by individuals holding “powers of
+attorney”—that is, authorizations to act on behalf of oth-
+ers. According to the court, a general grant of power (even
+if seemingly comprehensive) does not permit a legal repre-
+sentative to enter into an arbitration agreement for some-
+one else; to form such a contract, the representative must
+possess specific authority to “waive his principal’s funda-
+mental constitutional rights to access the courts [and] to
+trial by jury.” Extendicare Homes, Inc. v. Whisman, 478
+
+
+2         KINDRED NURSING CENTERS L. P. v. CLARK
+                        Opinion of the Court
+S. W. 3d 306, 327 (2015). Because that rule singles out
+arbitration agreements for disfavored treatment, we hold
+that it violates the FAA.
+                                 I
+  Petitioner Kindred Nursing Centers L. P. operates
+nursing homes and rehabilitation centers. Respondents
+Beverly Wellner and Janis Clark are the wife and daugh-
+ter, respectively, of Joe Wellner and Olive Clark, two now-
+deceased residents of a Kindred nursing home called the
+Winchester Centre.
+  At all times relevant to this case, Beverly and Janis
+each held a power of attorney, designating her as an
+“attorney-in-fact” (the one for Joe, the other for Olive) and
+affording her broad authority to manage her family mem-
+ber’s affairs. In the Wellner power of attorney, Joe gave
+Beverly the authority, “in my name, place and stead,” to
+(among other things) “institute legal proceedings” and
+make “contracts of every nature in relation to both real
+and personal property.” App. 10–11. In the Clark power
+of attorney, Olive provided Janis with “full power . . . to
+transact, handle, and dispose of all matters affecting me
+and/or my estate in any possible way,” including the power
+to “draw, make, and sign in my name any and all . . .
+contracts, deeds, or agreements.” Id., at 7.
+  Joe and Olive moved into the Winchester Centre in
+2008, with Beverly and Janis using their powers of attor-
+ney to complete all necessary paperwork. As part of that
+process, Beverly and Janis each signed an arbitration
+agreement with Kindred on behalf of her relative. The
+two contracts, worded identically, provided that “[a]ny and
+all claims or controversies arising out of or in any way
+relating to . . . the Resident’s stay at the Facility” would be
+resolved through “binding arbitration” rather than a
+lawsuit. Id., at 14, 21.
+  When Joe and Olive died the next year, their estates
+
+
+                   Cite as: 581 U. S. ____ (2017)          3
+                        Opinion of the Court
+(represented again by Beverly and Janis) brought separate
+suits against Kindred in Kentucky state court. The com-
+plaints alleged that Kindred had delivered substandard
+care to Joe and Olive, causing their deaths. Kindred
+moved to dismiss the cases, arguing that the arbitration
+agreements Beverly and Janis had signed prohibited
+bringing their disputes to court. But the trial court denied
+Kindred’s motions, and the Kentucky Court of Appeals
+agreed that the estates’ suits could go forward. See App.
+to Pet. for Cert. 125a–126a, 137a–138a.
+  The Kentucky Supreme Court, after consolidating the
+cases, affirmed those decisions by a divided vote. See 478
+S. W. 3d, at 313. The court began with the language of the
+two powers of attorney. The Wellner document, the court
+stated, did not permit Beverly to enter into an arbitration
+agreement on Joe’s behalf. In the court’s view, neither the
+provision authorizing her to bring legal proceedings nor
+the one enabling her to make property-related contracts
+reached quite that distance. See id., at 325–326; supra,
+at 2. By contrast, the court thought, the Clark power of
+attorney extended that far and beyond. Under that docu-
+ment, after all, Janis had the capacity to “dispose of all
+matters” affecting Olive. See supra, at 2. “Given this
+extremely broad, universal delegation of authority,” the
+court acknowledged, “it would be impossible to say that
+entering into [an] arbitration agreement was not covered.”
+478 S. W. 3d, at 327.
+  And yet, the court went on, both arbitration agree-
+ments—Janis’s no less than Beverly’s—were invalid. That
+was because a power of attorney could not entitle a repre-
+sentative to enter into an arbitration agreement without
+specifically saying so. The Kentucky Constitution, the
+court explained, protects the rights of access to the courts
+and trial by jury; indeed, the jury guarantee is the sole
+right the Constitution declares “sacred” and “inviolate.”
+Id., at 328–329. Accordingly, the court held, an agent
+
+
+4         KINDRED NURSING CENTERS L. P. v. CLARK
+                      Opinion of the Court
+could deprive her principal of an “adjudication by judge or
+jury” only if the power of attorney “expressly so pro-
+vide[d].” Id., at 329. And that clear-statement rule—so
+said the court—complied with the FAA’s demands. True
+enough that the Act precludes “singl[ing] out arbitration
+agreements.” Ibid. (internal quotation marks omitted).
+But that was no problem, the court asserted, because its
+rule would apply not just to those agreements, but also to
+some other contracts implicating “fundamental constitu-
+tional rights.” Id., at 328. In the future, for example, the
+court would bar the holder of a “non-specific” power of
+attorney from entering into a contract “bind[ing] the prin-
+cipal to personal servitude.” Ibid.
+   Justice Abramson dissented, in an opinion joined by two
+of her colleagues. In their view, the Kentucky Supreme
+Court’s new clear-statement rule was “clearly not . . .
+applicable to ‘any contract’ but [instead] single[d] out
+arbitration agreements for disfavored treatment.” Id., at
+344–345. Accordingly, the dissent concluded, the rule
+“r[a]n afoul of the FAA.” Id., at 353.
+   We granted certiorari. 580 U. S. ___ (2016).
+                               II
+                               A
+   The FAA makes arbitration agreements “valid, irrevo-
+cable, and enforceable, save upon such grounds as exist at
+law or in equity for the revocation of any contract.” 9
+U. S. C. §2. That statutory provision establishes an equal-
+treatment principle: A court may invalidate an arbitration
+agreement based on “generally applicable contract defenses”
+like fraud or unconscionability, but not on legal rules
+that “apply only to arbitration or that derive their mean-
+ing from the fact that an agreement to arbitrate is at
+issue.” AT&T Mobility LLC v. Concepcion, 563 U. S. 333,
+339 (2011). The FAA thus preempts any state rule dis-
+criminating on its face against arbitration—for example, a
+
+
+                  Cite as: 581 U. S. ____ (2017)              5
+                       Opinion of the Court
+“law prohibit[ing] outright the arbitration of a particular
+type of claim.” Id., at 341. And not only that: The Act also
+displaces any rule that covertly accomplishes the same
+objective by disfavoring contracts that (oh so coinciden-
+tally) have the defining features of arbitration agreements.
+In Concepcion, for example, we described a hypothetical
+state law declaring unenforceable any contract that “disal-
+low[ed] an ultimate disposition [of a dispute] by a jury.”
+Id., at 342. Such a law might avoid referring to arbitra-
+tion by name; but still, we explained, it would “rely on the
+uniqueness of an agreement to arbitrate as [its] basis”—
+and thereby violate the FAA. Id., at 341 (quoting Perry v.
+Thomas, 482 U. S. 483, 493, n. 9 (1987)).
+   The Kentucky Supreme Court’s clear-statement rule, in
+just that way, fails to put arbitration agreements on an
+equal plane with other contracts. By the court’s own
+account, that rule (like the one Concepcion posited) serves
+to safeguard a person’s “right to access the courts and to
+trial by jury.” 478 S. W. 3d, at 327; see supra, at 3–4. In
+ringing terms, the court affirmed the jury right’s unsur-
+passed standing in the State Constitution: The framers,
+the court explained, recognized “that right and that right
+alone as a divine God-given right” when they made it “the
+only thing” that must be “ ‘held sacred’ ” and “ ‘inviolate.’ ”
+478 S. W. 3d, at 328–329 (quoting Ky. Const. §7). So it
+was that the court required an explicit statement before
+an attorney-in-fact, even if possessing broad delegated
+powers, could relinquish that right on another’s behalf.
+See 478 S. W. 3d, at 331 (“We say only that an agent’s
+authority to waive his principal’s constitutional right to
+access the courts and to trial by jury must be clearly ex-
+pressed by the principal”). And so it was that the court
+did exactly what Concepcion barred: adopt a legal rule
+hinging on the primary characteristic of an arbitration
+agreement—namely, a waiver of the right to go to court
+and receive a jury trial. See 563 U. S., at 341–342; see
+
+
+6           KINDRED NURSING CENTERS L. P. v. CLARK
+                           Opinion of the Court
+also 478 S. W. 3d, at 353 (Abramson, J., dissenting) (not-
+ing that the jury-trial right at the core of “the majority’s
+new rule” is “the one right that just happens to be correla-
+tive to the right to arbitrate” (emphasis deleted)). Such a
+rule is too tailor-made to arbitration agreements—
+subjecting them, by virtue of their defining trait, to un-
+common barriers—to survive the FAA’s edict against
+singling out those contracts for disfavored treatment.1
+   And the state court’s sometime-attempt to cast the rule
+in broader terms cannot salvage its decision. The clear-
+statement requirement, the court suggested, could also
+apply when an agent endeavored to waive other “funda-
+mental constitutional rights” held by a principal. 478
+S. W. 3d, at 331; see supra, at 4. But what other rights,
+really? No Kentucky court, so far as we know, has ever
+before demanded that a power of attorney explicitly confer
+authority to enter into contracts implicating constitutional
+guarantees. Nor did the opinion below indicate that such
+a grant would be needed for the many routine contracts—
+executed day in and day out by legal representatives—
+meeting that description. For example, the Kentucky
+Constitution protects the “inherent and inalienable” rights
+to “acquir[e] and protect[ ] property” and to “freely com-
+municat[e] thoughts and opinions.” Ky. Const. §1. But
+the state court nowhere cautioned that an attorney-in-fact
+——————
+  1 Making matters worse, the Kentucky Supreme Court’s clear-
+statement rule appears not to apply to other kinds of agreements
+relinquishing the right to go to court or obtain a jury trial. Nothing in
+the decision below (or elsewhere in Kentucky law) suggests that explicit
+authorization is needed before an attorney-in-fact can sign a settlement
+agreement or consent to a bench trial on her principal’s behalf. See 478
+S. W. 3d, at 325 (discussing the Wellner power of attorney’s provision
+for “managing a claim in litigation” without insisting that such com-
+mitments would require a clearer grant). Mark that as yet another
+indication that the court’s demand for specificity in powers of attorney
+arises from the suspect status of arbitration rather than the sacred
+status of jury trials.
+
+
+                     Cite as: 581 U. S. ____ (2017)                   7
+                          Opinion of the Court
+would now need a specific authorization to, say, sell her
+principal’s furniture or commit her principal to a non-
+disclosure agreement. (And were we in the business of
+giving legal advice, we would tell the agent not to worry.)
+Rather, the court hypothesized a slim set of both patently
+objectionable and utterly fanciful contracts that would be
+subject to its rule: No longer could a representative lack-
+ing explicit authorization waive her “principal’s right to
+worship freely” or “consent to an arranged marriage” or
+“bind [her] principal to personal servitude.” 478 S. W. 3d,
+at 328; see supra, at 4. Placing arbitration agreements
+within that class reveals the kind of “hostility to arbitra-
+tion” that led Congress to enact the FAA. Concepcion,
+563 U. S., at 339. And doing so only makes clear the
+arbitration-specific character of the rule, much as if it were
+made applicable to arbitration agreements and black swans.2
+                                    B
+   The respondents, Janis and Beverly, primarily advance
+a different argument—based on the distinction between
+contract formation and contract enforcement—to support
+the decision below. Kentucky’s clear-statement rule, they
+begin, affects only contract formation, because it bars
+agents without explicit authority from entering into arbi-
+tration agreements. And in their view, the FAA has “no
+application” to “contract formation issues.” Supp. Brief for
+Respondents 1. The Act, to be sure, requires a State to
+enforce all arbitration agreements (save on generally
+applicable grounds) once they have come into being. But,
+the respondents claim, States have free rein to decide—
+irrespective of the FAA’s equal-footing principle—whether
+such contracts are validly created in the first instance.
+——————
+  2 We do not suggest that a state court is precluded from announcing a
+new, generally applicable rule of law in an arbitration case. We simply
+reiterate here what we have said many times before—that the rule
+must in fact apply generally, rather than single out arbitration.
+
+
+8         KINDRED NURSING CENTERS L. P. v. CLARK
+                      Opinion of the Court
+See id., at 3 (“The FAA’s statutory framework applies only
+after a court has determined that a valid arbitration
+agreement was formed”).
+   Both the FAA’s text and our case law interpreting it say
+otherwise. The Act’s key provision, once again, states that
+an arbitration agreement must ordinarily be treated as
+“valid, irrevocable, and enforceable.” 9 U. S. C. §2; see
+supra, at 4. By its terms, then, the Act cares not only
+about the “enforce[ment]” of arbitration agreements, but
+also about their initial “valid[ity]”—that is, about what it
+takes to enter into them. Or said otherwise: A rule selec-
+tively finding arbitration contracts invalid because im-
+properly formed fares no better under the Act than a rule
+selectively refusing to enforce those agreements once
+properly made. Precedent confirms that point. In Concep-
+cion, we noted the impermissibility of applying a contract
+defense like duress “in a fashion that disfavors arbitra-
+tion.” 563 U. S., at 341. But the doctrine of duress, as we
+have elsewhere explained, involves “unfair dealing at the
+contract formation stage.” Morgan Stanley Capital Group
+Inc. v. Public Util. Dist. No. 1 of Snohomish Cty., 554 U. S.
+527, 547 (2008). Our discussion of duress would have
+made no sense if the FAA, as the respondents contend,
+had nothing to say about contract formation.
+   And still more: Adopting the respondents’ view would
+make it trivially easy for States to undermine the Act—
+indeed, to wholly defeat it. As the respondents have
+acknowledged, their reasoning would allow States to
+pronounce any attorney-in-fact incapable of signing an
+arbitration agreement—even if a power of attorney specif-
+ically authorized her to do so. See Tr. of Oral Arg. 27.
+(After all, such a rule would speak to only the contract’s
+formation.) And why stop there? If the respondents were
+right, States could just as easily declare everyone incompe-
+tent to sign arbitration agreements. (That rule too would
+address only formation.) The FAA would then mean
+
+
+                    Cite as: 581 U. S. ____ (2017)           9
+                         Opinion of the Court
+nothing at all—its provisions rendered helpless to prevent
+even the most blatant discrimination against arbitration.
+                                 III
+   As we did just last Term, we once again “reach a conclu-
+sion that . . . falls well within the confines of (and goes no
+further than) present well-established law.” DIRECTV,
+577 U. S., at ___ (slip op., at 10). The Kentucky Supreme
+Court specially impeded the ability of attorneys-in-fact to
+enter into arbitration agreements. The court thus flouted
+the FAA’s command to place those agreements on an equal
+footing with all other contracts.
+   Our decision requires reversing the Kentucky Supreme
+Court’s judgment in favor of the Clark estate. As noted
+earlier, the state court held that the Clark power of attor-
+ney was sufficiently broad to cover executing an arbitra-
+tion agreement. See supra, at 3. The court invalidated
+the agreement with Kindred only because the power of
+attorney did not specifically authorize Janis to enter into
+it on Olive’s behalf. In other words, the decision below
+was based exclusively on the clear-statement rule that we
+have held violates the FAA. So the court must now en-
+force the Clark-Kindred arbitration agreement.
+   By contrast, our decision might not require such a result
+in the Wellner case. The Kentucky Supreme Court began
+its opinion by stating that the Wellner power of attorney
+was insufficiently broad to give Beverly the authority to
+execute an arbitration agreement for Joe. See supra, at 3.
+If that interpretation of the document is wholly independ-
+ent of the court’s clear-statement rule, then nothing we
+have said disturbs it. But if that rule at all influenced the
+construction of the Wellner power of attorney, then the
+court must evaluate the document’s meaning anew. The
+court’s opinion leaves us uncertain as to whether such an
+impermissible taint occurred. We therefore vacate the
+judgment below and return the case to the state court for
+
+
+10        KINDRED NURSING CENTERS L. P. v. CLARK
+                       Opinion of the Court
+further consideration. See Marmet Health Care Center,
+Inc. v. Brown, 565 U. S. 530, 534 (2012) (per curiam)
+(vacating and remanding another arbitration decision
+because we could not tell “to what degree [an] alternative
+holding was influenced by” the state court’s erroneous,
+arbitration-specific rule). On remand, the court should
+determine whether it adheres, in the absence of its clear-
+statement rule, to its prior reading of the Wellner power of
+attorney.
+   For these reasons, we reverse in part and vacate in part
+the judgment of the Kentucky Supreme Court, and we
+remand the case for further proceedings not inconsistent
+with this opinion.
+                                             It is so ordered.
+   JUSTICE GORSUCH took no part in the consideration or
+decision of this case.
+
+
+                  Cite as: 581 U. S. ____ (2017)              1
+                      THOMAS, J., dissenting
+SUPREME COURT OF THE UNITED STATES
+                           _________________
+                             No. 16–32
+                           _________________
+  KINDRED NURSING CENTERS LIMITED PARTNER-
+     SHIP, DBA WINCHESTER CENTRE FOR HEALTH
+         AND REHABILITATION, NKA FOUNTAIN
+           CIRCLE HEALTH AND REHABILITA-
+              TION, ET AL., PETITIONERS v.
+                  JANIS E. CLARK ET AL.
+     ON WRIT OF CERTIORARI TO THE SUPREME COURT OF
+                           KENTUCKY
+                          [May 15, 2017]
+   JUSTICE THOMAS, dissenting.
+   I continue to adhere to the view that the Federal Arbi-
+tration Act (FAA), 9 U. S. C. §1 et seq., does not apply to
+proceedings in state courts. See Allied-Bruce Terminix
+Cos. v. Dobson, 513 U. S. 265, 285–297 (1995) (THOMAS, J.,
+dissenting); see also DIRECTV, Inc. v. Imburgia, 577 U. S.
+___, ___ (2015) (same) (slip op., at 1); Preston v. Ferrer, 552
+U. S. 346, 363 (2008) (same); Buckeye Check Cashing, Inc.
+v. Cardegna, 546 U. S. 440, 449 (2006) (same); Green Tree
+Financial Corp. v. Bazzle, 539 U. S. 444, 460 (2003)
+(same); Doctor’s Associates, Inc. v. Casarotto, 517 U. S.
+681, 689 (1996) (same). In state-court proceedings, there-
+fore, the FAA does not displace a rule that requires ex-
+press authorization from a principal before an agent may
+waive the principal’s right to a jury trial. Accordingly, I
+would affirm the judgment of the Kentucky Supreme
+Court.

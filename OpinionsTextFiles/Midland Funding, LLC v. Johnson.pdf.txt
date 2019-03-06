@@ -1,0 +1,919 @@
+(Slip Opinion)                OCTOBER TERM, 2016                                    1
+                                         Syllabus
+          NOTE: Where it is feasible, a syllabus (headnote) will be released, as is
+        being done in connection with this case, at the time the opinion is issued.
+        The syllabus constitutes no part of the opinion of the Court but has been
+        prepared by the Reporter of Decisions for the convenience of the reader.
+        See United States v. Detroit Timber & Lumber Co., 200 U. S. 321, 337.
+SUPREME COURT OF THE UNITED STATES
+                                         Syllabus
+             MIDLAND FUNDING, LLC v. JOHNSON
+ CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR
+                            THE ELEVENTH CIRCUIT
+      No. 16–348.      Argued January 17, 2017—Decided May 15, 2017
+Petitioner Midland Funding filed a proof of claim in respondent John-
+   son’s Chapter 13 bankruptcy case, asserting that Johnson owed Mid-
+   land credit-card debt and noting that the last time any charge ap-
+   peared on Johnson’s account was more than 10 years ago. The
+   relevant statute of limitations under Alabama law is six years. John-
+   son objected to the claim, and the Bankruptcy Court disallowed it.
+   Johnson then sued Midland, claiming that its filing a proof of claim
+   on an obviously time-barred debt was “false,” “deceptive,” “mislead-
+   ing,” “unconscionable,” and “unfair” within the meaning of the Fair
+   Debt Collection Practices Act, 15 U. S. C. §§1692e, 1692f. The Dis-
+   trict Court held that the Act did not apply and dismissed the suit.
+   The Eleventh Circuit reversed.
+Held: The filing of a proof of claim that is obviously time barred is not a
+   false, deceptive, misleading, unfair, or unconscionable debt collection
+   practice within the meaning of the Fair Debt Collection Practices Act.
+   Pp. 2–10.
+      (a) Midland’s proof of claim was not “false, deceptive, or mislead-
+   ing.” The Bankruptcy Code defines the term “claim” as a “right to
+   payment,” 11 U. S. C. §101(5)(A), and state law usually determines
+   whether a person has such a right, see Travelers Casualty & Surety
+   Co. of America v. Pacific Gas & Elec. Co., 549 U. S. 443, 450–451.
+   The relevant Alabama law provides that a creditor has the right to
+   payment of a debt even after the limitations period has expired.
+      Johnson argues that the word “claim” means “enforceable claim.”
+   But the word “enforceable” does not appear in the Code’s definition,
+   and Johnson’s interpretation is difficult to square with Congress’s in-
+   tent “to adopt the broadest available definition of ‘claim,’ ” Johnson v.
+   Home State Bank, 501 U. S. 78, 83. Other Code provisions are still
+
+
+2               MIDLAND FUNDING, LLC v. JOHNSON
+                                 Syllabus
+  more difficult to square with Johnson’s interpretation. For example,
+  §502(b)(1) says that if a “claim” is “unenforceable” it will be disal-
+  lowed, not that it is not a “claim.” Other provisions make clear that
+  the running of a limitations period constitutes an affirmative defense
+  that a debtor is to assert after the creditor makes a “claim.” §§502,
+  558. The law has long treated unenforceability of a claim (due to the
+  expiration of the limitations period) as an affirmative defense, and
+  there is nothing misleading or deceptive in the filing of a proof of
+  claim that follows the Code’s similar system.
+     Indeed, to determine whether a statement is misleading normally
+  “requires consideration of the legal sophistication of its audience,”
+  Bates v. State Bar of Ariz., 433 U. S. 350, 383, n. 37, which in a Chap-
+  ter 13 bankruptcy includes a trustee who is likely to understand that
+  a proof of claim is a statement by the creditor that he or she has a
+  right to payment that is subject to disallowance, including disallow-
+  ance based on untimeliness. Pp. 2–5.
+     (b) Several circumstances, taken together, lead to the conclusion
+  that Midland’s proof of claim was not “unfair” or “unconscionable”
+  within the terms of the Fair Debt Collection Practices Act.
+     Johnson points out that several lower courts have found or indicat-
+  ed that, in the context of an ordinary civil action to collect a debt, a
+  debt collector’s assertion of a claim known to be time barred is “un-
+  fair.” But those courts rested their conclusions upon their concern
+  that a consumer might unwittingly repay a time-barred debt. Such
+  considerations have significantly diminished force in a Chapter 13
+  bankruptcy, where the consumer initiates the proceeding, see §§301,
+  303(a); where a knowledgeable trustee is available, see §1302(a);
+  where procedural rules more directly guide the evaluation of claims,
+  see Fed. Rule Bkrtcy. Proc. 3001(c)(3)(A); and where the claims reso-
+  lution process is “generally a more streamlined and less unnerving
+  prospect for a debtor than facing a collection lawsuit,” In re Gate-
+  wood, 533 B. R. 905, 909.
+     Also unpersuasive is Johnson’s argument that there is no legiti-
+  mate reason for allowing a practice like this one that risks harm to
+  the debtor. The bankruptcy system treats untimeliness as an affirm-
+  ative defense and normally gives the trustee the burden of investigat-
+  ing claims to see if one is stale. And, at least on occasion, the asser-
+  tion of even a stale claim can benefit the debtor.
+     More importantly, a change in the simple affirmative-defense ap-
+  proach, carving out an exception, would require defining the excep-
+  tion’s boundaries. Does it apply only where a claim’s staleness ap-
+  pears on the face of the proof of claim? Does it apply to other
+  affirmative defenses or only to the running of the limitations period?
+  Neither the Fair Debt Collection Practices Act nor the Bankruptcy
+
+
+                       Cite as: 581 U. S. ____ (2017)                   3
+                                 Syllabus
+   Code indicates that Congress intended an ordinary civil court apply-
+   ing the Act to determine answers to such bankruptcy-related ques-
+   tions. The Act and the Code have different purposes and structural
+   features. The Act seeks to help consumers by preventing consumer
+   bankruptcies in the first place, while the Code creates and maintains
+   the “delicate balance of a debtor’s protections and obligations,” Ko-
+   koszka v. Belford, 417 U. S. 642, 651. Applying the Act in this con-
+   text would upset that “delicate balance.”
+      Contrary to the argument of the United States, the promulgation of
+   Bankruptcy Rule 9011 did not resolve this issue. Pp. 5–10.
+823 F. 3d 1334, reversed.
+   BREYER, J., delivered the opinion of the Court, in which ROBERTS,
+C. J., and KENNEDY, THOMAS, and ALITO, JJ., joined. SOTOMAYOR, J.,
+filed a dissenting opinion, in which GINSBURG and KAGAN, JJ., joined.
+GORSUCH, J., took no part in the consideration or decision of the case.
+
+
+                         Cite as: 581 U. S. ____ (2017)                            1
+                               Opinion of the Court
+      NOTICE: This opinion is subject to formal revision before publication in the
+      preliminary print of the United States Reports. Readers are requested to
+      notify the Reporter of Decisions, Supreme Court of the United States, Wash­
+      ington, D. C. 20543, of any typographical or other formal errors, in order
+      that corrections may be made before the preliminary print goes to press.
+SUPREME COURT OF THE UNITED STATES
+                                     _________________
+                                      No. 16–348
+                                     _________________
+        MIDLAND FUNDING, LLC, PETITIONER v.
+                             ALEIDA JOHNSON
+  ON WRIT OF CERTIORARI TO THE UNITED STATES COURT OF
+                APPEALS FOR THE ELEVENTH CIRCUIT
+                                    [May 15, 2017]
+   JUSTICE BREYER delivered the opinion of the Court.
+   The Fair Debt Collection Practices Act, 91 Stat. 874, 15
+U. S. C. §1692 et seq., prohibits a debt collector from as­
+serting any “false, deceptive, or misleading representa­
+tion,” or using any “unfair or unconscionable means” to
+collect, or attempt to collect, a debt, §§1692e, 1692f. In
+this case, a debt collector filed a written statement in a
+Chapter 13 bankruptcy proceeding claiming that the
+debtor owed the debt collector money. The statement
+made clear, however, that the 6-year statute of limitations
+governing collection of the claimed debt had long since
+run. The question before us is whether the debt collector’s
+filing of that statement falls within the scope of the afore­
+mentioned provisions of the Fair Debt Collection Practices
+Act. We conclude that it does not.
+                                             I
+   In March 2014, Aleida Johnson, the respondent, filed for
+personal bankruptcy under Chapter 13 of the Bankruptcy
+Code (or Code), 11 U. S. C. §1301 et seq, in the Federal
+District Court for the Southern District of Alabama. Two
+months later, Midland Funding, LLC, the petitioner, filed
+
+
+2            MIDLAND FUNDING, LLC v. JOHNSON
+                      Opinion of the Court
+a “proof of claim,” a written statement asserting that
+Johnson owed Midland a credit-card debt of $1,879.71.
+The statement added that the last time any charge ap­
+peared on Johnson’s account was in May 2003, more than
+10 years before Johnson filed for bankruptcy. The rele­
+vant statute of limitations is six years. See Ala. Code §6–
+2–34 (2014). Johnson, represented by counsel, objected to
+the claim; Midland did not respond to the objection; and
+the Bankruptcy Court disallowed the claim.
+   Subsequently, Johnson brought this lawsuit against
+Midland seeking actual damages, statutory damages,
+attorney’s fees, and costs for a violation of the Fair Debt
+Collection Practices Act. See 15 U. S. C. §1692k. The
+District Court decided that the Act did not apply and
+therefore dismissed the action. The Court of Appeals for
+the Eleventh Circuit disagreed and reversed the District
+Court. 823 F. 3d 1334 (2016). Midland filed a petition for
+certiorari, noting a division of opinion among the Courts of
+Appeals on the question whether the conduct at issue here
+is “false,” “deceptive,” “misleading,” “unconscionable,” or
+“unfair” within the meaning of the Act. Compare ibid.
+(finding the Fair Debt Collection Practices Act applicable)
+with In re Dubois, 834 F. 3d 522 (CA4 2016) (finding the
+Act inapplicable); Owens v. LVNV Funding, LLC, 832
+F. 3d 726 (CA7 2016) (same); and Nelson v. Midland
+Credit Management, Inc., 828 F. 3d 749 (CA8 2016)
+(same). We granted the petition. We now reverse the
+Court of Appeals.
+                               II
+   Like the majority of Courts of Appeals that have consid­
+ered the matter, we conclude that Midland’s filing of a
+proof of claim that on its face indicates that the limitations
+period has run does not fall within the scope of any of the
+five relevant words of the Fair Debt Collection Practices
+Act. We believe it reasonably clear that Midland’s proof of
+
+
+                  Cite as: 581 U. S. ____ (2017)            3
+                       Opinion of the Court
+claim was not “false, deceptive, or misleading.” Midland’s
+proof of claim falls within the Bankruptcy Code’s defini­
+tion of the term “claim.” A “claim” is a “right to payment.”
+11 U. S. C. §101(5)(A). State law usually determines
+whether a person has such a right. See Travelers Casualty
+& Surety Co. of America v. Pacific Gas & Elec. Co., 549
+U. S. 443, 450–451 (2007). The relevant state law is the
+law of Alabama. And Alabama’s law, like the law of many
+States, provides that a creditor has the right to payment of
+a debt even after the limitations period has expired. See
+Ex parte HealthSouth Corp., 974 S. 2d 288, 296 (Ala. 2007)
+(passage of time extinguishes remedy but the right re­
+mains); see also, e.g., Sallaz v. Rice, 161 Idaho 223, ___,
+384 P. 3d 987, 992–993 (2016) (similar); Notte v. Mer-
+chants Mut. Ins. Co., 185 N. J. 490, 499–500, 888 A. 2d
+464, 469 (2006) (similar); Potterton v. Ryland Group, Inc.,
+289 Md. 371, 375–376, 424 A. 2d 761, 764 (1981) (similar);
+Summers v. Connolly, 159 Ohio St. 396, 400–402, 112
+N. E. 2d 391, 394 (1953) (similar); DeVries v. Secretary of
+State, 329 Mich. 68, 75, 44 N. W. 2d 872, 876 (1950) (simi­
+lar); Fleming v. Yeazel, 379 Ill. 343, 344–346, 40 N. E. 2d
+507, 508 (1942) (similar); Fidelity & Cas. Co. of N. Y. v.
+Lackland, 175 Va. 178, 185–187, 8 S. E. 2d 306, 309 (1940)
+(similar); Insurance Co. v. Dunscomb, 108 Tenn. 724, 728–
+731, 69 S. W. 345, 346 (1902) (similar); but see, e.g., Miss.
+Code Ann. §15–1–3(1) (2012) (expiration of the limitations
+period extinguishes the remedy and the right); Wis. Stat.
+§893.05 (2011–2012) (same).
+   Johnson argues that the Code’s word “claim” means
+“enforceable claim.” She notes that this Court once re­
+ferred to a bankruptcy “claim” as “an enforceable obliga­
+tion.” Pennsylvania Dept. of Public Welfare v. Davenport,
+495 U. S. 552, 559 (1990). And, she concludes, Midland’s
+“proof of claim” was false (or deceptive or misleading)
+because its “claim” was not enforceable. Brief for Re­
+spondent 22; Brief for United States as Amicus Curiae 18–
+
+
+4              MIDLAND FUNDING, LLC v. JOHNSON
+                        Opinion of the Court
+20 (making a similar argument).
+   But we do not find this argument convincing. The word
+“enforceable” does not appear in the Code’s definition of
+“claim.” See 11 U. S. C. §101(5). The Court in Davenport
+likely used the word “enforceable” descriptively, for that
+case involved an enforceable debt. 495 U. S., at 559. And
+it is difficult to square Johnson’s interpretation with our
+later statement that “Congress intended . . . to adopt the
+broadest available definition of ‘claim.’ ” Johnson v. Home
+State Bank, 501 U. S. 78, 83 (1991).
+   It is still more difficult to square Johnson’s interpreta­
+tion with other provisions of the Bankruptcy Code. Sec­
+tion 502(b)(1) of the Code, for example, says that, if a
+“claim” is “unenforceable,” it will be disallowed. It does
+not say that an “unenforceable” claim is not a “claim.”
+Similarly, §101(5)(A) says that a “claim” is a “right to
+payment,” “whether or not such right is . . . fixed, contin-
+gent, . . . [or] disputed.” If a contingency does not arise, or
+if a claimant loses a dispute, then the claim is unenforce-
+able. Yet this section makes clear that the unenforceable
+claim is nonetheless a “right to payment,” hence a “claim,”
+as the Code uses those terms.
+   Johnson looks for support to other provisions that gov­
+ern bankruptcy proceedings, including §502(a) of the
+Bankruptcy Code, which states that a claim will be al­
+lowed in the absence of an objection, and Rule 3001(f ) of
+the Federal Rules of Bankruptcy Procedure, which states
+that a properly filed “proof of claim . . . shall constitute
+prima facie evidence of the validity and amount of the
+claim.” But these provisions do not discuss the scope of
+the term “claim.” Rather, they restate the Bankruptcy
+Code’s system for determining whether a claim will be
+allowed. Other provisions make clear that the running of
+a limitations period constitutes an affirmative defense, a
+defense that the debtor is to assert after a creditor makes
+a “claim.” §§502, 558. The law has long treated unen­
+
+
+                    Cite as: 581 U. S. ____ (2017)           5
+                         Opinion of the Court
+forceability of a claim (due to the expiration of the limita­
+tions period) as an affirmative defense. See, e.g., Fed.
+Rule Civ. Proc. 8(c)(1); 13 Encyclopaedia of Pleading and
+Practice 200 (W. McKinney ed. 1898). And we see nothing
+misleading or deceptive in the filing of a proof of claim
+that, in effect, follows the Code’s similar system.
+   Indeed, to determine whether a statement is misleading
+normally “requires consideration of the legal sophistica­
+tion of its audience.” Bates v. State Bar of Ariz., 433 U. S.
+350, 383, n. 37 (1977). The audience in Chapter 13 bank­
+ruptcy cases includes a trustee, 11 U. S. C. §1302(a), who
+must examine proofs of claim and, where appropriate,
+pose an objection, §§704(a)(5), 1302(b)(1) (including any
+timeliness objection, §§502(b)(1), 558). And that trustee is
+likely to understand that, as the Code says, a proof of
+claim is a statement by the creditor that he or she has a
+right to payment subject to disallowance (including
+disallowance based upon, and following, the trustee’s
+objection for untimeliness). §§101(5)(A), 502(b), 704(a)(5),
+1302(b)(1). (We do not address the appropriate standard
+in ordinary civil litigation.)
+                                 III
+   Whether Midland’s assertion of an obviously time-
+barred claim is “unfair” or “unconscionable” (within the
+terms of the Fair Debt Collection Practices Act) presents a
+closer question. First, Johnson points out that several
+lower courts have found or indicated that, in the context of
+an ordinary civil action to collect a debt, a debt collector’s
+assertion of a claim known to be time barred is “unfair.”
+See, e.g., Phillips v. Asset Acceptance, LLC, 736 F. 3d 1076,
+1079 (CA7 2013) (holding as much); Kimber v. Federal
+Financial Corp., 668 F. Supp. 1480, 1487 (MD Ala. 1987)
+(same); Huertas v. Galaxy Asset Management, 641 F. 3d
+28, 32–33 (CA3 2011) (indicating as much); Castro v.
+Collecto, Inc., 634 F. 3d 779, 783 (CA5 2011) (same); Frey-
+
+
+6            MIDLAND FUNDING, LLC v. JOHNSON
+                      Opinion of the Court
+ermuth v. Credit Bureau Servs., Inc., 248 F. 3d 767, 771
+(CA8 2001) (same).
+    We are not convinced, however, by this precedent. It
+considers a debt collector’s assertion in a civil suit of a
+claim known to be stale. We assume, for argument’s sake,
+that the precedent is correct in that context (a matter this
+Court itself has not decided and does not now decide). But
+the context of a civil suit differs significantly from the
+present context, that of a Chapter 13 bankruptcy proceed­
+ing. The lower courts rested their conclusions upon their
+concern that a consumer might unwittingly repay a time-
+barred debt. Thus the Seventh Circuit pointed out that
+“ ‘few unsophisticated consumers would be aware that a
+statute of limitations could be used to defend against
+lawsuits based on stale debts.’ ” Phillips, supra, at 1079
+(quoting Kimber, supra, at 1487). The “ ‘passage of time,’ ”
+the Circuit wrote, “ ‘dulls the consumer’s memory of the
+circumstances and validity of the debt’ ” and the consumer
+may no longer have “ ‘personal records.’ ” 736 F. 3d, at
+1079 (quoting Kimber, supra, at 1487). Moreover, a con­
+sumer might pay a stale debt simply to avoid the cost and
+embarrassment of suit. 736 F. 3d, at 1079.
+    These considerations have significantly diminished force
+in the context of a Chapter 13 bankruptcy. The consumer
+initiates such a proceeding, see 11 U. S. C. §§301, 303(a),
+and consequently the consumer is not likely to pay a stale
+claim just to avoid going to court. A knowledgeable trustee
+is available.     See §1302(a).       Procedural bankruptcy
+rules more directly guide the evaluation of claims. See
+Fed. Rule Bkrtcy. Proc. 3001(c)(3)(A); Advisory Commit­
+tee’s Notes on Rule 3001–2011 Amdt., 11 U. S. C. App., p.
+678. And, as the Eighth Circuit Bankruptcy Appellate
+Panel put it, the claims resolution process is “generally a
+more streamlined and less unnerving prospect for a debtor
+than facing a collection lawsuit.” In re Gatewood, 533
+B. R. 905, 909 (2015); see also, e.g., 11 U. S. C. §502 (out­
+
+
+                    Cite as: 581 U. S. ____ (2017)           7
+                         Opinion of the Court
+lining generally the claims resolution process). These
+features of a Chapter 13 bankruptcy proceeding make it
+considerably more likely that an effort to collect upon a
+stale claim in bankruptcy will be met with resistance,
+objection, and disallowance.
+   Second, Johnson argues that the practice at least risks
+harm to the debtor and that there is not “a single legiti­
+mate reason” for allowing this kind of behavior. Brief for
+Respondent 32. Would it not be obviously “unfair,” she
+asks, for a debt collector to adopt a practice of buying up
+stale claims cheaply and asserting them in bankruptcy
+knowing they are stale and hoping for careless trustees?
+The United States, supporting Johnson, adds its view that
+the Federal Rules of Bankruptcy Procedure make the
+practice open to sanction, and argues that sanctionable
+conduct is unfair conduct. Brief for United States as
+Amicus Curiae 20. See Fed. Rule Bkrtcy. Proc. 9011(b)(2)
+(sanction possible if party violates the Rule that by “pre­
+senting to the [bankruptcy] court” any “paper,” a “party is
+certifying that to the best of ” his or her “knowledge, . . .
+the claims . . . therein are warranted by existing law”).
+   We are ultimately not persuaded by these arguments.
+The bankruptcy system, as we have already noted, treats
+untimeliness as an affirmative defense. The trustee nor­
+mally bears the burden of investigating claims and point­
+ing out that a claim is stale. See supra, at 4–5. Moreover,
+protections available in a Chapter 13 bankruptcy proceed­
+ing minimize the risk to the debtor. See supra, at 6. And,
+at least on occasion, the assertion of even a stale claim can
+benefit a debtor. Its filing and disallowance “discharge[s]”
+the debt. 11 U. S. C. §1328(a). And that discharge means
+that the debt (even if unenforceable) will not remain on a
+credit report potentially affecting an individual’s ability to
+borrow money, buy a home, and perhaps secure employ­
+ment. See 15 U. S. C. §1681c(a)(4) (debt may remain on a
+credit report for seven years); cf. Ala. Code §6–2–34 (6­
+
+
+8           MIDLAND FUNDING, LLC v. JOHNSON
+                      Opinion of the Court
+year statute of limitations); Md. Cts. & Jud. Proc. Code
+Ann. §5–101 (2013) (3-year statute of limitations); cf. 16
+CFR pt. 600, App. §607, ¶6 (1991) (a credit report may
+include discharged debt only if “the debt [is reported] as
+having a zero balance due to reflect the fact that the con­
+sumer is no longer liable for the discharged debt”); FTC,
+40 Years of Experience with the Fair Credit Reporting Act:
+An FTC Staff Report with Summary of Interpretations 66
+(2011) (similar).
+  More importantly, a change in the simple affirmative-
+defense approach, carving out an exception, itself would
+require defining the boundaries of the exception. Does it
+apply only where (as Johnson alleged in the complaint) a
+claim’s staleness appears “on [the] face” of the proof of
+claim? Does it apply to other affirmative defenses or only
+to the running of a limitations period?
+  At the same time, we do not find in either the Fair Debt
+Collection Practices Act or the Bankruptcy Code good
+reason to believe that Congress intended an ordinary civil
+court applying the Act to determine answers to these
+bankruptcy-related questions. The Act and the Code have
+different purposes and structural features. The Act seeks
+to help consumers, not necessarily by closing what John­
+son and the United States characterize as a loophole in
+the Bankruptcy Code, but by preventing consumer bank­
+ruptcies in the first place. See, e.g., 15 U. S. C. §1692(a)
+(recognizing the “abundant evidence of the use of abusive,
+deceptive, and unfair debt collection practices [which]
+contribute to the number of personal bankruptcies”); see
+also §1692(b) (“Existing laws and procedures . . . are inad­
+equate to protect consumers”); §1692(e) (statute seeks to
+“eliminate abusive debt collection practices”). The Bank­
+ruptcy Code, by way of contrast, creates and maintains
+what we have called the “delicate balance of a debtor’s
+protections and obligations.” Kokoszka v. Belford, 417
+U. S. 642, 651 (1974).
+
+
+                   Cite as: 581 U. S. ____ (2017)            9
+                        Opinion of the Court
+   To find the Fair Debt Collection Practices Act applicable
+here would upset that “delicate balance.” From a sub-
+stantive perspective it would authorize a new significant
+bankruptcy-related remedy in the absence of language in
+the Code providing for it. Administratively, it would
+permit postbankruptcy litigation in an ordinary civil court
+concerning a creditor’s state of mind—a matter often hard
+to determine. See 15 U. S. C. §1692k(c) (safe harbor for
+any debt collector who “shows by a preponderance of evi­
+dence that the violation was not intentional and resulted
+from a bona fide error notwithstanding the maintenance of
+procedures reasonably adapted to avoid any such error”).
+Procedurally, it would require creditors (who assert a
+claim) to investigate the merits of an affirmative defense
+(typically the debtor’s job to assert and prove) lest the
+creditor later be found to have known the claim was un­
+timely. The upshot could well be added complexity,
+changes in settlement incentives, and a shift from the
+debtor to the creditor the obligation to investigate the
+staleness of a claim.
+   Unlike the United States, we do not believe that the
+Advisory Committee on Rules of Bankruptcy Procedure
+settled the issue when it promulgated Bankruptcy Rule
+9011. The Committee, in considering amendments to the
+Federal Rules of Bankruptcy Procedure in 2009, specifically
+rejected a proposal that would have required a creditor to
+certify that there is no valid statute of limitations defense.
+See Agenda Book for Meeting 86–87 (Mar. 26–27, 2009).
+It did so in part because the working group did not want to
+impose an affirmative obligation on a creditor to make a
+prefiling investigation of a potential time-bar defense.
+Ibid. In rejecting that proposal, the Committee did note
+that Rule 9011 imposes a general “obligation on a claim­
+ant to undertake an inquiry reasonable under the circum­
+stances to determine . . . that a claim is warranted by
+existing law and that factual contentions have evidentiary
+
+
+10           MIDLAND FUNDING, LLC v. JOHNSON
+                       Opinion of the Court
+support,” and to certify as much on the proof of claim. Id.,
+at 87. The Committee also acknowledged, however, that
+this requirement would “not addres[s] the statute of limi­
+tation issue,” but would only ensure “the accuracy of the
+information provided.” Ibid.
+   We recognize that one Bankruptcy Court has held that
+filing a time-barred claim without a prefiling investigation
+of a potential time-bar defense merits sanctions under
+Rule 9011. In re Sekema, 523 B. R. 651, 654 (Bkrtcy. Ct.
+ND Ind. 2015). But others have held to the contrary. See,
+e.g., In re Freeman, 540 B. R. 129, 143–144 (Bkrtcy. Ct.
+ED Pa. 2015); In re Jenkins, 538 B. R. 129, 134–136
+(Bkrcty. Ct. ND Ala. 2015); In re Keeler, 440 B. R. 354,
+366–369 (Bkrtcy. Ct. ED Pa. 2009); see also In re Andrews,
+394 B. R. 384, 387–388 (Bkrtcy. Ct. EDNC 2008) (recog­
+nizing that “[m]any courts have . . . found that sanctions
+[under Rule 9011] were not warranted for filing stale
+claims”).
+   These circumstances, taken together, convince us that
+we cannot find the practice at issue here “unfair” or “un­
+conscionable” within the terms of the Fair Debt Collection
+Practices Act.
+                               IV
+   For these reasons, we conclude that filing (in a Chapter
+13 bankruptcy proceeding) a proof of claim that is obviously
+time barred is not a false, deceptive, misleading, unfair,
+or unconscionable debt collection practice within the
+meaning of the Fair Debt Collection Practices Act. The
+judgment of the Eleventh Circuit is reversed.
+                                             It is so ordered.
+   JUSTICE GORSUCH took no part in the consideration
+or decision of this case.
+
+
+                       Cite as: 581 U. S. ____ (2017)                    1
+                        SOTOMAYOR, J., dissenting
+SUPREME COURT OF THE UNITED STATES
+                                _________________
+                                 No. 16–348
+                                _________________
+         MIDLAND FUNDING, LLC, PETITIONER v.
+                         ALEIDA JOHNSON
+  ON WRIT OF CERTIORARI TO THE UNITED STATES COURT OF
+               APPEALS FOR THE ELEVENTH CIRCUIT
+                               [May 15, 2017]
+   JUSTICE SOTOMAYOR, with whom JUSTICE GINSBURG
+and JUSTICE KAGAN join, dissenting.
+   The Fair Debt Collection Practices Act (FDCPA or Act)
+prohibits professional debt collectors from using “false,
+deceptive, or misleading representation[s] or means in
+connection with the collection of any debt” and from
+“us[ing] unfair or unconscionable means to collect” a debt.
+15 U. S. C. §§1692e, 1692f. The Court today wrongfully
+holds that a debt collector that knowingly attempts to
+collect a time-barred debt in bankruptcy proceedings has
+violated neither of these prohibitions.
+   Professional debt collectors have built a business out of
+buying stale debt, filing claims in bankruptcy proceedings
+to collect it, and hoping that no one notices that the debt is
+too old to be enforced by the courts. This practice is both
+“unfair” and “unconscionable.” I respectfully dissent from
+the Court’s conclusion to the contrary.1
+                                        I
+   Americans owe trillions of dollars in consumer debt to
+creditors—credit card companies, schools, and car dealers,
+——————
+  1 Because  I believe the practice at issue here is “unfair” and “uncon­
+scionable,” and thus violates 15 U. S. C. §1692f, I do not address the
+Court’s conclusion that the practice is not “false, deceptive, or mislead­
+ing” in violation of §1692e.
+
+
+2               MIDLAND FUNDING, LLC v. JOHNSON
+                        SOTOMAYOR, J., dissenting
+among others. See Fed. Reserve Bank of N. Y., Quarterly
+Report on Household Debt and Credit 3 (2017). Most
+people will repay their debts, but some cannot do so. The
+debts they do not pay are increasingly likely to end up in
+the hands of professional debt collectors—companies
+whose business it is to collect debts that are owed to other
+companies. See Consumer Financial Protection Bur., Fair
+Debt Collection Practices Act: Annual Report 2016, p. 8
+(CFPB Report). Debt collection is a lucrative and growing
+industry. Last year, the Nation’s 6,000 debt collection
+agencies earned over $13 billion in revenue. Ibid.
+   Although many debt collectors are hired by creditors to
+work on a third-party basis, more and more collectors also
+operate as “debt buyers”—purchasing debts from creditors
+outright and attempting to collect what they can, with the
+profits going to their own accounts.2 See FTC, The Struc­
+ture and Practices of the Debt Buying Industry 11–12
+(2013) (FTC Report); CFPB Report 10. Debt buyers now
+hold hundreds of billions of dollars in consumer debt;
+indeed, a study conducted by the Federal Trade Commis­
+sion (FTC) in 2009 found that nine of the leading debt
+buyers had purchased over $140 billion in debt just in the
+previous three years. FTC Report, at i–ii, T–3 (Table 3).
+   Because creditors themselves have given up trying to
+collect the debts they sell to debt buyers, they sell those
+debts for pennies on the dollar. Id., at 23. The older the
+debt, the greater the discount: While debt buyers pay close
+to eight cents per dollar for debts under three years old,
+they pay as little as two cents per dollar for debts greater
+than six years old, and “effectively nothing” for debts
+greater than 15 years old. Id., at 23–24. These prices
+——————
+  2A  case pending before this Court, Henson v. Santander Consumer
+USA Inc., No. 16–349, asks whether a certain kind of debt buyer is a
+“debt collector” under the FDCPA. Midland does not dispute that it is a
+debt collector under the Act.
+
+
+                      Cite as: 581 U. S. ____ (2017)                    3
+                        SOTOMAYOR, J., dissenting
+reflect the basic fact that older debts are harder to collect.
+As time passes, consumers move or forget that they owe
+the debts; creditors have more trouble documenting the
+debts and proving their validity; and debts begin to fall
+within state statutes of limitations—time limits that
+“operate to bar a plaintiff ’s suit” once passed. CTS Corp.
+v. Waldburger, 573 U. S. ___, ___ (2014) (slip op., at 5).
+Because a creditor (or a debt collector) cannot enforce a
+time-barred debt in court, the debt is inherently worth
+very little indeed.
+   But statutes of limitations have not deterred debt buy­
+ers. For years, they have filed suit in state courts—often
+in small-claims courts, where formal rules of evidence do
+not apply—to collect even debts too old to be enforced by
+those courts.3 See Holland, The One Hundred Billion
+Dollar Problem in Small-Claims Court, 6 J. Bus. & Tech.
+L. 259, 261 (2011). Importantly, the debt buyers’ only
+hope in these cases is that consumers will fail either to
+invoke the statute of limitations or to respond at all: In
+most States the statute of limitations is an affirmative
+defense, meaning that a consumer must appear in court
+and raise it in order to dismiss the suit. See ante, at 4–5
+(majority opinion). But consumers do fail to defend them­
+selves in court—in fact, according to the FTC, over 90%
+fail to appear at all. FTC Report 45. The result is that
+debt buyers have won “billions of dollars in default judg­
+ments” simply by filing suit and betting that consumers
+will lack the resources to respond. Holland, supra, at 263.
+   The FDCPA’s prohibitions on “misleading” and “unfair”
+conduct have largely beaten back this particular practice.
+Every court to have considered the question has held that
+——————
+  3 Petitioner’s parent alone filed 245,000 lawsuits in 2009. See Silver-
+Greenberg, Boom in Debt Buying Fuels Another Boom—in Lawsuits,
+Wall Street Journal, Nov. 29, 2010, pp. A1, A16. Petitioner itself filed
+110 lawsuits on just one date in a single state court. Id., at A1.
+
+
+4             MIDLAND FUNDING, LLC v. JOHNSON
+                    SOTOMAYOR, J., dissenting
+a debt collector that knowingly files suit in court to collect
+a time-barred debt violates the FDCPA. See Phillips v.
+Asset Acceptance, LLC, 736 F. 3d 1076, 1079 (CA7 2013);
+Kimber v. Federal Financial Corp., 668 F. Supp. 1480,
+1487 (MD Ala. 1987); see also ante, at 5–6 (majority opin­
+ion) (citing other cases). In 2015, petitioner and its parent
+company entered into a consent decree with the Govern­
+ment prohibiting them from filing suit to collect time-
+barred debts and ordering them to pay $34 million in
+restitution. See Consent Order in In re Encore Capital
+Group, Inc., No. 2015–CFPB–0022 (Sept. 9, 2015), pp. 38,
+46. And the leading trade association has now adopted a
+resolution barring the practice. See Brief for DBA Inter­
+national, Inc., as Amicus Curiae 2–3.
+  Stymied in state courts, the debt buyers have now
+turned to a new forum: bankruptcy courts. The same debt
+buyers that for years filed thousands of lawsuits in state
+courts across the country have begun to do the same thing
+in bankruptcy courts—specifically, in cases governed by
+Chapter 13 of the Bankruptcy Code, which allows consum­
+ers earning regular incomes to restructure their debts and
+repay as many as they can over a period of several years.
+See 8 Collier on Bankruptcy ¶1300.01 (A. Resnick & H.
+Sommer eds., 16th ed. 2016). As in ordinary civil cases, a
+debtor in a Chapter 13 bankruptcy proceeding is entitled
+to have dismissed any claim filed against his estate that is
+barred by a statute of limitations. See 11 U. S. C. §558.
+As in ordinary civil cases, the statute of limitations is an
+affirmative defense, one that must be raised by either the
+debtor or the trustee of his estate before it is honored.
+§§502, 558. And so—just as in ordinary civil cases—debt
+collectors may file claims in bankruptcy proceedings for
+stale debts and hope that no one notices that they are too
+old to be enforced.
+  And that is exactly what the debt buyers have done. As
+a wide variety of courts and commentators have observed,
+
+
+                     Cite as: 581 U. S. ____ (2017)                     5
+                       SOTOMAYOR, J., dissenting
+debt buyers have “deluge[d]” the bankruptcy courts with
+claims “on debts deemed unenforceable under state stat­
+utes of limitations.” Crawford v. LVNV Funding, LLC,
+758 F. 3d 1254, 1256 (CA11 2014); see also In re Jenkins,
+456 B. R. 236, 239, n. 2 (Bkrtcy. Ct. EDNC 2011) (noting a
+“plague of stale claims”); Brief for National Association of
+Consumer Bankruptcy Attorneys et al. as Amici Curiae 9
+(noting study describing “hundreds of thousands of proofs
+of claim asserting hundreds of millions of dollars of con­
+sumer indebtedness, all in a single year”). This practice
+has become so widespread that the Government sued one
+debt buyer last year “to address [its] systemic abuse of the
+bankruptcy process”—including a “business model” of
+“knowingly and strategically” filing thousands of claims
+for time-barred debt. Complaint in In re Freeman-Clay v.
+Resurgent Capital Servs., L. P., No. 14–41871 (Bkrtcy. Ct.
+WD Mo.), ¶¶1, 35 (Resurgent Complaint). This practice,
+the Government explained, “manipulates the bankruptcy
+process by systematically shifting the burden” to trustees
+and debtors to object even to “frivolous claims”—especially
+given that filing an objection is costly, time consuming,
+and easy to overlook. Id., at ¶¶35, 43–44.
+                                   II
+   The FDCPA prohibits professional debt collectors from
+engaging in “unfair” and “unconscionable” practices. 15
+U. S. C. §1692f.4 Filing a claim in bankruptcy court for
+——————
+  4 This Court has not had occasion to construe the terms “unfair” and
+“unconscionable” in §1692f. The FDCPA’s legislative history suggests
+that Congress intended these terms as a backstop that would enable
+“courts, where appropriate, to proscribe other improper conduct . . . not
+specifically addressed” by the statute. S. Rep. No. 95–382, p. 4 (1977).
+Courts have construed these terms, consistent with other federal and
+state statutes that employ them, to borrow from equitable and common-
+law traditions. See, e.g., LeBlanc v. Unifund CCR Partners, 601 F. 3d
+1185, 1200–1201 (CA11 2010) (per curiam); Beler v. Blatt, Hasenmiller,
+Leibsker & Moore, LLC, 480 F. 3d 470, 473–474 (CA7 2007).
+
+
+6             MIDLAND FUNDING, LLC v. JOHNSON
+                     SOTOMAYOR, J., dissenting
+debt that a collector knows to be time barred—like filing a
+lawsuit in a court to collect such a debt—is just such a
+practice.
+                                A
+  Begin where the debt collectors themselves began: with
+their practice of filing suit in ordinary civil courts to collect
+debts that they know are time barred. Every court to have
+considered this practice holds that it violates the FDCPA.
+There is no sound reason to depart from this conclusion.
+  Statutes of limitations “are not simply technicalities.”
+Board of Regents of Univ. of State of N. Y. v. Tomanio, 446
+U. S. 478, 487 (1980). They reflect strong public-policy
+determinations that “it is unjust to fail to put [an] adver­
+sary on notice to defend within a specified period of time.”
+United States v. Kubrick, 444 U. S. 111, 117 (1979). And
+they “promote justice by preventing surprises through the
+revival of claims that have been allowed to slumber until
+evidence has been lost, memories have faded, and witnesses
+have disappeared.” Railroad Telegraphers v. Railway
+Express Agency, Inc., 321 U. S. 342, 348–349 (1944). Such
+concerns carry particular weight in the context of small-
+dollar consumer debt collection. As one thoughtful opinion
+explains:
+     “Because few unsophisticated consumers would be
+     aware that a statute of limitations could be used to
+     defend against lawsuits based on stale debts, such
+     consumers would unwittingly acquiesce to such law­
+     suits. And, even if the consumer realizes that she can
+     use time as a defense, she will more than likely still
+     give in rather than fight the lawsuit because she must
+     still expend energy and resources and subject herself
+     to the embarrassment of going into court to present
+     the defense . . . .” Kimber, 668 F. Supp., at 1487.
+  Debt buyers’ efforts to pursue stale debt in ordinary civil
+
+
+                    Cite as: 581 U. S. ____ (2017)           7
+                     SOTOMAYOR, J., dissenting
+litigation may also entrap debtors into forfeiting their time
+defenses altogether. When a debt collector sues or threat­
+ens to sue to collect a debt, many consumers respond by
+offering a small partial payment to forestall suit. In many
+States, a consumer who makes an offer like this has—
+unbeknownst to him—forever given up his ability to claim
+the debt is unenforceable. That is because in most States
+a consumer’s partial payment on a time-barred debt—or
+his promise to resume payments on such a debt—will
+restart the statute of limitations. FTC Report 47; see, e.g.,
+Young v. Sorenson, 47 Cal. App. 3d 911, 914, 121 Cal.
+Rptr. 236, 237 (1975) (“ ‘The theory on which this is based
+is that the payment is an acknowledgement on the exist­
+ence of the indebtedness which raises an implied promise
+to continue the obligation and to pay the balance’ ”). Debt
+collectors’ efforts to entrap consumers in this way have no
+place in honest business practice.
+                                  B
+   The same dynamics are present in bankruptcy proceed­
+ings. A proof of claim filed in bankruptcy court represents
+the debt collector’s belief that it is entitled to payment,
+even though the debt should not be enforced as a matter of
+public policy. The debtor’s claim will be allowed, and will
+be incorporated in a debtor’s payment plan, unless the
+debtor or his trustee objects. But such objections require
+ordinary and unsophisticated people (and their over­
+worked trustees) to be on guard not only against mistaken
+claims but also against claims that debt collectors know
+will fail under law if an objection is raised. Debt collectors
+do not file these claims in good faith; they file them hoping
+and expecting that the bankruptcy system will fail. Such
+a practice is “unfair” and “unconscionable” in violation of
+the FDCPA.
+   The Court disagrees. But it does so on narrow grounds.
+To begin with, the Court does not hold that the Bankruptcy
+
+
+8               MIDLAND FUNDING, LLC v. JOHNSON
+                         SOTOMAYOR, J., dissenting
+Code altogether displaces the FDCPA, leaving it with
+no role to play in bankruptcy proceedings. Such a conclu­
+sion would be wrong. Although the Code and the FDCPA
+“have different purposes and structural features,” ante, at
+8, the Court has held that Congress, in passing the
+FDCPA’s predecessor, did so on the understanding that
+“the provisions and the purposes” of the two statutes were
+intended to “coexist.” Kokoszka v. Belford, 417 U. S. 642,
+650 (1974). Although petitioner suggests that the FDCPA
+is best read “to have no application to [a] debt collector’s
+conduct” in a bankruptcy proceeding, Brief for Petitioner
+41, the majority declines its invitation to adopt such a
+sweeping rule.5
+    Nor does the majority take a position on whether a debt
+collector violates the FDCPA by filing suit in an ordinary
+court to collect a debt it knows is time barred. Ante, at 6.
+Instead, the majority concludes, even assuming that such
+a practice would violate the FDCPA, a debt collector does
+——————
+   5 The majority does lean heavily on its fear that, were we to conclude
+that the FDCPA bars the practice at issue, we would be licensing
+“postbankruptcy litigation in an ordinary civil court” concerning mat­
+ters best left to bankruptcy courts. Ante, at 9. But to do so would not,
+as the majority suggests, “upset [the] ‘delicate balance’ ” struck by the
+Code. Ibid. (quoting Kokoszka v. Belford, 417 U. S., at 651). For one,
+nothing requires a debtor to engage in satellite litigation in order to sue
+a debt collector under the FDCPA; a debtor can easily file an adversary
+proceeding asserting an FDCPA claim with the bankruptcy court itself,
+and in many cases will be better served by doing so. See, e.g., Simon v.
+FIA Card Servs., N. A., 732 F. 3d 259, 263 (CA3 2013). Nor is there any
+risk that finding the FDCPA applicable here will authorize bankruptcy
+courts (or, for that matter, civil courts) to engage in novel and unfet­
+tered inquiries into “a creditor’s state of mind.” Ante, at 9. Both Fed.
+Rule Civ. Proc. 11 and its bankruptcy counterpart, Fed. Rule Bkrtcy.
+Proc. 9011, authorize a court to impose sanctions on parties who
+willfully file meritless claims (a category that includes the debt buyers
+here, see In re Sekema, 523 B. R. 651, 654–655 (Bkrtcy. Ct. ND Ind.
+2015)). So there is nothing new about the inquiry that courts would be
+required to undertake; it is no different than analyses they conduct
+every day.
+
+
+                   Cite as: 581 U. S. ____ (2017)            9
+                    SOTOMAYOR, J., dissenting
+not violate the Act by doing the same thing in bankruptcy
+proceedings. Bankruptcy, the majority argues, is differ­
+ent. True enough. But none of the distinctions that the
+majority identifies bears the weight placed on it.
+   First, the majority contends, structural features of the
+bankruptcy process reduce the risk that a stale debt will
+go unnoticed and thus be allowed. Ante, at 6–7. But there
+is virtually no evidence that the majority’s theory holds
+true in practice. The majority relies heavily on the pres­
+ence of a bankruptcy trustee, appointed to act on the
+debtor’s behalf and empowered to (among other things)
+object to claims that he believes lack merit. See 11
+U. S. C. §§704(a)(5), 1302(b). In the majority’s view, the
+trustee’s gatekeeping role makes it “considerably more
+likely that an effort to collect upon a stale claim in bank­
+ruptcy will be met with resistance, objection, and disal­
+lowance.” Ante, at 7. The problem with the majority’s ipse
+dixit is that everyone with actual experience in the matter
+insists that it is false. The Government, which oversees
+bankruptcy trustees, tells us that trustees “cannot realis­
+tically be expected to identify every time-barred . . . claim
+filed in every bankruptcy.” Brief for United States as
+Amicus Curiae 25–26; see also Resurgent Complaint ¶43
+(“Filing objections to all of [one collector]’s unenforceable
+claims would clog the docket of this Court and other courts
+with objections to frivolous claims”). The trustees them­
+selves (appearing here as amici curiae) agree, describing
+the practice as “wasteful” and “exploit[ative].” Brief for
+National Association of Chapter Thirteen Trustees as
+Amicus Curiae 12. And courts across the country recog­
+nize that Chapter 13 trustees are struggling under a
+“deluge” of stale debt. Crawford, 758 F. 3d, at 1256.
+   Second, the other features of the bankruptcy process
+that the majority believes will serve as a backstop against
+frivolous claims are even less likely to do so in practice.
+The majority implies that a person who files for bankruptcy
+
+
+10            MIDLAND FUNDING, LLC v. JOHNSON
+                     SOTOMAYOR, J., dissenting
+is more sophisticated than the average consumer debtor
+because the initiation of bankruptcy is a choice made by a
+debtor. Ante, at 6. But a person who has filed for bank­
+ruptcy will rarely be in such a superior position; he has,
+after all, just declared that he is unable to meet his finan­
+cial obligations and in need of the assistance of the courts.
+It is odd to speculate that such a person is better situated
+to monitor court filings and lodge objections than an ordi­
+nary consumer. The majority also suggests that the rules
+of bankruptcy help “guide the evaluation of claims.” Ibid.
+But the rules of bankruptcy in fact facilitate the allowance
+of claims: Claims are automatically allowed and made part
+of a plan unless an objection is made. See 11 U. S. C.
+§502(a). A debtor is arguably more vulnerable in bank­
+ruptcy—not less—to the oversights that the debt buyers
+know will occur.
+   Finally, the majority suggests, in some cases a consumer
+will actually benefit if a claim for an untimely debt is filed.
+Ante, at 7–8. If such a claim is filed but disallowed, the
+majority explains, the debt will eventually be discharged,
+and the creditor will be barred from collecting it. See
+§1328(a). Here, too, practice refutes the majority’s rosy
+portrait of these proceedings. A debtor whose trustee does
+not spot and object to a stale debt will find no comfort in
+the knowledge that other consumers with more attentive
+trustees may have their debts disallowed and discharged.
+Moreover, given the high rate at which debtors are unable
+to fully pay off their debts in Chapter 13 proceedings, see
+Porter, The Pretend Solution: An Empirical Study of
+Bankruptcy Outcomes, 90 Texas L. Rev. 103, 111–112
+(2011), most debtors who fail to object to a stale claim will
+end up worse off than had they never entered bankruptcy
+at all: They will make payments on the stale debts, thereby
+resuscitating them, see supra, at 6–7, and may thus
+walk out of bankruptcy court owing more to their creditors
+than they did when they entered it. There is no benefit to
+
+
+                  Cite as: 581 U. S. ____ (2017)          11
+                    SOTOMAYOR, J., dissenting
+anyone in such a proceeding—except the debt collectors.
+                          *     *      *
+  It does not take a sophisticated attorney to understand
+why the practice I have described in this opinion is unfair.
+It takes only the common sense to conclude that one
+should not be able to profit on the inadvertent inattention
+of others. It is said that the law should not be a trap for
+the unwary. Today’s decision sets just such a trap.
+  I take comfort only in the knowledge that the Court’s
+decision today need not be the last word on the matter. If
+Congress wants to amend the FDCPA to make explicit
+what in my view is already implicit in the law, it need only
+say so.
+  I respectfully dissent.

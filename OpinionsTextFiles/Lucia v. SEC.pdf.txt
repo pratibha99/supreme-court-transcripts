@@ -1,0 +1,1535 @@
+(Slip Opinion)                OCTOBER TERM, 2017                                    1
+                                         Syllabus
+          NOTE: Where it is feasible, a syllabus (headnote) will be released, as is
+        being done in connection with this case, at the time the opinion is issued.
+        The syllabus constitutes no part of the opinion of the Court but has been
+        prepared by the Reporter of Decisions for the convenience of the reader.
+        See United States v. Detroit Timber & Lumber Co., 200 U. S. 321, 337.
+SUPREME COURT OF THE UNITED STATES
+                                         Syllabus
+       LUCIA ET AL. v. SECURITIES AND EXCHANGE
+                                   COMMISSION
+ CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR
+                  THE DISTRICT OF COLUMBIA CIRCUIT
+       No. 17–130.       Argued April 23, 2018—Decided June 21, 2018
+The Securities and Exchange Commission (SEC or Commission) has
+   statutory authority to enforce the nation’s securities laws. One way
+   it can do so is by instituting an administrative proceeding against an
+   alleged wrongdoer. Typically, the Commission delegates the task of
+   presiding over such a proceeding to an administrative law judge
+   (ALJ). The SEC currently has five ALJs. Other staff members, ra-
+   ther than the Commission proper, selected them all. An ALJ as-
+   signed to hear an SEC enforcement action has the “authority to do all
+   things necessary and appropriate” to ensure a “fair and orderly” ad-
+   versarial proceeding. 17 CFR §§201.111, 200.14(a). After a hearing
+   ends, the ALJ issues an initial decision. The Commission can review
+   that decision, but if it opts against review, it issues an order that the
+   initial decision has become final. See §201.360(d). The initial deci-
+   sion is then “deemed the action of the Commission.” 15 U. S. C.
+   §78d–1(c).
+      The SEC charged petitioner Raymond Lucia with violating certain
+   securities laws and assigned ALJ Cameron Elliot to adjudicate the
+   case. Following a hearing, Judge Elliot issued an initial decision con-
+   cluding that Lucia had violated the law and imposing sanctions. On
+   appeal to the SEC, Lucia argued that the administrative proceeding
+   was invalid because Judge Elliot had not been constitutionally ap-
+   pointed. According to Lucia, SEC ALJs are “Officers of the United
+   States” and thus subject to the Appointments Clause. Under that
+   Clause, only the President, “Courts of Law,” or “Heads of Depart-
+   ments” can appoint such “Officers.” But none of those actors had
+   made Judge Elliot an ALJ. The SEC and the Court of Appeals for the
+   D. C. Circuit rejected Lucia’s argument, holding that SEC ALJs are
+
+
+2                             LUCIA v. SEC
+                                 Syllabus
+  not “Officers of the United States,” but are instead mere employees—
+  officials with lesser responsibilities who are not subject to the Ap-
+  pointments Clause.
+Held: The Commission’s ALJs are “Officers of the United States,” sub-
+  ject to the Appointments Clause. Pp. 5–13.
+     (a) This Court’s decisions in United States v. Germaine, 99 U. S.
+  508, and Buckley v. Valeo, 424 U. S. 1, set out the basic framework
+  for distinguishing between officers and employees. To qualify as an
+  officer, rather than an employee, an individual must occupy a “con-
+  tinuing” position established by law, Germaine, 99 U. S., at 511, and
+  must “exercis[e] significant authority pursuant to the laws of the
+  United States,” Buckley, 424 U. S., at 126.
+     In Freytag v. Commissioner, 501 U. S. 868, the Court applied this
+  framework to “special trial judges” (STJs) of the United States Tax
+  Court. STJs could issue the final decision of the Tax Court in “com-
+  paratively narrow and minor matters.” Id., at 873. In more major
+  matters, they could preside over the hearing but could not issue a fi-
+  nal decision. Instead, they were to “prepare proposed findings and an
+  opinion” for a regular Tax Court judge to consider. Ibid. The pro-
+  ceeding challenged in Freytag was a major one. The losing parties
+  argued on appeal that the STJ who presided over their hearing was
+  not constitutionally appointed.
+     This Court held that STJs are officers. Citing Germaine, the Frey-
+  tag Court first found that STJs hold a continuing office established
+  by law. See 501 U. S., at 881. The Court then considered, as Buckley
+  demands, the “significance” of the “authority” STJs wield. 501 U. S.,
+  at 881. The Government had argued that STJs are employees in all
+  cases in which they could not enter a final decision. But the Court
+  thought that the Government’s focus on finality “ignore[d] the signifi-
+  cance of the duties and discretion that [STJs] possess.” Ibid. De-
+  scribing the responsibilities involved in presiding over adversarial
+  hearings, the Court said: STJs “take testimony, conduct trials, rule
+  on the admissibility of evidence, and have the power to enforce com-
+  pliance with discovery orders.” Id., at 881–882. And the Court ob-
+  served that “[i]n the course of carrying out these important func-
+  tions,” STJs “exercise significant discretion.” Id., at 882.
+     Freytag’s analysis decides this case. The Commission’s ALJs, like
+  the Tax Court’s STJs, hold a continuing office established by law.
+  SEC ALJs “receive[ ] a career appointment,” 5 CFR §930.204(a), to a
+  position created by statute, see 5 U. S. C. §§556–557, 5372, 3105.
+  And they exercise the same “significant discretion” when carrying out
+  the same “important functions” as STJs do. Freytag, 501 U. S., at
+  882. Both sets of officials have all the authority needed to ensure fair
+  and orderly adversarial hearings—indeed, nearly all the tools of fed-
+
+
+                       Cite as: 585 U. S. ____ (2018)                    3
+                                   Syllabus
+   eral trial judges. The Commission’s ALJs, like the Tax Court’s STJs,
+   “take testimony,” “conduct trials,” “rule on the admissibility of evi-
+   dence,” and “have the power to enforce compliance with discovery or-
+   ders.” Id., at 881–882. So point for point from Freytag’s list, SEC
+   ALJs have equivalent duties and powers as STJs in conducting ad-
+   versarial inquiries.
+      Moreover, at the close of those proceedings, SEC ALJs issue deci-
+   sions much like that in Freytag. STJs prepare proposed findings and
+   an opinion adjudicating charges and assessing tax liabilities. Simi-
+   larly, the Commission’s ALJs issue initial decisions containing factu-
+   al findings, legal conclusions, and appropriate remedies. And what
+   happens next reveals that the ALJ can play the more autonomous
+   role. In a major Tax Court case, a regular Tax Court judge must al-
+   ways review an STJ’s opinion, and that opinion comes to nothing un-
+   less the regular judge adopts it. By contrast, the SEC can decide
+   against reviewing an ALJ’s decision, and when it does so the ALJ’s
+   decision itself “becomes final” and is “deemed the action of the Com-
+   mission.” 17 CFR §201.360(d)(2); 15 U. S. C. §78d–1(c). Pp. 5–11.
+      (b) Judge Elliot heard and decided Lucia’s case without a constitu-
+   tional appointment. “[O]ne who makes a timely challenge to the con-
+   stitutional validity of the appointment of an officer who adjudicates
+   his case” is entitled to relief. Ryder v. United States, 515 U. S. 177,
+   182. Lucia made just such a timely challenge. And the “appropriate”
+   remedy for an adjudication tainted with an appointments violation is
+   a new “hearing before a properly appointed” official. Id., at 183, 188.
+   In this case, that official cannot be Judge Elliot, even if he has by
+   now received a constitutional appointment. Having already both
+   heard Lucia’s case and issued an initial decision on the merits, he
+   cannot be expected to consider the matter as though he had not adju-
+   dicated it before. To cure the constitutional error, another ALJ (or
+   the Commission itself) must hold the new hearing. Pp. 12–13.
+ 868 F. 3d 1021, reversed and remanded.
+   KAGAN, J., delivered the opinion of the Court, in which ROBERTS,
+C. J., and KENNEDY, THOMAS, ALITO, and GORSUCH, JJ., joined. THOM-
+AS, J., filed a concurring opinion, in which GORSUCH, J., joined. BREYER,
+J., filed an opinion concurring in the judgment in part and dissenting in
+part, in which GINSBURG and SOTOMAYOR, JJ., joined as to Part III.
+SOTOMAYOR, J., filed a dissenting opinion, in which GINSBURG, J.,
+joined.
+
+
+                        Cite as: 585 U. S. ____ (2018)                            1
+                              Opinion of the Court
+     NOTICE: This opinion is subject to formal revision before publication in the
+     preliminary print of the United States Reports. Readers are requested to
+     notify the Reporter of Decisions, Supreme Court of the United States, Wash-
+     ington, D. C. 20543, of any typographical or other formal errors, in order
+     that corrections may be made before the preliminary print goes to press.
+SUPREME COURT OF THE UNITED STATES
+                                    _________________
+                                     No. 17–130
+                                    _________________
+      RAYMOND J. LUCIA, ET AL., PETITIONERS v.
+     SECURITIES AND EXCHANGE COMMISSION
+ ON WRIT OF CERTIORARI TO THE UNITED STATES COURT OF
+      APPEALS FOR THE DISTRICT OF COLUMBIA CIRCUIT
+                                  [June 21, 2018]
+  JUSTICE KAGAN delivered the opinion of the Court.
+  The Appointments Clause of the Constitution lays out
+the permissible methods of appointing “Officers of the
+United States,” a class of government officials distinct
+from mere employees. Art. II, §2, cl. 2. This case requires
+us to decide whether administrative law judges (ALJs) of
+the Securities and Exchange Commission (SEC or Com-
+mission) qualify as such “Officers.” In keeping with Frey-
+tag v. Commissioner, 501 U. S. 868 (1991), we hold that
+they do.
+                                            I
+  The SEC has statutory authority to enforce the nation’s
+securities laws. One way it can do so is by instituting an
+administrative proceeding against an alleged wrongdoer.
+By law, the Commission may itself preside over such a
+proceeding. See 17 CFR §201.110 (2017). But the Com-
+mission also may, and typically does, delegate that task to
+an ALJ. See ibid.; 15 U. S. C. §78d–1(a). The SEC cur-
+rently has five ALJs. Other staff members, rather than
+the Commission proper, selected them all. See App. to
+Pet. for Cert. 295a–297a.
+
+
+2                        LUCIA v. SEC
+                      Opinion of the Court
+   An ALJ assigned to hear an SEC enforcement action has
+extensive powers—the “authority to do all things neces-
+sary and appropriate to discharge his or her duties” and
+ensure a “fair and orderly” adversarial proceeding.
+§§201.111, 200.14(a). Those powers “include, but are not
+limited to,” supervising discovery; issuing, revoking, or
+modifying subpoenas; deciding motions; ruling on the
+admissibility of evidence; administering oaths; hearing
+and examining witnesses; generally “[r]egulating the
+course of ” the proceeding and the “conduct of the parties
+and their counsel”; and imposing sanctions for
+“[c]ontemptuous conduct” or violations of procedural re-
+quirements. §§201.111, 201.180; see §§200.14(a), 201.230.
+As that list suggests, an SEC ALJ exercises authority
+“comparable to” that of a federal district judge conducting
+a bench trial. Butz v. Economou, 438 U. S. 478, 513
+(1978).
+   After a hearing ends, the ALJ issues an “initial deci-
+sion.” §201.360(a)(1). That decision must set out “findings
+and conclusions” about all “material issues of fact [and]
+law”; it also must include the “appropriate order, sanction,
+relief, or denial thereof.” §201.360(b). The Commission
+can then review the ALJ’s decision, either upon request or
+sua sponte. See §201.360(d)(1). But if it opts against
+review, the Commission “issue[s] an order that the [ALJ’s]
+decision has become final.” §201.360(d)(2). At that point,
+the initial decision is “deemed the action of the Commis-
+sion.” §78d–1(c).
+   This case began when the SEC instituted an adminis-
+trative proceeding against petitioner Raymond Lucia and
+his investment company. Lucia marketed a retirement
+savings strategy called “Buckets of Money.” In the SEC’s
+view, Lucia used misleading slideshow presentations to
+deceive prospective clients. The SEC charged Lucia under
+the Investment Advisers Act, §80b–1 et seq., and assigned
+ALJ Cameron Elliot to adjudicate the case. After nine
+
+
+                    Cite as: 585 U. S. ____ (2018)          3
+                         Opinion of the Court
+days of testimony and argument, Judge Elliot issued an
+initial decision concluding that Lucia had violated the Act
+and imposing sanctions, including civil penalties of
+$300,000 and a lifetime bar from the investment industry.
+In his decision, Judge Elliot made factual findings about
+only one of the four ways the SEC thought Lucia’s
+slideshow misled investors. The Commission thus re-
+manded for factfinding on the other three claims, explain-
+ing that an ALJ’s “personal experience with the witnesses”
+places him “in the best position to make findings of fact”
+and “resolve any conflicts in the evidence.” App. to Pet. for
+Cert. 241a. Judge Elliot then made additional findings of
+deception and issued a revised initial decision, with the
+same sanctions. See id., at 118a.
+   On appeal to the SEC, Lucia argued that the adminis-
+trative proceeding was invalid because Judge Elliot had
+not been constitutionally appointed. According to Lucia,
+the Commission’s ALJs are “Officers of the United States”
+and thus subject to the Appointments Clause. Under that
+Clause, Lucia noted, only the President, “Courts of Law,”
+or “Heads of Departments” can appoint “Officers.” See
+Art. II, §2, cl. 2. And none of those actors had made Judge
+Elliot an ALJ. To be sure, the Commission itself counts as
+a “Head[ ] of Department[ ].” Ibid.; see Free Enterprise
+Fund v. Public Company Accounting Oversight Bd., 561
+U. S. 477, 511–513 (2010). But the Commission had left
+the task of appointing ALJs, including Judge Elliot, to
+SEC staff members. See supra, at 1. As a result, Lucia
+contended, Judge Elliot lacked constitutional authority to
+do his job.
+   The Commission rejected Lucia’s argument. It held that
+the SEC’s ALJs are not “Officers of the United States.”
+Instead, they are “mere employees”—officials with lesser
+responsibilities who fall outside the Appointments
+Clause’s ambit. App. to Pet. for Cert. 87a. The Commis-
+sion reasoned that its ALJs do not “exercise significant
+
+
+4                             LUCIA v. SEC
+                           Opinion of the Court
+authority independent of [its own] supervision.” Id., at
+88a. Because that is so (said the SEC), they need no
+special, high-level appointment. See id., at 86a.
+   Lucia’s claim fared no better in the Court of Appeals for
+the D. C. Circuit. A panel of that court seconded the
+Commission’s view that SEC ALJs are employees rather
+than officers, and so are not subject to the Appointments
+Clause. See 832 F. 3d 277, 283–289 (2016). Lucia then
+petitioned for rehearing en banc. The Court of Appeals
+granted that request and heard argument in the case. But
+the ten members of the en banc court divided evenly,
+resulting in a per curiam order denying Lucia’s claim. See
+868 F. 3d 1021 (2017). That decision conflicted with one
+from the Court of Appeals for the Tenth Circuit. See
+Bandimere v. SEC, 844 F. 3d 1168, 1179 (2016).
+   Lucia asked us to resolve the split by deciding whether
+the Commission’s ALJs are “Officers of the United States
+within the meaning of the Appointments Clause.” Pet. for
+Cert. i. Up to that point, the Federal Government (as
+represented by the Department of Justice) had defended
+the Commission’s position that SEC ALJs are employees,
+not officers. But in responding to Lucia’s petition, the
+Government switched sides.1 So when we granted the
+petition, 583 U. S. ___ (2018), we also appointed an amicus
+curiae to defend the judgment below.2 We now reverse.
+——————
+  1 In the same certiorari-stage brief, the Government asked us to add a
+second question presented: whether the statutory restrictions on
+removing the Commission’s ALJs are constitutional. See Brief in
+Response 21. When we granted certiorari, we chose not to take that
+step. See 583 U. S. ___ (2018). The Government’s merits brief now
+asks us again to address the removal issue. See Brief for United States
+39–55. We once more decline. No court has addressed that question,
+and we ordinarily await “thorough lower court opinions to guide our
+analysis of the merits.” Zivotofsky v. Clinton, 566 U. S. 189, 201 (2012).
+  2 We appointed Anton Metlitsky to brief and argue the case, 583 U. S.
+___ (2018), and he has ably discharged his responsibilities.
+
+
+                       Cite as: 585 U. S. ____ (2018)                 5
+                            Opinion of the Court
+                                     II
+    The sole question here is whether the Commission’s
+ALJs are “Officers of the United States” or simply employ-
+ees of the Federal Government. The Appointments Clause
+prescribes the exclusive means of appointing “Officers.”
+Only the President, a court of law, or a head of depart-
+ment can do so. See Art. II, §2, cl. 2.3 And as all parties
+agree, none of those actors appointed Judge Elliot before
+he heard Lucia’s case; instead, SEC staff members gave
+him an ALJ slot. See Brief for Petitioners 15; Brief for
+United States 38; Brief for Court-Appointed Amicus Cu-
+riae 21. So if the Commission’s ALJs are constitutional
+officers, Lucia raises a valid Appointments Clause claim.
+The only way to defeat his position is to show that those
+ALJs are not officers at all, but instead non-officer em-
+ployees—part of the broad swath of “lesser functionaries”
+in the Government’s workforce. Buckley v. Valeo, 424
+U. S. 1, 126, n. 162 (1976) (per curiam). For if that is true,
+the Appointments Clause cares not a whit about who
+named them. See United States v. Germaine, 99 U. S. 508,
+510 (1879).
+    Two decisions set out this Court’s basic framework for
+distinguishing between officers and employees. Germaine
+held that “civil surgeons” (doctors hired to perform various
+physical exams) were mere employees because their duties
+were “occasional or temporary” rather than “continuing
+——————
+   3 That statement elides a distinction, not at issue here, between
+“principal” and “inferior” officers. See Edmond v. United States, 520
+U. S. 651, 659–660 (1997). Only the President, with the advice and
+consent of the Senate, can appoint a principal officer; but Congress
+(instead of relying on that method) may authorize the President alone,
+a court, or a department head to appoint an inferior officer. See ibid.
+Both the Government and Lucia view the SEC’s ALJs as inferior
+officers and acknowledge that the Commission, as a head of depart-
+ment, can constitutionally appoint them. See Brief for United States
+38; Brief for Petitioners 50–51.
+
+
+6                        LUCIA v. SEC
+                       Opinion of the Court
+and permanent.” Id., at 511–512. Stressing “ideas of
+tenure [and] duration,” the Court there made clear that an
+individual must occupy a “continuing” position established
+by law to qualify as an officer. Id., at 511. Buckley then
+set out another requirement, central to this case. It de-
+termined that members of a federal commission were
+officers only after finding that they “exercis[ed] significant
+authority pursuant to the laws of the United States.” 424
+U. S., at 126. The inquiry thus focused on the extent of
+power an individual wields in carrying out his assigned
+functions.
+   Both the amicus and the Government urge us to elabo-
+rate on Buckley’s “significant authority” test, but another
+of our precedents makes that project unnecessary. The
+standard is no doubt framed in general terms, tempting
+advocates to add whatever glosses best suit their argu-
+ments. See Brief for Amicus Curiae 14 (contending that
+an individual wields “significant authority” when he has
+“(i) the power to bind the government or private parties (ii)
+in her own name rather than in the name of a superior
+officer”); Reply Brief for United States 2 (countering that
+an individual wields that authority when he has “the
+power to bind the government or third parties on signifi-
+cant matters” or to undertake other “important and dis-
+tinctively sovereign functions”). And maybe one day we
+will see a need to refine or enhance the test Buckley set
+out so concisely. But that day is not this one, because in
+Freytag v. Commissioner, 501 U. S. 868 (1991), we applied
+the unadorned “significant authority” test to adjudicative
+officials who are near-carbon copies of the Commission’s
+ALJs. As we now explain, our analysis there (sans any
+more detailed legal criteria) necessarily decides this case.
+   The officials at issue in Freytag were the “special trial
+judges” (STJs) of the United States Tax Court. The au-
+thority of those judges depended on the significance of the
+tax dispute before them. In “comparatively narrow and
+
+
+                  Cite as: 585 U. S. ____ (2018)            7
+                       Opinion of the Court
+minor matters,” they could both hear and definitively
+resolve a case for the Tax Court. Id., at 873. In more
+major matters, they could preside over the hearing, but
+could not issue the final decision; instead, they were to
+“prepare proposed findings and an opinion” for a regular
+Tax Court judge to consider. Ibid. The proceeding chal-
+lenged in Freytag was a major one, involving $1.5 billion
+in alleged tax deficiencies. See id., at 871, n. 1. After
+conducting a 14-week trial, the STJ drafted a proposed
+decision in favor of the Government. A regular judge then
+adopted the STJ’s work as the opinion of the Tax Court.
+See id., at 872. The losing parties argued on appeal that
+the STJ was not constitutionally appointed.
+   This Court held that the Tax Court’s STJs are officers,
+not mere employees. Citing Germaine, the Court first
+found that STJs hold a continuing office established by
+law. See 501 U. S., at 881. They serve on an ongoing,
+rather than a “temporary [or] episodic[,] basis”; and their
+“duties, salary, and means of appointment” are all speci-
+fied in the Tax Code. Ibid. The Court then considered, as
+Buckley demands, the “significance” of the “authority”
+STJs wield. 501 U. S., at 881. In addressing that issue,
+the Government had argued that STJs are employees,
+rather than officers, in all cases (like the one at issue) in
+which they could not “enter a final decision.” Ibid. But
+the Court thought the Government’s focus on finality
+“ignore[d] the significance of the duties and discretion that
+[STJs] possess.” Ibid. Describing the responsibilities
+involved in presiding over adversarial hearings, the Court
+said: STJs “take testimony, conduct trials, rule on the
+admissibility of evidence, and have the power to enforce
+compliance with discovery orders.” Id., at 881–882. And
+the Court observed that “[i]n the course of carrying out
+these important functions, the [STJs] exercise significant
+discretion.” Id., at 882. That fact meant they were offi-
+
+
+8                             LUCIA v. SEC
+                           Opinion of the Court
+cers, even when their decisions were not final.4
+    Freytag says everything necessary to decide this case.
+To begin, the Commission’s ALJs, like the Tax Court’s
+STJs, hold a continuing office established by law. See id.,
+at 881. Indeed, everyone here—Lucia, the Government,
+and the amicus—agrees on that point. See Brief for Peti-
+tioners 21; Brief for United States 17–18, n. 3; Brief for
+Amicus Curiae 22, n. 7. Far from serving temporarily or
+episodically, SEC ALJs “receive[ ] a career appointment.”
+5 CFR §930.204(a) (2018). And that appointment is to a
+position created by statute, down to its “duties, salary, and
+means of appointment.” Freytag, 501 U. S., at 881; see 5
+U. S. C. §§556–557, 5372, 3105.
+    Still more, the Commission’s ALJs exercise the same
+“significant discretion” when carrying out the same “im-
+portant functions” as STJs do. Freytag, 501 U. S., at 882.
+Both sets of officials have all the authority needed to
+ensure fair and orderly adversarial hearings—indeed,
+nearly all the tools of federal trial judges. See Butz, 438
+U. S., at 513; supra, at 2. Consider in order the four spe-
+cific (if overlapping) powers Freytag mentioned. First, the
+——————
+   4 The Court also provided an alternative basis for viewing the STJs as
+officers. “Even if the duties of [STJs in major cases] were not as signifi-
+cant as we . . . have found them,” we stated, “our conclusion would be
+unchanged.” Freytag, 501 U. S., at 882. That was because the Gov-
+ernment had conceded that in minor matters, where STJs could enter
+final decisions, they had enough “independent authority” to count as
+officers. Ibid. And we thought it made no sense to classify the STJs as
+officers for some cases and employees for others. See ibid. JUSTICE
+SOTOMAYOR relies on that back-up rationale in trying to reconcile
+Freytag with her view that “a prerequisite to officer status is the
+authority” to issue at least some “final decisions.” Post, at 5 (dissenting
+opinion). But Freytag has two parts, and its primary analysis explicitly
+rejects JUSTICE SOTOMAYOR’s theory that final decisionmaking authority
+is a sine qua non of officer status. See 501 U. S., at 881–882. As she
+acknowledges, she must expunge that reasoning to make her reading
+work. See post, at 5 (“That part of the opinion[ ] was unnecessary to the
+result”).
+
+
+                  Cite as: 585 U. S. ____ (2018)            9
+                       Opinion of the Court
+Commission’s ALJs (like the Tax Court’s STJs) “take
+testimony.” 501 U. S., at 881. More precisely, they
+“[r]eceiv[e] evidence” and “[e]xamine witnesses” at hear-
+ings, and may also take pre-hearing depositions. 17 CFR
+§§201.111(c), 200.14(a)(4); see 5 U. S. C. §556(c)(4). Sec-
+ond, the ALJs (like STJs) “conduct trials.” 501 U. S., at
+882. As detailed earlier, they administer oaths, rule on
+motions, and generally “regulat[e] the course of ” a hear-
+ing, as well as the conduct of parties and counsel.
+§201.111; see §§200.14(a)(1), (a)(7); supra, at 2. Third, the
+ALJs (like STJs) “rule on the admissibility of evidence.”
+501 U. S., at 882; see §201.111(c). They thus critically
+shape the administrative record (as they also do when
+issuing document subpoenas). See §201.111(b). And
+fourth, the ALJs (like STJs) “have the power to enforce
+compliance with discovery orders.” 501 U. S., at 882. In
+particular, they may punish all “[c]ontemptuous conduct,”
+including violations of those orders, by means as severe
+as excluding the offender from the hearing.               See
+§201.180(a)(1). So point for point—straight from Freytag’s
+list—the Commission’s ALJs have equivalent duties and
+powers as STJs in conducting adversarial inquiries.
+   And at the close of those proceedings, ALJs issue deci-
+sions much like that in Freytag—except with potentially
+more independent effect. As the Freytag Court recounted,
+STJs “prepare proposed findings and an opinion” adjudi-
+cating charges and assessing tax liabilities. 501 U. S., at
+873; see supra, at 7. Similarly, the Commission’s ALJs
+issue decisions containing factual findings, legal conclu-
+sions, and appropriate remedies. See §201.360(b); supra,
+at 2. And what happens next reveals that the ALJ can
+play the more autonomous role. In a major case like Frey-
+tag, a regular Tax Court judge must always review an
+STJ’s opinion. And that opinion counts for nothing unless
+the regular judge adopts it as his own. See 501 U. S., at
+873. By contrast, the SEC can decide against reviewing
+
+
+10                       LUCIA v. SEC
+                       Opinion of the Court
+an ALJ decision at all. And when the SEC declines review
+(and issues an order saying so), the ALJ’s decision itself
+“becomes final” and is “deemed the action of the Commis-
+sion.” §201.360(d)(2); 15 U. S. C. §78d–1(c); see supra, at
+2. That last-word capacity makes this an a fortiori case: If
+the Tax Court’s STJs are officers, as Freytag held, then the
+Commission’s ALJs must be too.
+   The amicus offers up two distinctions to support the
+opposite conclusion. His main argument relates to “the
+power to enforce compliance with discovery orders”—the
+fourth of Freytag’s listed functions. 501 U. S., at 882. The
+Tax Court’s STJs, he states, had that power “because they
+had authority to punish contempt” (including discovery
+violations) through fines or imprisonment. Brief for Ami-
+cus Curiae 37; see id., at 37, n. 10 (citing 26 U. S. C.
+§7456(c)). By contrast, he observes, the Commission’s
+ALJs have less capacious power to sanction misconduct.
+The amicus’s secondary distinction involves how the Tax
+Court and Commission, respectively, review the factfind-
+ing of STJs and ALJs. The Tax Court’s rules state that an
+STJ’s findings of fact “shall be presumed” correct. Tax
+Court Rule 183(d). In comparison, the amicus notes, the
+SEC’s regulations include no such deferential standard.
+See Brief for Amicus Curiae 10, 38, n. 11.
+   But those distinctions make no difference for officer
+status. To start with the amicus’s primary point, Freytag
+referenced only the general “power to enforce compliance
+with discovery orders,” not any particular method of doing
+so. 501 U. S., at 882. True enough, the power to toss
+malefactors in jail is an especially muscular means of
+enforcement—the nuclear option of compliance tools. But
+just as armies can often enforce their will through conven-
+tional weapons, so too can administrative judges. As
+noted earlier, the Commission’s ALJs can respond to
+discovery violations and other contemptuous conduct by
+excluding the wrongdoer (whether party or lawyer) from
+
+
+                  Cite as: 585 U. S. ____ (2018)          11
+                       Opinion of the Court
+the proceedings—a powerful disincentive to resist a court
+order. See §201.180(a)(1)(i); supra, at 9. Similarly, if the
+offender is an attorney, the ALJ can “[s]ummarily sus-
+pend” him from representing his client—not something
+the typical lawyer wants to invite. §201.180(a)(1)(ii). And
+finally, a judge who will, in the end, issue an opinion
+complete with factual findings, legal conclusions, and
+sanctions has substantial informal power to ensure the
+parties stay in line. Contrary to the amicus’s view, all
+that is enough to satisfy Freytag’s fourth item (even sup-
+posing, which we do not decide, that each of those items is
+necessary for someone conducting adversarial hearings to
+count as an officer).
+   And the amicus’s standard-of-review distinction fares
+just as badly. The Freytag Court never suggested that the
+deference given to STJs’ factual findings mattered to its
+Appointments Clause analysis. Indeed, the relevant part
+of Freytag did not so much as mention the subject (even
+though it came up at oral argument, see Tr. of Oral Arg.
+33–41). And anyway, the Commission often accords a
+similar deference to its ALJs, even if not by regulation.
+The Commission has repeatedly stated, as it did below,
+that its ALJs are in the “best position to make findings of
+fact” and “resolve any conflicts in the evidence.” App. to
+Pet. for Cert. 241a (quoting In re Nasdaq Stock Market,
+LLC, SEC Release No. 57741 (Apr. 30, 2008)). (That was
+why the SEC insisted that Judge Elliot make factual
+findings on all four allegations of Lucia’s deception. See
+supra, at 3.) And when factfinding derives from credibility
+judgments, as it frequently does, acceptance is near-
+automatic. Recognizing ALJs’ “personal experience with
+the witnesses,” the Commission adopts their “credibility
+finding[s] absent overwhelming evidence to the contrary.”
+App. to Pet. for Cert. 241a; In re Clawson, SEC Release
+No. 48143 (July 9, 2003). That practice erases the consti-
+tutional line the amicus proposes to draw.
+
+
+12                           LUCIA v. SEC
+                           Opinion of the Court
+    The only issue left is remedial. For all the reasons we
+have given, and all those Freytag gave before, the Com-
+mission’s ALJs are “Officers of the United States,” subject
+to the Appointments Clause. And as noted earlier, Judge
+Elliot heard and decided Lucia’s case without the kind of
+appointment the Clause requires. See supra, at 5. This
+Court has held that “one who makes a timely challenge to
+the constitutional validity of the appointment of an officer
+who adjudicates his case” is entitled to relief. Ryder v.
+United States, 515 U. S. 177, 182–183 (1995). Lucia made
+just such a timely challenge: He contested the validity of
+Judge Elliot’s appointment before the Commission, and
+continued pressing that claim in the Court of Appeals and
+this Court. So what relief follows? This Court has also
+held that the “appropriate” remedy for an adjudication
+tainted with an appointments violation is a new “hearing
+before a properly appointed” official. Id., at 183, 188. And
+we add today one thing more. That official cannot be
+Judge Elliot, even if he has by now received (or receives
+sometime in the future) a constitutional appointment.
+Judge Elliot has already both heard Lucia’s case and
+issued an initial decision on the merits. He cannot be
+expected to consider the matter as though he had not
+adjudicated it before.5 To cure the constitutional error,
+——————
+   5 JUSTICE BREYER disagrees with our decision to wrest further pro-
+ceedings from Judge Elliot, arguing that “[f]or him to preside once
+again would not violate the structural purposes [of] the Appointments
+Clause.” Post, at 13 (opinion concurring in judgment in part and
+dissenting in part). But our Appointments Clause remedies are de-
+signed not only to advance those purposes directly, but also to create
+“[ ]incentive[s] to raise Appointments Clause challenges.” Ryder v.
+United States, 515 U. S. 177, 183 (1995). We best accomplish that goal
+by providing a successful litigant with a hearing before a new judge.
+That is especially so because (as JUSTICE BREYER points out) the old
+judge would have no reason to think he did anything wrong on the
+merits, see post, at 13—and so could be expected to reach all the same
+judgments. But we do not hold that a new officer is required for every
+
+
+                       Cite as: 585 U. S. ____ (2018)                 13
+                            Opinion of the Court
+another ALJ (or the Commission itself) must hold the new
+hearing to which Lucia is entitled.6
+    We accordingly reverse the judgment of the Court of
+Appeals and remand the case for further proceedings
+consistent with this opinion.
+                                                      It is so ordered.
+——————
+Appointments Clause violation. As JUSTICE BREYER suggests, we can
+give that remedy here because other ALJs (and the Commission) are
+available to hear this case on remand. See ibid. If instead the Ap-
+pointments Clause problem is with the Commission itself, so that there
+is no substitute decisionmaker, the rule of necessity would presumably
+kick in and allow the Commission to do the rehearing. See FTC v.
+Cement Institute, 333 U. S. 683, 700–703 (1948); 3 K. Davis, Adminis-
+trative Law Treatise §19.9 (2d ed. 1980).
+   6 While this case was on judicial review, the SEC issued an order
+“ratif[ying]” the prior appointments of its ALJs. Order (Nov. 30, 2017),
+online at https://www.sec.gov/litigation/opinions/2017/33-10440.pdf (as
+last visited June 18, 2018). Lucia argues that the order is invalid. See
+Brief for Petitioners 50–56. We see no reason to address that issue.
+The Commission has not suggested that it intends to assign Lucia’s
+case on remand to an ALJ whose claim to authority rests on the ratifi-
+cation order. The SEC may decide to conduct Lucia’s rehearing itself.
+Or it may assign the hearing to an ALJ who has received a constitu-
+tional appointment independent of the ratification.
+
+
+                     Cite as: 585 U. S. ____ (2018)                1
+                        THOMAS, J., concurring
+SUPREME COURT OF THE UNITED STATES
+                              _________________
+                               No. 17–130
+                              _________________
+       RAYMOND J. LUCIA, ET AL., PETITIONERS v.
+       SECURITIES AND EXCHANGE COMMISSION
+ ON WRIT OF CERTIORARI TO THE UNITED STATES COURT OF
+       APPEALS FOR THE DISTRICT OF COLUMBIA CIRCUIT
+                            [June 21, 2018]
+   JUSTICE THOMAS, with whom JUSTICE GORSUCH joins,
+concurring.
+   I agree with the Court that this case is indistinguishable
+from Freytag v. Commissioner, 501 U. S. 868 (1991). If the
+special trial judges in Freytag were “Officers of the United
+States,” Art. II, §2, cl. 2, then so are the administrative
+law judges of the Securities and Exchange Commission.
+Moving forward, however, this Court will not be able to
+decide every Appointments Clause case by comparing it to
+Freytag. And, as the Court acknowledges, our precedents
+in this area do not provide much guidance. See ante, at 6.
+While precedents like Freytag discuss what is sufficient to
+make someone an officer of the United States, our prece-
+dents have never clearly defined what is necessary. I
+would resolve that question based on the original public
+meaning of “Officers of the United States.” To the Found-
+ers, this term encompassed all federal civil officials “ ‘with
+responsibility for an ongoing statutory duty.’ ” NLRB v.
+SW General, Inc., 580 U. S. ___, ___ (2017) (THOMAS, J.,
+concurring) (slip op., at 4); Mascott, Who Are “Officers
+of the United States”? 70 Stan. L. Rev. 443, 564 (2018)
+(Mascott).1
+——————
+  1 I address only the dividing line between “Officers of the United
+States,” who are subject to the Appointments Clause, and nonofficer
+
+
+2                            LUCIA v. SEC
+                         THOMAS, J., concurring
+   The Appointments Clause provides the exclusive process
+for appointing “Officers of the United States.” See SW
+General, supra, at ___ (opinion of THOMAS, J.) (slip op.,
+at 1). While principal officers must be nominated by the
+President and confirmed by the Senate, Congress can
+authorize the appointment of “inferior Officers” by “the
+President alone,” “the Courts of Law,” or “the Heads of
+Departments.” Art. II, §2, cl. 2.
+   This alternative process for appointing inferior officers
+strikes a balance between efficiency and accountability.
+Given the sheer number of inferior officers, it would be too
+burdensome to require each of them to run the gauntlet of
+Senate confirmation. See United States v. Germaine, 99
+U. S. 508, 509–510 (1879); 2 Records of the Federal Con-
+vention of 1787, pp. 627–628 (M. Farrand ed. 1911). But,
+by specifying only a limited number of actors who can
+appoint inferior officers without Senate confirmation, the
+Appointments Clause maintains clear lines of accountabil-
+ity—encouraging good appointments and giving the public
+someone to blame for bad ones. See The Federalist No. 76,
+p. 455 (C. Rossiter ed. 1961) (A. Hamilton); Wilson, Lec-
+tures on Law: Government, in 1 The Works of James
+Wilson 343, 359–361 (J. Andrews ed., 1896).
+   The Founders likely understood the term “Officers of the
+United States” to encompass all federal civil officials who
+perform an ongoing, statutory duty—no matter how im-
+portant or significant the duty. See Mascott 454. “Officers
+of the United States” was probably not a term of art that
+the Constitution used to signify some special type of offi-
+cial. Based on how the Founders used it and similar
+terms, the phrase “of the United States” was merely a
+——————
+employees, who are not. I express no view on the meaning of “Office” or
+“Officer” in any other provision of the Constitution, or the difference
+between principal officers and inferior officers under the Appointments
+Clause.
+
+
+                      Cite as: 585 U. S. ____ (2018)                     3
+                         THOMAS, J., concurring
+synonym for “federal,” and the word “Office[r]” carried its
+ordinary meaning. See id., at 471–479. The ordinary
+meaning of “officer” was anyone who performed a continu-
+ous public duty. See id., at 484–507; e.g., United States v.
+Maurice, 26 F. Cas. 1211, 1214 (No. 15,747) (CC Va. 1823)
+(defining officer as someone in “ ‘a public charge or em-
+ployment’ ” who performed a “continuing” duty); 8 Annals
+of Cong. 2304–2305 (1799) (statement of Rep. Harper)
+(explaining that the word officer “is derived from the Latin
+word officium” and “includes all persons holding posts
+which require the performance of some public duty”). For
+federal officers, that duty is “established by Law”—that is,
+by statute. Art. II, §2, cl. 2. The Founders considered
+individuals to be officers even if they performed only
+ministerial statutory duties—including recordkeepers,
+clerks, and tidewaiters (individuals who watched goods
+land at a customhouse). See Mascott 484–507. Early
+congressional practice reflected this understanding. With
+exceptions not relevant here,2 Congress required all fed-
+eral officials with ongoing statutory duties to be appointed
+in compliance with the Appointments Clause. See id., at
+507–545.
+   Applying the original meaning here, the administrative
+law judges of the Securities and Exchange Commission
+easily qualify as “Officers of the United States.” These
+judges exercise many of the agency’s statutory duties,
+including issuing initial decisions in adversarial proceed-
+ings. See 15 U. S. C. §78d–1(a); 17 CFR §§200.14, 200.30–
+9 (2017). As explained, the importance or significance of
+these statutory duties is irrelevant. All that matters is
+that the judges are continuously responsible for perform-
+——————
+  2 The First Congress exempted certain officials with ongoing statu-
+tory duties, such as deputies and military officers, from the requirements
+of the Appointments Clause. But these narrow exceptions do not
+disprove the rule, as background principles of founding-era law explain
+each of them. See Mascott 480–483, 515–530.
+
+
+4                       LUCIA v. SEC
+                     THOMAS, J., concurring
+ing them.
+  In short, the administrative law judges of the Securities
+Exchange Commission are “Officers of the United States”
+under the original meaning of the Appointments Clause.
+They have “ ‘responsibility for an ongoing statutory duty,’ ”
+which is sufficient to resolve this case. SW General, 580
+U. S., at ___ (opinion of THOMAS, J.) (slip op., at 4). Be-
+cause the Court reaches the same conclusion by correctly
+applying Freytag, I join its opinion.
+
+
+                     Cite as: 585 U. S. ____ (2018)                 1
+         BREYER, J., concurring
+                         Opinioninofpart    and, dissenting
+                                       BREYER    J.         in part
+SUPREME COURT OF THE UNITED STATES
+                              _________________
+                               No. 17–130
+                              _________________
+      RAYMOND J. LUCIA, ET AL., PETITIONERS v.
+      SECURITIES AND EXCHANGE COMMISSION
+ ON WRIT OF CERTIORARI TO THE UNITED STATES COURT OF
+      APPEALS FOR THE DISTRICT OF COLUMBIA CIRCUIT
+                            [June 21, 2018]
+  JUSTICE BREYER, with whom JUSTICE GINSBURG and
+JUSTICE SOTOMAYOR join as to Part III, concurring in the
+judgment in part and dissenting in part.
+  I agree with the Court that the Securities and Exchange
+Commission did not properly appoint the Administrative
+Law Judge who presided over petitioner Lucia’s hearing.
+But I disagree with the majority in respect to two matters.
+First, I would rest our conclusion upon statutory, not
+constitutional, grounds. I believe it important to do so
+because I cannot answer the constitutional question that
+the majority answers without knowing the answer to a
+different, embedded constitutional question, which the
+Solicitor General urged us to answer in this case: the
+constitutionality of the statutory “for cause” removal
+protections that Congress provided for administrative law
+judges. Cf. Free Enterprise Fund v. Public Company
+Accounting Oversight Bd., 561 U. S. 477 (2010). Second, I
+disagree with the Court in respect to the proper remedy.
+                                      I
+  The relevant statute here is the Administrative Proce-
+dure Act. That Act governs the appointment of adminis-
+trative law judges. It provides (as it has, in substance,
+since its enactment in 1946) that “[e]ach agency shall
+appoint as many administrative law judges as are neces-
+
+
+2                           LUCIA v. SEC
+         BREYER, J., concurring
+                         Opinioninofpart and, dissenting
+                                     BREYER   J.         in part
+sary for” hearings governed by the Administrative Proce-
+dure Act. 5 U. S. C. §3105; see also Administrative Proce-
+dure Act, §11, 60 Stat. 244 (original version, which refers
+to “examiners” as administrative law judges were then
+called). In the case of the Securities and Exchange Com-
+mission, the relevant “agency” is the Commission itself.
+But the Commission did not appoint the Administrative
+Law Judge who presided over Lucia’s hearing. Rather, the
+Commission’s staff appointed that Administrative Law
+Judge, without the approval of the Commissioners them-
+selves. See ante, at 1; App. to Pet. for Cert. 298a–299a.
+   I do not believe that the Administrative Procedure Act
+permits the Commission to delegate its power to appoint
+its administrative law judges to its staff. We have held
+that, for purposes of the Constitution’s Appointments
+Clause, the Commission itself is a “ ‘Hea[d]’ ” of a “ ‘De-
+partmen[t].’ ” Free Enterprise Fund, supra, at 512–513.
+Thus, reading the statute as referring to the Commission
+itself, and not to its staff, avoids a difficult constitutional
+question, namely, the very question that the Court an-
+swers today: whether the Commission’s administrative
+law judges are constitutional “inferior Officers” whose
+appointment Congress may vest only in the President, the
+“Courts of Law,” or the “Heads of Departments.” Art. II,
+§2, cl. 2; see United States v. Jin Fuey Moy, 241 U. S. 394,
+401 (1916) (“A statute must be construed, if fairly possible,
+so as to avoid not only the conclusion that it is unconstitu-
+tional but also grave doubts upon that score”).
+   I have found no other statutory provision that would
+permit the Commission to delegate the power to appoint
+its administrative law judges to its staff. The statute
+establishing and governing the Commission does allow the
+Commission to “delegate, by published order or rule, any
+of its functions to a division of the Commission, an indi-
+vidual Commissioner, an administrative law judge, or an
+employee or employee board.” 15 U. S. C. §78d–1(a). But
+
+
+                     Cite as: 585 U. S. ____ (2018)              3
+         BREYER, J., concurring
+                         Opinioninofpart and, dissenting
+                                     BREYER   J.         in part
+this provision requires a “published order or rule,” and the
+Commission here published no relevant delegating order
+or rule. Rather, Lucia discovered the Commission’s ap-
+pointment system for administrative law judges only when
+the Commission’s enforcement division staff filed an affi-
+davit in this case describing that staff-based system. See
+App. to Pet. for Cert. 295a–299a. Regardless, the same
+constitutional-avoidance reasons that should inform our
+construction of the Administrative Procedure Act should
+also lead us to interpret the Commission’s general delega-
+tion authority as excluding the power to delegate to staff
+the authority to appoint its administrative law judges, so
+as to avoid the constitutional question the Court reaches
+in this case. See Jin Fuey Moy, supra, at 401.
+   The analysis may differ for other agencies that employ
+administrative law judges. Each agency’s governing stat-
+ute is different, and some, unlike the Commission’s, may
+allow the delegation of duties without a published order or
+rule. See, e.g., 42 U. S. C. §902(a)(7) (applicable to the
+Social Security Administration). Similarly, other agencies’
+administrative law judges perform distinct functions, and
+their means of appointment may therefore not raise the
+constitutional questions that inform my reading of the
+relevant statutes here.
+   The upshot, in my view, is that for statutory, not consti-
+tutional, reasons, the Commission did not lawfully appoint
+the Administrative Law Judge here at issue. And this
+Court should decide no more than that.
+                                   II
+                                   A
+   The reason why it is important to go no further arises
+from the holding in a case this Court decided eight years
+ago, Free Enterprise Fund, supra. The case concerned
+statutory provisions protecting members of the Public
+Company Accounting Oversight Board from removal
+
+
+4                           LUCIA v. SEC
+         BREYER, J., concurring
+                         Opinioninofpart and, dissenting
+                                     BREYER   J.         in part
+without cause. The Court held in that case that the Exec-
+utive Vesting Clause of the Constitution, Art. II, §1 (“[t]he
+executive Power shall be vested in a President of the
+United States of America”), forbade Congress from provid-
+ing members of the Board with “multilevel protection from
+removal” by the President. Free Enterprise Fund, 561
+U. S., at 484; see id., at 514 (“Congress cannot limit the
+President’s authority” by providing “two levels of protec-
+tion from removal for those who . . . exercise significant
+executive power”). But see id., at 514–549 (BREYER, J.,
+dissenting). Because, in the Court’s view, the relevant
+statutes (1) granted the Securities and Exchange Commis-
+sioners protection from removal without cause, (2) gave
+the Commissioners sole authority to remove Board mem-
+bers, and (3) protected Board members from removal
+without cause, the statutes provided Board members with
+two levels of protection from removal and consequently
+violated the Constitution. Id., at 495–498.
+   In addressing the constitutionality of the Board mem-
+bers’ removal protections, the Court emphasized that the
+Board members were “executive officers”—more specifically,
+“inferior officers” for purposes of the Appointments
+Clause. E.g., id., at 492–495, 504–505. The significance of
+that fact to the Court’s analysis is not entirely clear. The
+Court said:
+     “The parties here concede that Board members are
+     executive ‘Officers’, as that term is used in the Consti-
+     tution. We do not decide the status of other Govern-
+     ment employees, nor do we decide whether ‘lesser
+     functionaries subordinate to officers of the United
+     States’ must be subject to the same sort of control as
+     those who exercise ‘significant authority pursuant to
+     the laws.’ ” Id., at 506 (quoting Buckley v. Valeo, 424
+     U. S. 1, 126, and n. 162 (1976) (per curiam); citations
+     omitted).
+
+
+                     Cite as: 585 U. S. ____ (2018)              5
+         BREYER, J., concurring
+                         Opinioninofpart and, dissenting
+                                     BREYER   J.         in part
+Thus, the Court seemed not only to limit its holding to the
+Board members themselves, but also to suggest that Gov-
+ernment employees who were not officers would be distin-
+guishable from the Board members on that ground alone.
+   For present purposes, however, the implications of Free
+Enterprise Fund’s technical-sounding holding about “mul-
+tilevel protection from removal” remain potentially dra-
+matic. 561 U. S., at 484. The same statute, the Adminis-
+trative Procedure Act, that provides that the “agency” will
+appoint its administrative law judges also protects the
+administrative law judges from removal without cause. In
+particular, the statute says that an
+     “action may be taken against an administrative law
+     judge appointed under section 3105 of this title by the
+     agency in which the administrative law judge is em-
+     ployed only for good cause established and determined
+     by the Merit Systems Protection Board on the record
+     after opportunity for hearing before the Board.” 5
+     U. S. C. §7521(a).
+As with appointments, this provision constituted an im-
+portant part of the Administrative Procedure Act when it
+was originally enacted in 1946. See §11, 60 Stat. 244.
+   The Administrative Procedure Act thus allows adminis-
+trative law judges to be removed only “for good cause”
+found by the Merit Systems Protection Board. §7521(a).
+And the President may, in turn, remove members of the
+Merit Systems Protection Board only for “inefficiency,
+neglect of duty, or malfeasance in office.” §1202(d). Thus,
+Congress seems to have provided administrative law
+judges with two levels of protection from removal without
+cause—just what Free Enterprise Fund interpreted the
+Constitution to forbid in the case of the Board members.
+   The substantial independence that the Administrative
+Procedure Act’s removal protections provide to adminis-
+trative law judges is a central part of the Act’s overall
+
+
+6                           LUCIA v. SEC
+         BREYER, J., concurring
+                         Opinioninofpart and, dissenting
+                                     BREYER   J.         in part
+scheme. See Ramspeck v. Federal Trial Examiners Con-
+ference, 345 U. S. 128, 130 (1953); Wong Yang Sung v.
+McGrath, 339 U. S. 33, 46 (1950). Before the Administra-
+tive Procedure Act, hearing examiners “were in a depend-
+ent status” to their employing agency, with their classifi-
+cation, compensation, and promotion all dependent on how
+the agency they worked for rated them. Ramspeck, 345
+U. S., at 130. As a result of that dependence, “[m]any
+complaints were voiced against the actions of the hearing
+examiners, it being charged that they were mere tools of
+the agency concerned and subservient to the agency heads
+in making their proposed findings of fact and recommen-
+dations.” Id., at 131. The Administrative Procedure Act
+responded to those complaints by giving administrative
+law judges “independence and tenure within the existing
+Civil Service system.” Id., at 132; cf. Wong Yang Sung,
+supra, at 41–46 (referring to removal protections as among
+the Administrative Procedure Act’s “safeguards . . . in-
+tended to ameliorate” the perceived “evils” of commingling
+of adjudicative and prosecutorial functions in agencies).
+   If the Free Enterprise Fund Court’s holding applies
+equally to the administrative law judges—and I stress the
+“if ”—then to hold that the administrative law judges are
+“Officers of the United States” is, perhaps, to hold that
+their removal protections are unconstitutional.                  This
+would risk transforming administrative law judges from
+independent adjudicators into dependent decisionmakers,
+serving at the pleasure of the Commission. Similarly, to
+apply Free Enterprise Fund’s holding to high-level civil
+servants threatens to change the nature of our merit-
+based civil service as it has existed from the time of Presi-
+dent Chester Alan Arthur. See Free Enterprise Fund, 561
+U. S., at 540–542 (BREYER, J., dissenting).
+   I have stressed the words “if ” and “perhaps” in the
+previous paragraph because Free Enterprise Fund’s hold-
+ing may not invalidate the removal protections applicable
+
+
+                     Cite as: 585 U. S. ____ (2018)              7
+         BREYER, J., concurring
+                         Opinioninofpart and, dissenting
+                                     BREYER   J.         in part
+to the Commission’s administrative law judges even if the
+judges are inferior “officers of the United States” for pur-
+poses of the Appointments Clause. In my dissent in Free
+Enterprise Fund, I pointed out that under the majority’s
+analysis, the removal protections applicable to administra-
+tive law judges—including specifically the Commission’s
+administrative law judges—would seem to be unconstitu-
+tional. Id., at 542, 587. But the Court disagreed, saying
+that “none of the positions [my dissent] identifie[d] are
+similarly situated to the Board.” Id., at 506.
+   The Free Enterprise Fund Court gave three reasons why
+administrative law judges were distinguishable from the
+Board members at issue in that case. First, the Court said
+that “[w]hether administrative law judges are necessarily
+‘Officers of the United States’ is disputed.” Id., at 507,
+n. 10. Second, the Court said that “unlike members of the
+Board, many administrative law judges of course perform
+adjudicative rather than enforcement or policymaking
+functions, see [5 U. S. C.] §§554(d), 3105, or possess purely
+recommendatory powers.” Ibid. And, third, the Court
+pointed out that the civil service “employees” and adminis-
+trative law judges to whom I referred in my dissent do not
+“enjoy the same significant and unusual protections from
+Presidential oversight as members of the Board.” Id., at
+506. The Court added that the kind of “for cause” protec-
+tion the statutes provided for Board members was “un-
+usually high.” Id., at 503.
+   The majority here removes the first distinction, for it
+holds that the Commission’s administrative law judges are
+inferior “Officers of the United States.” Ante, at 1. The
+other two distinctions remain. See, e.g., Wiener v. United
+States, 357 U. S. 349, 355–356 (1958) (holding that Con-
+gress is free to protect bodies tasked with “ ‘adjudicat[ing]
+according to law’ . . . ‘from the control or coercive influ-
+ence, direct or indirect,’ . . . of either the Executive or
+Congress”) (quoting Humphrey’s Executor v. United States,
+
+
+8                           LUCIA v. SEC
+         BREYER, J., concurring
+                         Opinioninofpart and, dissenting
+                                     BREYER   J.         in part
+295 U. S. 602, 629 (1935)). But the Solicitor General has
+nevertheless argued strongly that we should now decide
+the constitutionality of the administrative law judges’
+removal protections as well as their means of appoint-
+ment. And in his view, the administrative law judges’
+statutory removal protections violate the Constitution (as
+interpreted in Free Enterprise Fund), unless we construe
+those protections as giving the Commission substantially
+greater power to remove administrative law judges than it
+presently has. See Merits Brief for Respondent 45–55.
+   On the Solicitor General’s account, for the administra-
+tive law judges’ removal protections to be constitutional,
+the Commission itself must have the power to remove
+administrative law judges “for failure to follow lawful
+instructions or perform adequately.” Id., at 48. The Merit
+Systems Protection Board would then review only the
+Commission’s factfinding, and not whether the facts (as
+found) count as “good cause” for removal. Id., at 52–53.
+This technical-sounding standard would seem to weaken
+the administrative law judges’ “for cause” removal protec-
+tions considerably, by permitting the Commission to re-
+move an administrative law judge with whose judgments it
+disagrees—say, because the judge did not find a securities-
+law violation where the Commission thought there
+was one, or vice versa. In such cases, the law allows the
+Commission to overrule an administrative law judge’s
+findings, for the decision is ultimately the Commission’s.
+See 15 U. S. C. §78d–1(b). But it does not allow the Com-
+mission to fire the administrative law judge. See 5
+U. S. C. §7521.
+   And now it should be clear why the application of Free
+Enterprise Fund to administrative law judges is im-
+portant. If that decision does not limit or forbid Congress’
+statutory “for cause” protections, then a holding that the
+administrative law judges are “inferior Officers” does not
+conflict with Congress’ intent as revealed in the statute.
+
+
+                     Cite as: 585 U. S. ____ (2018)              9
+         BREYER, J., concurring
+                         Opinioninofpart and, dissenting
+                                     BREYER   J.         in part
+But, if the holding is to the contrary, and more particularly
+if a holding that administrative law judges are “inferior
+Officers” brings with it application of Free Enterprise
+Fund’s limitation on “for cause” protections from removal,
+then a determination that administrative law judges are,
+constitutionally speaking, “inferior Officers” would directly
+conflict with Congress’ intent, as revealed in the statute.
+In that case, it would be clear to me that Congress did not
+intend that consequence, and that it therefore did not
+intend to make administrative law judges “inferior Offi-
+cers” at all.
+                                   B
+   Congress’ intent on the question matters, in my view,
+because the Appointments Clause is properly understood
+to grant Congress a degree of leeway as to whether partic-
+ular Government workers are officers or instead mere
+employees not subject to the Appointments Clause. The
+words “by Law” appear twice in the Clause. It says that
+the President (“with the Advice and Consent of the Sen-
+ate”) shall appoint “Ambassadors, other public Ministers
+and Consuls, Judges of the supreme Court, and all other
+Officers of the United States, . . . which shall be estab-
+lished by Law.” Art. II, §2, cl. 2 (emphasis added). It then
+adds that “Congress may by Law vest the Appointment of
+such inferior Officers, as they think proper, in the Presi-
+dent alone, in the Courts of Law, or in the Heads of De-
+partments.” Ibid. (emphasis added).
+   The use of the words “by Law” to describe the estab-
+lishment and means of appointment of “Officers of the
+United States,” together with the fact that Article I of the
+Constitution vests the legislative power in Congress,
+suggests that (other than the officers the Constitution
+specifically lists) Congress, not the Judicial Branch alone,
+must play a major role in determining who is an “Office[r]
+of the United States.” And Congress’ intent in this specific
+
+
+10                          LUCIA v. SEC
+         BREYER, J., concurring
+                         Opinioninofpart and, dissenting
+                                     BREYER   J.         in part
+respect is often highly relevant. Congress’ leeway is not,
+of course, absolute—it may not, for example, say that
+positions the Constitution itself describes as “Officers” are
+not “Officers.” But given the constitutional language, the
+Court, when deciding whether other positions are “Officers
+of the United States” under the Appointments Clause,
+should give substantial weight to Congress’ decision.
+   How is the Court to decide whether Congress intended
+that the holder of a particular Government position count
+as an “Office[r] of the United States”? Congress might, of
+course, write explicitly into the statute that the employee
+“is an officer of the United States under the Appointments
+Clause,” but an explicit phrase of this kind is unlikely to
+appear. If it does not, then I would approach the question
+like any other difficult question of statutory interpreta-
+tion. Several considerations, among others, are likely to
+be relevant. First, as the Court said in Freytag v. Com-
+missioner, 501 U. S. 868, 881 (1991), and repeats today,
+ante, at 6, where Congress grants an appointee “ ‘signifi-
+cant authority pursuant to the laws to the United States,’ ”
+that supports the view that (but should not determinatively
+decide that) Congress made that appointee an “Office[r] of
+the United States.” Freytag, supra, at 881 (quoting Buck-
+ley, 424 U. S., at 126); see also United States v. Germaine,
+99 U. S. 508, 511 (1879) (holding that the term “officer”
+“embraces the ideas of tenure, duration, emolument, and
+duties”). The means of appointment that Congress chooses
+is also instructive. Where Congress provides a method
+of appointment that mimics a method the Appointments
+Clause allows for “Officers,” that fact too supports the
+view that (but does not determinatively decide that) Con-
+gress viewed the position as one to be held by an “Officer,”
+and vice versa. See id., at 509–511. And the Court’s
+decision in Free Enterprise Fund suggests a third indica-
+tion of “Officer” status—did Congress provide the position
+with removal protections that would be unconstitutional if
+
+
+                     Cite as: 585 U. S. ____ (2018)              11
+         BREYER, J., concurring
+                         Opinioninofpart and, dissenting
+                                     BREYER   J.         in part
+provided for an “Officer”? See 561 U. S., at 514. That fact
+would support (but again not be determinative of) the
+opposite view—that Congress did not intend to confer
+“inferior Officer” status on the position.
+   As I said, these statutory features, while highly rele-
+vant, need not always prove determinative. The vast
+number of different civil service positions, with different
+tasks, different needs, and different requirements for
+independence, mean that this is not the place to lay down
+bright-line rules. Rather, as this Court has said, “[t]he
+versatility of circumstances often mocks a natural desire
+for definitiveness” in this area. Wiener, 357 U. S., at 352.
+   No case from this Court holds that Congress lacks this
+sort of constitutional leeway in determining whether a
+particular Government position will be filled by an “Of-
+fice[r] of the United States.” To the contrary, while we
+have repeatedly addressed whether particular officials are
+“Officers,” in all cases but one, we have upheld the ap-
+pointment procedures Congress enacted as consistent with
+the Appointments Clause. See, e.g., Edmond v. United
+States, 520 U. S. 651, 666 (1997) (holding that Congress’
+appointment procedure for military court judges “is in
+conformity with the Appointments Clause of the Constitu-
+tion”); Freytag, supra, at 888–891 (same as to special trial
+judges of the Tax Court); Rice v. Ames, 180 U. S. 371, 378
+(1901) (same as to district court “commissioners”); Ex
+parte Siebold, 100 U. S. 371, 397–398 (1880) (same as
+to “supervisors of election”). But see Buckley, supra, at
+124–137.
+   The one exception was Buckley, 424 U. S., at 124–137, in
+which the Court set aside Congress’ prescribed appoint-
+ment method for some members of the Federal Election
+Commission—appointment by Congress itself—as incon-
+sistent with the Appointments Clause. But Buckley in-
+volved Federal Election Commission members with enor-
+mous powers.          They had “primary and substantial
+
+
+12                          LUCIA v. SEC
+         BREYER, J., concurring
+                         Opinioninofpart and, dissenting
+                                     BREYER   J.         in part
+responsibility for administering and enforcing the” Federal
+Election Campaign Act of 1971, id., at 109, an “intricate
+statutory scheme . . . to regulate federal election cam-
+paigns,” id., at 12. They had “extensive rulemaking and
+adjudicative powers,” id., at 110; the power to enforce the
+law through civil lawsuits, id., at 111; and the power to
+disqualify a candidate from running for federal office, id.,
+at 112–113. Federal Election Commissioners thus had
+powers akin to the “principal Officer[s]” of an Executive
+Department, whom the Constitution expressly refers to as
+“Officers,” see Art. II, §2, cl. 1. It is not surprising that
+Congress exceeded any leeway the Appointments Clause
+granted when it deviated from the Clause’s appointments’
+methods in respect to an office with powers very similar to
+those of the Officers listed in the Constitution itself.
+   Thus, neither Buckley nor any other case forecloses an
+interpretation of the Appointments Clause that focuses
+principally on whether the relevant statutes show that
+Congress intended that a particular Government position
+be held by an “Office[r] of the United States.” Adopting
+such an approach, I would not answer the question whether
+the Securities and Exchange Commission’s administrative
+law judges are constitutional “Officers” without first decid-
+ing the pre-existing Free Enterprise Fund question—
+namely, what effect that holding would have on the statu-
+tory “for cause” removal protections that Congress provided
+for administrative law judges. If, for example, Free Enter-
+prise Fund means that saying administrative law judges
+are “inferior Officers” will cause them to lose their “for
+cause” removal protections, then I would likely hold that
+the administrative law judges are not “Officers,” for to say
+otherwise would be to contradict Congress’ enactment of
+those protections in the Administrative Procedure Act. In
+contrast, if Free Enterprise Fund does not mean that an
+administrative law judge (if an “Office[r] of the United
+States”) would lose “for cause” protections, then it is more
+
+
+                     Cite as: 585 U. S. ____ (2018)              13
+         BREYER, J., concurring
+                         Opinioninofpart and, dissenting
+                                     BREYER   J.         in part
+likely that interpreting the Administrative Procedure Act
+as conferring such status would not run contrary to Con-
+gress’ intent. In such a case, I would more likely hold
+that, given the other features of the Administrative Proce-
+dure Act, Congress did intend to make administrative law
+judges inferior “Officers of the United States.”
+                                  III
+   Separately, I also disagree with the majority’s conclu-
+sion that the proper remedy in this case requires a hearing
+before a different administrative law judge. Ante, at 12–
+13. The Securities and Exchange Commission has now
+itself appointed the Administrative Law Judge in ques-
+tion, and I see no reason why he could not rehear the case.
+After all, when a judge is reversed on appeal and a new
+trial ordered, typically the judge who rehears the case is
+the same judge who heard it the first time. The reversal
+here is based on a technical constitutional question, and
+the reversal implies no criticism at all of the original judge
+or his ability to conduct the new proceedings. For him to
+preside once again would not violate the structural pur-
+poses that we have said the Appointments Clause serves,
+see Freytag, 501 U. S., at 878, nor would it, in any obvious
+way, violate the Due Process Clause.
+   Regardless, this matter was not addressed below and
+has not been fully argued here. I would, at a minimum,
+ask the Court of Appeals to examine it on remand rather
+than decide it here now. That is especially so because the
+majority seems to state a general rule that a different
+“Officer” must always preside after an Appointments
+Clause violation. In a case like this one, that is a relatively
+minor imposition, because the Commission has other
+administrative law judges. But in other cases—say, a case
+adjudicated by an improperly appointed (but since reap-
+pointed) Commission itself—the “Officer” in question may
+be the only such “Officer,” so that no substitute will be
+
+
+14                          LUCIA v. SEC
+         BREYER, J., concurring
+                         Opinioninofpart and, dissenting
+                                     BREYER   J.         in part
+available. The majority suggests that in such cases, the
+“rule of necessity” may excuse compliance with its new-
+found different-“Officer” requirement. Ante, at 12–13,
+n. 5. But that still does not explain why the Constitution
+would require a hearing before a different “Officer” at all.
+                            *       *     *
+   The Court’s decision to address the Appointments
+Clause question separately from the constitutional removal
+question is problematic. By considering each question in
+isolation, the Court risks (should the Court later extend
+Free Enterprise Fund) unraveling, step-by-step, the foun-
+dations of the Federal Government’s administrative adju-
+dication system as it has existed for decades, and perhaps
+of the merit-based civil-service system in general. And the
+Court risks doing so without considering that potential
+consequence. For these reasons, I concur in the judgment
+in part and, with respect, I dissent in part.
+
+
+                   Cite as: 585 U. S. ____ (2018)           1
+                    SOTOMAYOR, J., dissenting
+SUPREME COURT OF THE UNITED STATES
+                            _________________
+                             No. 17–130
+                            _________________
+      RAYMOND J. LUCIA, ET AL., PETITIONERS v.
+      SECURITIES AND EXCHANGE COMMISSION
+ ON WRIT OF CERTIORARI TO THE UNITED STATES COURT OF
+      APPEALS FOR THE DISTRICT OF COLUMBIA CIRCUIT
+                          [June 21, 2018]
+   JUSTICE SOTOMAYOR, with whom JUSTICE GINSBURG
+joins, dissenting.
+   The Court today and scholars acknowledge that this
+Court’s Appointments Clause jurisprudence offers little
+guidance on who qualifies as an “Officer of the United
+States.” See, e.g., ante, at 6 (“The standard is no doubt
+framed in general terms, tempting advocates to add what-
+ever glosses best suit their arguments”); Plecnik, Officers
+Under the Appointments Clause, 11 Pitt. Tax Rev. 201,
+204 (2014). The lack of guidance is not without conse-
+quence. “[Q]uestions about the Clause continue to arise
+regularly both in the operation of the Executive Branch
+and in proposed legislation.” 31 Opinion of Office of Legal
+Counsel 73, 76 (2007) (Op. OLC). This confusion can
+undermine the reliability and finality of proceedings and
+result in wasted resources. See ante, at 12–13 (opinion of
+the Court) (ordering the Commission to grant petitioners a
+new administrative hearing).
+   As the majority notes, see ante, at 5–6, this Court’s
+decisions currently set forth at least two prerequisites to
+officer status: (1) an individual must hold a “continuing”
+office established by law, United States v. Germaine, 99
+U. S. 508, 511–512 (1879), and (2) an individual must
+wield “significant authority,” Buckley v. Valeo, 424 U. S. 1,
+126 (1976) (per curiam). The first requirement is relatively
+
+
+2                           LUCIA v. SEC
+                      SOTOMAYOR, J., dissenting
+easy to grasp; the second, less so. To be sure, to exercise
+“significant authority,” the person must wield considerable
+powers in comparison to the average person who works for
+the Federal Government. As this Court has noted, the
+vast majority of those who work for the Federal Govern-
+ment are not “Officers of the United States.” See Free
+Enterprise Fund v. Public Company Accounting Oversight
+Bd., 561 U. S. 477, 506, n. 9 (2010) (indicating that well
+over 90% of those who render services to the Federal
+Government and are paid by it are not constitutional
+officers). But this Court’s decisions have yet to articulate
+the types of powers that will be deemed significant enough
+to constitute “significant authority.”
+   To provide guidance to Congress and the Executive
+Branch, I would hold that one requisite component of
+“significant authority” is the ability to make final, binding
+decisions on behalf of the Government. Accordingly, a
+person who merely advises and provides recommendations
+to an officer would not herself qualify as an officer.
+   There is some historical support for such a requirement.
+For example, in 1822, the Supreme Judicial Court of
+Maine opined in the “fullest early explication” of the
+meaning of an “ ‘office,’ ” that “ ‘the term “office” implies a
+delegation of a portion of the sovereign power to, and
+possession of it by the person filling the office,’ ” that “ ‘in
+its effects[,] . . . will bind the rights of others.’ ” 31 Op.
+OLC 83 (quoting 3 Greenl. (Me.) 481, 482). In 1899, a
+Report of the Judiciary Committee of the House of Repre-
+sentatives noted that “the creation and conferring of an
+office involves a delegation to the individual of . . . sover-
+eign functions,” i.e., “the power to . . . legislate, . . . execute
+law, or . . . hear and determine judicially questions sub-
+mitted.” 1 A. Hinds, Precedents of the House of Repre-
+sentatives of the United States 607 (1907). Those who
+merely assist others in exercising sovereign functions but
+who do not have the authority to exercise sovereign pow-
+
+
+                  Cite as: 585 U. S. ____ (2018)            3
+                    SOTOMAYOR, J., dissenting
+ers themselves do not wield significant authority. Id., at
+607–608. Consequently, a person who possesses the “mere
+power to investigate some particular subject and report
+thereon” or to engage in negotiations “without [the] power
+to make binding” commitments on behalf of the Govern-
+ment is not an officer. Ibid.
+   Confirming that final decisionmaking authority is a
+prerequisite to officer status would go a long way to aiding
+Congress and the Executive Branch in sorting out who is
+an officer and who is a mere employee. At the threshold,
+Congress and the Executive Branch could rule out as an
+officer any person who investigates, advises, or recom-
+mends, but who has no power to issue binding policies,
+execute the laws, or finally resolve adjudicatory questions.
+   Turning to the question presented here, it is true that
+the administrative law judges (ALJs) of the Securities and
+Exchange Commission wield “extensive powers.” Ante, at
+2. They preside over adversarial proceedings that can lead
+to the imposition of significant penalties on private par-
+ties. See ante, at 2–3 (noting that the proceedings in the
+present case resulted in the imposition of $300,000 in civil
+penalties, as well as a lifetime bar from the investment
+industry). In the hearings over which they preside, Com-
+mission ALJs also exercise discretion with respect to
+important matters. See ante, at 2 (discussing Commission
+ALJs’ powers to supervise discovery, issue subpoenas, rule
+on the admissibility of evidence, hear and examine wit-
+nesses, and regulate the course of the proceedings).
+   Nevertheless, I would hold that Commission ALJs are
+not officers because they lack final decisionmaking author-
+ity. As the Commission explained below, the Commission
+retains “ ‘plenary authority over the course of [its] admin-
+istrative proceedings and the rulings of [its] law judges.’ ”
+In re Raymond J. Lucia Companies, Inc. & Raymond J.
+Lucia, Sr., SEC Release No. 75837 (Sept. 3, 2015). Com-
+mission ALJs can issue only “initial” decisions. 5 U. S. C.
+
+
+4                         LUCIA v. SEC
+                     SOTOMAYOR, J., dissenting
+§557(b). The Commission can review any initial decision
+upon petition or on its own initiative. 15 U. S. C. §78d–
+1(b). The Commission’s review of an ALJ’s initial decision
+is de novo. 5 U. S. C. §557(c). It can “make any findings
+or conclusions that in its judgment are proper and on the
+basis of the record.” 17 CFR §201.411(a) (2017). The
+Commission is also in no way confined by the record ini-
+tially developed by an ALJ. The Commission can accept
+evidence itself or refer a matter to an ALJ to take addi-
+tional evidence that the Commission deems relevant or
+necessary. See ibid.; §201.452. In recent years, the Com-
+mission has accepted review in every case in which it was
+sought. See R. Jackson, Fact and Fiction: The SEC’s
+Oversight of Administrative Law Judges (Mar. 9, 2018),
+http://clsbluesky.law.columbia.edu/2018/03/09/fact-and-fiction-
+the-secs-oversight-of-administrative-law-judges/ (as last
+visited June 19, 2018). Even where the Commission does
+not review an ALJ’s initial decision, as in cases in which
+no party petitions for review and the Commission does not
+act sua sponte, the initial decision still only becomes final
+when the Commission enters a finality order. 17 CFR.
+§201.360(d)(2). And by operation of law, every action
+taken by an ALJ “shall, for all purposes, . . . be deemed the
+action of the Commission.” 15 U. S. C. §78d–1(c) (empha-
+sis added). In other words, Commission ALJs do not
+exercise significant authority because they do not, and
+cannot, enter final, binding decisions against the Govern-
+ment or third parties.
+   The majority concludes that this case is controlled by
+Freytag v. Commissioner, 501 U. S. 868 (1991). See ante,
+at 6. In Freytag, the Court suggested that the Tax Court’s
+special trial judges (STJs) acted as constitutional officers
+even in cases where they could not enter final, binding
+decisions. In such cases, the Court noted, the STJs pre-
+sided over adversarial proceedings in which they exercised
+“significant discretion” with respect to “important func-
+
+
+                      Cite as: 585 U. S. ____ (2018)                  5
+                        SOTOMAYOR, J., dissenting
+tions,” such as ruling on the admissibility of evidence and
+hearing and examining witnesses. 501 U. S., at 881–882.
+That part of the opinion, however, was unnecessary to the
+result. The Court went on to conclude that even if the
+STJs’ duties in such cases were “not as significant as [the
+Court] found them to be,” its conclusion “would be un-
+changed.” Id., at 882. The Court noted that STJs could
+enter final decisions in certain types of cases, and that the
+Government had conceded that the STJs acted as officers
+with respect to those proceedings. Ibid. Because STJs
+could not be “officers for purposes of some of their duties
+. . . , but mere employees with respect to other[s],” the
+Court held they were officers in all respects. Ibid. Freytag
+is, therefore, consistent with a rule that a prerequisite to
+officer status is the authority, in at least some instances,
+to issue final decisions that bind the Government or third
+parties.*
+    Because I would conclude that Commission ALJs are not
+officers for purposes of the Appointments Clause, it is not
+necessary to reach the constitutionality of their removal
+protections. See ante, at 1 (BREYER, J., concurring in
+judgment in part and dissenting in part). In any event, for
+at least the reasons stated in JUSTICE BREYER’s opinion,
+Free Enterprise Fund is readily distinguishable from the
+circumstances at play here. See ante, at 3–9.
+    As a final matter, although I would conclude that Com-
+mission ALJs are not officers, I share JUSTICE BREYER’s
+concerns regarding the Court’s choice of remedy, and so I
+join Part III of his opinion.
+    For the foregoing reasons, I respectfully dissent.
+——————
+   * Even the majority opinion is not inconsistent with such a rule, in
+that it appears to conclude, wrongly in my view, that Commission ALJs
+can at times render final decisions. See ante, at 10.

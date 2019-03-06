@@ -1,0 +1,3031 @@
+(Slip Opinion)                OCTOBER TERM, 2017                                     1
+                                         Syllabus
+           NOTE: Where it is feasible, a syllabus (headnote) will be released, as is
+        being done in connection with this case, at the time the opinion is issued.
+        The syllabus constitutes no part of the opinion of the Court but has been
+        prepared by the Reporter of Decisions for the convenience of the reader.
+        See United States v. Detroit Timber & Lumber Co., 200 U. S. 321, 337.
+SUPREME COURT OF THE UNITED STATES
+                                         Syllabus
+                            FLORIDA v. GEORGIA
+          ON EXCEPTIONS TO REPORT OF SPECIAL MASTER
+     No. 142, Orig. Argued January 8, 2018—Decided June 27, 2018
+This original action concerns the proper apportionment of water from
+   an interstate river basin. Three rivers form the heart of the Basin.
+   The Chattahoochee and Flint Rivers begin near Atlanta, flow south
+   through Georgia, and ultimately converge at Lake Seminole, just
+   north of Florida, where the Apalachicola River begins and flows 106
+   miles south into the Gulf of Mexico. In 2013, Florida, the down-
+   stream State, sued Georgia, the upstream State, asking the Court to
+   issue a decree equitably apportioning the Basin’s waters. The Court
+   agreed to exercise its original jurisdiction and appointed a Special
+   Master. The United States declined to waive its sovereign immunity
+   from suit in the case. After conducting lengthy evidentiary proceed-
+   ings, the Master submitted a Report recommending that the Court
+   dismiss Florida’s complaint. That recommendation, the parties
+   agree, turns on a single issue—namely, whether Florida met its ini-
+   tial burden in respect to redressability. The Master concluded that
+   Florida failed to make the requisite showing because it did not pre-
+   sent clear and convincing evidence that its injuries could be redressed
+   by a decree capping Georgia’s upstream water consumption if the de-
+   cree does not also bind the Corps. Florida has filed exceptions to the
+   Master’s Report.
+Held:
+      1. The Special Master applied too strict a standard in concluding
+   that Florida failed to meet its initial burden of demonstrating that
+   the Court can eventually fashion an effective equitable decree.
+   Pp. 10–18.
+         (a) Where, as here, the Court is asked to resolve an interstate
+   water dispute raising questions beyond the interpretation of specific
+   language of an interstate compact, the doctrine of equitable appor-
+   tionment applies. In this realm, several related but more specific
+
+
+2                            FLORIDA  v. GEORGIA
+                                   Syllabus
+  sets of principles guide the Court’s review. First, both Georgia and
+  Florida possess “an equal right to make a reasonable use of the wa-
+  ters of” the Flint River. United States v. Willow River Power Co., 324
+  U. S. 499, 505. Second, when confronted with competing claims to in-
+  terstate water, the Court’s “effort always is to secure an equitable
+  apportionment without quibbling over formulas.” New Jersey v. New
+  York, 283 U. S. 336, 343. Third, in light of the sovereign status and
+  “equal dignity” of States, a complaining State’s burden is “much
+  greater” than the burden ordinarily shouldered by a private party
+  seeking an injunction. Connecticut v. Massachusetts, 282 U. S. 660,
+  669. Among other things, it must demonstrate, by “ ‘clear and con-
+  vincing evidence,’ ” that it has suffered a “ ‘threatened invasion of
+  rights’ ” that is “ ‘of serious magnitude.’ ” Washington v. Oregon, 297
+  U. S. 517, 522. And to the extent the Court has addressed the “initial
+  burden” a State bears in respect to redressability, the Court has said
+  that “it should be clear that [the complaining] State has not merely
+  some technical right, but also a right with a corresponding benefit” as
+  a precondition to any equitable apportionment. Kansas v. Colorado,
+  206 U. S. 46, 102, 109. An effort to shape a decree cannot be “a vain
+  thing.” Foster v. Mansfield, C. & L. M. R. Co., 146 U. S. 88, 101. Fi-
+  nally, because equitable apportionment is “ ‘flexible,’ ” not “formula-
+  ic,” this Court will seek to “arrive at a ‘ “just and equitable” appor-
+  tionment’ of an interstate stream” by “consider[ing] ‘all relevant
+  factors,’ ” South Carolina v. North Carolina, 558 U. S. 256, 271, in-
+  cluding, inter alia, “ ‘physical and climatic conditions, the consump-
+  tive use of water in the several sections of the river, the character
+  and rate of return flows, the extent of established uses, the availabil-
+  ity of storage water, the practical effect of wasteful uses on down-
+  stream areas, [and] the damage to upstream areas as compared to
+  the benefits to downstream areas if a limitation is imposed on the
+  former.’ ” Colorado v. New Mexico, 459 U. S. 176, 183. Because all
+  relevant factors must be weighed, extensive and specific factual find-
+  ings are essential for the Court to properly apply the doctrine of equi-
+  table apportionment. See Nebraska v. Wyoming, 325 U. S. 589, 618.
+  Pp. 10–15.
+       (b) The Special Master applied too strict a standard when he de-
+  termined that the Court would not be able to fashion an appropriate
+  equitable decree. The Master referred to this as a “threshold” show-
+  ing. But it is “threshold” only in the sense that the Master has not
+  yet determined key remedy-related matters, including the approxi-
+  mate amount of water that must flow into the Apalachicola River in
+  order for Florida to receive a significant benefit from a cap on Geor-
+  gia’s use of Flint River waters. Unless and until the Special Master
+
+
+                     Cite as: 585 U. S. ____ (2018)                       3
+                                Syllabus
+makes the findings of fact necessary to determine the nature and
+scope of likely harm caused by the absence of water and the amount
+of additional water necessary to ameliorate that harm significantly,
+the complaining State should not have to prove with specificity the
+details of an eventually workable decree by “clear and convincing” ev-
+idence. Rather, the complaining State should have to show that, ap-
+plying the principles of “flexibility” and “approximation,” it is likely to
+prove possible to fashion such a decree. To require “clear and con-
+vincing evidence” about the workability of a decree before the Court
+or a Special Master has a view about likely harms and likely amelio-
+ration is, at least in this case, to put the cart before the horse.
+Pp. 15–18.
+   2. The Court reserves judgment as to the ultimate disposition of
+this case, addressing here only the narrow “threshold” question the
+Master addressed below—namely, whether Florida has shown that
+its “injur[ies can] effectively be redressed by limiting Georgia’s con-
+sumptive use of water from the Basin without a decree binding the
+Corps.” Report 30–31. Florida has made a legally sufficient showing
+as to the possibility of fashioning an effective remedial decree.
+Pp. 18–37.
+      (a) The Report makes several key assumptions. First, the Mas-
+ter assumed Florida has suffered harm as a result of decreased water
+flow into the Apalachicola River. Second, the Master further as-
+sumed that Florida has shown that Georgia, contrary to equitable
+principles, has taken too much water from the Flint River. Third, the
+Master assumed that Georgia’s inequitable use of the water injured
+Florida. At this stage of the proceeding and in light of these assump-
+tions, Florida made a sufficient showing that the extra water that
+would result from its proposed consumption cap would both lead to
+increased streamflow in Florida’s Apalachicola River and significant-
+ly redress the economic and ecological harm that Florida has alleged.
+In addition, the United States has made clear that the Corps will co-
+operate in helping to implement any determinations and obligations
+the Court sets forth in a final decree in this case. While the Corps
+must take account of a variety of circumstances and statutory obliga-
+tions when it allocates water, it cannot now be said that an effort to
+shape a decree here will prove “a vain thing,” Foster, supra, at 101,
+since the record indicates that, if necessary and with the help of the
+United States, the Special Master, and the parties, the Court should
+be able to fashion a decree. Pp. 20–35.
+      (b) Further findings, however, are needed on all of these eviden-
+tiary issues. Florida will be entitled to a decree only if it is shown
+that “the benefits of the [apportionment] substantially outweigh the
+harm that might result.” Colorado, 459 U. S., at 187. On remand,
+
+
+4                          FLORIDA   v. GEORGIA
+                                  Syllabus
+   before fashioning a remedy, the Special Master must address several
+   evidentiary questions that are assumed or found plausible here.
+   Pp. 35–37.
+Case remanded.
+   BREYER, J., delivered the opinion of the Court, in which ROBERTS,
+C. J., and KENNEDY, GINSBURG, and SOTOMAYOR, JJ., joined. THOMAS,
+J., filed a dissenting opinion, in which ALITO, KAGAN, and GORSUCH, JJ.,
+joined.
+
+
+                        Cite as: 585 U. S. ____ (2018)                            1
+                              Opinion of the Court
+     NOTICE: This opinion is subject to formal revision before publication in the
+     preliminary print of the United States Reports. Readers are requested to
+     notify the Reporter of Decisions, Supreme Court of the United States, Wash­
+     ington, D. C. 20543, of any typographical or other formal errors, in order
+     that corrections may be made before the preliminary print goes to press.
+SUPREME COURT OF THE UNITED STATES
+                                    _________________
+                                   No. 142, Orig.
+                                    _________________
+                STATE OF FLORIDA, PLAINTIFF
+                         v. STATE OF GEORGIA
+       ON EXCEPTIONS TO REPORT OF SPECIAL MASTER
+                                  [June 27, 2018]
+  JUSTICE BREYER delivered the opinion of the Court.
+  This case concerns the proper apportionment of the
+water of an interstate river basin. Florida, a downstream
+State, brought this lawsuit against Georgia, an upstream
+State, claiming that Georgia has denied it an equitable
+share of the basin’s waters. We found that the dispute lies
+within our original jurisdiction, and we appointed a Spe­
+cial Master to take evidence and make recommendations.
+  After lengthy evidentiary proceedings, the Special Mas­
+ter submitted a report in which he recommends that the
+Court deny Florida’s request for relief on the ground that
+“Florida has not proven by clear and convincing evidence
+that its injury can be redressed by an order equitably
+apportioning the waters of the Basin.” Report of Special
+Master 3. The case is before us on Florida’s exceptions to
+the Special Master’s Report.
+  In light of our examination of the Report and relevant
+portions of the record, we remand the case to the Master
+for further findings and such further proceedings as the
+Master believes helpful.
+
+
+2                    FLORIDA v. GEORGIA
+                      Opinion of the Court
+                               I
+                               A
+   This original action arises out of a dispute over the
+division of water from an interstate river basin known as
+the Apalachicola-Chattahoochee-Flint River Basin. The
+Basin drains an area of more than 20,000 square miles
+across the southeastern United States. Three interstate
+rivers form the heart of the Basin and are central to this
+case. They are the Chattahoochee River, the Flint River,
+and the Apalachicola River. It is easiest to think of these
+three rivers as forming the capital letter “Y,” with each
+branch starting at a different point in northeastern Geor­
+gia near Atlanta and the stem running through the Flor-
+ida panhandle and emptying into Apalachicola Bay in the
+Gulf of Mexico. See Appendix, infra.
+   The Chattahoochee River is the western branch of this
+Y-shaped river system. It runs from the foothills of Geor­
+gia’s Blue Ridge Mountains, through most of Georgia,
+down to Lake Seminole, just north of Florida. The United
+States Army Corps of Engineers operates several dams
+and reservoirs along the Chattahoochee where it both
+stores water and controls the amount of water that flows
+downstream to Florida in accordance with the terms of its
+recently revised Master Water Control Manual (Master
+Manual). As we shall discuss in more detail, Part IV,
+infra, the Corps’ operations are important to the resolu­
+tion of this case.
+   The Flint River, the eastern branch of the “Y,” runs from
+just south of Atlanta down to the same lake, namely, Lake
+Seminole. Unlike the Chattahoochee, there are no dams
+along the Flint River; it flows unimpeded through south­
+ern Georgia’s farmland, where the greatest share of the
+Basin’s water is consumed by agricultural irrigation.
+   After water from the Flint and Chattahoochee Rivers
+mixes at Lake Seminole, the mixed water (now forming
+the stem of the Y) continues its southward journey. At the
+
+
+                   Cite as: 585 U. S. ____ (2018)          3
+                        Opinion of the Court
+southern end of Lake Seminole, it flows through the
+Woodruff Dam—a dam also controlled by the Corps. The
+mixed waters then change their name. They are called the
+Apalachicola River, and under that name they flow 106
+miles through the Florida Panhandle and finally empty
+into the Gulf of Mexico. There, the fresh water of the
+Apalachicola River mixes with the Gulf ’s saltwater, form­
+ing Apalachicola Bay, which the United Nations, the
+United States, and the State of Florida have all recognized
+as one of the Northern Hemisphere’s most productive
+estuaries. In total, the Apalachicola River accounts for
+35% of the fresh water that flows along Florida’s western
+coast. See Joint Exh. 168, p. 39.
+                                 B
+   Florida and Georgia have long disputed the apportion­
+ment of the Basin’s waters. Florida contends that Georgia
+is consuming more than its equitable share of Flint River
+water. It adds that, were Georgia to consume less water
+from the Flint River, more water would flow into Lake
+Seminole, pass through the Woodruff Dam and subse­
+quently flow down the Apalachicola River (the Y’s stem)
+and into Apalachicola Bay. The additional water that
+would result from a cap on Georgia’s consumption would,
+Florida argues, help (among other things) to recover and
+maintain its oyster industry, which collapsed following a
+drought in 2012. Georgia believes that it should not have
+to cut back on its Flint River water consumption because,
+in its view, it consumes no more than its equitable share.
+   “This Court has recognized for more than a century its
+inherent authority, as part of the Constitution’s grant of
+original jurisdiction, to equitably apportion interstate
+streams between States.” Kansas v. Nebraska, 574 U. S.
+___, ___ (2015) (slip op., at 7). But we have long noted our
+“preference” that States “settle their controversies by
+‘mutual accommodation and agreement.’ ” Arizona v.
+
+
+4                    FLORIDA v. GEORGIA
+                      Opinion of the Court
+California, 373 U. S. 546, 564 (1963) (quoting Colorado v.
+Kansas, 320 U. S. 383, 392 (1943) (Kansas II)); see also id.,
+at 392 (“[Interstate] controversies may appropriately be
+composed by negotiation and agreement, pursuant to the
+compact clause of the federal Constitution”); Kansas v.
+Nebraska, supra, at ___ (slip op., at 2–3) (describing codifi­
+cation of Republican River Compact); Montana v. Wyo-
+ming, 563 U. S. 368, 372 (2011) (interpreting Yellowstone
+River Compact); Kansas v. Colorado, 543 U. S. 86 (2004)
+(resolving dispute over Arkansas River Compact).
+   We recognize that Florida and Georgia (sometimes with
+the help of the Federal Government) have long tried to do
+so. But so far they have failed.
+   In 1992, for example, the States signed a memorandum
+of agreement in which they “committed to a process for
+cooperative management and development” of the three-
+river Basin and agreed to “participate fully as equal part­
+ners” in a “comprehensive, basin-wide study” of its waters.
+Joint Exh. 004, at 1. Five years later, the States signed—
+and Congress approved—a compact, the Apalachicola­
+Chattahoochee-Flint River Basin Compact, in which they
+agreed:
+     “to develop an allocation formula for equitably appor­
+     tioning the surface waters of the ACF Basin among
+     the states while protecting the water quality, ecology
+     and biodiversity of the ACF.” 111 Stat. 2222–2223.
+But five years of negotiations under the Compact proved
+fruitless, and in 2003, the Compact expired.
+   More than a decade later, in 2014, Congress again rec­
+ognized the need for an equitable apportionment of Basin
+waters. See Water Resources Reform and Development
+Act of 2014, Pub. L. 113–121, §1051(a), 128 Stat. 1259.
+But once again, despite drought, expanding city popula­
+tions, and a dramatic increase in acreage devoted to agri­
+cultural irrigation, no agreement has been reached. The
+
+
+                   Cite as: 585 U. S. ____ (2018)             5
+                        Opinion of the Court
+“last effort to reach an amicable resolution of this complex
+equitable apportionment proceeding” in 2017 was “unsuc­
+cessful.” Report 24. The States instead have come to this
+Court.
+                                 II
+                                 A
+   In 2013, Florida, the downstream State, sought to sue
+Georgia, the upstream State, asking us to exercise our
+“original and exclusive jurisdiction” and issue a decree
+equitably apportioning the waters of the Basin. 28
+U. S. C. §1251(a); see U. S. Const. Art. III, §2; see also this
+Court’s Rule 17. In its complaint, Florida alleged that
+Georgia’s consumption of Flint River water “reduce[s] the
+amount of water flowing to the Apalachicola River at all
+times,” and noted that “the effects are especially apparent
+during the low flow summer and fall periods.” Complaint
+9, ¶21; see also id., at 17, ¶49 (complaining that the im­
+pact of Georgia’s water consumption “is significant, partic­
+ularly during dry periods”). In addition, Florida alleged
+that “[a]s Georgia’s upstream storage and consumption
+grows over time, low flow events will become more fre­
+quent and increase in severity, diminishing the likelihood
+that key species will survive and precluding any chance of
+recovery over the long term.” Id., at 20, ¶59. To remedy
+these harms, Florida seeks a cap on Georgia’s consump­
+tion of water from the Flint River. Id., at 21.
+   Georgia filed a brief in opposition, arguing that Florida
+failed to allege an injury sufficient to warrant this Court’s
+exercise of original jurisdiction. See State of Georgia’s
+Opposition to Florida’s Motion for Leave to File a Com­
+plaint 31 (“Florida has not pleaded facts plausibly suggest­
+ing that it will be able to establish clear and convincing
+evidence that it suffers substantial injury as a result of
+Georgia’s consumption of water”). At our request, the
+United States filed a brief in which it told us that “Florida
+has pleaded an interstate water dispute of sufficient im­
+
+
+6                     FLORIDA v. GEORGIA
+                       Opinion of the Court
+portance to warrant this Court’s exercise of its original
+jurisdiction, and no other judicial forum is suitable for
+resolving the overall controversy.” Brief for United States
+as Amicus Curiae 12 (Sept. 18, 2014). But, the United
+States also warned that “[p]ractical considerations . . .
+weigh against the Court’s resolution of Florida’s claims
+before the Corps has completed its process of updating the
+Master Manual for the federal projects in the ACF Basin.”
+Ibid. It suggested that the Court could “grant Florida
+leave to file, but stay or provide for tailoring of any further
+proceedings until the Corps has issued the revised Master
+Manual” in March 2017, id., at 13 (which Florida has now
+done, see Brief for United States as Amicus Curiae 3, n. 1,
+10–12).
+    We subsequently agreed to exercise our original juris­
+diction and appointed a Special Master “with authority to
+. . . direct subsequent proceedings,” “take such evidence as
+may be introduced and such as he may deem it necessary
+to call for,” and “submit Reports as he may deem appro­
+priate.” 574 U. S. ___ (2014).
+    At the outset, the United States declined to waive its
+sovereign immunity from suit in this case. And shortly
+thereafter, Georgia asked the Special Master to dismiss
+the case on the grounds that the United States was a
+necessary party but could not be forced to intervene. See
+Fed. Rule Civ. Proc. 19(b). The Master concluded that the
+motion to dismiss Florida’s complaint should be denied.
+The Master reasoned that a decree binding the Corps
+might not prove necessary. Order on State of Georgia’s
+Motion To Dismiss 14–15 (June 19, 2015). Rather, the
+Master concluded that “the few facts before me at this
+stage of the proceeding support the conclusion that” a cap
+on Georgia’s Flint River water consumption could, at least
+in principle, redress Florida’s injuries either by increasing
+the amount of water that flows into Florida’s Apalachicola
+River or by “render[ing] periods of reduced flow releases
+
+
+                   Cite as: 585 U. S. ____ (2018)           7
+                        Opinion of the Court
+[into the Apalachicola River] fewer and further between
+because of the increased reservoir levels that would result
+from Georgia’s reduced consumption.” Id., at 14, and n. 5.
+The Special Master pointed out that Florida would have to
+show that “a consumption cap is justified and will afford
+adequate relief.” Id., at 13.
+                                 B
+   The Master then held lengthy discovery and evidentiary
+proceedings. See Brief for Georgia 11; post, at 23 (opinion
+of THOMAS, J.) (“During their 18 months of discovery, the
+parties produced 7.2 million pages of documents”). Ulti­
+mately, the Master submitted a 70-page Report to this
+Court in February 2017. He recommended that the Court
+dismiss Florida’s complaint. In particular, despite the
+very large factual record amassed and “the extensive
+testimony bearing on numerous issues,” the Special Mas­
+ter stated:
+     “I have concluded that there is a single, discrete issue
+     that resolves this case: even assuming that Florida
+     has sustained injury as a result of unreasonable up­
+     stream water use by Georgia, can Florida’s injury ef­
+     fectively be redressed by limiting Georgia’s consump­
+     tive use of water from the Basin without a decree
+     binding the [Army] Corps [of Engineers]? I conclude
+     that Florida has not proven that its injury can be
+     remedied without such a decree. The evidence does
+     not provide sufficient certainty that an effective rem­
+     edy is available without the presence of the Corps as a
+     party in this case.” Report 30–31 (emphasis added).
+   For present purposes, we note that Florida and Georgia
+agree that the Master’s recommendation “turned on a
+‘single, discrete issue’—whether Florida had shown that a
+cap on Georgia’s consumption would redress its injury if
+the decree did not bind the Corps as well.” Florida Brief in
+
+
+8                    FLORIDA v. GEORGIA
+                      Opinion of the Court
+Support of Exceptions 23–24; see also Georgia’s Reply to
+Florida’s Exceptions 23 (“The Special Master reserved
+ruling on any issue other than effective redress”); Brief for
+United States as Amicus Curiae 19–20 (Aug. 7, 2017)
+(same).
+  In reviewing this determination, we do not agree with
+the dissent’s view that the Master applied the “ordinary
+balance-of-harms test” that our equitable apportionment
+cases require. Post, at 14 (opinion of THOMAS, J.); see also
+Part III–A, infra, (describing equitable apportionment
+doctrine). As we shall explain, the dissent’s assertion that
+“the balance of harms cannot tip in Florida’s favor” is, at
+best, premature. Post, at 34–35. That judgment may
+eventually prove right or it may prove wrong. Here, as we
+just said, we consider only the “single” and “threshold”
+question of “redressability” upon which the Master rested
+his conclusion and which the parties have now argued
+here. In determining precisely what we now review, we
+rely upon (and do not go beyond) the Report’s specific and
+key statements, which include the following:
+     “As a threshold matter, equitable apportionment is
+       only available to a state that has suffered ‘real and
+       substantial injury’ as a result of proposed or actual
+       upstream water use” and “the injury must be re-
+       dressable by the Court.” Report 24 (emphasis added).
+     “Florida points to real harm and, at the very least,
+       likely misuse of resources by Georgia. There is lit­
+       tle question that Florida has suffered harm from
+       decreased flows in the [Apalachicola] River,” in­
+       cluding “an unprecedented collapse of its oyster
+       fisheries in 2012.” Id., at 31.
+     “Much more could be said and would need to be said
+       on these [and other] issues . . . .” Id., at 34.
+     “I need only address the narrow question of which
+
+
+                   Cite as: 585 U. S. ____ (2018)             9
+                        Opinion of the Court
+        party bears the burden of proving injury and re-
+        dressability.” Id., at 28–29 (emphasis added).
+     “Florida bears the burden to prove that the pro­
+        posed remedy will provide redress for Florida’s in­
+        jury.” Id., at 30.
+     “Florida has not proven by clear and convincing evi­
+        dence that any additional streamflow in the Flint
+        River or in the Chattahoochee River would be re­
+        leased from Jim Woodruff Dam into the Apala­
+        chicola River at a time that would provide a mate-
+        rial benefit to Florida (i.e., during dry periods),
+        thereby alleviating Florida’s injury.” Id., at 47
+        (emphasis added).
+     “Florida has provided no evidence that a decree in
+        this case could provide an effective remedy during
+        normal (i.e., non-drought) periods.” Id., at 68.
+     “[T]he Corps can likely offset increased streamflow
+        in the Flint River by storing additional water in its
+        reservoirs along the Chattahoochee River during
+        dry periods [and so] . . . [t]here is no guarantee that
+        the Corps will exercise its discretion to release or
+        hold back water at any particular time.” Id., at 69
+        (emphasis added).
+     “[W]ithout the Corps as a party, the Court cannot
+        order the Corps to take any particular action.” Id.,
+        at 69–70.
+                                 C
+   Florida has filed exceptions to the Special Master’s
+Report. Florida first challenges the legal standard the
+Master applied in resolving what the Master called the
+“threshold” question whether Florida had “proven. . . that
+its injury can be redressed by an order equitably appor­
+tioning the waters of the Basin.” Id., at 24, 3. The Master
+
+
+10                   FLORIDA v. GEORGIA
+                       Opinion of the Court
+wrote that Florida must meet a “clear and convincing
+evidence” evidentiary burden. Id., at 3. Second, Florida
+argues that, in any event, its showing in respect to re­
+dressability was sufficient. We consider each of these
+exceptions in turn.
+                               III
+                                A
+   We note at the outset that our role in resolving disputes
+between sovereign States under our original jurisdiction
+“significantly differs from the one the Court undertakes ‘in
+suits between private parties.” Kansas v. Nebraska, 574
+U. S., at ___ (slip op., at 6) (internal quotation marks and
+alterations omitted). “In this singular sphere,” we have
+observed, “ ‘the court may regulate and mould the process
+it uses in such a manner as in its judgment will best pro­
+mote the purposes of justice.’ ” Id., at ___ (slip op., at 6–7)
+(quoting Kentucky v. Dennison, 24 How. 66, 98 (1861)).
+We must approach interstate disputes “in the untechnical
+spirit proper for dealing with a quasi-international contro­
+versy, remembering that there is no municipal code gov­
+erning the matter, and that this court may be called on to
+adjust differences that cannot be dealt with by Congress or
+disposed of by the legislature of either State alone.” Vir-
+ginia v. West Virginia, 220 U. S. 1, 27 (1911) (Holmes, J.).
+   Where, as here, the Court is asked to resolve an inter­
+state water dispute raising questions beyond the interpre­
+tation of specific language of an interstate compact, the
+doctrine of equitable apportionment governs our inquiry.
+See Colorado v. New Mexico, 459 U. S. 176, 183 (1982)
+(Colorado I); Virginia v. Maryland, 540 U. S. 56, 74, n. 9
+(2003) (“Federal common law governs interstate bodies of
+water, ensuring that the water is equitably apportioned
+between the States and that neither State harms the
+other’s interest in the river”). In this realm, we have kept
+in mind several related but more specific sets of principles.
+
+
+                   Cite as: 585 U. S. ____ (2018)           11
+                        Opinion of the Court
+   First, as the Special Master pointed out, “the relevant
+guiding principle in this case” is a simple one. Report 26–
+27. Given the laws of the States, both Georgia and Florida
+possess “ ‘an equal right to make a reasonable use of the
+waters of the stream’ ”—which, in this case, is the Flint
+River. Id., at 26 (quoting United States v. Willow River
+Power Co., 324 U. S. 499, 505 (1945)); see also Colorado I
+supra, at 184 (“Our prior cases clearly establish that
+equitable apportionment will only protect those rights to
+water that are ‘reasonably required and applied.’ . . .
+[W]asteful or inefficient uses will not be protected (quoting
+Wyoming v. Colorado, 259 U. S. 419, 484 (1922))); Idaho ex
+rel. Evans v. Oregon, 462 U. S. 1017, 1025 (1983) (Idaho
+II ) (“States have an affirmative duty under the doctrine of
+equitable apportionment to take reasonable steps to con­
+serve and even to augment the natural resources within
+their borders for the benefit of other States”); Nebraska v.
+Wyoming, 325 U. S. 589, 618 (1945); Kansas II, 320 U. S.,
+at 394; Washington v. Oregon, 297 U. S. 517, 522, 527–528
+(1936); New Jersey v. New York, 283 U. S. 336, 342–343
+(1931); North Dakota v. Minnesota, 263 U. S. 365, 372
+(1923) (reaffirming that an upstream State may not “bur­
+den his lower neighbor with more than is reasonable”);
+Kansas v. Colorado, 206 U. S. 46, 102 (1907) (Kansas I);
+Tyler v. Wilkinson, 24 F. Cas. 472, 474 (No. 14,312) (CC RI
+1827) (Story, J.) (setting forth the principle of “reasonable
+use”).
+   Second, our prior decisions emphasize that, when we are
+confronted with competing claims to interstate water, the
+Court’s “effort always is to secure an equitable apportion­
+ment without quibbling over formulas.” New Jersey v.
+New York, 283 U. S., at 342–343 (Holmes, J.). Where
+“[b]oth States have real and substantial interests in the
+River,” those interests “must be reconciled as best they
+may be.”       Id., at 342–343.          We have added that
+“[u]ncertainties about the future . . . do not provide a basis
+
+
+12                     FLORIDA v. GEORGIA
+                         Opinion of the Court
+for declining to fashion a decree.” Idaho II, 462 U. S., at
+1026; see also ibid. (“Reliance on reasonable predictions of
+future conditions is necessary”); Colorado v. New Mexico,
+467 U. S. 310, 322 (1984) (Colorado II ) (requiring “abso­
+lute precision in forecasts . . . would be unrealistic”); North
+Dakota v. Minnesota, supra, at 386 (emphasizing the need
+to “draw inferences as to the probabilities”); Kansas I,
+supra, at 97–98.
+    Third, in light of the sovereign status and “equal dignity”
+of States, a complaining State must bear a burden that is
+“much greater” than the burden ordinarily shouldered by
+a private party seeking an injunction. Connecticut v.
+Massachusetts, 282 U. S. 660, 669 (1931); see Kansas II,
+supra, at 392 (“The reason for judicial caution in adjudi­
+cating the relative rights of States in such cases is that,
+while we have jurisdiction of such disputes, they involve
+the interests of quasi-sovereigns, present complicated and
+delicate questions, and, due to the possibility of future
+change of conditions, necessitate expert administration
+rather than judicial imposition of a hard and fast rule”
+(footnote omitted)). In particular, “ ‘[b]efore this court can
+be moved to exercise its extraordinary power under the
+Constitution to control the conduct of one State at the suit
+of another,’ ” the complaining State must demonstrate that
+it has suffered a “ ‘threatened invasion of rights’ ” that is
+“ ‘of serious magnitude.’ ” Washington v. Oregon, supra, at
+524 (quoting New York v. New Jersey, 256 U. S. 296, 309
+(1921)). The State must make that showing by “ ‘clear and
+convincing evidence.’ ” Washington v. Oregon, supra, at
+522 (quoting New York v. New Jersey, supra, at 309); see
+also Idaho II, supra, at 1027 (“A State seeking equitable
+apportionment under our original jurisdiction must prove
+by clear and convincing evidence some real and substan­
+tial injury or damage”); Colorado I, supra, at 187–188,
+n. 13 (“[A] state seeking to prevent or enjoin [an upstream]
+diversion by another State” must “bear the initial burden
+
+
+                   Cite as: 585 U. S. ____ (2018)           13
+                        Opinion of the Court
+of showing that a diversion by [the upstream State] will
+cause substantial injury to [the downstream State’s] inter­
+ests” (emphasis added)).
+   In addition, to the extent the Court has addressed the
+“initial burden” a State bears in respect to redressability,
+our prior decisions make clear that, as a general matter,
+“[t]o constitute a justiciable controversy, it must appear
+that the complaining State has suffered a wrong through
+the action of the other State, furnishing a ground for
+judicial redress, or is asserting a right against the other
+State which is susceptible of judicial enforcement accord­
+ing to the accepted principles of the common law or equity
+systems of jurisprudence.” Massachusetts v. Missouri, 308
+U. S. 1, 15 (1939)); see also Wyoming v. Oklahoma, 502
+U. S. 437, 447, 452 (1992) (same); Maryland v. Louisiana,
+451 U. S. 725, 735–736 (1981). More specifically, we have
+said that “it should be clear that [the complaining] State
+has not merely some technical right, but also a right with
+a corresponding benefit” as a precondition to any equitable
+apportionment. Kansas I, supra, at 109. An effort to
+shape a decree cannot be “a vain thing.” Foster v. Mans-
+field, C. & L. M. R. Co., 146 U. S. 88, 101 (1892). A State
+“will not be granted [relief] against something merely
+feared as liable to occur at some indefinite time in the
+future,” Connecticut v. Massachusetts, supra, at 674, or
+when there is “no other or better purpose [at stake] than
+to vindicate a barren right.” Washington v. Oregon, supra,
+at 523; cf. Idaho II, supra, at 1026 (assessing whether “the
+formulation of a workable decree is impossible”).
+   Fourth, in an interstate water matter, where a com­
+plaining State meets its “initial burden of showing ‘real or
+substantial injury,’ ” Colorado II, supra, at 317 (quoting
+Colorado I, 459 U. S., at 188, n. 13), this Court, recalling
+that equitable apportionment is “ ‘flexible,’ ” not “formu-
+laic,” will seek to “arrive at a ‘ “just and equitable” appor­
+tionment’ of an interstate stream” by “consider[ing] ‘all
+
+
+14                   FLORIDA v. GEORGIA
+                       Opinion of the Court
+relevant factors.’ ” South Carolina v. North Carolina, 558
+U. S. 256, 271 (2010) (quoting Colorado I, 459 U. S., at
+183); see also id., at 190 (“Whether [relief] should be per­
+mitted will turn on an examination of all factors relevant
+to a just apportionment”); Kansas II, 320 U. S., at 393–394
+(“[I]n determining whether one State is using, or threaten­
+ing to use, more than its equitable share of the benefits of
+a stream, all the factors which create equities in favor of
+one State or the other must be weighed”) (emphasis
+added). These factors include (but are not limited to):
+     “physical and climatic conditions, the consumptive use
+     of water in the several sections of the river, the char­
+     acter and rate of return flows, the extent of estab­
+     lished uses, the availability of storage water, the prac­
+     tical effect of wasteful uses on downstream areas,
+     [and] the damage to upstream areas as compared to
+     the benefits to downstream areas if a limitation is im­
+     posed on the former.” Nebraska v. Wyoming, 325
+     U. S., at 618.
+   Because “all the factors which create equities in favor of
+one State or the other must be weighed,” Kansas II, supra,
+at 394 (emphasis added), extensive and “specific factual
+findings” are essential for the Court to properly apply the
+doctrine of equitable apportionment. Colorado I, supra, at
+189–190 (emphasis added). And given the complexity of
+many water-division cases, the need to secure equitable
+solutions, the need to respect the sovereign status of the
+States, and the importance of finding flexible solutions to
+multi-factor problems, we typically appoint a Special
+Master and benefit from detailed factual findings.
+   Without the full range of factual findings, we have said,
+the Court may lack an adequate basis on which to make
+“the delicate adjustment of interests” that the law re­
+quires. Nebraska v. Wyoming, supra, at 618; Washington
+v. Oregon, 297 U. S., at 519, 523–524 (emphasizing that
+
+
+                  Cite as: 585 U. S. ____ (2018)            15
+                       Opinion of the Court
+“the Master’s Report finds the facts fully”); see also Colo-
+rado I, supra, at 183, 189–190 (remanding “with instruc­
+tions to the Special Master to make further findings of
+fact”); Colorado II, 467 U. S., at 312–315 (explaining that
+because “the Master’s report [was] unclear,” the Court
+remanded to the Special Master “for additional factual
+findings on five specific issues” even after “a lengthy trial
+at which both States presented extensive evidence” in
+order “to assist this Court in balancing the benefit and
+harm”); Texas v. New Mexico, 462 U. S. 554, 575–576, and
+n. 21 (1983) (“[W]e return this case to the Special Master
+for determination of the unresolved issues framed in his
+pretrial order”); 3 A. Kelley, Water and Water Rights
+§45.02(c), p. 45–14 (3d ed. 2018) (“If the factual findings in
+the report are insufficient for the Court to decide whether
+the master correctly applied the doctrine of equitable
+apportionment, the Court may refer the case back to the
+master for additional findings”).
+                                B
+   Applying the principles just described, we conclude that
+the Special Master applied too strict a standard when he
+determined that the Court would not be able to fashion an
+appropriate equitable decree. See Report 3 (“Florida has
+not proven by clear and convincing evidence that its injury
+can be redressed by an order equitably apportioning the
+waters of the Basin”); see also id., at 31 (“The evidence
+does not provide sufficient certainty that an effective
+remedy is available without the presence of the Corps as a
+party in this case”).
+   The Special Master referred to the relevant showing
+that Florida must make in this respect as a “threshold”
+showing. Report 24. We agree that the matter is “thresh­
+old” in one particular sense—namely, the sense that the
+Master has not yet determined several key remedy-related
+matters, including the approximate amount of water that
+
+
+16                     FLORIDA v. GEORGIA
+                         Opinion of the Court
+must flow into the Apalachicola River in order for Florida
+to receive a significant benefit from a cap on Georgia’s use
+of Flint River waters. See infra, at 28. The Master also
+wrote that Florida had failed to show “with sufficient
+certainty that the Corps must (or will choose to) operate
+its projects so as to permit all additional flows in the Flint
+River” or “the entire marginal increase in streamflow” to
+reach Florida “without any substantial delay.” Id., at 48
+(emphasis added); see also id., at 24, 70 (similar). He
+added that there “is no guarantee” that the Corps will
+exercise its relevant discretion. Id., at 69 (emphasis added).
+And he said that Florida must show the existence of a
+workable remedy by “clear and convincing evidence.” Id.,
+at 3; see also, e.g., id., at 28–29, 47, 51, 69–70.
+   We believe the Master’s standard, as indicated by these
+statements, is too strict. In our view, unless and until the
+Special Master makes the findings of fact necessary to
+determine the nature and scope of likely harm caused by
+the absence of water and the amount of additional water
+necessary to ameliorate that harm significantly, the com­
+plaining State should not have to prove with specificity
+the details of an eventually workable decree by “clear and
+convincing” evidence.         Rather, the complaining State
+should have to show that, applying the principles of “flexi­
+bility” and “approximation” we discussed above, it is likely
+to prove possible to fashion such a decree. See supra,
+at 12.
+   To require more definite proof at the outset may well (at
+least on some occasions) make little sense. Suppose, for
+example, downstream State A claims that upstream State
+B wastes at least 10,000 cubic feet per second (cfs) of
+water. And suppose further that no decree could enforce a
+10,000 cfs consumption cap but that it may well prove
+possible to enforce a lesser requirement. If so, we would
+have to know at least approximately how much water will
+significantly ameliorate State A’s water problem before we
+
+
+                  Cite as: 585 U. S. ____ (2018)            17
+                       Opinion of the Court
+could know whether it is possible to shape a workable
+decree. And the workability of decrees themselves, ap­
+proximate as they may be, may depend upon more precise
+findings in respect to the nature and scope of the range of
+likely harms and likely benefits that a Special Master
+finds are actually likely to exist. To require “clear and
+convincing evidence” about the workability of a decree
+before the Court or a Special Master has a view about
+likely harms and likely amelioration is, at least in this
+case, to put the cart before the horse. And that, we fear, is
+what the Master’s statements, with their apparent refer­
+ences to a “clear and convincing” evidence standard in
+respect to “redressability” (where that refers to the availa­
+bility of an eventual decree) have done here. Cf. post, at
+17–19.
+   That is also why our cases, while referring to the use of
+a “clear and convincing” evidentiary standard in respect to
+an initial showing of “invasion of rights” and “substantial
+injury,” have never referred to that standard in respect to
+a showing of “remedy” or “redressability.” See Nebraska v.
+Wyoming, 515 U. S. 1, 8 (1995) (repeating that as a
+threshold matter, a “ ‘threatened invasion of rights must
+be of a serious magnitude and it must be established by
+clear and convincing evidence’ ” without addressing the
+required initial burden in respect to remedy (quoting New
+York v. New Jersey, 256 U. S., at 309)); Colorado II, supra,
+at 317 (describing the “initial burden” a State bears to
+show “ ‘real or substantial injury’ ” (quoting Colorado I, 459
+U. S., at 187–188, n. 13)); Idaho II, 462 U. S., at 1027;
+Colorado I, supra, at 187–188, and n. 13 (“[A] State seek­
+ing to prevent or enjoin [an upstream] diversion by another
+State” must “bear the initial burden of showing that a
+diversion by [the upstream State] will cause substantial
+injury to [the downstream State’s] interests” (emphasis
+added)); Washington v. Oregon, 297 U. S., at 522; Connect-
+icut v. Massachusetts, 282 U. S., at 672; New Jersey v. New
+
+
+18                   FLORIDA v. GEORGIA
+                      Opinion of the Court
+York, 283 U. S., at 344–345; Kansas II, 320 U. S., at 393–
+394. The dissent does not dispute this. See post, at 12.
+   As discussed, supra, at 12–13, our prior decisions have
+said that the “right” a complaining State asserts must be
+more than “merely some technical right” and must be “a
+right with a corresponding benefit,” Kansas I, 206 U. S., at
+109 (emphasis added)—an effort to shape an equitable
+apportionment decree cannot be “a vain thing.” Foster,
+146 U. S., at 101; see also Idaho II, supra, at 1026 (as­
+sessing whether “the formulation of a workable decree is
+impossible”); Washington v. Oregon, supra, at 523. But
+these statements apply to the general availability of judi­
+cial relief—not to the details of a final decree or to the
+workability of a decree that will depend on those details.
+Cf. Idaho ex rel. Evans v. Oregon 444 U. S. 380, 392 (1980)
+(Idaho I ) (explaining that the question whether a State’s
+proposed remedy will have an “appreciable effect” is a
+question that “goes to the merits” of the equitable appor­
+tionment inquiry). And, of course, to insist upon the use of
+such a strict standard, in respect to an eventual decree,
+runs directly contrary to the statements in, and holdings
+of, cases to which we have referred when discussing the
+need for “approximation” and “flexibility.” See supra, at
+13–14.
+                              IV
+   We next address Florida’s exceptions to the Master’s
+evidentiary determinations. In doing so, we recognize that
+the record in this case is long. It addresses a number of
+highly technical matters on a range of subjects—from
+biology to hydrology to the workings of the Corps’ newly
+revised Master Manual governing the organization’s com­
+plex operations in the Basin. Insofar as the Special Mas­
+ter made findings of fact, those findings “deserve respect
+and a tacit presumption of correctness.” Colorado II, 467
+U. S., at 317. But at the end of the day, “the ultimate
+
+
+                   Cite as: 585 U. S. ____ (2018)          19
+                        Opinion of the Court
+responsibility for deciding what are correct findings of fact
+remains with us.” Ibid. We have therefore read those
+portions of the record to which the parties, amici, or the
+Master refer, along with several other portions that we
+have found potentially relevant. Our “independent exam­
+ination of the record,” Kansas v. Missouri, 322 U. S. 213,
+232 (1944), leads us to conclude that, at this stage, Florida
+has met its “initial burden” in respect to remedy. But, we
+also believe that a remand is necessary to conduct the
+equitable-balancing inquiry. Cf. Colorado I, supra, at
+183–190.
+  We reserve judgment as to the ultimate disposition of
+this case, addressing here only the narrow “threshold”
+question the Master addressed below—namely, whether
+Florida has shown that its “injur[ies can] effectively be
+redressed by limiting Georgia’s consumptive use of water
+from the Basin without a decree binding the Corps.”
+Report 30–31. This dispositive threshold question leads
+us, in turn, to focus upon five subsidiary questions:
+  First, has Florida suffered harm as a result of decreased
+water flow into the Apalachicola River? (The Special
+Master assumed “yes.”)
+  Second, has Florida shown that Georgia, contrary to
+equitable principles, has taken too much water from the
+Flint River (the eastern branch of the Y-shaped river
+system)? (Again, the Special Master assumed “yes.”)
+  Third, if so, has Georgia’s inequitable use of Basin
+waters injured Florida? (The Special Master assumed
+“yes.”)
+  Fourth, if so, would an equity-based cap on Georgia’s
+use of the Flint River lead to a significant increase in
+streamflow from the Flint River into Florida’s Apalachicola
+River (the stem of the Y)? (This is the basic question
+before us.)
+  Fifth, if so, would the amount of extra water that reaches
+the Apalachicola River significantly redress the economic
+
+
+20                    FLORIDA v. GEORGIA
+                       Opinion of the Court
+and ecological harm that Florida has suffered? (This
+question is mostly for remand.)
+   As our parentheticals suggest, the Special Master as­
+sumed that the answer to the first three questions was
+“yes.” The fourth question is the question before us now.
+And the fifth question is partly for us now and partly for
+the Master to answer on remand.
+                                A
+   The Report indicates that the Special Master assumed
+the answer to the first question is “yes.” The Report says
+that the Special Master reached his conclusion on the
+“single, discrete issue that resolves this case” by “assum-
+ing that Florida has sustained injury.” Id., at 30 (empha­
+sis added); see also id., at 2 (repeating Georgia’s argument
+that “without an order binding the Corps, Florida will not
+be assured any relief—assuming it has suffered any injury
+at all—by a decree entered in this proceeding because the
+Corps has the ability to impound water in various reser­
+voirs that it maintains in the Basin” (emphasis added));
+id., at 65 (“Even if there were evidence of harm from other
+than low-flow conditions . . . ”).
+   At the same time, the Report states that “Florida points
+to real harm.” Id., at 31. And the Master specified that
+there is “little question that Florida has suffered harm
+from decreased flows in the [Apalachicola] River.” Id., at
+31 (emphasis added). That harm—caused (at least in
+part) by increased salinity—includes “an unprecedented
+collapse of [Florida’s] oyster fisheries in 2012.” Ibid.; see
+id., at 32 (stating that “the evidence presented tends to
+show that increased salinity . . . led to the collapse” of
+Apalachicola Bay’s oysters and “greatly harmed the oys­
+termen of the Apalachicola Region, threatening their
+longterm sustainability”). Cf. New Jersey v. New York,
+283 U. S., at 343, 345 (finding redressable harm to oysters
+caused by diminished water flow and increased salinity).
+
+
+                   Cite as: 585 U. S. ____ (2018)         21
+                        Opinion of the Court
+The harms of reduced streamflow may extend to other
+species in the Apalachicola Region, including in the river
+and its floodplain, which, as the Master noted, “is home to
+the highest species density of amphibians and reptiles in
+all of North America, and supports hundreds of endan­
+gered or threatened animal and plant species,” including
+three “endangered” or “threatened” mussel species, the
+“[t]hreatened Gulf sturgeon,” and the largest stand of
+Tupelo trees—of Tupelo Honey fame—in the world. Re­
+port 7–8; see also Joint Exh. 168, at 193, 195–196.
+                                 B
+   The Master also appears to have assumed the answer to
+the second question is “yes.” The Report reached its key
+conclusion that Florida’s (assumed) injuries cannot “effec­
+tively be redressed” by “assuming that Florida has sus­
+tained injury as a result of unreasonable upstream water
+use by Georgia.” Report 30 (emphasis added). But, at the
+same time, the Master acknowledged that “Florida points
+to real harm and, at the very least, likely misuse of re­
+sources by Georgia.” Id., at 31 (emphasis added). And the
+Report “provide[s] the Court a brief descriptive back­
+ground regarding . . . the unreasonableness of Georgia’s
+consumptive water use.” Ibid.; see, e.g., id., at 32 (“Geor­
+gia’s upstream agricultural water use has been—and
+continues to be—largely unrestrained”); id., at 33 (“De­
+spite early warnings of oncoming drought, Georgi[a] . . .
+chose not to declare a drought in 2011—apparently hoping
+for the best, and clearly not wishing to incur the cost of
+preventative action”); id., at 34 (“Georgia’s position—
+practically, politically, and legally—can be summarized as
+follows: Georgia’s agricultural water use should be subject
+to no limitations, regardless of the long-term consequences
+for the Basin”).
+
+
+22                  FLORIDA v. GEORGIA
+                      Opinion of the Court
+                               C
+   In respect to the third question, the Master again as­
+sumed the answer “yes.” In particular, the Report “as­
+sume[s]” that “Florida has sustained injury as a result of
+unreasonable upstream water use by Georgia.” Id., at 30
+(emphasis added). And as relevant to each of the first
+three questions, the Master added that “[m]uch more
+could be said and would need to be said about” Florida’s
+injuries, the reasonableness of Georgia’s water consump­
+tion, and “other issues, such as causation,” if the case
+proceeds. Id., at 34. As we have explained, our prior
+equitable apportionment decisions make clear that “all
+factors which create equities in favor of one State or the
+other must be weighed.” Kansas II, 320 U. S., at 393–394
+(emphasis added). Thus, a remand is necessary to consid­
+er each of the relevant factors, including those upon which
+the dissent focuses. See infra, at 27; Nebraska v. Wyo-
+ming, 325 U. S., at 618; cf. Colorado II, 467 U. S., at
+323–324.
+                               D
+   We now turn to the fourth question, the basic question
+before us. Would an equity-based cap on Georgia’s use of
+the Flint River lead to a significant increase in streamflow
+from the Flint River into Florida’s Apalachicola River (the
+stem of the Y)? The answer depends upon (1) the amount
+of extra water that would flow into Lake Seminole as a
+result of a cap on Georgia’s Flint River water consump­
+tion; and (2) the amount of water that could actually flow
+through the Corps-controlled Woodruff Dam at Lake
+Seminole’s southern end and into Florida’s Apalachicola
+River.
+                               1
+   The record shows that Florida’s proposed cap on Geor­
+gia’s water consumption could result in the release of
+
+
+                   Cite as: 585 U. S. ____ (2018)            23
+                        Opinion of the Court
+considerable extra water into Lake Seminole. Florida’s
+expert, Dr. David Sunding, testified that the cap would
+limit the average amount of water that Georgia could use
+annually and also reduce the amount of water that Geor­
+gia could use during drought years, which could “materially
+reduce [Georgia’s] depletions of river flows . . . by 1,500 to
+over 2,000 cubic feet per second (cfs) in peak summer
+months of drought years.” Updated Pre-Filed Direct
+Testimony (PFDT) of Sunding ¶8; see also id., ¶¶88–90.
+Dr. Sunding added that it would cost Georgia roughly $35
+million annually (less than 0.2% of Georgia’s annual bud-
+get) to reduce streamflow depletions by 2,000 cfs. Id., ¶113,
+Table 4. Georgia’s expert, Dr. Robert Stavins, disputed
+these conclusions. See Direct Testimony of Stavins ¶¶4,
+90, 136; see also Brief for Georgia 18. The Master did not
+make specific findings of fact regarding this aspect of
+Florida’s proposed remedy. Rather than expressly making
+any findings, the Master apparently “accept[ed] Florida’s
+estimates of the increased streamflow that would result
+from a consumption cap.” Report 67, n. 43. At this stage,
+we shall do the same.
+  And as we shall later discuss, the record suggests that
+an increase in streamflow of 1,500 to 2,000 cfs is reason-
+ably likely to benefit Florida significantly. See infra, at 39–
+40 (citing record evidence of benefits); see also Updated
+PFDT of J. David Allan ¶¶3d, 26, 67 (Allan) (discussing
+ecological benefits of increasing streamflow by 300 to 500
+cfs); 10 Tr. 2629:7–15 (Kondolf) (detailing benefits of
+increasing streamflow into the Apalachicola River from
+5,000 to 7,000 cfs); 3 id., at 591:6–593:4, 596:17–598:1
+(Allan).
+                                 2
+  The key question, however, is whether the 1,500 to
+2,000 cfs of extra water that will flow into Lake Seminole
+from the Flint River as a result of a cap on Georgia’s water
+
+
+24                  FLORIDA v. GEORGIA
+                      Opinion of the Court
+consumption will flow beyond Lake Seminole, through the
+Woodruff Dam, and into the Apalachicola River at the
+relevant times. That is where the Army Corps of Engi­
+neers enters the picture. And it is where Florida disagrees
+with the Special Master and with Georgia. The Special
+Master and Georgia believe that—at any relevant time—
+the Corps might “offset” any extra Flint River water that
+flows into Lake Seminole by simultaneously reducing the
+amount of water that flows into that lake from the Chat­
+tahoochee River. See Report 48–53. Thus, if the 1,500 to
+2,000 cfs of extra water that would reach Lake Seminole
+from the Flint as a result of Florida’s proposed consump­
+tion cap, the question is whether and to what extent the
+Corps will “offset” that extra streamflow by releasing
+1,500 to 2,000 cfs less water into Lake Seminole from its
+upstream Chattahoochee reservoirs.
+   Of course, the Corps might, under certain circumstances,
+be authorized to “offset” extra streamflow from the
+Flint River. As the Special Master wrote, “[t]here is no
+guarantee that the Corps will exercise its discretion to
+release or hold back water at a particular time.” Id., at 69.
+But as the United States has explained, increased stream-
+flow into Lake Seminole (that is, increased Basin Inflow)
+“would generally benefit the ACF system by delaying the
+onset of drought operations, by allowing the Corps to meet
+the 5000 cfs minimum flow longer during extended
+drought, and by quickening the resumption of normal
+operations after drought.” Brief for United States as
+Amicus Curiae 28 (Aug. 7, 2017). And our reading of the
+record convinces us it is highly unlikely that the Corps
+will always reduce the flow in this way; it leads us to
+believe that, acting in accordance with the its own revised
+Master Manual, the Corps is likely to permit, and in some
+cases may be required to ensure that, material amounts of
+additional Flint water to flow through the Woodruff Dam
+and into the Apalachicola River. At the very least, we
+
+
+                  Cite as: 585 U. S. ____ (2018)        25
+                       Opinion of the Court
+believe that more proceedings are necessary to reach a
+definitive determination.
+   As an initial matter, the Master Manual makes clear
+that the amount of water the Corps will release turns in
+part on the amount of water stored in the Corps’ Chatta­
+hoochee reservoirs. See U. S. Army Corps of Engineers,
+Master Manual, Apalachicola-Chattahoochee-Flint River
+Basin, Florida and Georgia, App. A, pp. 7–4 to 7–5, 7–7.
+More specifically, the amount of water storage in those
+reservoirs dictates whether the Corps is conducting one of
+two possible types of “operations”—namely, “drought
+operations” or “nondrought operations.” These are tech­
+nical terms. See id., at 7–14 to 7–16. The term “drought
+operations” need not correspond to dry periods, nor need
+the term “nondrought operations” refer to wet periods.
+Rather their applicability depends in part upon the
+amount of water that is stored behind the Corps’ Chatta­
+hoochee dams. As the United States explained, “[t]he
+term ‘drought operations’ refers to more conservative
+operations that [the Corps conducts, which] are intended
+to enable the Corps to preserve water and operate its
+reservoir projects more effectively as drought conditions
+arise.” Brief for United States as Amicus Curiae 9 (Aug.
+7, 2017). We therefore must clearly distinguish what the
+record tells us about the amount of extra water that could
+flow into Florida as a result of a consumption cap during
+each of these two distinct types of Corps operations.
+                                a
+                  Nondrought Operations
+   When the Corps is conducting “nondrought operations,”
+the Master Manual requires the Corps to release into
+Florida all or some of any extra water that flows from the
+Flint River into Lake Seminole, where it will then flow
+through the Woodruff Dam. See App. to Brief for United
+States as Amicus Curiae 2a (Aug. 7, 2017) (detailing Corps
+operational protocol). As the United States has explained,
+
+
+26                   FLORIDA v. GEORGIA
+                      Opinion of the Court
+when the total streamflow into Lake Seminole is between
+5,000 and 10,000 cfs during “nondrought operations,” the
+following facts are true:
+     “[A]ny additional basin inflow . . . would generally be
+     passed straight through to Florida. If, for example,
+     the conservation measures advocated by Florida as
+     part of a consumption cap actually resulted in an in­
+     creased flow in the Flint River of 2,000 cfs, see Pre-
+     Filed Direct Testimony of David Sunding, Ph. D. at
+     44, Table 4, then flows into Florida would also in­
+     crease by roughly that amount.” United States Post-
+     Trial Brief 12–13 (Dec. 15, 2016); see also Brief for
+     United States as Amicus Curiae 18 (Aug. 7, 2017) (re­
+     affirming that under these circumstances “flows in the
+     Apalachicola would increase by the amount of in­
+     creased Flint River flows” including during summer
+     months).
+   As far as we can tell, under the Corps’ current opera­
+tional protocol, the Corps may remain in “nondrought
+operations” even during the driest summer months of the
+driest years. For example, in 2007 the Corps conducted
+“nondrought operations” not only during late autumn,
+winter, and spring months, but also during the hottest
+summer and early autumn months “when streamflow is at
+its lowest.” See Direct Testimony of Phillip Bedient ¶¶48–
+53 (stating that “[i]f 2007’s Basin Inflow were repeated
+today and Drought Operations were not triggered,” the
+Corps would have had 92 days of “nondrought operations,”
+including 19 days “during summer and fall months, when
+streamflow was at its lowest” on which 100% of extra
+water resulting from a consumption cap would reach
+Florida). We note that these 19 days fell during a period
+of severe drought in which no extra water (let alone 2,000
+cfs of extra water) was flowing into Lake Seminole. And,
+unsurprisingly, the same trend appears to be true in dry
+
+
+                   Cite as: 585 U. S. ____ (2018)            27
+                        Opinion of the Court
+summer months of other years: all or some of the extra
+water that would result from a consumption cap would
+also pass through to Florida. See, e.g., Ga. Exh. 949 (re­
+porting streamflow data indicating several days in 2009 on
+which extra Flint River water would have passed through
+to Florida); Joint Exh. 128 (providing link to U. S. Geological
+Survey data indicating a similar trend based on streamflow
+into the Apalachicola River, including in 2016 and 2017).
+                                 b
+                      Drought Operations
+   The Corps’ “drought operations” are different. Again,
+whether the Corps must initiate drought operations is not
+a matter of discretion; it depends, as we have said, upon
+the total amount of water the Corps has stored behind the
+dams it controls along the Chattahoochee River. The
+Master Manual requires that, when the total amount of
+water stored in pools behind the Corps’ Chattahoochee
+dams drops below a certain level, the Corps must reduce
+the amount of water it releases from the Woodruff Dam to
+5,000 cfs, or, in instances of extreme low water levels in
+the storage pools, to 4,500 cfs. Master Manual App. A, at
+7–14 to 7–16. Accordingly, if additional water were to flow
+into Lake Seminole from the Flint River while the Corps is
+in drought operations, the Corps, pursuant to its Master
+Manual, must reduce the flow of its controlled upstream
+Chattahoochee water in order to maintain a defined water
+level in the pools behind its Chattahoochee dams, and no
+more than 4,500 cfs or 5,000 cfs can flow beyond the
+Woodruff Dam regardless. Brief for United States as
+Amicus Curiae 7.
+   But even then, as we just said, the Corps must make
+certain that at least 4,500 cfs and more often 5,000 cfs
+flows though the Woodruff Dam. And, if more water flows
+from the Flint into Lake Seminole, and if the Corps uses
+that water to keep the water level high in its Chattahoo­
+chee reservoirs, then there will be fewer days in which the
+
+
+28                   FLORIDA v. GEORGIA
+                      Opinion of the Court
+Corps is conducting either “drought operations” or “ex­
+treme drought operations.” Instead, there will be more
+“nondrought operations” days where the Corps must pass
+most or all additional streamflow that exceeds 5,000 cfs
+through the Woodruff (because there will be more days,
+given the added Flint water, when its upstream Chatta­
+hoochee reservoirs are sufficiently high). The United
+States adds that “a cap on Georgia’s consumption” could,
+among other things, generate increased streamflow that
+     “would provide a cushion during low-flow periods, so
+     that it would be possible to maintain a flow rate of
+     greater than 5,000 cfs for a longer period of time with­
+     out any alteration of the Corps’ operations.” United
+     States Post-Trial Brief 18–19 (Dec. 15, 2016) (empha­
+     sis added); see also Brief for United States as Amicus
+     Curiae 18 (Aug. 7, 2017) (same).
+   We repeat this point with an example for purposes of
+clarity. Assume the following: (1) that it is August 13 and
+the Corps is conducting “drought operations”; (2) that as a
+result of a cap on Georgia’s consumption, 2,000 cfs more
+water flows down the Flint and into Lake Seminole; and
+(3) that, consistent with the Master Manual, 5,000 cfs will
+flow from Lake Seminole, through the Woodruff Dam, and
+into Florida’s Apalachicola River. On these three assump­
+tions in all likelihood, as the dissent points out, no extra
+water will flow into Florida.
+   But (and this “but” is key), the extra 2,000 cfs of water
+that flows into Lake Seminole on August 13 as a result of
+a cap on Georgia’s from the Flint River water consumption
+will allow the Corps to store more water behind its up­
+stream Chattahoochee dams (while still complying with
+the Master Manual’s minimum release requirements).
+And that fact means that the Corps is likely to remain in
+“drought operations” for fewer days because whether the
+Corps remains in “drought operations” depends upon the
+
+
+                   Cite as: 585 U. S. ____ (2018)           29
+                        Opinion of the Court
+water level behind the Chattahoochee dams. And the
+fewer days the Corps conducts “drought operations,” the
+more days the Corps, consistent with its Master Manual,
+will allow all (or some) of the 2,000 cfs extra water that
+would result from a consumption cap to flow through the
+Woodruff Dam and into Florida’s Apalachicola River.
+Again, record evidence makes clear that this is not a
+fanciful possibility. For example, Florida points to record
+evidence that suggests a consumption cap could have
+prevented the Corps from entering drought operations in
+2011–2012 without departing from the terms of its Master
+Manual. See, e.g., Florida Brief in Support of Exceptions
+48–49, and n. 12 (citing record evidence, including Ga.
+Exh. 924 and Fla. Exh. 811, that the Special Master did
+not address suggesting that Florida’s proposed consump­
+tion cap could have helped the Corps to “avoi[d] drought
+operations entirely” in 2011–2012 without departing from
+the Master Manual’s requirements).
+   The upshot is that, even when the Corps conducts its
+operations in accordance with the Master Manual, Flori­
+da’s proposed consumption cap would likely mean more
+water in the Apalachicola—as much as 2,000 cfs more
+water when the Corps is conducting normal or “non­
+drought operations,” which could take place in dry periods,
+including the driest days of summer, and 500 cfs more on
+days when the Corps is conducting “drought operations.”
+And a cap would likely allow the Corps to conduct “non­
+drought operations” (i.e., reservoirs-sufficiently-full opera­
+tions) more often as well.
+                                 3
+   We cannot agree with the dissent’s efforts to deny these
+conclusions. To begin with, the dissent says that our
+conclusion “depends on the premise that, during droughts,
+the natural streamflow into Florida is between ‘5,000 and
+10,000 cubic feet per second.’ ” Post, at 29. If the dissent
+
+
+30                   FLORIDA v. GEORGIA
+                      Opinion of the Court
+means by “droughts” simply dry days, or summer days,
+then it is obviously wrong, for pursuant to the Corps’
+Master Manual, the Corps must allow all or some of the
+2,000 cfs extra water that would flow into Lake Seminole
+to continue through the Woodruff Dam into Florida during
+dry summer days when the Corps is not conducting
+“drought operations.” This was true, as the dissent con­
+cedes, even during 19 summer days in 2007, which was
+among the driest years in the Basin’s history. Or, does the
+dissent mean by “droughts” days on which the Corps is
+conducting “drought operations”? If so, then we agree that
+on such days, the Corps will normally allow no more than
+5,000 cfs to flow into Florida. But, for the reasons just
+stated in the last few paragraphs, Florida’s proposed
+consumption cap—which could result in as much as 2,000
+extra cubic feet of water per second flowing from the Flint
+into Lake Seminole—will mean (consistent with the testi­
+mony of the very Georgia expert that the dissent so fre­
+quently quotes) that there will be significantly fewer such
+days.
+   Is there a mistake then in the “concrete example” the
+dissent offers to support its point? See post, at 29–30.
+Invoking a hypothetical posed by Georgia’s expert, the
+dissent says:
+     “[I]f the natural flows in the Apalachicola River were
+     2,600 cubic feet per second, then the Corps would re­
+     lease 2,400 cubic feet per second from its [Chattahoo­
+     chee] reservoirs . . . . And if a cap on Georgia[’s Flint
+     River consumption] increased the River’s natural flow
+     to 4,100 cubic feet per second, the Corps would release
+     900 cubic feet per second. . . . In either case, the total
+     flow on the Apalachicola River would remain the
+     same: 5,000 cubic feet per second. Thus, so long as
+     the natural flows remain significantly less than 5,000
+     cubic feet per second, a cap on Georgia would only de­
+
+
+                   Cite as: 585 U. S. ____ (2018)         31
+                        Opinion of the Court
+      crease the amount of water that the Corps releases
+      from storage; it would not increase the overall amount
+      of water flowing into the Apalachicola River.” Id., at
+      29–30 (citing Bedient ¶¶45–47).
+   If, however, a consumption cap causes 1,500 cfs extra
+water (from the Flint) to flow into Lake Seminole (as we
+assume Florida’s proposed cap would), under the dissent’s
+example, the Corps will reduce (or “offset”) the amount of
+water it releases from its upstream Chattahoochee dams
+from 2,400 cfs to 900 cfs. That is because 2,400 cfs minus
+900 cfs is 1,500 cfs. What happens to that 1,500 cfs extra
+water?
+   When the Corps is in drought operations, the answer
+according to the Master Manual is that the Corps must
+store that water in its upstream Chattahoochee reservoirs.
+And with that 1,500 cfs extra water each day, the water
+levels in those reservoirs will rise (or, at a minimum,
+deplete less rapidly) and allow the Corps to resume “non­
+drought operations” more quickly. The United States
+repeats precisely this point—namely, when more water
+flows into Lake Seminole, it benefits Florida by “quicken­
+ing the [Corps’] resumption of normal [i.e., “nondrought”]
+operations.” Brief for United States as Amicus Curiae 28
+(Aug. 7, 2017). (That extra water also means that there
+will be more days when 5,000 cfs, rather than 4,500 cfs,
+flows from Lake Seminole into the Apalachicola River).
+And it means, as no one denies, that on days when the
+Corps conducts “nondrought operations” (which, as Geor­
+gia’s own expert report shows, occur even during dry
+summer months), more water will reach Florida when
+Florida needs it.
+   What about the dissent’s point that Georgia’s expert, Dr.
+Bedient, said that the extra 2,000 cfs would mean more
+water for Florida “only 19 days ‘during the summer and
+fall months when streamflow was at its lowest’ ”? Post, at
+
+
+32                   FLORIDA v. GEORGIA
+                      Opinion of the Court
+30. Dr. Bediant’s exact words, as the dissent points out,
+were that in “ ‘dry years (e.g., 2007 and 2011), . . . even
+significant changes in Georgia’s consumptive use would
+lead to virtually no change in state-line flows during the
+low-flow months (e.g., June, July, August, September).’ ”
+Bedient ¶¶48–53.
+   At this point, in our view, the dissent has pointed to
+record evidence with which other record evidence conflicts.
+It seems from record evidence, from the statements of the
+United States, from geological data, and from laws of
+mechanics, that 2,000 cfs extra water flowing into Lake
+Seminole when, in the dissent’s words, “drought opera­
+tions were not in effect” would have to mean more water in
+Florida. Post, at 30. And the dissent does not dispute that
+some of these days are in the summer. Ibid. Our own
+check of the record reinforces the point. In particular,
+data from the U. S. Geological Survey’s website, which the
+parties entered into the record at Joint Exh. 128, indicates
+that between May 2016 and August 2016, streamflow into
+the Apalachicola River was above 6,000 cfs each day with the
+exception of two days: August 30, 2016 and August 31, 2016.
+Nothing in the record suggests that the Corps was in
+drought operations during these days, and so it appears that
+under these conditions, any additional streamflow resulting
+from a cap on Georgia’s Flint River consumption would pass
+through into Florida. However, without explicit findings, it
+is neither possible nor prudent for us in the first instance
+to read through this voluminous record and discover who
+is right on this matter of how much extra water there will
+be, when, and how much Florida would benefit from the
+extra water that there might be. That is why we are
+sending this case back for more findings.
+   Finally, while the dissent suggests that “[i]t is incredibly
+odd to conclude that a Special Master’s merits determina­
+tion is ‘premature’ after a full trial,” post, at 17, this Court
+has repeatedly concluded that remand is “appropriate” to
+
+
+                   Cite as: 585 U. S. ____ (2018)           33
+                        Opinion of the Court
+resolve certain issues in an equitable apportionment case
+even where, as here, there has already been a “lengthy
+trial at which both States presented extensive evidence.”
+Colorado II, 467 U. S., at 313; see also Wyoming v. Colo-
+rado, 259 U. S., at 456–457 (explaining that “the evidence
+was taken” over the course of two years and presented to
+the Court two years later and that “[t]he case has been
+argued at bar three times” including because of the “im­
+portance of some of the questions involved”). Moreover,
+we note that adequate factfinding is especially important
+where, as here, no interstate compact guides our inquiry
+or sets forth a congressionally ratified water allocation
+formula. When such a compact exists, as it often does, our
+effort is relatively simple and focuses upon “declar[ing]
+rights under the Compact and enforc[ing] its terms.”
+Kansas v. Nebraska, 574 U. S., at ___ (slip op., at 8) (citing
+Texas v. New Mexico, 462 U. S., at 567); id., at 567–568
+(“If there is a compact, it is a law of the United States, and
+our first and last order of business is interpreting the
+compact”). Here, no compact guides our inquiry and it
+would appear to be important that we approach this com­
+plex controversy with the care and thoroughness that our
+precedent requires.
+                                 E
+   Our final question is this: Would the amount of extra
+water that reaches the Apalachicola significantly redress
+the economic and ecological harm that Florida has suf­
+fered? There is evidence indicating that the answer to the
+question is in the affirmative. See, e.g., Allan ¶3d, 26, 67
+(“Even relatively modest increases in flows—on the order
+of 300 to 500 cfs during key periods of the year—could
+reduce harm to the [Apalachicola Region’s] ecosystem and
+halt the cycle that is leading to irreversible harm” while
+“[g]reater increases could make even more dramatic im­
+provements”); Updated PFDT of Patricia Glibert ¶¶5, 28–
+
+
+34                   FLORIDA v. GEORGIA
+                      Opinion of the Court
+32, 58–60, and Table 1, Figs. 10, 19b; supra, at 21–22
+(citing record evidence of benefits); see also 10 Tr. 2629:7–
+15 (Kondolf) (detailing benefits of increasing streamflow
+from 5,000 to 7,000 cfs); 3 id., at 591:6–593:4, 596:17–
+598:1 (Allan). But the Master’s Report does not explicitly
+answer this question. We consequently must remand the
+case to find the answer to this question (and others).
+                         *     *      *
+   In sum, in respect to the evidentiary questions at issue,
+the Master assumed that: (1) Florida has likely suffered
+harm as a result of decreased water flow into the Apala­
+chicola River; (2) Florida has made some showing that
+Georgia, contrary to equitable principles, has taken too
+much water from the Flint River; and (3) Georgia’s inequi­
+table use of the water may have injured Florida, but more
+findings are needed. And in light of the Master’s assump­
+tions, we conclude that: (4) an equity-based cap on Geor­
+gia’s use of the Flint River would likely lead to a material
+increase in streamflow from the Flint River into Florida’s
+Apalachicola River; and (5) the amount of extra water that
+reaches the Apalachicola may significantly redress the
+economic and ecological harm that Florida has suffered.
+Further findings, however, are needed on all of these
+evidentiary issues on remand.
+   We add the following: The United States has made clear
+that the Corps will work to accommodate any determina­
+tions or obligations the Court sets forth if a final decree
+equitably apportioning the Basin’s waters proves justified
+in this case. It states in its brief here that if a decree
+results “in more water flowing to Florida . . . under exist­
+ing Corps protocols, then the Corps would likely not need
+to change its operations.” Brief for United States as Ami-
+cus Curiae 28 (Aug. 7, 2017). It has added that, in any
+event, a decree “would necessarily form part of the constel­
+lation of laws to be considered by the Corps when deciding
+
+
+                   Cite as: 585 U. S. ____ (2018)            35
+                        Opinion of the Court
+how best to operate the federal projects.” Id., at 32. And
+in issuing its revised Master Manual, the Corps stated
+that it would “review any final decision from the U. S.
+Supreme Court and consider any operational adjustments
+that are appropriate in light of that decision, including
+modifications to the then-existing [Master Manual], if
+applicable.” Record of Decision 18. The United States has
+“continually asserted its preparedness to implement, in
+accordance with federal law, any [agreed-upon] compre­
+hensive water allocation formula.” Id., at 4; see also Joint
+Exh. 124, at 6–35. And, of course, the Administrative Proce­
+dure Act requires the Corps to make decisions that are
+reasonable, i.e., not “arbitrary, capricious, an abuse of dis-
+cretion” or “in excess of [the Corps’] statutory jurisdiction.”
+5 U. S. C. §706(2).
+  We recognize that the Corps must take account of a
+variety of circumstances and statutory obligations when it
+allocates water. New circumstances may require the
+Corps to revise its Master Manual or devote more water
+from the Chattahoochee River to other uses. But, given
+the considerations we have set forth, we cannot agree with
+the Special Master that the Corps’ “inheren[t] discretio[n]”
+renders effective relief impermissibly “uncertain” or that
+meaningful relief is otherwise precluded. Report 56, n. 38.
+We cannot now say that Florida has “merely some tech­
+nical right” without “a corresponding benefit,” Kansas I,
+206 U. S., at 109, or that an effort to shape a decree will
+prove “a vain thing.” Foster, 146 U. S., at 101. Ordinarily
+“[u]ncertainties about the future” do not “provide a basis
+for declining to fashion a decree.” See Idaho II, 462 U. S.,
+at 1026. And in this case, the record leads us to believe
+that, if necessary and with the help of the United States,
+the Special Master, and the parties, we should be able to
+fashion one.
+
+
+36                    FLORIDA v. GEORGIA
+                       Opinion of the Court
+                                V
+   We keep in mind what our prior decisions make clear:
+“ ‘The difficulties of drafting and enforcing a decree’ ” do
+not necessarily provide a convincing “ ‘justification for us
+to refuse to perform the important function entrusted to
+us by the Constitution.’ ” Idaho I, 444 U. S., at 390, n. 7
+(quoting Nebraska v. Wyoming, 325 U. S., at 616); see also
+Idaho II, supra, at 1027 (“Although the computation is
+complicated and somewhat technical, that fact does not
+prevent the issuance of an equitable decree”). For this
+reason and the others we have discussed, we agree with
+Florida that it has made a legally sufficient showing as to
+the possibility of fashioning an effective remedial decree.
+   We repeat, however, that Florida will be entitled to a
+decree only if it is shown that “the benefits of the [appor­
+tionment] substantially outweigh the harm that might
+result.” Colorado I, 459 U. S., at 187. In assessing whether
+that showing has been made, the Master may find it
+necessary to address in the first instance many of the
+evidentiary and legal questions the answers to which we
+have here assumed or found plausible enough to allow us
+to resolve the threshold remedial question. In order to
+determine whether Florida can eventually prove its right
+to cap Georgia’s use of Flint River waters, it may find it
+necessary for the Special Master to make more specific
+factual findings and definitive recommendations regarding
+such questions as: To what extent does Georgia take too
+much water from the Flint River? To what extent has
+Florida sustained injuries as a result? To what extent
+would a cap on Georgia’s water consumption increase the
+amount of water that flows from the Flint River into Lake
+Seminole? To what extent (under the Corps’ revised Mas­
+ter Manual or under reasonable modifications that could
+be made to that Manual) would additional water resulting
+from a cap on Georgia’s water consumption result in addi­
+tional streamflow in the Apalachicola River? To what
+
+
+                 Cite as: 585 U. S. ____ (2018)                37
+                      Opinion of the Court
+extent would that additional streamflow into the Apala­
+chicola River ameliorate Florida’s injuries? The Special
+Master may make other factual findings he believes neces­
+sary and hold hearings (or take additional evidence) as he
+believes necessary. Cf. Colorado I, 459 U. S., at 190, n. 14.
+  Consistent with the principles that guide our inquiry in
+this context, answers need not be “mathematically precise
+or based on definite present and future conditions.” Id., at
+1026. Approximation and reasonable estimates may prove
+“necessary to protect the equitable rights of a State.” Ibid.
+And the answers may change over time. Cf. New Jersey v.
+New York, 347 U. S. 995, 996–1005 (1954); New Jersey v.
+New York, 283 U. S., at 344–346. Flexibility and approx­
+imation are often the keys to success in our efforts to
+resolve water disputes between sovereign States that
+neither Congress “nor the legislature of either State” has
+been able to resolve. Virginia v. West Virginia, 220 U. S.,
+at 27.
+  We consequently do not dismiss this case. Rather, we
+remand the case to the Special Master for further proceed­
+ings consistent with this opinion.
+                                                It is so ordered.
+
+
+38    FLORIDA v. GEORGIA
+        Opinion
+   Appendix      of the of
+            to opinion  Court
+                           the Court
+           APPENDIX
+
+
+                  Cite as: 585 U. S. ____ (2018)               1
+                      THOMAS, J., dissenting
+SUPREME COURT OF THE UNITED STATES
+                           _________________
+                          No. 142, Orig.
+                           _________________
+            STATE OF FLORIDA, PLAINTIFF
+                  v. STATE OF GEORGIA
+       ON EXCEPTIONS TO REPORT OF SPECIAL MASTER
+                         [June 27, 2018]
+   JUSTICE THOMAS, with whom JUSTICE ALITO, JUSTICE
+KAGAN, and JUSTICE GORSUCH join, dissenting.
+   Florida asks this Court to cap Georgia’s use of water in
+the Apalachicola-Chattahoochee-Flint River Basin (Basin).
+Florida claims that such a cap would allow additional
+water to flow into the Apalachicola River and Bay, which
+would benefit Florida by alleviating certain ecological
+harms. To prevail under our precedents, Florida must
+present clear and convincing evidence that its proposed
+cap will benefit Florida more than it harms Georgia. See
+Colorado v. New Mexico, 459 U. S. 176, 187 (1982) (Colo-
+rado I ). The Special Master applied this balance-of-harms
+standard and, after presiding over a 1-month trial involv­
+ing 40 witnesses and more than 2,000 exhibits, found that
+Florida had not met its burden. Because that finding
+is well supported by the evidence, I would have over-
+ruled Florida’s objections to the Special Master’s Report
+(Report) and denied Florida’s request for relief. I respectfully
+dissent.
+                                   I
+   The Court’s recitation of the facts focuses on the geogra­
+phy of the relevant rivers and the failed compact negotia­
+tions between Florida and Georgia, but does not provide
+any details about the respective interests of Florida and
+Georgia or the extensive operations of the United States
+
+
+2                     FLORIDA v. GEORGIA
+                      THOMAS, J., dissenting
+Army Corps of Engineers (Corps). See ante, at 2–5. Be­
+cause these missing details are crucial to determining
+whether equitable relief is warranted, I will supply them.
+                               A
+   This case concerns Georgia’s use of water in the Basin.
+Spanning Georgia, Alabama, and Florida, the Basin con­
+sists of three rivers—the Chattahoochee, the Flint, and
+the Apalachicola. The Chattahoochee River starts in
+northern Georgia, just north of Atlanta, and flows south­
+west along the Alabama-Georgia border until it reaches
+Florida. The Flint River starts east of the Chattahoochee,
+just south of Atlanta, and flows south until it reaches
+Florida. The Chattahoochee and Flint Rivers meet at the
+border of Florida, forming Lake Seminole. From Lake
+Seminole, the Apalachicola River flows south through the
+Florida panhandle and into the Gulf of Mexico at Apala­
+chicola Bay.
+   Both Georgia and Florida depend on Basin water. The
+Chattahoochee River supplies most of the water for met­
+ropolitan Atlanta. And the Flint River supplies most of
+the water for southern Georgia’s large agricultural indus­
+try. In Florida, the Apalachicola River sustains a unique
+ecosystem that is home to a number of species, including
+mussels, sturgeon, and tupelo trees. Flows from the
+Apalachicola River (or River) also support the Apalachi-
+cola Bay (or Bay) ecosystem—one of the most productive
+estuaries in the Northern Hemisphere. The Apalachicola
+Bay’s low-salinity and high-nutrient waters make it an
+extraordinarily productive habitat for oysters and other
+sea life.
+   Although both Georgia and Florida depend on the Basin,
+the Florida portion of the Basin is significantly less popu­
+lated and productive. The Georgia portion has a popula­
+tion of more than 5 million and accounts for around $283
+billion in gross regional product per year. Direct Testimony
+
+
+                   Cite as: 585 U. S. ____ (2018)          3
+                       THOMAS, J., dissenting
+of Robert Stavins 2, 16 (Stavins). The Florida portion, by
+contrast, has a population of fewer than 100,000 people
+and generates around $2 billion in gross regional product
+per year. Id., at 17. In relative terms, Georgia accounts
+for 98% of the population and 99% of the economic produc­
+tion. Ibid.
+                                 B
+   Florida and Georgia are not the only stakeholders in the
+Basin. The United States, through the Corps, operates
+five dams and four reservoirs on the Chattahoochee River.
+Only the three northernmost dams can store significant
+amounts of water. The two dams that are farthest south
+on the Chattahoochee—the George W. Andrews Dam and
+the Jim Woodruff Dam—cannot store an appreciable
+amount of water. The Corps does not operate any dams on
+the Flint River, which flows unimpeded until it reaches
+the Jim Woodruff Dam at Lake Seminole.
+   The Corps operates its dams as a unit. It must do so in
+a way that achieves its congressionally authorized purposes,
+such as facilitating navigation, generating hydroelectric
+power, protecting the national defense, promoting recrea­
+tion, maintaining the commercial value of riparian lands,
+and protecting the water supply for the surrounding met­
+ropolitan Atlanta area. See H. R. Doc. No. 342, 76th
+Cong., 1st Sess., 77 (1939); River and Harbor Act of 1945,
+59 Stat. 17; In re MDL-1824 Tri-State Water Rights Litiga-
+tion, 644 F. 3d 1160, 1167 (CA11 2011). The Corps also
+must ensure compliance with other federal laws, including
+laws governing the conservation of fish and wildlife, the
+quality of water, and the protection of threatened and
+endangered species. See, e.g., Endangered Species Act of
+1973, 16 U. S. C. §1531 et seq.; Flood Control Act of 1944,
+33 U. S. C. §701 et seq.; Water Supply Act of 1958, 43
+U. S. C. §390b.
+   Given these numerous demands, the Corps has long
+
+
+4                       FLORIDA v. GEORGIA
+                         THOMAS, J., dissenting
+relied on water-control manuals to guide its operations of
+the dams. The current manual dictates the minimum
+amount of water that the Corps must provide to the
+Apalachicola River under various conditions. Three vari-
+ables affect that minimum amount of water: the time of
+year, the amount of water in the Corps’ storage reservoirs,
+and the amount of additional water entering the Basin.
+   The manual is very complex, spanning 1,190 pages, but
+only a few provisions are relevant here. The manual
+provides that, as a general rule, most additional water
+that enters the Basin will pass through to Florida via the
+Apalachicola River. But, in certain circumstances, the
+Corps will artificially increase or decrease the amount of
+water that passes through to ensure that 5,000 cubic feet
+per second flows into the Apalachicola River. For exam­
+ple, if the natural streamflow entering the Basin (Basin
+inflow) is less than 5,000 cubic feet per second, then the
+Corps will artificially augment the flow by releasing addi­
+tional water from its reservoirs. Or, if the amount of
+water in the Corps’ reservoirs falls below a certain
+amount, the Corps will trigger what it calls “drought
+operations.” During drought operations, no matter how
+much water is entering the Basin, the Corps will generally
+release only 5,000 cubic feet per second into the Apa-
+lachicola River until its reservoirs are completely
+replenished.1
+   The Corps’ current manual reflects many lessons that it
+has learned over the past decade. In March 2006, for
+example, the Corps created an interim operating plan,
+which set high flow requirements to protect endangered
+——————
+  1 If the amount of water in the Corps’ reservoirs falls to critically low
+levels, then the Corps will release only 4,500 cubic feet per second into
+the Apalachicola River. These extreme drought operations have not
+been triggered in recent droughts. See Direct Testimony of Phillip
+Bedient 14 (Bedient). (showing that flows remained around 5,000 cubic
+feet per second during the 2011 and 2012 droughts).
+
+
+                     Cite as: 585 U. S. ____ (2018)                    5
+                         THOMAS, J., dissenting
+species in the Apalachicola River. Direct Testimony of
+Wei Zeng 44–45 (Zeng). But those high flow requirements
+prevented the Corps from saving enough water during
+droughts to refill its reservoirs, putting all its other pro­
+jects at risk. Id., at 45. So the Corps switched to more
+storage-friendly rules. Id., at 45–46. In December 2006,
+the Corps modified its operating plan to require a portion
+of the water entering the Basin to be devoted to refilling
+the Corps’ reservoirs. Id., at 46. When this modification
+proved insufficient, the Corps created special rules for
+droughts, which saved even more water by decreasing the
+minimum flow into the Apalachicola River. Id., at 46–47.
+Later, the Corps altered its operations to save still more
+water, by increasing the amount it could dedicate to refill­
+ing its reservoirs during nondroughts and lowering the
+threshold for triggering the special drought rules. Id., at
+47; Brief for United States as Amicus Curiae 11 (Brief for
+United States). The Corps’ current manual is a product of
+this decade of trial and error.
+   The current manual also reflects decades of litigation.
+The Corps’ first manual went into effect in 1958, and the
+Corps did not propose a new one until 1989. As soon as it
+did, Alabama sued. Florida, Georgia, and other stake­
+holders eventually sued as well. For its part, Florida
+alleged that the Corps’ operations under the proposed
+manual and subsequent interim operating plans violated
+the Endangered Species Act by injuring mussels and
+sturgeon, as well as noncovered species like oysters and
+tupelo trees.2 The various lawsuits were eventually con­
+solidated in the Middle District of Florida. Twenty years
+after Alabama first sued, the District Court ruled for
+——————
+  2 The U. S. Fish and Wildlife Service did not agree. It concluded that
+the minimum flows in the proposed manual and interim operating
+plans were sufficient to protect endangered species in the Apalachicola
+River. Zeng 46–47.
+
+
+6                     FLORIDA v. GEORGIA
+                       THOMAS, J., dissenting
+Alabama but against Florida. The United States Court of
+Appeals for the Eleventh Circuit reversed with respect to
+Alabama. In re MDL-1824 Tri-State Water Rights Litiga-
+tion, 644 F. 3d, at 1192, 1205. And Florida’s case became
+moot in 2012, once the Corps issued the immediate prede­
+cessor to its current manual.
+                                II
+                                A
+   Soon after the litigation against the Corps ended, Florida
+sought leave to file this lawsuit against Georgia, request­
+ing an equitable apportionment of Basin water. This
+Court granted Florida leave to file its complaint in 2014.
+Florida’s complaint alleged that Georgia was consuming
+more than its fair share of water in the Basin, causing
+economic and ecological harms to Florida. Florida sought
+relief only against Georgia and disclaimed seeking any
+“affirmative relief against the United States . . . with
+respect to the Corps’ operation of the federally authorized
+dam and reservoir system.” Complaint ¶15. The United
+States could not be joined as a party because it declined to
+waive its sovereign immunity.
+   Georgia moved to dismiss Florida’s complaint for failure
+to join the United States as a necessary party. Florida
+opposed the motion, arguing that the United States was
+not necessary because Florida “ ‘ha[d] no quarrel’ with the
+Corps’ operation of dams, and [its] lawsuit is not seeking
+to impose a ‘minimum flow’ regime on the Corps.” Florida
+Brief in Opposition to Motion to Dismiss 26. Florida
+reiterated that it “is not seeking any relief whatsoever
+with respect to the operations of the dams” and is “not
+seeking any relief asking the Corps to control the dams or
+pull the levers in any specific way.” Tr. of Oral Arg. on
+Motion to Dismiss 27. Florida conceded that “if [the Spe­
+cial Master] conclude[s] after a trial that caps on [Geor­
+gia’s] consumption will not redress Florida’s harm, then
+
+
+                  Cite as: 585 U. S. ____ (2018)           7
+                      THOMAS, J., dissenting
+Florida will not have proved its case.” Id., at 29.
+   Based on Florida’s concessions, the Special Master
+denied Georgia’s motion to dismiss. The Special Master
+recognized that Florida had “disclaimed any intention to
+seek a decree” binding the Corps in order to “sideste[p] the
+need to join the United States as a party.” Order on Mo­
+tion to Dismiss, p. 12. The Special Master warned Florida
+that this strategy was a “ ‘two edged sword.’ ” Id., at 13.
+“Having voluntarily narrowed its requested relief and
+shouldered the burden of proving that the requested relief
+is appropriate,” the Special Master explained, “Florida’s
+claim will live or die based on whether Florida can show
+that a consumption cap [on Georgia alone] is justified and
+will afford adequate relief.” Ibid.
+                               B
+   The parties proceeded to trial. Florida sought to cap
+Georgia’s use of Basin water at its current levels through
+at least 2050. See Florida Pre-trial Brief 5; Updated Pre-
+Filed Direct Testimony (PFDT) of Dr. George M. Horn­
+berger 58 (Hornberger). And, during drought years, Florida
+sought to reduce Georgia’s use of Basin water by between
+1,500 and 2,000 cubic feet per second. See Florida Pre­
+trial Brief 5; Hornberger 58; Updated PFDT of David
+Sunding 42 (Sunding); Florida Post-Trial Brief 18.
+   To support its proposed caps, Florida first presented
+testimony about how much additional water it would
+receive during droughts. According to Florida’s evidence,
+Georgia is currently using enough water during droughts
+to decrease streamflow on the Apalachicola River by
+around 4,000 cubic feet per second. See Hornberger 2.
+Florida proposed cutting that amount by half. One of its
+experts opined that, by implementing several conservation
+measures, Georgia could increase flows in the Apalachicola
+River during droughts by 1,500 to 2,000 cubic feet per
+second. See Sunding 3; Hornberger 4. Florida estimated
+
+
+8                    FLORIDA v. GEORGIA
+                     THOMAS, J., dissenting
+that these measures would cost Georgia an additional
+$35.2 million per year. Sunding 44.
+   Florida next presented evidence about how this addi­
+tional water would benefit various species in the Apala­
+chicola River. It argued that additional flows could benefit
+mussels, which need consistent flows of at least 6,000
+cubic feet per second in the summer; sturgeon, which need
+consistent flows of at least 7,000 cubic feet per second in
+the summer; and tupelo trees, which need consistent flows
+of at least 14,100 cubic feet per second in the summer. See
+Updated PFDT of J. David Allan 23–24, 26, 32–33, 41, 44–
+45 (Allan). Additional flows could also benefit the oysters
+in the Apalachicola Bay by lowering its salinity. See
+Updated PFDT of J. Wilson White 48 (White); PFDT of
+Marcia Greenblatt 15. All of Florida’s evidence about
+these species, however, addressed the benefits of additional
+water during droughts. See Report 63. Florida presented
+no evidence of any benefits during nondroughts.
+   Finally, Florida attempted to prove that the additional
+water would actually reach Florida when it needs the
+water—i.e., during droughts. To do this, Florida needed to
+show that the Corps would deviate from its normal operat­
+ing protocols, which specify that the Corps will generally
+release only 5,000 cubic feet per second during droughts.
+Florida relied on Dr. Peter Shanahan to make this show­
+ing. Dr. Shanahan testified that “the Corps would not . . .
+hold back water and thwart the additional flow benefits
+[that] Florida would receive from Georgia[’s] conservation
+efforts.” Updated PFDT of Dr. Peter Shanahan 1 (Nov. 15,
+2016). He reasoned that the Corps would either choose to
+release the additional water in its discretion or be com­
+pelled to release the additional water because its up­
+stream dams have limited storage capacity and it does not
+operate any dams on the Flint River. Id., at 17–27.
+   In its defense, Georgia presented evidence that its cur­
+rent use has only a negligible impact on the amount of
+
+
+                  Cite as: 585 U. S. ____ (2018)           9
+                      THOMAS, J., dissenting
+water that Florida receives through the Apalachicola
+River. Georgia’s experts showed that the State’s water
+use amounted to just 4% of Basin flows in an average year
+and 8% of Basin flows in a dry year, leaving anywhere
+from 92% to 96% of Basin water for Florida. See Stavins
+16–18; Bedient 44–45. According to Georgia’s experts, the
+primary factor that dictates flows in the Apalachicola
+River is precipitation, not consumption. See Direct Testi­
+mony of Charles A. Menzie 15.
+   Georgia’s experts also testified that Georgia’s water use
+was entirely reasonable. Metropolitan Atlanta had taken
+substantial steps to conserve water, reducing its consump­
+tion to levels that even Florida’s expert admitted demon­
+strated effective water conservation. Direct Testimony of
+Peter Mayer 2; see also, id., at 18 (showing that Florida’s
+Basin residents used more water per capita than residents
+in metropolitan Atlanta). And, instead of Florida’s esti­
+mate of 4,000 cubic feet per second, Georgia estimated
+that its water use had never decreased streamflow by
+more than 2,000 cubic feet per second, and only rarely by
+more than 1,400 cubic feet per second. See Zeng 2, 7.
+   Georgia also presented evidence that Florida’s proposed
+caps would cost Georgia significantly more than they
+would benefit Florida. Georgia’s economic expert estimated
+that Florida’s proposed caps would impose costs of more
+than “$2.1 billion for municipal and industrial water users
+and $335 million for Georgia farmers . . . every single
+year.” Stavins 2. Georgia’s expert also testified that
+Florida’s expert had dramatically lowered his initial eval­
+uation of the costs to Georgia, which was initially $191
+million. Id., at 31; see also 11 Trial Tr. 2787. That change
+apparently occurred because Florida’s expert narrowed his
+definition of “cost” to exclude anything but additional,
+direct governmental expenditures. See id., at 2791. But
+regardless of the precise cost, Georgia’s expert testified
+that it would be inequitable to impose it on Georgia.
+
+
+10                      FLORIDA v. GEORGIA
+                        THOMAS, J., dissenting
+“Georgia has 5 times the land area, 56 times the popula­
+tion, 80 times the number of employees, and 129 times the
+[gross regional product] of . . . Florida. [Yet it] consumes
+only 4 percent of the total waters available in the . . .
+Basin in an average year, and only 8 percent of the total
+waters available in the . . . Basin in a dry year, leaving the
+rest for Florida’s use.” Stavins 2. Further, Florida’s own
+expert estimated that a cap on Georgia would produce only
+minimal benefits for Florida: Cutting Georgia’s water use
+in half would increase the oyster biomass in Apalachicola
+Bay by less than 0.6% in most instances, and only 1.2%
+during the worst droughts. White 50–51. These additional
+oysters would be worth only a few hundred thousand
+dollars. Stavins 51–52.
+   Finally, Georgia rebutted Florida’s assertion that, de­
+spite the Corps’ operations, Florida would actually receive
+the additional water that a cap on Georgia would create
+during droughts. Using models that accounted for the
+Corps’ prior operations, Georgia’s expert on the Corps, Dr.
+Philip Bedient, testified that Florida would receive only
+5,000 cubic feet per second during droughts, no matter
+how much additional water was created by a cap on Geor­
+gia and regardless of whether that water flowed into the
+Flint or the Chattahoochee River. See Bedient 23–26, 28–
+30. The United States filed an amicus brief to the same
+effect. It confirmed that, during droughts, “[t]he Corps
+expects . . . that Apalachicola River flows would be very
+similar with or without a consumption cap [on Georgia].”
+Post-Trial Brief 17–18 (United States Post-Trial Brief ).3
+——————
+  3 The United States has made similar representations to this Court.
+See, e.g., Brief for United States 26–29 (explaining that the Corps
+“would not generally expect” flows into Florida to increase during
+droughts, even if Florida convinced this Court to cap Georgia’s water
+use).
+
+
+                     Cite as: 585 U. S. ____ (2018)                  11
+                         THOMAS, J., dissenting
+                                   C
+   All told, the trial lasted one month. After hearing the
+witnesses and reviewing the evidence, the Special Master
+recommended ruling against Florida. Report 70. The
+Special Master found that Florida likely had proved harm
+to its oysters,4 and assumed that Georgia was using too
+much water for agricultural purposes.5 Id., at 31–34. But
+the Special Master did not decide whether Georgia’s agri­
+cultural water use caused the harm to Florida’s oysters.
+Id., at 34. Instead, he concluded that Florida had failed to
+prove that a cap on Georgia would appreciably benefit it
+given the Corps’ operations in the Basin. Id., at 3, 31–34.
+   Citing this Court’s precedents requiring States to prove
+an appreciable benefit before they can obtain an equitable
+apportionment that interferes with established uses, the
+Special Master concluded that Florida could not prove that
+its injury was “redressable by the Court.” See id., at 24
+(citing, inter alia, Idaho ex rel. Evans v. Oregon, 444 U. S.
+380, 392 (1980) (Idaho I ); Washington v. Oregon, 297 U. S.
+517, 523 (1936)); Report 30 (same); see also id., at 27
+(citing New Jersey v. New York, 283 U. S. 336, 342–345
+(1931); Colorado I, 459 U. S., at 187). According to the
+Special Master, Florida “ha[d] not proven by clear and
+convincing evidence that any additional streamflow in the
+Flint River or Chattahoochee River would be released
+from Jim Woodruff Dam into the Apalachicola River at a
+time that would provide a material benefit to Florida (i.e.,
+during dry periods).” Report 47. The Special Master also
+found that “Florida ha[d] not met its requirement to show
+by clear and convincing evidence that its injury can be
+——————
+  4 The Special Master noted that Florida’s alleged injuries to mussels,
+sturgeon, and tupelo trees were “less compelling.” Report 64, n. 42.
+  5 As for Georgia’s municipal and industrial water use, the Special
+Master concluded that it was “less clear” that these uses were “unrea­
+sonable,” given that Georgia had “taken significant steps to conserve
+water in the Atlanta metropolitan region.” Id., at 34, n. 28.
+
+
+12                    FLORIDA v. GEORGIA
+                       THOMAS, J., dissenting
+redressed by increased flows during nondrought condi­
+tions” because its “trial presentation did not address the
+benefits of increased flows during ‘normal’ periods” and
+Georgia’s evidence showed “an absence of any significant
+benefit to Florida.” Id., at 63–65.
+                               III
+   Before delving into the parties’ arguments, it is helpful
+to have a basic understanding of the rules that govern this
+Court’s equitable-apportionment jurisprudence—or at
+least what used to be the rules before the Court’s opinion
+muddled them beyond recognition.
+   First, in equitable-apportionment cases, as in all cases,
+this Court requires the complaining party to prove stand­
+ing. Maryland v. Louisiana, 451 U. S. 725, 735–736
+(1981); Wyoming v. Oklahoma, 502 U. S. 437, 447, 452
+(1992); see also 3 A. Kelley, Water and Water Rights
+§45.02(b), p. 45–12 (3d ed. 2018) (noting that standing is a
+justiciability requirement for equitable-apportionment
+cases) (Kelley). To prove standing, a complaining State
+must demonstrate that it has “ ‘suffered a wrong through
+the action of the other State . . . which is susceptible of
+judicial enforcement according to the acceptable principles
+of the common law or equity systems of jurisprudence.’ ”
+Maryland, supra, at 735–736; Wyoming, supra, at 452.
+   Second, this Court requires the State seeking an appor­
+tionment to show by clear and convincing evidence a
+“threatened invasion of rights . . . of serious magnitude.”
+New York v. New Jersey, 256 U. S. 296, 309 (1921); accord,
+Colorado I, supra, at 187, n. 13; Kelley §45.04. Our prece­
+dents do not clarify whether this requirement goes to the
+case’s justiciability, the merits of the complaining State’s
+claim, or the propriety of affording injunctive relief. See
+ibid. But they are clear that such a showing must be
+made to obtain relief. See Connecticut v. Massachusetts,
+282 U. S. 660, 669 (1931).
+
+
+                   Cite as: 585 U. S. ____ (2018)         13
+                       THOMAS, J., dissenting
+   Third, the State seeking an apportionment must
+“demonstrat[e] by clear and convincing evidence that the
+benefits of the [apportionment] substantially outweigh the
+harm that might result.” Colorado I, supra, at 187; ac­
+cord, Colorado v. New Mexico, 467 U. S. 310, 316–317
+(1984) (Colorado II ); Kelley §45.06, at 45–34 to 45–35.
+Since this Court’s first equitable-apportionment case, this
+balance-of-harms test has been the basic merits inquiry
+that decides whether a State is entitled to an apportion­
+ment. See id., §45.06(c)(1), at 45–39 to 45–40 (“Harm­
+benefit comparison goes back to the Court’s first equitable
+apportionment case, Kansas v. Colorado[, 206 U. S. 46,
+113–114 (1907) (Kansas I)]”). As part of the balance-of­
+harms test, this Court has required the State seeking an
+apportionment to prove that it would appreciably benefit
+from the apportionment—otherwise, the State could not
+possibly prevail in the balance-of-harms analysis. Idaho I,
+supra, at 392; Washington, supra, at 523; see also Kelley
+§45.06(c)(1), at 45–39 (explaining that this appreciable-
+benefit requirement is part of the “harm-benefit” balance).
+   Fourth, if the State seeking an apportionment makes all
+these showings, this Court must craft an equitable-
+apportionment decree. Our precedents hold that a State
+should not be denied a remedy merely because calculating
+the appropriate apportionment is difficult. See Idaho
+ex rel. Evans v. Oregon, 462 U. S. 1017, 1026 (1983) (Idaho
+II). Reasonable predictions about future conditions are
+sufficient. Ibid.
+   This case is about the third rule: the balance-of-harms
+analysis and, specifically, its appreciable-benefit require­
+ment. The Special Master found that Florida had not
+proved that its requested cap on Georgia’s water use
+would appreciably benefit it, since Florida could not prove
+that it would receive more water when it needed it. That
+this case is about the third rule is important. Throughout
+its opinion, the Court mushes the requirements from our
+
+
+14                    FLORIDA v. GEORGIA
+                       THOMAS, J., dissenting
+precedents together, merging cases and principles from
+one area with cases and principles from another—
+sometimes in the same sentence. But our precedents are
+not so convoluted. They articulate clear rules, and the
+Special Master correctly applied one of them when making
+his recommendation in this case. He did not err by failing
+to apply the unrecognizable mishmash of principles set out
+in the Court’s opinion.
+                                IV
+   Florida raises three objections to the Special Master’s
+Report. First, it argues that the Special Master required
+it to satisfy a legal standard that was too demanding.
+Second, Florida argues that it should prevail under the
+correct standard because, if this Court enters an equitable-
+apportionment decree, the Corps will likely allow more
+water to flow into Florida during droughts. And third,
+even if the Corps does not release more water into Florida
+during droughts, Florida argues that a cap on Georgia
+would still benefit it during nondroughts. None of these
+arguments has merit.
+                                 A
+   Florida’s first objection fails because the Special Master
+applied the correct legal standard. A careful reading of his
+Report demonstrates that he applied the ordinary balance-
+of-harms test dictated by this Court’s precedents. He did
+not, as the Court implies, deny Florida relief because
+calculating an appropriate apportionment was too difficult
+or because Florida failed to satisfy the “threshold” re­
+dressability requirement for Article III standing. And
+even if the Special Master did apply the wrong standard,
+his misstep would not justify a remand because his find­
+ings are plainly correct and establish that Georgia should
+prevail under the balance-of-harms test.
+
+
+                   Cite as: 585 U. S. ____ (2018)             15
+                       THOMAS, J., dissenting
+                                 1
+   The Special Master applied the balance-of-harms test
+from this Court’s precedents. A State seeking an equitable
+apportionment that interferes with established uses must
+“demonstrat[e] by clear and convincing evidence that the
+benefits of the [apportionment] substantially outweigh the
+harm that might result.” Colorado I, 459 U. S., at 187;
+accord, Colorado II, supra, at 316–317. This heavy burden
+reflects the need for “judicial caution” before granting
+equitable apportionments, which “involve the interests of
+quasi-sovereigns, present complicated and delicate ques­
+tions, and . . . necessitate expert administration.” Colo-
+rado v. Kansas, 320 U. S. 383, 392 (1943) (Kansas II );
+accord, Colorado II, 467 U. S., at 316 (explaining that
+the clear-and-convincing-evidence burden “appropriately
+balance[s] the unique interests involved in water rights
+disputes between sovereigns”).            It also reflects “this
+Court’s long-held view that the proposed diverter should
+bear most, if not all, of the risks of erroneous decision”
+because the benefits he claims for proposed future uses are
+usually “ ‘speculative and remote’ ” while the costs of dis­
+rupting established uses are “ ‘typically certain and imme­
+diate.’ ” Ibid. (quoting Colorado I, supra, at 187).
+   As part of the balance-of-harms analysis, this Court has
+repeatedly held that the State seeking to divert water
+from existing uses must show that it will obtain some
+appreciable benefit from an equitable apportionment. See,
+e.g., Idaho I, 444 U. S., at 392; New Jersey, 283 U. S., at
+345. This appreciable-benefit requirement reflects the fact
+that a minimal benefit cannot outweigh the heavy costs
+that inevitably accompany equitable-apportionment de­
+crees. See Colorado I, supra, at 187 (“[T]he equities sup­
+porting the [status quo] will usually be compelling”); Kan-
+sas II, supra, at 393 (expressing “great and serious
+caution” over granting equitable apportionments because
+they “interfer[e] with the action of a State”). Put another
+
+
+16                  FLORIDA v. GEORGIA
+                     THOMAS, J., dissenting
+way, the Court will not “bring distress and even ruin to a
+long-established [water use] for no other or better purpose
+than to vindicate a barren right.” Washington, 297 U. S.,
+at 523; see also Kansas I, 206 U. S., at 109. (“[B]efore, at
+the instance of a sister state, [a State’s water use] is de­
+stroyed or materially interfered with, it should be clear
+that such sister state has not merely some technical right,
+but also a right with a corresponding benefit”). Such an
+action would run contrary to “the high equity that moves
+the conscience of the court in giving judgment between
+states.” Washington, 297 U. S., at 523.
+    For example, in Washington v. Oregon—a case with
+facts strikingly similar to this one—the Court refused to
+cap Oregon’s water use because it “ ‘would materially
+injure Oregon users without a compensating benefit to
+Washington users.’ ” Ibid. In that case, Washington
+complained about “temporary dams” that Oregon residents
+had erected to irrigate their crops during “seasons of
+[water] shortage.” Id., at 522. Removing the dams, how­
+ever, would mean that, “[d]uring the period of water
+shortage, only a small quantity of water would go by” and
+“would be quickly absorbed and lost in the deep gravel
+beneath the channel.” Id., at 522–523. Because a cap on
+Oregon would not benefit Washington by supplying water
+when it most needed it, the Court declined to grant Wash­
+ington’s requested relief. Id., at 520–523.
+    The Special Master applied this appreciable-benefit
+requirement. As he explained, Florida “ha[d] not proven
+by clear and convincing evidence” that the Corps would
+release any additional water “at a time that would provide
+a material benefit to Florida (i.e., during dry periods).”
+Report 47; see also id., at 47–48 (“[T]he Corps’ operation[s]
+. . . rende[r] any potential benefit to Florida from in­
+creased streamflow in the Flint River uncertain and spec­
+ulative”). The Special Master likewise found “an absence
+of any significant benefit to Florida” during nondrought
+
+
+                   Cite as: 585 U. S. ____ (2018)           17
+                       THOMAS, J., dissenting
+conditions. Id., at 65; see also id., at 69 (“Florida has not
+shown that it would benefit from increased pass-through
+operations under normal conditions”); id., at 62–63 (“[T]he
+potential benefits to Florida of increased flows . . . when
+the Corps is not in drought operations are uncertain,
+rendering the efficacy of any relief speculative”). Tellingly,
+the Special Master relied exclusively on this Court’s prec­
+edents applying the appreciable-benefit requirement. See
+id., at 24 (citing, inter alia, Idaho I, supra, at 392; Wash-
+ington, supra, at 523); Report 30 (same); id., at 27 (citing
+New Jersey, supra, at 345; Colorado I, supra, at 187). And
+Florida agreed that it had to present proof of some benefit.
+See, e.g., Florida’s Post-Trial Response Brief 63 (conceding
+that it had to “prove that additional flows from a . . . re­
+duction in Georgia’s consumption will result in meaningful
+benefits to the Bay and River”). In short, the Special
+Master correctly applied our precedents and required
+Florida to show that it would obtain some appreciable
+benefit from an equitable-apportionment decree.
+                                 2
+  The Court does not disagree that Florida failed to prove
+an appreciable benefit. Instead, it simply asserts that a
+decision on that question is “premature.” Ante, at 8. It is
+incredibly odd to conclude that a Special Master’s merits
+determination is “premature” after a full trial. The Court
+can draw that strange conclusion only by conflating the
+rules that govern our equitable-apportionment jurispru­
+dence and then faulting the Special Master for misapply­
+ing two rules that he never applied.
+  The Court criticizes the Special Master for applying “too
+strict a standard” when deciding the “ ‘threshold’ ” question
+whether the Court would be “able to fashion an appropri­
+ate equitable decree.” Ante, at 15. Although the Court’s
+reasoning is far from clear, it appears to mean one of two
+things. The Court either means that the Special Master
+
+
+18                    FLORIDA v. GEORGIA
+                      THOMAS, J., dissenting
+erred by denying relief on the ground that it was too diffi­
+cult to calculate the appropriate apportionment—the
+fourth rule mentioned above. Or, the Court means that
+the Special Master erred by denying relief on the ground
+that Florida could not prove Article III standing—the first
+rule mentioned above. But the Special Master did not
+deny relief for either of these two reasons.
+                                a
+   Both the Court and Florida suggest that the Special
+Master contravened this Court’s statement in Idaho II
+that “ ‘[u]ncertainties about the future . . . do not provide a
+basis for declining to fashion a decree.’ ” Ante, at 11–12, 35
+(quoting Idaho II, 462 U. S., at 1026); see also ante, at 13,
+18 (suggesting that the Special Master violated Idaho II
+by concluding that “ ‘the formulation of a workable decree
+is impossible’ ”); Brief for Plaintiff 30–31. But the Special
+Master nowhere contradicted this rule.
+   The rule from Idaho II is a rule about fashioning an
+appropriate remedy when the complaining State has
+prevailed on the merits. In Idaho II, the Special Master
+concluded that he could not determine Idaho’s entitlement
+to fish “for any past or future year” because “several un­
+known variables” made it too difficult to decide how many
+fish would be available to harvest at any given time.
+Special Master’s Report, O. T. 1982, No. 67, Orig., p. 30.
+The Special Master rejected Idaho’s proposed formula for
+calculating its entitlement because he could not under­
+stand the predictive models or mathematics involved in
+applying it. Id., at 40–42. Before this Court, Idaho objected
+to the Special Master’s conclusion, arguing that its
+proposed formula relied on procedures “that are either
+being currently employed by defendants or which involve
+simple mathematical computations.” Brief for Plaintiffs in
+O. T. 1982, No. 67, Orig., p. 82. The Court accepted Ida­
+ho’s argument, noting that a decree need not “always be
+
+
+                  Cite as: 585 U. S. ____ (2018)            19
+                      THOMAS, J., dissenting
+mathematically precise or based on definite present and
+future conditions” and that “Idaho’s proposed formula for
+apportioning the fish is one possible basis for a decree.”
+Idaho II, 462 U. S., at 1026. “Uncertainties about the
+future,” the Court explained, “do not provide a basis for
+declining to fashion a decree.” Ibid.
+  Unlike the Special Master in Idaho II, the Special Mas­
+ter in this case did not conclude that it was too difficult to
+calculate the amount of water that Florida should receive.
+As the Court acknowledges, ante, at 23, the Special Master
+assumed it was feasible to impose Florida’s requested cap
+on Georgia’s water use and “accept[ed] Florida’s estimates
+of the increased streamflow that would result from a
+consumption cap.” Report 67, n. 43; see id., at 34–35. But
+even if a cap on Georgia generated the additional water
+that Florida claimed it would (1,500 to 2,000 cubic feet per
+second), the Special Master concluded that it would not
+appreciably benefit Florida because it would not be passed
+through when Florida needed it. See id., at 47–48, 62–65,
+69. That is why the Special Master cited the appreciable-
+benefit rule from Idaho I, 444 U. S., at 392, and Washing-
+ton, 297 U. S., at 523. He did not fail to make reasonable
+predictions in shaping a remedy or otherwise contravene
+the rule from Idaho II.
+                                b
+  Florida alternatively contends that the Special Master
+applied the “redressability” requirement of Article III
+standing. See Brief for Plaintiff 29–32. At some points,
+the Court appears to agree with this characterization, as it
+describes the appreciable-benefit rule as an Article III
+standing requirement. See ante, at 13 (quoting the Article
+III standing rule from Wyoming v. Oklahoma, 502 U. S., at
+447, 452, Maryland v. Louisiana, 451 U. S., at 735–736,
+and Massachusetts v. Missouri, 308 U. S. 1, 15 (1939), and
+describing the appreciable-benefit rule from Kansas I and
+
+
+20                       FLORIDA v. GEORGIA
+                          THOMAS, J., dissenting
+Washington as a “[m]ore specifi[c]” articulation of that
+rule). This argument is incorrect.
+   As explained, the Special Master applied the ordinary
+balance-of-harms analysis and found that Florida had not
+demonstrated an appreciable benefit from a cap on Geor­
+gia’s use. Tellingly, the Special Master relied exclusively
+on cases conducting the balance-of-harms analysis. His
+Report does not cite any standing cases, or even mention
+“standing” or “Article III.” Neither do any of the pre-trial
+or post-trial briefs that the parties filed. True, the Special
+Master’s Report sometimes describes the appreciable-
+benefit requirement as a question of “redressability”—a
+word that is also associated with Article III standing. But
+the Special Master was merely following the parties’ lead,
+as they phrased the appreciable-benefit requirement in
+terms of “redress” throughout the litigation. See Tr. of
+Oral Arg. on Motion to Dismiss 29 (Florida admitting that
+it must show “that caps on consumption will . . . redress
+[its] harms” to “prov[e] its case”); Florida Pre-Trial Brief
+37–39 (describing how a consumption cap “can redress
+Florida’s worsening injuries” and “significantly benefit
+Florida’s ecology”); Georgia Post-Trial Brief 80–88 (de­
+scribing the appreciable-benefit aspect of the balance-of­
+harms test as a “redress” requirement); Georgia’s Post-
+Trial Response Brief 3, 7 (same); see also United States
+Post-Trial Brief 19 (taking no position “on whether Florida
+has proved that a consumption cap would produce enough
+additional [B]asin inflow at the right times to redress
+Florida’s alleged harm and justify the cost of imposing a
+consumption cap” (emphasis added)). That the parties and
+the Special Master adopted this shorthand does not
+change the Special Master’s analysis, which focused
+squarely on the appreciable-benefit requirement.6
+——————
+  6 The Court places great weight on the fact that the Special Master
+referred to redressability as a “threshold” requirement. See ante, at 8–
+
+
+                      Cite as: 585 U. S. ____ (2018)                      21
+                          THOMAS, J., dissenting
+                                     c
+    Because the Court wrongly assumes that the Special
+Master denied relief on the basis rejected in Idaho II or for
+lack of Article III standing, it faults the Special Master for
+imposing the higher burden of proof that governs the
+merits—i.e., “clear and convincing evidence.” See ante, at
+15–18.7 Of course, the far simpler explanation for why the
+Special Master applied the merits standard is that he was,
+in fact, making a decision about the merits, not about
+remedies or standing.
+    The Court also appears to fault the Special Master for
+addressing the appreciable-benefit requirement without
+first making several preliminary findings. The Court
+asserts that Special Masters must make specific factual
+determinations in every case about the harm that the
+complaining State suffered, the exact amount of water
+needed to remedy that harm, and a host of other factors.
+See ante, at 13–17.
+    The Court’s suggested order of operations, which it
+appears to invent out of thin air, would fundamentally
+transform our equitable-apportionment jurisprudence. It
+——————
+9, 15, 19. But showing an appreciable benefit is a “threshold” require­
+ment for prevailing under the balance-of-harms test, as a State that
+cannot show an appreciable benefit obviously cannot show that the
+balance of harms tilts in its favor. In other words, the Court need not
+engage in a full-scale balancing of benefits and harms if the party that
+bears the burden of proof has nothing to place on its side of the scale; it
+can reject that type of case at the “threshold.” That the Special Master
+used the word “threshold” does not suggest that he was doing anything
+other than applying the ordinary balance-of-harms test.
+   7 In faulting the Special Master for requiring clear and convincing
+evidence, the Court combines the rule from Idaho II with the balance-
+of-harms test from Kansas I, Washington, and Idaho I. See ante, at 18.
+The Court reconciles these precedents as follows: “[T]hese [cases] apply
+to the general availability of judicial relief—not to the details of a final
+decree or to the workability of a decree that will depend on those
+details.” Ibid. I do not understand this sentence, and I pity the liti­
+gants and Special Masters who will be forced to decipher it.
+
+
+22                    FLORIDA v. GEORGIA
+                       THOMAS, J., dissenting
+will require States to litigate (and this Court to resolve) a
+host of complex factual questions, even where the State
+seeking the apportionment is obviously not entitled to
+relief because it cannot show an appreciable benefit—a
+requirement that Florida agrees is necessary for it to
+prevail, see Florida Post-Trial Response Brief 63 (agreeing
+it must “prove that additional flows from a . . . reduction
+in Georgia’s consumption will result in meaningful bene­
+fits to the Bay and River”); Tr. of Oral Arg. on Motion to
+Dismiss 29 (admitting it must show “that caps on con­
+sumption will . . . redress [its] harms” to “prov[e] its case”).
+In no other area of the law do we require unnecessary
+findings and conclusions when a key element of the plain­
+tiff ’s case is missing. And we have not applied this rule in
+equitable apportionment cases either. See, e.g., Idaho II,
+462 U. S., at 1027–1029 (denying relief, despite the Spe­
+cial Master’s erroneous ruling on the requested remedy,
+because his findings also supported the conclusion that
+Idaho could not show injury and thus was not entitled to
+relief on the merits). The inefficiencies that this would
+create, and the costs it would impose on States, are obvi­
+ous. Yet the Court faults the Special Master for resolving
+the dispositive question in this case first, without jumping
+through a series of unnecessary hoops. This is precisely
+the opposite of what Special Masters should be doing and
+what this Court should be encouraging.
+                                3
+   Even if the Court is correct that the Special Master
+denied Florida relief for some reason other than the mer­
+its, there is no reason to send this case back for a do-over.
+As the Court acknowledges, “ ‘the ultimate responsibility
+for deciding what are correct findings of fact remains with
+us.’ ” Ante, at 18–19 (Colorado II, supra, at 317). We
+“must bring our independent judgment to bear based upon
+‘our own independent examination of the record.’ ” Kansas
+
+
+                     Cite as: 585 U. S. ____ (2018)                   23
+                         THOMAS, J., dissenting
+v. Missouri, 322 U. S. 213, 232 (1944). An independent
+examination of the record confirms that the Special Mas­
+ter was correct to find that the Corps would not change its
+operations during droughts if this Court capped Georgia’s
+water use and thus Florida would not benefit from a cap
+during droughts. See Part IV–B–1, infra. The Special
+Master also was correct to find that Florida presented no
+evidence of a benefit during nondroughts. See Part IV–B–
+2, infra. Those findings support a judgment in Georgia’s
+favor under the traditional balance-of-harms analysis.
+   It makes little sense to send this case back to the Spe­
+cial Master so that he can amend his Report to say “appre­
+ciable benefit” instead of “redress” and then send this case
+right back to this Court.8 That pointless exercise will only
+needlessly prolong this litigation. The Court’s subtle
+suggestion that Florida could present “additional evi­
+dence” on remand, ante, at 36, is not a satisfactory re­
+sponse. During their 18 months of discovery, the parties
+produced 7.2 million pages of documents, served 130 third-
+party subpoenas, issued more than 30 expert reports, and
+conducted nearly 100 depositions, including 29 expert
+depositions. Florida thus had a more-than-ample oppor­
+tunity to gather its evidence and then present it at a 1­
+month trial. Giving Florida another bite at the apple will
+likely yield no additional evidence, but it will be unfair to
+Georgia, which has already spent the time and resources
+to defeat the case that Florida chose to present. In short,
+we have all the evidence we need to decide this case now.
+——————
+  8 The Court concedes that Florida cannot prevail in this case unless it
+proves, by clear and convincing evidence, that it would obtain an
+appreciable benefit from an equitable apportionment. See ante, at 18
+(noting that the appreciable benefit test “ ‘goes to the merits’ of the
+equitable apportionment inquiry”); ante, at 19 (noting “a remand is
+necessary to conduct the equitable-balancing inquiry”); ante, at 36
+(noting that Florida must ultimately prevail in the balance of harms
+test).
+
+
+24                    FLORIDA v. GEORGIA
+                       THOMAS, J., dissenting
+We should have done so.
+                                B
+   Florida’s second and third objections—which challenge
+the Special Master’s finding that Florida had not met its
+burden under the balance-of-harms test—also fail. As
+explained, a State seeking to interfere with established
+uses must prove its case by clear and convincing evi­
+dence—a “much greater” burden than the one normally
+imposed in civil cases. Connecticut, 282 U. S., at 669. To
+meet this burden, Florida must present enough evidence
+to leave this Court with an “abiding conviction that the
+truth of its factual contentions are ‘highly probable’ ” and
+to “instantly til[t] the evidentiary scales in the affirmative
+when weighed against the evidence . . . offered in opposi­
+tion.” Colorado II, supra, at 316. As the Special Master
+found, Florida has not met this burden. The evidence
+demonstrates that, if this Court imposed Florida’s pro­
+posed cap on Georgia, Florida would not receive an appre­
+ciable amount of additional water during droughts. And
+Florida would not benefit from the additional water that it
+received during nondroughts.
+                                1
+   Florida did not demonstrate that, if this Court caps
+Georgia’s water use, Florida would receive a meaningful
+amount of additional water during droughts. For Florida
+to receive more water, the Corps must change its current
+operating procedures. But the Corps is not a party, and it
+would not be bound by any decree issued by this Court.
+Because Florida cannot ask this Court to require the
+Corps to change its existing operations, it must prove by
+clear and convincing evidence that the Corps will volun­
+tarily make the necessary changes. Florida cannot do so.
+The United States’ representations in this litigation and
+the Corps’ history and practice in the Basin all reveal that
+
+
+                  Cite as: 585 U. S. ____ (2018)           25
+                      THOMAS, J., dissenting
+the Corps will not change its existing practices, even if
+this Court caps Georgia’s water use.
+   Throughout this litigation, the United States has con­
+sistently maintained that the Corps “would not generally
+expect” to release more water into Florida during
+droughts, even if Florida convinced this Court to cap
+Georgia’s use. Brief for United States 28; see also United
+States Post-Trial Brief 17–18 (“The Corps expects [during
+drought operations] that Apalachicola River flows would
+be very similar with or without a consumption cap until
+enough water is stored to return the system to normal
+operations”). This is because “[B]asin inflow . . . has his­
+torically not been the primary factor in the Corps’ deci­
+sionmaking process for making additional releases above
+5[,]000 [cubic feet per second] during drought operations.”
+Brief for United States 28. The Corps’ “overriding” priori­
+ties during droughts are preserving enough water “to
+comply with the [Endangered Species Act] while avoiding
+catastrophic depletion of storage and refilling [its] reser­
+voirs as rapidly as possible.” Id., at 27. Deviations are
+made only “as needed to serve congressionally authorized
+project purposes” or “in emergency circumstances.” Ibid.
+Since a general need to provide more water to Florida does
+not fall within either exception, the additional water that
+would flow into the Basin would not translate into addi­
+tional flows for Florida. See id., at 29.
+   The United States’ representations are consistent with
+the Corps’ historical practice.          During droughts, the
+amount of water entering the Basin is almost always
+insufficient to meet the Corps’ minimum-flow requirement
+of 5,000 cubic feet per second. See Bedient 24–27. Thus, a
+cap on Georgia would simply decrease the amount of water
+that the Corps must release from storage; it would not
+increase the amount of water flowing into the Apalachicola
+River. Id., at 21, 25–26. And once drought operations are
+triggered, the Corps limits its releases to around 5,000
+
+
+26                      FLORIDA v. GEORGIA
+                         THOMAS, J., dissenting
+cubic feet per second regardless of the amount of water
+entering the Basin. See United States Post-Trial Brief 9;
+Brief for United States 24–28. Indeed, during past
+drought operations, even when Basin inflow varied by tens
+of thousands of cubic feet per second, the measured flow
+from Jim Woodruff Dam into the Apalachicola River has
+consistently remained around 5,000 cubic feet per second.
+See Bedient 23, 62–63.9 Further, the models presented by
+Georgia’s expert showed that, if Florida’s proposed caps
+had been in place during the drought years of 2007 and
+2012, Florida would not have received appreciable addi­
+tional flows when the water was most needed. Cutting
+Georgia’s use in half would have produced additional flows
+for only 14 to 19 days in the summer and fall of 2007, and
+would not have produced any additional flows during the
+summer or fall of 2012. Id., at 27–30; see also id., at 38
+(showing the same for 2011).
+   Florida argues that the Corps might exercise its discre­
+tion to ensure that additional water reaches Florida dur­
+ing droughts. Brief for Plaintiff 40–44. But Florida sup­
+ports this claim with nothing more than speculation. See
+Colorado II, 467 U. S., at 320 (explaining that a State
+cannot carry its burden in an equitable-apportionment
+action except “with specific evidence” and that “[m]ere
+assertions . . . will not do”). All available evidence sug­
+gests that the Corps would not exercise its discretion to
+release more water into the Apalachicola River during
+droughts.
+   Before this Court, the United States expressly rejected
+——————
+  9 It makes no difference whether the additional water generated by a
+cap on Georgia would enter the Flint River. Contra, Brief for Plaintiff
+26, 38–39. If additional water entered the Flint River during droughts,
+the Corps would release less water from its upstream reservoirs on the
+Chattahoochee River to maintain a consistent flow of around 5,000
+cubic feet per second from the Jim Woodruff Dam at Lake Seminole.
+See Bedient 24–26; Brief for United States 24–25.
+
+
+                  Cite as: 585 U. S. ____ (2018)             27
+                      THOMAS, J., dissenting
+Florida’s contention that “the Corps is likely to exercise its
+authority within existing operational protocols to provide
+Florida with additional flows produced by a cap on Geor­
+gia’s consumption.” Brief for United States 23. Basin
+inflows, it explained, simply do not dictate how much
+water the Corps releases into the Apalachicola River.
+Ibid. And the Corps could not make discretionary releases
+“that [are] not specifically provided for in the [water­
+control manual], not specifically authorized by Congress or
+mandated by general statute, [and not] required by a court
+order directed to the Corps,” without raising “significant
+and difficult question[s]” about whether it had exceeded
+its authority. Id., at 29.
+   Florida also suggests that the Corps might amend its
+water-control manual in response to an equitable decree
+from this Court. Florida’s only support for this argument
+is a statement from the Corps that it will “ ‘take . . . into
+account’ ” this Court’s decision. Brief for Plaintiff 44 (quot­
+ing Record of Decision Adopting Proposed Action Alterna­
+tive for Implementation of Updated Apalachicola­
+Chattahoochee-Flint River Basin Master Manual 18 (Mar.
+30, 2017)). But this vague statement was not a promise
+that the Corps will change its procedures, and there are a
+host of reasons to doubt that the Corps would voluntarily
+change its procedures just because this Court capped
+Georgia’s use.
+   For one, the Corps has already tried procedures that
+passed more water to Florida during droughts. The re­
+sults were dreadful: Reservoir storage plummeted to
+dangerously low levels, putting all of the Corps’ authorized
+project purposes at risk. Zeng 45–46. Since that time, the
+Corps’ operating protocols have become increasingly pro­
+tective of reservoir storage, particularly during droughts.
+As the Corps explained, it intends to pursue “ ‘a more
+proactive approach to conserve reservoir storage as drier
+conditions develop in the [B]asin’ ” because the “[s]torage
+
+
+28                   FLORIDA v. GEORGIA
+                      THOMAS, J., dissenting
+of water during drought operations is critically important
+to retain sufficient water in the system.” Brief for United
+States 11.
+   For another, the last time the Corps attempted to
+change its water-control manual, it required more than
+two decades of litigation and administrative review to
+finalize those changes. Indeed, the main reason that the
+United States chose not to participate in this case is be­
+cause it wanted “to avoid being bound by a decree that
+could directly affect the Corps operations before the Corps
+had a chance to finally complete its process of updating
+the [water-control manual].” Id., at 32. Given this, there
+is no reason to think that the Corps will volunteer to
+undertake the process of updating its manual again—
+especially so soon after it completed this arduous task.
+   Florida’s speculation is even more suspect in view of the
+changes that the Corps would have to make to benefit
+Florida during droughts. To even propose a new water-
+control manual, the Corps must “examin[e] . . . the con­
+gressionally authorized purposes,” “determin[e] . . . how
+providing additional flows will impact those purposes
+[and] other laws,” and “supplemen[t] documentation of
+environmental impacts as required by [the National Envi­
+ronmental Policy Act].” Id., at 31. Providing more water
+to Florida does not help the Corps satisfy any of these
+legal requirements. It is not one of the congressionally
+authorized purposes, see id., at 29, 31–32, and, by drop­
+ping its lawsuit against the Corps, Florida now accepts
+that a minimum flow of 5,000 cubic feet per second is
+sufficient to comply with the Endangered Species Act.
+Florida cannot claim that the law requires the Corps to
+provide it with more water. And the idea that the Corps
+will change its operating protocols to serve an unauthor­
+ized purpose when doing so could jeopardize its authorized
+purposes is simply not plausible.
+   Taking a different tack, the Court suggests that addi­
+
+
+                      Cite as: 585 U. S. ____ (2018)                  29
+                          THOMAS, J., dissenting
+tional water will pass through to Florida even if the Corps
+does not change its manual. Specifically, the Court con­
+cludes that the additional water will pass through to
+Florida during droughts so long as the Corps does not
+enter drought operations. See ante, at 25–27. According
+to the Court, the Corps will allow additional water to pass
+through to Florida whenever the natural flow of the
+Apalachicola River is between 5,000 and 10,000 cubic feet
+per second during normal or “nondrought” operations. See
+ante, at 25–26.
+    The Court’s conclusion depends on the premise that,
+during droughts, the natural streamflow into Florida is
+“between 5,000 and 10,000” cubic feet per second. Ibid.
+That premise is false.10 During droughts, the natural
+streamflow in the Apalachicola River is usually less than
+5,000 cubic feet per second. Supra, at 25; see also Bedient
+23 (showing that Basin inflow in 2012 was generally below
+——————
+   10 The Court contends that I have confused “droughts” and “drought
+operations.” See ante, at 29–30. I have not, but the Court has. During
+droughts—periods in which there is a “lack of rain,” 4 Oxford English
+Dictionary 1076 (2d ed. 1989)—the amount of water that naturally
+flows into the Basin rivers usually falls below 5,000 cubic feet per
+second, particularly in the summer and fall months. See infra, at 29–
+31. Since the Corps must ensure that the Apalachicola River always
+receives at least 5,000 cubic feet per second, the Corps augments the
+natural streamflow during droughts—even when the Corps is not in
+drought operations. Bedient 21. Thus, any additional water that a cap
+on Georgia generates during droughts would only increase streamflow
+into the Apalachicola River if it caused the natural streamflow to
+exceed 5,000 cubic feet per second. If the additional water increased
+streamflow to some amount less than that, then it would not increase
+flows in the Apalachicola River; it would simply decrease the amount of
+water that the Corps must release from its reservoirs. See ibid. Thus,
+as Georgia’s expert explained, “reducing Georgia’s consumptive use
+would only lead to additional . . . flow into Florida under specific and
+limited circumstances. First, the Corps cannot be in Drought Opera­
+tions or [Extreme Drought Operations]. Second, Basin Inflow cannot be
+below 5,000 [cubic feet per second], even if the Corps is in normal
+operations.” Id., at 26 (emphasis added).
+
+
+30                       FLORIDA v. GEORGIA
+                          THOMAS, J., dissenting
+5,000 cubic feet per second between June and December);
+id., at 27 (same for 2007). To maintain a minimum flow of
+5,000 cubic feet per second during droughts, the Corps
+must artificially augment the River’s natural flow—even
+when the Corps is in nondrought operations. Id., at 21.11
+For instance, during the 2011 drought (when the Corps
+was in nondrought operations), “Basin Inflow was below
+5,000 [cubic feet per second] for most of th[e] period [be­
+tween June and December], and the Corps was ‘augment­
+ing’ streamflow by releasing water from the reservoirs to
+satisfy the 5,000 [cubic feet per second] minimum.” Id., at
+15; see also id., at 27 (same for 2007). Once the Corps
+adds enough water to reach 5,000 cubic feet per second,
+however, it generally adds no more than that. Id., at 21.
+To give a concrete example, if the natural flows in the
+Apalachicola River were 2,600 cubic feet per second, then
+the Corps would release 2,400 cubic feet per second from
+its reservoirs. See id., at 25–26. And if a cap on Georgia
+increased the River’s natural flow to 4,100 cubic feet per
+second, the Corps would release 900 cubic feet per second.
+See ibid. In either case, the total flow on the Apalachicola
+River would remain the same: 5,000 cubic feet per second.
+Thus, so long as the natural flows remain significantly
+——————
+   11 The Court contends that additional water from a cap on Georgia
+likely would have passed through to Florida in the summer of 2009.
+See ante, at 26–27. But this evidence is irrelevant. As Florida’s own
+expert testified, “[t]he year 2009 was a relatively wet year.” Horn­
+berger 49; accord, Bedient 45. And Florida has only asked this Court to
+reduce Georgia’s consumption by 1,500 to 2,000 cubic feet per second
+during “severe drought years,” which 2009 was not. Hornberger 58.
+   The Court also contends that additional water from a cap on Georgia
+likely would have passed through to Florida in the summers of 2016
+and 2017. See ante, at 26–27, 32. The Court’s data was generated
+simultaneously with or after most of the testimony in this case, so the
+experts do not speak to it. But even considering the data that the
+Court has found, I suspect that 2016 and 2017 are not “severe drought
+years” either and, thus, are irrelevant.
+
+
+                     Cite as: 585 U. S. ____ (2018)                    31
+                         THOMAS, J., dissenting
+less than 5,000 cubic feet per second, a cap on Georgia
+would only decrease the amount of water that the Corps
+releases from storage; it would not increase the overall
+amount of water flowing into the Apalachicola River.
+   For this reason, even when the Corps is in nondrought
+operations, a cap on Georgia would generally not increase
+flows to Florida. Georgia’s expert proved that fact with
+evidence about past droughts where drought operations
+were not in effect. Using data from the 2007 drought,
+Georgia’s expert concluded that the additional water from
+a cap on Georgia would be passed through to Florida
+almost entirely during the winter and spring months
+“when water in the [Basin] would be relatively plentiful.”
+Id., at 28. Florida would receive the additional water from
+a cap on Georgia only 19 days “during the summer and fall
+months, when streamflow was at its lowest.” Ibid.; accord,
+id., at 40. Data from the 2011 drought showed similar
+results. See id., at 37 (“[During] dry years (e.g., 2007 and
+2011), . . . even significant changes in Georgia’s consump­
+tive use would lead to virtually no change in state-line
+flows during the low-flow months (e.g., June, July, August,
+September)”).12 Florida has not shown that these infre­
+quent and sporadic additional flows during droughts
+would appreciably benefit it.13
+——————
+  12 The Court claims that “Florida’s proposed consumption cap . . . will
+mean (consistent with the testimony of the very Georgia expert that the
+dissent so frequently quotes) that there will be significantly fewer such
+days [of drought operations].” Ante, at 30. I assume that the “Georgia
+expert” in this sentence is Dr. Philip Bedient. But I am aware of no
+testimony from Dr. Bedient that supports the Court’s assertion, and the
+Court cites none.
+  13 If the Corps had been in drought operations, the results would not
+have differed much, demonstrating that whether the Corps is in
+drought or nondrought operations is not dispositive. Had the Corps
+been in drought operations during 2007, for instance, Florida would
+have received the additional water from a cap on Georgia during 14
+days in the summer and fall—a difference of only five days as compared
+
+
+32                     FLORIDA v. GEORGIA
+                        THOMAS, J., dissenting
+   The Court hypothesizes that a cap on Georgia could
+benefit Florida by decreasing the length of drought opera­
+tions and by increasing the number of days that the Corps
+can meet its minimum-flow requirements of 5,000 cubic
+feet per second (during normal drought operations) and
+4,500 cubic feet per second (during extreme drought oper­
+ations). Ante, at 24, 27–29. The Court cites the United
+States’ assertion in its brief that increased Basin inflows
+“ ‘would generally benefit the [Basin] system by delaying
+the onset of drought operations, by allowing the Corps to
+meet the 5000 [cubic feet per second] minimum flow longer
+during extended drought, and by quickening the resump­
+tion of normal operations.’ ” Ante, at 24 (quoting Brief for
+United States 28); see also ante, at 28 (quoting a similar
+statement in the United States Post-Trial Brief 18–19). Of
+course, statements in briefs are not evidence. And, as the
+United States recognizes in the very next sentence, Flor-
+ida would have to show that these “benefits are of suffi­
+cient quantity to justify relief in this case.” Brief for United
+States as Amicus Curiae 28 (Aug. 7, 2017); see also
+United States Post-Trial Brief 19 (Dec. 15, 2016) (taking
+“no position on whether Florida has proven that a con­
+sumption cap would produce enough additional [B]asin
+inflow at the right times to redress Florida’s alleged harm
+and justify the cost of imposing a consumption cap”).
+   Florida offered no proof that a cap on Georgia would
+produce any appreciable benefit of this kind. And the
+evidence presented at trial suggests that these proposed
+benefits are wholly speculative. As explained above, the
+benefits to Florida from a cap on Georgia do not meaning­
+fully change, regardless of whether the Corps enters
+drought operations. And there is no evidence that the
+Corps has had trouble meeting its minimum flow require­
+ments during recent droughts, when Georgia’s use re­
+——————
+to nondrought operations. Bedient 28.
+
+
+                   Cite as: 585 U. S. ____ (2018)          33
+                       THOMAS, J., dissenting
+mained uncapped. Even during the severe droughts of
+2011 and 2012, the Corps consistently maintained flows of
+5,000 cubic feet per second, never entered extreme
+drought operations, and never reduced flows on the Apa­
+lachicola River to 4,500 cubic feet per second. See Bedient
+14. And the Corps is even more unlikely to run out of
+water during future droughts, given that its current man­
+ual is more proactive in conserving water during droughts.
+See Brief for United States 11–12.
+   In sum, Florida has not shown that it is “ ‘highly proba­
+ble’ ” that a cap on Georgia will result in meaningful addi­
+tional flows in the Apalachicola River during droughts.
+Colorado II, 467 U. S., at 316. It is thus not entitled to an
+equitable apportionment on this basis.
+                                 2
+   Because Florida will not receive additional water during
+droughts, it argues that it will benefit from additional
+water during nondroughts. As the Special Master correctly
+found, however, Florida presented no evidence to support
+such an assertion. That is because no such evidence ex­
+ists. Florida would not benefit from additional water
+during nondroughts, because flows on the Apalachicola
+River during nondroughts are already plentiful.
+   The Court does not contend that Florida would benefit
+from additional water during nondroughts, and Florida all
+but conceded the point below. When framing its case
+before the Special Master, Florida requested only that the
+Court order Georgia to reduce its water use during
+droughts; Florida did not ask the Court to reduce Geor­
+gia’s current water use during nondroughts. See Florida
+Pre-trial Brief 5; Hornberger 58. Consistent with this
+request, Florida’s evidence focused exclusively on the
+harms that it suffered during droughts. Florida’s hydrol­
+ogy expert testified extensively about droughts. See id., at
+2–3, 15–26, 41–46, 49–50. He testified that the Basin
+
+
+34                    FLORIDA v. GEORGIA
+                       THOMAS, J., dissenting
+usually receives “a rather good amount of a rainfall,” so
+“major problems arise” only during “the low rainfall
+years.” Id., at 13. That is why he limited his testimony to
+the “impacts of [Georgia’s] consumption during drought.”
+Id., at 15; see also id., at 20–22.
+    Florida’s other experts followed this drought-centric
+approach. For instance, one of Florida’s experts on the
+harm to Florida’s oysters connected that harm to “severe
+drought,” which “reduced the discharge of fresh water
+from the Apalachicola River.” Updated PFDT of David
+Kimbro 14. Florida’s expert on the harm to sturgeon,
+mussels, and tupelo trees in the Apalachicola River simi­
+larly emphasized “dry periods of episodically dry years.”
+Allan 17; see also id., at 25–27 (emphasizing the effects of
+sustained flows below 6,000 cubic feet per second). As one
+Florida expert put it, “[t]he discussions that [he] had,
+especially with the biologists and the hydrologists, were
+largely almost exclusively focused on dry years” and he
+“c[ould]n’t think of any” “issues [that] other experts raised
+about average or wet-year problems.” 11 Trial Tr. 2811.
+    The other evidence presented at trial leaves little doubt
+that Florida would not benefit from additional water
+during nondroughts. For starters, when the Basin is not
+experiencing a drought, water is plentiful. Florida’s ex­
+pert testified that “[a]verage rainfall in the portion of the
+. . . Basin above [Lake Seminole] is 51.5 inches per year, a
+rather good amount of a rainfall.” Hornberger 13. As a
+result, average monthly flows in the Apalachicola River
+are nearly 20,000 cubic feet per second. Direct Testimony
+of Sorab Panday 30 (Panday). More than 95% of the time,
+Apalachicola River flows exceed 6,000 cubic feet per sec­
+ond. Brief for Unites States 12. And it is not unusual for
+flows in the Apalachicola River to exceed 50,000 cubic feet
+per second in the wetter months. See Panday 30. Even
+during drought years, flows in nonsummer months are
+relatively high. For instance, in the severe drought year of
+
+
+                   Cite as: 585 U. S. ____ (2018)         35
+                       THOMAS, J., dissenting
+2012, flow in the late winter and early spring regularly
+exceeded 10,000 cubic feet per second. See Bedient 29.
+   Almost all of the additional water generated by a cap on
+Georgia would reach Florida during these high flow peri­
+ods, when it would provide no benefit to Florida. See id.,
+at 27–30. Take, for instance, the oysters in Apalachicola
+Bay—the only harm to Florida that the Special Master
+found in this case. See Report 31–32. Florida’s own ex­
+perts testified that, even if Georgia cut its agricultural
+water use in half during droughts, the resulting increase
+in Apalachicola River flows would have a negligible effect
+during nondroughts. During years of normal rainfall and
+the wetter months of drought years, the effect of additional
+flows on the Bay’s salinity is less than one part per thou­
+sand. See 7 Trial Tr. 1768–1775. This immeasurable
+effect on the Bay’s salinity would have no appreciable
+impact on oyster biomass. See White 50–51 (showing a
+less than 0.6% impact on oyster biomass, except in drier
+months and drought years).
+   Assuming Florida’s claims of harm to mussels, sturgeon,
+and tupelo trees have merit—something the Special Mas­
+ter never found—the harm to those species also would not
+be remedied by increased flows during nondroughts.
+Florida’s expert on these species opined that significant
+harm to mussels occurs when flows drop below a threshold
+of 6,000 cubic feet per second for more than seven consecu­
+tive days between June 1 and September 30, Allan 33;
+that significant harm to sturgeons occurs when flows drop
+below a threshold of 7,000 cubic feet per second for more
+than 60 total days between May 1 and September 30, id.,
+at 41; and that significant harm to tupelo trees occurs
+when flows drop below a threshold of 14,100 cubic feet per
+second for more than 90 consecutive days between March
+20 and September 22, id., at 33, 41, 44–45. Accepting
+these statements as true, passing more water through to
+Florida during nondroughts would not do these species
+
+
+36                   FLORIDA v. GEORGIA
+                      THOMAS, J., dissenting
+any good. All would still suffer the same harms during the
+summers of drought years when flows remain fixed
+at 5,000 cubic feet per second because of the Corps’
+operations.
+   If we contrast the de minimis benefits that Florida
+might receive from small amounts of additional water
+during nondroughts with the massive harms that Georgia
+would suffer if this Court cut its water use in half during
+droughts, it is clear who should prevail in this case. Flori-
+da’s expert estimated that a cap on Georgia would have an
+“[i]ncremental [f]iscal [c]ost” of $35.2 million per year.
+Sunding 44. This figure included only additional costs that
+would require “the [Georgia] legislature . . . to appropriate
+money.” 11 Trial Tr. 2791. The real cost of such a cap,
+which includes nongovernmental costs like welfare losses,
+would range anywhere from $191 million, id., at 2787;
+Stavins 31, to more than $2 billion per year, id., at 2. And
+the cap would trigger resulting losses in Georgia’s gross
+regional product and employment, totaling around $322
+million and 4,173 jobs annually. Id., at 40. Regardless of
+the measure used, this harm dwarfs the value of Florida’s
+entire fishing industry in Apalachicola Bay, which pro-
+duces annual revenues of $11.7 million. Id., at 16. And it
+greatly outweighs the value of the additional oysters that
+a cap on Georgia’s use might produce—i.e., no more than a
+few hundred thousand dollars. Id., at 52. Imposing an
+enormously high cost on one State so that another State
+can achieve a hollow victory is “not the high equity that
+moves the conscience of the court in giving judgment
+between states.” Washington, 297 U. S., at 523.
+                         *     *       *
+   In the final analysis, Florida has not shown that it will
+appreciably benefit from a cap on Georgia’s water use.
+Absent such a showing, the balance of harms cannot tip in
+Florida’s favor. Accordingly, I would have overruled Flor-
+
+
+                  Cite as: 585 U. S. ____ (2018)        37
+                      THOMAS, J., dissenting
+ida’s objections to the Special Master’s Report and denied
+Florida’s request for relief. I respectfully dissent.

@@ -1,0 +1,1214 @@
+(Slip Opinion)                OCTOBER TERM, 2016                                    1
+                                         Syllabus
+          NOTE: Where it is feasible, a syllabus (headnote) will be released, as is
+        being done in connection with this case, at the time the opinion is issued.
+        The syllabus constitutes no part of the opinion of the Court but has been
+        prepared by the Reporter of Decisions for the convenience of the reader.
+        See United States v. Detroit Timber & Lumber Co., 200 U. S. 321, 337.
+SUPREME COURT OF THE UNITED STATES
+                                         Syllabus
+     SCA HYGIENE PRODUCTS AKTIEBOLAG ET AL. v.
+       FIRST QUALITY BABY PRODUCTS, LLC, ET AL.
+ CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR
+                              THE FEDERAL CIRCUIT
+    No. 15–927.      Argued November 1, 2016—Decided March 21, 2017
+In 2003, petitioners (collectively, SCA) notified respondents (collective-
+   ly, First Quality) that their adult incontinence products infringed an
+   SCA patent. First Quality responded that its own patent antedated
+   SCA’s patent and made it invalid. In 2004, SCA sought reexamina-
+   tion of its patent in light of First Quality’s patent, and in 2007, the
+   Patent and Trademark Office confirmed the SCA patent’s validity.
+   SCA sued First Quality for patent infringement in 2010. The District
+   Court granted summary judgment to First Quality on the grounds of
+   equitable estoppel and laches. While SCA’s appeal was pending, this
+   Court held that laches could not preclude a claim for damages in-
+   curred within the Copyright Act’s 3-year limitations period. Petrella
+   v. Metro-Goldwyn-Mayer, Inc., 572 U. S. ___, ___. A Federal Circuit
+   panel nevertheless affirmed the District Court’s laches holding based
+   on Circuit precedent, which permitted laches to be asserted against a
+   claim for damages incurred within the Patent Act’s 6-year limitations
+   period, 35 U. S. C. §286. The en banc court reheard the case in light
+   of Petrella and reaffirmed the original panel’s laches holding.
+Held: Laches cannot be invoked as a defense against a claim for dam-
+   ages brought within §286’s 6-year limitations period. Pp. 3–16.
+      (a) Petrella’s holding rested on both separation-of-powers principles
+   and the traditional role of laches in equity. A statute of limitations
+   reflects a congressional decision that timeliness is better judged by a
+   hard and fast rule instead of a case-specific judicial determination.
+   Applying laches within a limitations period specified by Congress
+   would give judges a “legislation-overriding” role that exceeds the Ju-
+   diciary’s power. 572 U. S., at ___. Moreover, applying laches within
+   a limitations period would clash with the gap-filling purpose for
+
+
+2         SCA HYGIENE PRODUCTS AKTIEBOLAG v. FIRST
+                     QUALITY BABY PRODUCTS, LLC
+                                 Syllabus
+  which the defense developed in the equity courts. Pp. 3–5.
+     (b) Petrella’s reasoning easily fits §286. There, the Court found in
+  the Copyright Act’s language a congressional judgment that a claim
+  filed within three years of accrual cannot be dismissed on timeliness
+  grounds. 572 U. S., at ___. By that same logic, §286 of the Patent
+  Act represents Congress’s judgment that a patentee may recover
+  damages for any infringement committed within six years of the fil-
+  ing of the claim.
+     First Quality contends that this case differs from Petrella because a
+  true statute of limitations runs forward from the date a cause of ac-
+  tion accrues, whereas §286’s limitations period runs backward from
+  the filing of the complaint. However, Petrella repeatedly character-
+  ized the Copyright Act’s limitations period as running backward from
+  the date the suit was filed. First Quality also contends that a true
+  statute of limitations begins to run when the plaintiff discovers a
+  cause of action, which is not the case with §286’s limitations period,
+  but ordinarily, a statute of limitations begins to run on the date that
+  the claim accrues, not when the cause of action is discovered. Pp. 5–
+  8.
+     (c) The Federal Circuit based its decision on the idea that §282 of
+  the Patent Act, which provides for “defenses in any action involving
+  the validity or infringement of a patent,” creates an exception to §286
+  by codifying laches as such a defense, and First Quality argues that
+  laches is a defense within §282(b)(1) based on “unenforceability.”
+  Even assuming that §282(b)(1) incorporates a laches defense of some
+  dimension, it does not necessarily follow that the defense may be in-
+  voked to bar a claim for damages incurred within the period set out
+  in §286. Indeed, it would be exceedingly unusual, if not unprecedent-
+  ed, if Congress chose to include in the Patent Act both a statute of
+  limitations for damages and a laches provision applicable to a dam-
+  ages claim. Neither the Federal Circuit, nor any party, has identified
+  a single federal statute that provides such dual protection against
+  untimely claims. Pp. 8–9.
+     (d) The Federal Circuit and First Quality rely on lower court patent
+  cases decided before the 1952 Patent Act to argue that §282 codified a
+  pre-1952 practice of permitting laches to be asserted against damages
+  claims. But the most prominent feature of the relevant legal land-
+  scape at that time was the well-established rule that laches cannot be
+  invoked to bar a claim for damages incurred within a limitations pe-
+  riod specified by Congress. In light of this rule, which Petrella con-
+  firmed and restated, 572 U. S., at ___, nothing less than a broad and
+  unambiguous consensus of lower court decisions could support the in-
+  ference that §282(b)(1) codifies a very different patent-law-specific
+  rule. Pp. 9–10.
+
+
+                       Cite as: 580 U. S. ____ (2017)                    3
+                                 Syllabus
+     (e) The Federal Circuit and First Quality rely on three types of cas-
+  es: (1) pre-1938 equity cases; (2) pre-1938 claims at law; and (3) cases
+  decided after the merger of law and equity in 1938. None of these es-
+  tablishes a broad, unambiguous consensus in favor of applying laches
+  to damages claims in the patent context.
+     Many of the pre-1938 equity cases do not even reveal whether the
+  plaintiff asked for damages, and of the cases in which damages were
+  sought, many merely suggest in dicta that laches might limit damag-
+  es. The handful of cases that apply laches against a damages claim
+  are too few to establish a settled, national consensus. In any event,
+  the most that can possibly be gathered from a pre-1938 equity case is
+  that laches could defeat a damages claim in an equity court, not that
+  the defense could entirely prevent a patentee from recovering damag-
+  es.
+     Similarly, even if all three pre-1938 cases at law cited by First
+  Quality squarely held that laches could be applied to a damages
+  claim within the limitations period, that number would be insuffi-
+  cient to overcome the presumption that Congress legislates against
+  the background of general common-law principles. First Quality ar-
+  gues that the small number of cases at law should not count against
+  its position because there were few patent cases brought at law after
+  1870, but it is First Quality’s burden to show that Congress departed
+  from the traditional common-law rule.
+     As for the post-1938 patent case law, there is scant evidence sup-
+  porting First Quality’s claim that courts continued to apply laches to
+  damages claims after the merger of law and equity. Only two Courts
+  of Appeals held that laches could bar a damages claim, and that does
+  not constitute a settled, uniform practice of applying laches to dam-
+  ages claims. Pp. 11–15.
+     (f) First Quality’s additional arguments are unconvincing and do
+  not require extended discussion. It points to post-1952 Court of Ap-
+  peals decisions holding that laches can be invoked as a defense
+  against a damages claim, but nothing that Congress has done since
+  1952 has altered §282’s meaning. As for the various policy argu-
+  ments presented here, this Court cannot overrule Congress’s judg-
+  ment based on its own policy views. Pp. 15–16.
+807 F. 3d 1311, vacated in part and remanded.
+  ALITO, J., delivered the opinion of the Court, in which ROBERTS, C. J.,
+and KENNEDY, THOMAS, GINSBURG, SOTOMAYOR, and KAGAN, JJ., joined.
+BREYER, J., filed a dissenting opinion.
+
+
+                        Cite as: 580 U. S. ____ (2017)                            1
+                              Opinion of the Court
+     NOTICE: This opinion is subject to formal revision before publication in the
+     preliminary print of the United States Reports. Readers are requested to
+     notify the Reporter of Decisions, Supreme Court of the United States, Wash-
+     ington, D. C. 20543, of any typographical or other formal errors, in order
+     that corrections may be made before the preliminary print goes to press.
+SUPREME COURT OF THE UNITED STATES
+                                    _________________
+                                     No. 15–927
+                                    _________________
+    SCA HYGIENE PRODUCTS AKTIEBOLAG, ET AL.,
+          PETITIONERS v. FIRST QUALITY BABY
+                       PRODUCTS, LLC, ET AL.
+  ON WRIT OF CERTIORARI TO THE UNITED STATES COURT OF
+                APPEALS FOR THE FEDERAL CIRCUIT
+                                 [March 21, 2017]
+   JUSTICE ALITO delivered the opinion of the Court.
+We return to a subject that we addressed in Petrella v.
+Metro-Goldwyn-Mayer, Inc., 572 U. S. ___ (2014): the
+relationship between the equitable defense of laches and
+claims for damages that are brought within the time
+allowed by a statute of limitations. In Petrella, we held
+that laches cannot preclude a claim for damages incurred
+within the Copyright Act’s 3-year limitations period. Id.,
+at ___ (slip op., at 1). “[L]aches,” we explained, “cannot be
+invoked to bar legal relief ” “[i]n the face of a statute of
+limitations enacted by Congress.” Id., at ___ (slip op., at
+13). The question in this case is whether Petrella’s reason-
+ing applies to a similar provision of the Patent Act, 35
+U. S. C. §286. We hold that it does.
+                                            I
+   Petitioners SCA Hygiene Products Aktiebolag and SCA
+Personal Care, Inc. (collectively, SCA), manufacture and
+sell adult incontinence products. In October 2003, SCA
+sent a letter to respondents (collectively, First Quality),
+alleging that First Quality was making and selling prod-
+
+
+2        SCA HYGIENE PRODUCTS AKTIEBOLAG v. FIRST
+                  QUALITY BABY PRODUCTS, LLC
+                          Opinion of the Court
+ucts that infringed SCA’s rights under U. S. Patent No.
+6,375,646 B1 (’646 patent). App. 54a. First Quality re-
+sponded that one of its patents—U. S. Patent No.
+5,415,649 (Watanabe patent)—antedated the ’646 patent
+and revealed “the same diaper construction.” Id., at 53a.
+As a result, First Quality maintained, the ’646 patent was
+invalid and could not support an infringement claim. Ibid.
+SCA sent First Quality no further correspondence regard-
+ing the ’646 patent, and First Quality proceeded to develop
+and market its products.
+   In July 2004, without notifying First Quality, SCA
+asked the Patent and Trademark Office (PTO) to initiate a
+reexamination proceeding to determine whether the ’646
+patent was valid in light of the Watanabe patent. Id., at
+49a–51a. Three years later, in March 2007, the PTO
+issued a certificate confirming the validity of the ’646
+patent.
+   In August 2010, SCA filed this patent infringement
+action against First Quality. First Quality moved for
+summary judgment based on laches and equitable estop-
+pel, and the District Court granted that motion on both
+grounds. 2013 WL 3776173, *12 (WD Ky., July 16, 2013).
+   SCA appealed to the Federal Circuit, but before the
+Federal Circuit panel issued its decision, this Court de-
+cided Petrella. The panel nevertheless held, based on a Fed-
+eral Circuit precedent, A. C. Aukerman Co. v. R. L.
+Chaides Constr. Co., 960 F. 2d 1020 (1992) (en banc), that
+SCA’s claims were barred by laches.1
+   The Federal Circuit then reheard the case en banc in
+order to reconsider Aukerman in light of Petrella. But in a
+6-to-5 decision, the en banc court reaffirmed Aukerman’s
+holding that laches can be asserted to defeat a claim for
+——————
+  1 The panel reversed the District Court’s holding on equitable estop-
+pel, concluding that there are genuine disputes of material fact relating
+to that defense. 767 F. 3d 1339, 1351 (2014).
+
+
+                       Cite as: 580 U. S. ____ (2017)                      3
+                            Opinion of the Court
+damages incurred within the 6-year period set out in the
+Patent Act. As it had in Aukerman, the en banc court
+concluded that Congress, in enacting the Patent Act, had
+“codified a laches defense” that “barred recovery of legal
+remedies.” 807 F. 3d 1311, 1323–1329 (2015). Judge
+Hughes, joined by four other judges, dissented.2 Id., at
+1337–1342 (opinion concurring in part and dissenting in
+part). We granted certiorari. 578 U. S. ___ (2016).
+                                     II
+   Laches is “a defense developed by courts of equity” to
+protect defendants against “unreasonable, prejudicial
+delay in commencing suit.” Petrella, supra, at ___, ___
+(slip op., at 1, 12). See also 1 D. Dobbs, Law of Remedies
+§2.3(5), p. 89 (2d ed. 1993) (Dobbs) (“The equitable doc-
+trine of laches bars the plaintiff whose unreasonable delay
+in prosecuting a claim or protecting a right has worked a
+prejudice to the defendant”). Before the separate systems
+of law and equity were merged in 1938, the ordinary rule
+was that laches was available only in equity courts.3 See
+County of Oneida v. Oneida Indian Nation of N. Y., 470
+U. S. 226, 244, n. 16 (1985). This case turns on the appli-
+cation of the defense to a claim for damages, a quintessen-
+tial legal remedy. We discussed this subject at length in
+——————
+  2 The dissenting judges concurred in the portion of the majority opin-
+ion relating to the application of laches to equitable relief. 807 F. 3d, at
+1333, n. 1 (opinion of Hughes, J.); see also id., at 1331–1333 (majority
+opinion). We do not address that aspect of the Federal Circuit’s judg-
+ment. Nor do we address the Federal Circuit’s reversal of the District
+Court’s equitable estoppel holding. Id., at 1333 (reinstating original
+panel holding on equitable estoppel).
+  3 “The federal courts always had equity powers as well as law power,
+but they operated, until the Federal Rules of Civil Procedure, by
+distinctly separating equity cases and even had separate equity rules.”
+1 Dobbs §2.6(1), at 148, n. 2; see also Gulfstream Aerospace Corp. v.
+Mayacamas Corp., 485 U. S. 271, 279 (1988). It is in this sense that we
+refer in this opinion to federal courts as equity or law courts.
+
+
+4       SCA HYGIENE PRODUCTS AKTIEBOLAG v. FIRST
+                QUALITY BABY PRODUCTS, LLC
+                       Opinion of the Court
+Petrella.
+   Petrella arose out of a copyright dispute relating to the
+film Raging Bull. 572 U. S., at ___ (slip op., at 8). The
+Copyright Act’s statute of limitations requires a copyright
+holder claiming infringement to file suit “within three
+years after the claim accrued.” 17 U. S. C. §507(b). In
+Petrella, the plaintiff sought relief for alleged acts of in-
+fringement that accrued within that 3-year period, but the
+lower courts nevertheless held that laches barred her
+claims. See 695 F. 3d 946 (CA9 2012). We reversed,
+holding that laches cannot defeat a damages claim
+brought within the period prescribed by the Copyright
+Act’s statute of limitations. Petrella, 572 U. S., at ___–___
+(slip op., at 11–14). And in so holding, we spoke in broad
+terms. See id., at ___ (slip op., at 13) (“[I]n the face of a
+statute of limitations enacted by Congress, laches cannot
+be invoked to bar legal relief ”).
+   Petrella’s holding rested on both separation-of-powers
+principles and the traditional role of laches in equity.
+Laches provides a shield against untimely claims, id., at
+___ (slip op., at 19), and statutes of limitations serve a
+similar function. When Congress enacts a statute of limi-
+tations, it speaks directly to the issue of timeliness and
+provides a rule for determining whether a claim is timely
+enough to permit relief. Id., at ___ (slip op., at 11). The
+enactment of a statute of limitations necessarily reflects a
+congressional decision that the timeliness of covered
+claims is better judged on the basis of a generally hard
+and fast rule rather than the sort of case-specific judicial
+determination that occurs when a laches defense is asserted.
+Therefore, applying laches within a limitations period
+specified by Congress would give judges a “legislation-
+overriding” role that is beyond the Judiciary’s power. Id.,
+at ___ (slip op., at 14). As we stressed in Petrella, “courts
+are not at liberty to jettison Congress’ judgment on the
+timeliness of suit.” Id., at ___ (slip op., at 1).
+
+
+                        Cite as: 580 U. S. ____ (2017)                   5
+                              Opinion of the Court
+    Applying laches within the limitations period would also
+clash with the purpose for which the defense developed in
+the equity courts. As Petrella recounted, the “principal
+application” of laches “was, and remains, to claims of an
+equitable cast for which the Legislature has provided no
+fixed time limitation.” Id., at ___ (slip op., at 12); see also
+R. Weaver, E. Shoben, & M. Kelly, Principles of Remedies
+Law 21 (2d ed. 2011); 1 Dobbs §2.4(4), at 104; 1 J. Story,
+Commentaries on Equity Jurisprudence §55(a), p. 73 (2d
+ed. 1839). Laches is a gap-filling doctrine, and where
+there is a statute of limitations, there is no gap to fill.4
+Petrella, supra, at ___ (slip op., at 14); see also 1 Dobbs
+§2.4(4), at 108 (“[I]f the plaintiff has done only what she is
+permitted to do by statute, and has not misled the defend-
+ant [so as to trigger equitable estoppel], the basis for
+barring the plaintiff seems to have disappeared”).
+    With Petrella’s principles in mind, we turn to the pre-
+sent dispute.
+                                      III
+                                       A
+    Although the relevant statutory provisions in Petrella
+and this case are worded differently, Petrella’s reasoning
+easily fits the provision at issue here. As noted, the stat-
+ute in Petrella precludes a civil action for copyright in-
+fringement “unless it is commenced within three years
+——————
+   4 The dissent argues that there is a “gap” in the statutory scheme
+because the Patent Act’s statute of limitations might permit a patentee
+to wait until an infringing product has become successful before suing
+for infringement. Post, at 2–3 (opinion of BREYER, J.). We rejected a
+version of this argument in Petrella, 572 U. S., at ___–___ (slip op., at
+16–17), and we do so here. The dissent’s argument implies that, insofar
+as the lack of a laches defense could produce policy outcomes judges
+deem undesirable, there is a “gap” for laches to fill, notwithstanding the
+presence of a statute of limitations. That is precisely the kind of
+“legislation-overriding” judicial role that Petrella rightly disclaimed.
+Id., at ___ (slip op., at 14).
+
+
+6        SCA HYGIENE PRODUCTS AKTIEBOLAG v. FIRST
+                 QUALITY BABY PRODUCTS, LLC
+                        Opinion of the Court
+after the claim accrued.” 17 U. S. C. §507(b). We saw in
+this language a congressional judgment that a claim filed
+within three years of accrual cannot be dismissed on time-
+liness grounds. 572 U. S., at ___ (slip op., at 11); see also
+id., at ___–___ (slip op., at 14–15).
+   The same reasoning applies in this case. Section 286 of
+the Patent Act provides: “Except as otherwise provided by
+law, no recovery shall be had for any infringement com-
+mitted more than six years prior to the filing of the com-
+plaint or counterclaim for infringement in the action.” By
+the logic of Petrella, we infer that this provision represents
+a judgment by Congress that a patentee may recover
+damages for any infringement committed within six years
+of the filing of the claim.
+                                 B
+   First Quality contends that this case differs from Pet-
+rella because §286 of the Patent Act is not a true statute of
+limitations. A true statute of limitations, we are told,
+“runs forward from the date a cause of action accrues,” but
+§286 “runs backward from the time of suit.” Brief for
+Respondents 41.
+   Petrella cannot reasonably be distinguished on this
+ground. First Quality thinks it critical that §286 “runs
+backward from the time of suit,” Brief for Respondents 41,
+but Petrella described the Copyright Act’s statute of limi-
+tations in almost identical terms. We said that this provi-
+sion “allows plaintiffs . . . to gain retrospective relief run-
+ning only three years back from the date the complaint was
+filed.” 572 U. S., at ___ (slip op., at 6–7) (emphasis added).
+See also id., at ___ (slip op., at 11) (“[A] successful plaintiff
+can gain retrospective relief only three years back from
+the time of suit”). And we described the Copyright Act’s
+statute of limitations as “a three-year look-back limita-
+tions period.” Id., at ___ (slip op., at 4).
+   First Quality contends that the application of a true
+
+
+                    Cite as: 580 U. S. ____ (2017)            7
+                         Opinion of the Court
+statute of limitations, like the defense of laches (but unlike
+§286), takes into account the fairness of permitting the
+adjudication of a particular plaintiff ’s claim. First Quality
+argues as follows: “When Congress enacts [a true statute
+of limitations], it can be viewed as having made a consid-
+ered judgment about how much delay may occur after a
+plaintiff knows of a cause of action (i.e., after accrual)
+before the plaintiff must bring suit—thus potentially
+leaving no room for judges to evaluate the reasonableness
+of a plaintiff ’s delay on a case-by-case basis under laches.”
+Brief for Respondents 42. According to First Quality, §286
+of the Patent Act is different because it “turns only on
+when the infringer is sued, regardless of when the pat-
+entee learned of the infringement.” Ibid.
+   This argument misunderstands the way in which stat-
+utes of limitations generally work. First Quality says that
+the accrual of a claim, the event that triggers the running
+of a statute of limitations, occurs when “a plaintiff knows
+of a cause of action,” ibid., but that is not ordinarily true.
+As we wrote in Petrella, “[a] claim ordinarily accrues
+‘when [a] plaintiff has a complete and present cause of
+action.’ ” 572 U. S., at ___ (slip op., at 4); see Graham
+County Soil & Water Conservation Dist. v. United States
+ex rel. Wilson, 545 U. S. 409, 418–419 (2005). While some
+claims are subject to a “discovery rule” under which the
+limitations period begins when the plaintiff discovers or
+should have discovered the injury giving rise to the claim,
+that is not a universal feature of statutes of limitations.
+See, e.g., ibid. (limitations period in 31 U. S. C. §3731(b)(1)
+begins to run when the cause of action accrues); TRW Inc.
+v. Andrews, 534 U. S. 19, 28 (2001) (same with regard to
+15 U. S. C. §1681p). And in Petrella, we specifically noted
+that “we have not passed on the question” whether the
+Copyright Act’s statute of limitations is governed by such
+a rule. 572 U. S., at ___, n. 4 (slip op., at 4, n. 4).
+   For these reasons, Petrella cannot be dismissed as appli-
+
+
+8        SCA HYGIENE PRODUCTS AKTIEBOLAG v. FIRST
+                 QUALITY BABY PRODUCTS, LLC
+                      Opinion of the Court
+cable only to what First Quality regards as true statutes of
+limitations. At least for present purposes, nothing de-
+pends on this debatable taxonomy. Compare Automobile
+Workers v. Hoosier Cardinal Corp., 383 U. S. 696, 704
+(1966) (describing §286 as “enacting a uniform period of
+limitations”); 1 Dobbs §2.4(4), at 107, and n. 33 (same),
+with A. Stucki Co. v. Buckeye Steel Castings Co., 963 F. 2d
+360, 363, n. 3 (CA Fed. 1992) (Section 286 “is not, strictly
+speaking, a statute of limitations”); Standard Oil Co. v.
+Nippon Shokubai Kagaku Co., Ltd., 754 F. 2d 345, 348
+(CA Fed. 1985) (“[Section] 286 cannot properly be called a
+‘statute of limitations’ in the sense that it defeats the right
+to bring suit”).
+                               C
+   The Federal Circuit based its decision on a different
+footing. Section 286 of the Patent Act begins with the
+phrase “[e]xcept as otherwise provided by law,” and ac-
+cording to the Federal Circuit, §282 of the Act is a provi-
+sion that provides otherwise. In its view, §282 creates an
+exception to §286 by codifying laches as a defense to all
+patent infringement claims, including claims for damages
+suffered within §286’s 6-year period. 807 F. 3d, at 1329–
+1330. Section 282(b), which does not specifically mention
+laches, provides in relevant part as follows:
+     “The following shall be defenses in any action involv-
+     ing the validity or infringement of a patent and shall
+     be pleaded:
+        “(1) Noninfringement, absence of liability for in-
+     fringement or unenforceability.”
+   The en banc majority below never identified which word
+or phrase in §282 codifies laches as a defense, but First
+Quality argues that laches falls within §282(b)(1) because
+laches is a defense based on “unenforceability.” Brief for
+Respondents 28–33.
+
+
+                  Cite as: 580 U. S. ____ (2017)           9
+                       Opinion of the Court
+   SCA disputes this interpretation of §282(b)(1), arguing
+that laches does not make a patent categorically unen-
+forceable. Reply Brief 6–8; see Aukerman, 960 F. 2d, at
+1030 (“Recognition of laches as a defense . . . does not
+affect the general enforceability of the patent against
+others”). We need not decide this question. Even if we
+assume for the sake of argument that §282(b)(1) incorpo-
+rates a laches defense of some dimension, it does not nec-
+essarily follow that this defense may be invoked to bar a
+claim for damages incurred within the period set out in
+§286. Indeed, it would be exceedingly unusual, if not
+unprecedented, if Congress chose to include in the Patent
+Act both a statute of limitations for damages and a laches
+provision applicable to a damages claim. Neither the
+Federal Circuit, nor First Quality, nor any of First Quali-
+ty’s amici has identified a single federal statute that pro-
+vides such dual protection against untimely claims.
+                                D
+   In holding that Congress codified a damages-limiting
+laches defense, the Federal Circuit relied on patent cases
+decided by the lower courts prior to the enactment of the
+Patent Act. After surveying these cases, the Federal
+Circuit concluded that by 1952 there was a well-
+established practice of applying laches to such damages
+claims and that Congress, in adopting §282, must have
+chosen to codify such a defense in §282(b)(1). 807 F. 3d, at
+1321–1329. First Quality now presses a similar argu-
+ment. We have closely examined the cases on which the
+Federal Circuit and First Quality rely, and we find that
+they are insufficient to support the suggested interpreta-
+tion of the Patent Act. The most prominent feature of the
+relevant legal landscape at the time of enactment of the
+Patent Act was the well-established general rule, often
+repeated by this Court, that laches cannot be invoked to
+bar a claim for damages incurred within a limitations
+
+
+10        SCA HYGIENE PRODUCTS AKTIEBOLAG v. FIRST
+                   QUALITY BABY PRODUCTS, LLC
+                           Opinion of the Court
+period specified by Congress. See Holmberg v. Armbrecht,
+327 U. S. 392, 395 (1946) (“If Congress explicitly puts a
+limit upon the time for enforcing a right which it created,
+there is an end of the matter”); United States v. Mack, 295
+U. S. 480, 489 (1935) (“Laches within the term of the
+statute of limitations is no defense at law”); Wehrman v.
+Conklin, 155 U. S. 314, 326 (1894) (“Though a good de-
+fense in equity, laches is no defense at law. If the plaintiff
+at law has brought his action within the period fixed by
+the statute of limitations, no court can deprive him of his
+right to proceed”); Cross v. Allen, 141 U. S. 528, 537 (1891)
+(“So long as the demands secured were not barred by the
+statute of limitations, there could be no laches in prosecut-
+ing a suit”). Petrella confirmed and restated this long-
+standing rule. 572 U. S., at ___ (slip op., at 12) (“[T]his
+Court has cautioned against invoking laches to bar legal
+relief ”). If Congress examined the relevant legal land-
+scape when it adopted 35 U. S. C. §282, it could not have
+missed our cases endorsing this general rule.
+    The Federal Circuit and First Quality dismiss the signif-
+icance of this Court’s many reiterations of the general rule
+because they were not made in patent cases. But as the
+dissenters below noted, “[p]atent law is governed by the
+same common-law principles, methods of statutory inter-
+pretation, and procedural rules as other areas of civil
+litigation.” 807 F. 3d, at 1333 (opinion of Hughes, J.).
+    In light of the general rule regarding the relationship
+between laches and statutes of limitations, nothing less
+than a broad and unambiguous consensus of lower court
+decisions could support the inference that §282(b)(1) codi-
+fies a very different patent-law-specific rule. No such
+consensus is to be found.5
+——————
+   5 Because we conclude that First Quality fails to show that there was
+a special laches rule in the patent context, we need not address whether
+it is ever reasonable to assume that Congress legislated against the
+
+
+                       Cite as: 580 U. S. ____ (2017)                   11
+                            Opinion of the Court
+                                    IV
+    The pre-1952 cases on which First Quality relies fall
+into three groups: (1) cases decided by equity courts before
+1938; (2) cases decided by law courts before 1938; and (3)
+cases decided after the merger of equity and law in 1938.
+We will discuss each group separately.
+                                     A
+                        Pre-1938 equity cases
+    The pre-1938 equity cases are unpersuasive for several,
+often overlapping reasons. Many do not even reveal
+whether the plaintiff asked for damages. Indeed, some
+say nothing at all about the form of relief that was sought,
+see, e.g., Cummings v. Wilson & Willard Mfg. Co., 4 F. 2d
+453 (CA9 1925), and others state only that the plaintiff
+wanted an accounting of profits, e.g., Westco-Chippewa
+Pump Co. v. Delaware Elec. & Supply Co., 64 F. 2d 185,
+186 (CA3 1933); Wolf Mineral Process Corp. v. Minerals
+Separation North Am. Corp., 18 F. 2d 483, 484 (CA4 1927).
+The equitable remedy of an accounting, however, was not
+the same as damages. The remedy of damages seeks to
+compensate the victim for its loss, whereas the remedy of
+an accounting, which Congress abolished in the patent
+context in 1946,6 sought disgorgement of ill-gotten profits.
+See Birdsall v. Coolidge, 93 U. S. 64, 68–69 (1876); 1
+Dobbs §4.3(5), at 611 (“Accounting holds the defendant
+liable for his profits, not for damages”); A. Walker, Patent
+——————
+background of a lower court consensus rather than the contrary deci-
+sions of this Court. Cf. 807 F. 3d, at 1338 (opinion of Hughes, J.) (“For
+even if there were differing views in the lower [federal] courts, it would
+be nearly impossible to conclude that there was a uniform understand-
+ing of the common law that was inconsistent with Supreme Court
+precedent. In our judicial system, the Supreme Court's understanding
+is controlling”).
+   6 See 60 Stat. 778; see also Aro Mfg. Co. v. Convertible Top Replace-
+ment Co., 377 U. S. 476, 505 (1964).
+
+
+12      SCA HYGIENE PRODUCTS AKTIEBOLAG v. FIRST
+                QUALITY BABY PRODUCTS, LLC
+                       Opinion of the Court
+Laws §573, p. 401 (1886) (distinguishing between the two
+remedies); G. Curtis, Law of Patents §341(a), p. 461 (4th
+ed. 1873); 2 J. Pomeroy, Treatise on Equitable Remedies
+§568, p. 977 (1905).
+   First Quality argues that courts sometimes used the
+term “accounting” imprecisely to refer to both an account-
+ing of profits and a calculation of damages, Brief for Re-
+spondents 19–20, but even if that is true, this loose usage
+shows only that a reference to “accounting” might refer to
+damages. For that reason, the Federal Circuit did not rely
+on cases seeking only an accounting, 807 F. 3d, at 1326,
+n. 7, and we likewise exclude such cases from our analysis.
+   Turning to the cases that actually refer to damages,
+we note that many of the cases merely suggest in dicta
+that laches might limit recovery of damages. See, e.g.,
+Hartford-Empire Co. v. Swindell Bros., 96 F. 2d 227, 233,
+modified on reh’g, 99 F. 2d 61 (CA4 1938). Such dicta
+“settles nothing.” Jama v. Immigration and Customs
+Enforcement, 543 U. S. 335, 351, n. 12 (2005). See also
+Hartford Underwriters Ins. Co. v. Union Planters Bank,
+N. A., 530 U. S. 1, 9–10 (2000); Metropolitan Stevedore Co.
+v. Rambo, 515 U. S. 291, 300 (1995).
+   As for the cases in which laches was actually held to bar
+a claim for damages, e.g., Wolf, Sayer & Heller v. United
+States Slicing Mach. Co., 261 F. 195, 197–198 (CA7 1919);
+A. R. Mosler & Co. v. Lurie, 209 F. 364, 369–370 (CA2
+1913), these cases are too few to establish a settled,
+national consensus. See Hartford Underwriters, supra,
+at 10.
+   Moreover, the most that can possibly be gathered from a
+pre-1938 equity case is that laches could defeat a damages
+claim in an equity court, not that the defense could en-
+tirely prevent a patentee from recovering damages. Before
+1870, a patentee wishing to obtain both an injunction
+against future infringement and damages for past in-
+fringement was required to bring two suits, one in an
+
+
+                     Cite as: 580 U. S. ____ (2017)                 13
+                          Opinion of the Court
+equity court (where injunctive relief but not damages was
+available), and one in a court of law (where damages but
+not injunctive relief could be sought). See Beauchamp,
+The First Patent Litigation Explosion, 125 Yale L. J. 848,
+913–914 (2016). To rectify this situation, Congress en-
+acted a law in 1870 authorizing equity courts to award dam-
+ages in patent-infringement actions. Rev. Stat. §4921.
+And although statutes of limitations did not generally
+apply in equity, Congress in 1897 enacted a statute that,
+like the current §286, imposed a 6-year limitations period
+for damages claims and made that statute applicable in
+both law and equity. §6, 29 Stat. 694. Pointing to cases
+decided between 1897 and 1938 in which an equity court
+permitted a defendant in an infringement case to invoke
+the defense of laches, First Quality contends that Con-
+gress, aware of these cases, assumed that the 1952 Act
+would likewise allow a defendant in an infringement case
+to claim laches with respect to a claim for damages occur-
+ring within a limitations period.
+   This argument overlooks the fact that a patentee, dur-
+ing the period in question, could always sue for damages
+in law, where the equitable doctrine of laches did not
+apply, and could thus avoid any possible laches defense.
+Thus, accepting First Quality’s argument would not return
+patentees to the position they held from 1897 to 1938.
+Instead, it would go much further and permit laches en-
+tirely to defeat claims like SCA’s.7
+                                   B
+                      Pre-1938 claims at law
+   First Quality cites three Court of Appeals cases in which
+——————
+  7 The dissent misunderstands this point and thinks that we dismiss
+the relevance of the equity cases because they applied laches “to equi-
+table claims without statutes of limitations.” Post, at 5. But we are
+well aware that a statute of limitations applied in equity when these
+cases arose. See supra, at 13.
+
+
+14       SCA HYGIENE PRODUCTS AKTIEBOLAG v. FIRST
+                  QUALITY BABY PRODUCTS, LLC
+                          Opinion of the Court
+laches was raised in a proceeding at law and in which,
+according to First Quality, the defense was held to bar a
+damages claim. See Universal Coin Lock Co. v. American
+Sanitary Lock Co., 104 F. 2d 781 (CA7 1939); Banker v.
+Ford Motor Co., 69 F. 2d 665 (CA3 1934); Ford v. Huff, 296
+F. 652 (CA5 1924). But even if all of these cases squarely
+held that laches could be applied to a damages claim at
+law within the limitations period, they would still consti-
+tute only a handful of decisions out of the corpus of pre-
+1952 patent cases, and that would not be enough to over-
+come the presumption that Congress legislates against the
+background of general common-law principles. See H.
+McClintock, Handbook of the Principles of Equity §28, p.
+75 (2d ed. 1948) (“The majority of the courts which have
+considered the question have refused to enjoin an action at
+law on the ground of the laches of the plaintiff at law”).
+   In any event, these cases, like the equity cases, offer
+minimal support for First Quality’s position. Not one of
+these cases even mentions the statute of limitations. One
+of the three, Ford, is not even a patent infringement case;
+it is a breach-of-contract case arising out of a patent dis-
+pute, 296 F., at 654, and it is unclear whether the ground
+for decision was laches or equitable estoppel. See 807
+F. 3d, at 1340 (opinion of Hughes, J.). Another, Universal
+Coin, applied laches to a legal damages claim without any
+analysis of the propriety of doing so. 104 F. 2d, at 783.
+   First Quality protests that the paucity of supporting
+cases at law should not count against its argument since
+very few patent-infringement cases were brought at law
+after 1870. Brief for Respondents 25–26. But the fact
+remains that it is First Quality’s burden to show that
+Congress departed from the traditional common-law rule
+highlighted in our cases.8
+——————
+  8 For the same reason, the dissent misses the mark when it demands
+that we cite cases “holding that laches could not bar a patent claim for
+
+
+                     Cite as: 580 U. S. ____ (2017)        15
+                          Opinion of the Court
+                                   C
+                         Post-merger cases
+   First Quality claims that courts continued to apply
+laches to damages claims after the merger of law and
+equity in 1938, but First Quality’s evidence is scant.
+During this period, two Courts of Appeals stated in dicta
+that laches could bar legal damages claims. See Chicago
+Pneumatic Tool Co. v. Hughes Tool Co., 192 F. 2d 620, 625
+(CA10 1951); Shaffer v. Rector Well Equip. Co., 155 F. 2d
+344, 347 (CA5 1946). And two others actually held that
+laches could bar a damages claim. See, e.g., Brennan v.
+Hawley Prods. Co., 182 F. 2d 945, 948 (CA7 1950); Lukens
+Steel Co. v. American Locomotive Co., 197 F. 2d 939, 941
+(CA2 1952) (alternative holding). This does not constitute
+a settled, uniform practice of applying laches to damages
+claims.
+   After surveying the pre-1952 case law, we are not con-
+vinced that Congress, in enacting §282 of the Patent Act,
+departed from the general rule regarding the application
+of laches to damages suffered within the time for filing
+suit set out in a statute of limitations.
+                                   V
+   First Quality’s additional arguments do not require
+extended discussion. First Quality points to post-1952
+Court of Appeals decisions holding that laches can be
+invoked as a defense against a damages claim. Noting
+that Congress has amended §282 without altering the
+“ ‘unenforceability’ ” language that is said to incorporate a
+laches defense, First Quality contends that Congress has
+implicitly ratified these decisions. Brief for Respondents
+35–36.
+   We reject this argument. Nothing that Congress has
+done since 1952 has altered the meaning of §282. See
+——————
+damages.” Post, at 8.
+
+
+16      SCA HYGIENE PRODUCTS AKTIEBOLAG v. FIRST
+                QUALITY BABY PRODUCTS, LLC
+                      Opinion of the Court
+Central Bank of Denver, N. A. v. First Interstate Bank of
+Denver, N. A., 511 U. S. 164, 186 (1994); West Virginia
+Univ. Hospitals, Inc. v. Casey, 499 U. S. 83, 100, 101, and
+n. 7 (1991).
+   First Quality and its supporting amici also make vari-
+ous policy arguments, but we cannot overrule Congress’s
+judgment based on our own policy views. We note, however,
+as we did in Petrella, that the doctrine of equitable
+estoppel provides protection against some of the problems
+that First Quality highlights, namely, unscrupulous pa-
+tentees inducing potential targets of infringement suits to
+invest in the production of arguably infringing products.
+572 U. S., at ___ (slip op., at 19). Indeed, the Federal
+Circuit held that there are genuine disputes of material
+fact as to whether equitable estoppel bars First Quality’s
+claims in this very case. See 807 F. 3d, at 1333.
+                        *      *      *
+   Laches cannot be interposed as a defense against dam-
+ages where the infringement occurred within the period
+prescribed by §286. The judgment of the Court of Appeals
+is vacated in part, and the case is remanded for further
+proceedings consistent with this opinion.
+                                             It is so ordered.
+
+
+                   Cite as: 580 U. S. ____ (2017)           1
+                       BREYER, J., dissenting
+SUPREME COURT OF THE UNITED STATES
+                            _________________
+                             No. 15–927
+                            _________________
+     SCA HYGIENE PRODUCTS AKTIEBOLAG, ET AL.,
+         PETITIONERS v. FIRST QUALITY BABY
+                   PRODUCTS, LLC, ET AL.
+  ON WRIT OF CERTIORARI TO THE UNITED STATES COURT OF
+              APPEALS FOR THE FEDERAL CIRCUIT
+                         [March 21, 2017]
+   JUSTICE BREYER, dissenting.
+   Laches is a doctrine that bars a plaintiff ’s claim when
+there has been unreasonable, prejudicial delay in com-
+mencing suit. See 1 D. Dobbs, Law of Remedies §2.3(5), p.
+89 (2d ed. 1993). The question before us is whether a
+court can apply this doctrine in a patent infringement
+action for damages brought within the statute of limita-
+tions. The Court holds that a court cannot. Laches, it
+says, is a “gap-filling doctrine,” generally applicable where
+there is no statute of limitations. But the 1952 Patent Act
+contains a statute of limitations. Hence there is “no gap to
+fill.” Ante, at 5.
+   In my view, however, the majority has ignored the fact
+that, despite the 1952 Act’s statute of limitations, there
+remains a “gap” to fill. See infra, at 2–3. Laches fills this
+gap. And for more than a century courts with virtual
+unanimity have applied laches in patent damages cases.
+Congress, when it wrote the 1952 statute, was aware of
+and intended to codify that judicial practice. I fear that
+the majority, in ignoring this legal history, opens a new
+“gap” in the patent law, threatening harmful and unfair
+legal consequences.
+
+
+2       SCA HYGIENE PRODUCTS AKTIEBOLAG v. FIRST
+                QUALITY BABY PRODUCTS, LLC
+                      BREYER, J., dissenting
+                                I
+   Consider the relevant statutory language. Section 286
+of the Patent Act says: “Except as otherwise provided by
+law, no recovery shall be had for any infringement com-
+mitted more than six years prior to the filing of the com-
+plaint or counterclaim for infringement in the action.” 35
+U. S. C. §286 (emphasis added). Section 282 says what
+the word “otherwise” means. It tells us that “unenforcea-
+bility” shall be a defense “in any action involving the
+validity or infringement of a patent.” §282(b) (emphasis
+added).
+   Two features of this statutory language are important.
+First, the limitations provision, unlike those in many
+other statutes, does not set forth a period of time in which
+to sue, beginning when a claim accrues and then expiring
+some time later. (The False Claims Act, for example, gives
+a plaintiff six years from the date of the violation or three
+years from the date of discovery to file his suit, 31 U. S. C.
+§3731(b).) Rather, it permits a patentee to sue at any time
+after an infringement takes place. It simply limits dam-
+ages to those caused within the preceding six years. That
+means that a patentee, after learning of a possible in-
+fringement in year 1, might wait until year 10 or year 15
+or year 20 to bring a lawsuit. And if he wins, he can col-
+lect damages for the preceding six years of infringement.
+   This fact creates a gap. Why? Because a patentee
+might wait for a decade or more while the infringer (who
+perhaps does not know or believe he is an infringer) in-
+vests heavily in the development of the infringing product
+(of which the patentee’s invention could be only a small
+component), while evidence that the infringer might use
+to, say, show the patent is invalid disappears with time.
+Then, if the product is a success, the patentee can bring
+his lawsuit, hoping to collect a significant recovery. And if
+business-related circumstances make it difficult or impos-
+sible for the infringer to abandon its use of the patented
+
+
+                   Cite as: 580 U. S. ____ (2017)          3
+                       BREYER, J., dissenting
+invention (i.e., if the infringer is “locked in”), then the
+patentee can keep bringing lawsuits, say, in year 10 (col-
+lecting damages from years 4 through 10), in year 16
+(collecting damages from years 10 through 16), and in year
+20 (collecting any remaining damages). The possibility of
+this type of outcome reveals a “gap.” Laches works to fill
+the gap by barring recovery when the patentee unreason-
+ably and prejudicially delays suit.
+   Second, the Patent Act’s language strongly suggests
+that Congress, when writing the statutory provisions
+before us, intended to permit courts to continue to use
+laches to fill this gap. The statute says that there are
+“except[ions]” to its 6-year damages limitation rule. It
+lists “unenforceability” as one of those exceptions. At
+common law, the word “unenforceability” had a meaning
+that encompassed laches. See, e.g., United States v. New
+Orleans Pacific R. Co., 248 U. S. 507, 511 (1919) (consider-
+ing whether an agreement “had become unenforceable by
+reason of inexcusable laches”). We often read statutes as
+incorporating common-law meanings. See Neder v. United
+States, 527 U. S. 1, 21 (1999). And here there are good
+reasons for doing so. For one thing, the principal technical
+drafter of the Patent Act (in a commentary upon which
+this Court has previously relied, e.g., Warner-Jenkinson
+Co. v. Hilton Davis Chemical Co., 520 U. S. 17, 28 (1997))
+stated that §282 was meant to codify “equitable defenses
+such as laches.” P. Federico, Commentary on the New
+Patent Act, 35 U. S. C. A. 1, 55 (West 1954). For another
+thing, there is a long history of prior case law that shows
+with crystal clarity that Congress intended the statute to
+keep laches as a defense.
+                                II
+   The pre-1952 case law that I shall discuss is directly
+relevant because, as this Court has recognized, the 1952
+Patent Act was primarily intended to codify existing law.
+
+
+4       SCA HYGIENE PRODUCTS AKTIEBOLAG v. FIRST
+               QUALITY BABY PRODUCTS, LLC
+                      BREYER, J., dissenting
+See Halo Electronics v. Pulse Electronics, Inc., 579 U. S.
+___, ___ (2016) (slip op., at 4); accord, H. R. Rep. No. 1923,
+82d Cong., 2d Sess., 3 (1952) (stating that the “main pur-
+pose” of the Patent Act was “codification and enactment”
+of existing law); 98 Cong. Rec. 9323 (1952) (drafter of the
+Act stating that it was generally intended to “codif[y] the
+present patent laws”).
+   Now consider the existing law that the Patent Act’s
+drafters intended the Act to reflect. The decisions that
+find or say or hold that laches can bar monetary relief in
+patent infringement actions stretch in a virtually unbro-
+ken chain from the late 19th century through the Patent
+Act’s enactment in 1952. They number in the dozens and
+include every federal appeals court to have considered the
+matter. (We have found only two contrary decisions, both
+from the same District Court: Thorpe v. Wm. Filene’s Sons
+Co., 40 F. 2d 269 (Mass. 1930); and Concord v. Norton, 16
+F. 477 (CC Mass. 1883).)
+   Here are the cases from the Federal Courts of Appeals
+alone: Lukens Steel Co. v. American Locomotive Co., 197
+F. 2d 939, 941 (CA2 1952); Chicago Pneumatic Tool Co. v.
+Hughes Tool Co., 192 F. 2d 620, 625 (CA10 1951); Brennan
+v. Hawley Prods. Co., 182 F. 2d 945, 948 (CA7 1950);
+Shaffer v. Rector Well Equip. Co., 155 F. 2d 344, 345–347
+(CA5 1946); Rome Grader & Mach. Corp. v. J. D. Adams
+Mfg. Co., 135 F. 2d 617, 619–620 (CA7 1943); France Mfg.
+Co. v. Jefferson Elec. Co., 106 F. 2d 605, 609–610 (CA6
+1939); Universal Coin Lock Co. v. American Sanitary Lock
+Co., 104 F. 2d 781, 781–783 (CA7 1939); Union Shipbuild-
+ing Co. v. Boston Iron & Metal Co., 93 F. 2d 781, 783 (CA4
+1938); Gillons v. Shell Oil Co. of Cal., 86 F. 2d 600, 608–
+610 (CA9 1936); Holman v. Oil Well Supply Co., 83 F. 2d
+538 (CA2 1936) (per curiam); Dock & Term. Eng. Co. v.
+Pennsylvania R. Co., 82 F. 2d 19, 19–20 (CA3 1936);
+Banker v. Ford Motor Co., 69 F. 2d 665, 666 (CA3 1934);
+Westco-Chippewa Pump Co. v. Delaware Elec. & Supply
+
+
+                    Cite as: 580 U. S. ____ (2017)           5
+                        BREYER, J., dissenting
+Co., 64 F. 2d 185, 186–188 (CA3 1933); Window Glass
+Mach. Co. v. Pittsburgh Plate Glass Co., 284 F. 645, 650–
+651 (CA3 1933); Dwight & Lloyd Sintering Co. v.
+Greenawalt, 27 F. 2d 823, 827 (CA2 1928); George J. Meyer
+Mfg. Co. v. Miller Mfg. Co., 24 F. 2d 505, 507–508 (CA7
+1928); Wolf Mineral Process Corp. v. Minerals Separation
+N. Am. Corp., 18 F. 2d 483, 490 (CA4 1927); Cummings v.
+Wilson & Willard Mfg. Co., 4 F. 2d 453, 455 (CA9 1925);
+Ford v. Huff, 296 F. 652, 654–655 (CA5 1924); Wolf, Sayer
+& Heller, Inc. v. United States Slicing Mach. Co., 261 F.
+195, 197–198 (CA7 1919); A. R. Mosler & Co. v. Lurie, 209
+F. 364, 371 (CA2 1913); Safety Car Heating & Lighting Co.
+v. Consolidated Car Heating Co., 174 F. 658, 662 (CA2
+1909) (per curiam); Richardson v. D. M. Osborne & Co., 93
+F. 828, 830–831 (CA2 1899); and Woodmanse & Hewitt
+Mfg. Co. v. Williams, 68 F. 489, 493–494 (CA6 1895).
+   The majority replies that this list proves nothing. After
+all, it says, nearly all of these decisions come from courts
+of equity. Courts of equity ordinarily applied laches “ ‘to
+claims of an equitable cast for which the Legislature ha[d]
+provided no fixed time limitation,’ ” ante, at 5 (quoting
+Petrella v. Metro-Goldwyn-Mayer, Inc., 572 U. S. ___, ___
+(2014) (slip op., at 12)), not to requests for damages, “a
+quintessential legal remedy,” ante, at 3. Since “laches is a
+gap-filling doctrine,” the fact that it was applied to equit-
+able claims without statutes of limitations says little about
+whether it should apply to legal damages claims when
+“there is a statute of limitations,” and therefore “no gap to
+fill.” Ante, at 5.
+   Good reply. But no cigar. Why not? (1) Because in
+1897 Congress enacted a statute of limitations—very much
+like the one before us now—for patent claims brought in
+courts of equity. Ch. 391, §6, 29 Stat. 694 (“[I]n any suit or
+action . . . there shall be no recovery of profits or damages
+for any infringement committed more than six years be-
+fore” filing). Thus, after 1897, there was no statute of
+
+
+6       SCA HYGIENE PRODUCTS AKTIEBOLAG v. FIRST
+                QUALITY BABY PRODUCTS, LLC
+                      BREYER, J., dissenting
+limitations gap for equity courts to fill, and yet they con-
+tinued to hold that laches applied. See, e.g., France Mfg.,
+supra, at 609 (“[N]otwithstanding the statute of limita-
+tions, relief may be denied on the ground of laches . . . ”);
+Dwight & Lloyd, supra, at 827 (Hand, J.) (explaining how
+laches operates in conjunction with the statute of limit-
+ations to allow an infringer to “garne[r] the harvest of
+even the earliest of the 6 years to which recovery is in any
+event limited, with just confidence that he will not be
+disturbed”).
+   (2) Because in 1870 Congress enacted a statute that
+gave courts of equity the power to award legal relief,
+namely, damages, in patent cases. Act of July 8, 1870,
+§55, 16 Stat. 206. Congress did not give law courts an
+equivalent power to grant injunctive relief in patent suits.
+As a result, from the late 19th century until the merger of
+law and equity in 1938, nearly all patent litigation—
+including suits for damages—took place in courts of equity
+that were applying laches in conjunction with a statute of
+limitations. See Lemley, Why Do Juries Decide If Patents
+Are Valid? 99 Va. L. Rev. 1673, 1704 (2013) (discussing
+the predominance of equity litigation).
+   (3) Because Congress recognized that damages suits for
+patent infringement took place almost exclusively in
+equity courts, not law courts. Whenever Congress wished
+to modify patent damages law, it rewrote the statutory
+provisions governing damages in equity, not law. See, e.g.,
+§8, 42 Stat. 392 (modifying the equity damages statute to
+allow equity courts to award a “reasonable sum” even if a
+patentee had difficulty proving actual damages, but mak-
+ing no change to the legal damages provision). The 1952
+Congress, seeking to understand whether, or how, laches
+applied in patent damages cases, would almost certainly
+have looked to equity practice.
+   (4) Because, in any event, in those few pre-law/equity-
+merger cases in which courts of law considered whether
+
+
+                  Cite as: 580 U. S. ____ (2017)             7
+                      BREYER, J., dissenting
+laches could bar a patent damages action, they, like their
+equity counterparts, held that it could. See Universal
+Coin, 104 F. 2d, at 781–783; Banker, 69 F. 2d, at 666;
+Ford, supra, at 658. As the majority points out, these
+cases brought in law courts constitute “only a handful of
+decisions.” Ante, at 13. But that is simply because, as I
+just noted, almost all patent damages litigation took place
+in courts of equity. Regardless, before the merger of law
+and equity both law courts and equity courts recognized
+laches as a defense. And, after the merger of law and
+equity in 1938, federal courts still applied laches to patent
+damages claims. E.g., Brennan, 182 F. 2d, at 948 (holding
+that “laches on the part of the plaintiff ” can “bar his right
+to recover damages”). This, of course, would make no
+sense if laches for patent damages was really an equity-
+only rule.
+  Does the majority have any other good reason to ignore
+the mountain of authority recognizing laches as a defense?
+It refers to many general statements in opinions
+and treatises that say that laches is “no defense at law.”
+United States v. Mack, 295 U. S. 480, 489 (1935). But these
+statements are not about patent damages cases. They do
+not claim to encompass the problem at issue here. And
+they do not prevent Congress from enacting a statute that,
+recognizing patent litigation’s history, combines a statute
+of limitations with a laches defense. And that is what
+Congress has done in the Patent Act.
+  The majority also tries to discredit the persuasiveness of
+the pre-Patent Act case law authority. It goes through the
+lengthy list of decisions, finding some judicial statements
+too vague, others just dicta, and still others having con-
+fused an equitable claim for “accounting” with a legal
+claim for “damages.” I agree that it has found weaknesses
+in the reasoning of some individual cases. But those
+weaknesses were not sufficient to prevent a 1951 treatise
+writer from concluding, on the basis of the great weight of
+
+
+8       SCA HYGIENE PRODUCTS AKTIEBOLAG v. FIRST
+               QUALITY BABY PRODUCTS, LLC
+                     BREYER, J., dissenting
+authority, that in patent cases, “[l]aches . . . may be inter-
+posed in an action at law.” 3 A. Deller, Walker on Patents
+106 (Cum. Supp. 1951).
+   In any event, with all its efforts, the majority is unable
+to identify a single case—not one—from any court of ap-
+peals sitting in law or in equity before the merger, or
+sitting after the merger but before 1952, holding that
+laches could not bar a patent claim for damages. Fur-
+thermore, the majority concedes that it is unable to distin-
+guish, by my count, at least six Court of Appeals cases
+directly holding that laches could bar a patent claim for
+damages. See Wolf, Sayer & Heller, 261 F. 195; Lurie, 209
+F. 364; Universal Coin, supra; Banker, 69 F. 2d 665; Bren-
+nan, supra; Lukens, 197 F. 2d 939. And that is the case
+law situation that Congress faced when it wrote a statute
+that, as we have said, sought primarily to codify existing
+patent law. See supra, at 3–4.
+   The majority tries to minimize the overall thrust of this
+case law by dividing the cases into subgroups and then
+concluding that the number of undistinguishable prece-
+dents in each subgroup is “too few to establish a settled,
+national consensus.” Ante, at 12. The problem with this
+approach is that, once we look at the body of case law as a
+whole, rather than in subgroups, we find what I have said
+and repeated, namely, that all the cases say the same
+thing: Laches applies. The majority’s insistence on subdi-
+vision makes it sound a little like a Phillies fan who an-
+nounces that a 9–0 loss to the Red Sox was a “close one.”
+Why close? Because, says the fan, the Phillies lost each
+inning by only one run.
+   For the sake of completeness I add that, since 1952,
+every Federal Court of Appeals to consider the question
+has held that laches remains available for damages claims
+brought under the Patent Act. See A. C. Aukerman Co. v.
+R. L. Chaides Constr. Co., 960 F. 2d 1020, 1030 (CA Fed.
+1992) (en banc). Yet, Congress has repeatedly reenacted
+
+
+                  Cite as: 580 U. S. ____ (2017)            9
+                      BREYER, J., dissenting
+35 U. S. C. §282’s “unenforceability” language without
+material change. See, e.g., §§15(a), 20(g)(2)(B), 125 Stat.
+328, 334. See also Texas Dept. of Housing and Community
+Affairs v. Inclusive Communities Project, Inc., 576 U. S.
+___, ___ (2015) (slip op., at 14) (holding that congressional
+reenactment provides “convincing support for the conclu-
+sion that Congress accepted and ratified the unanimous
+holdings of the Courts of Appeals”); Microsoft Corp. v. i4i
+Ltd. Partnership, 564 U. S. 91, 113–114 (2011) (when
+Congress has “often amended §282” while “le[aving] the
+Federal Circuit’s interpretation of §282 in place,” any
+further “recalibration” should be left to the Legislature).
+                               III
+  The majority’s strongest argument is Petrella. There,
+the Court held that laches could not bar a damages claim
+brought within the Copyright Act’s limitations period.
+The present case holds roughly the same in respect to the
+Patent Act, providing a degree of consistency.
+  There are relevant differences, however, between patent
+law and copyright law. For one thing, copyright law,
+unlike patent law, does not contain a century and a half of
+history during which courts held that laches and a statute
+of limitations could coexist. When Congress enacted the
+Patent Act in 1952, patent statutes had already contained
+a 6-year statute of limitations for 55 years (since 1897),
+during which time courts had continued to apply laches to
+patent damages cases. Copyright law, on the other hand,
+contained no federal statute of limitations until 1957. See
+Petrella, 572 U. S., at ___ (slip op., at 3).
+  For another thing, the Copyright Act, unlike the Patent
+Act, has express provisions that mitigate the unfairness of
+a copyright holder waiting for decades to bring his lawsuit.
+A copyright holder who tries to lie in wait to see if a de-
+fendant’s investment will prove successful will discover
+that the Copyright Act allows that defendant to “prove and
+
+
+10      SCA HYGIENE PRODUCTS AKTIEBOLAG v. FIRST
+                 QUALITY BABY PRODUCTS, LLC
+                       BREYER, J., dissenting
+offset against . . . profits ‘deductible expenses’ incurred in
+generating those profits.” Id., at ___ (slip op., at 12) (quot-
+ing 17 U. S. C. §504(b)). Thus, if the defendant invests say
+$50 million in a film, a copyright holder who waits until
+year 15 (when the film begins to earn a profit) to bring a
+lawsuit may be limited to recovering the defendant’s
+profits less an apportioned amount of the defendant’s
+initial $50 million investment. But the Patent Act has no
+such deduction provision.
+   Further, the Court, in Petrella, pointed out that the
+evidentiary loss that occurs while a copyright holder waits
+to bring suit is “at least as likely to affect plaintiffs as it is
+to disadvantage defendants.” 572 U. S., at ___ (slip op., at
+18). But that symmetry does not exist to the same degree
+in patent law. To win a copyright suit the copyright holder
+must show that the defendant copied his work. The
+death of witnesses and loss of documents from the time of
+the alleged infringement can therefore significantly impair
+the copyright holder’s ability to prove his case. There is no
+such requirement in a patent suit. Patent infringement is
+a strict-liability offense: There need not be any copying,
+only an end product (or process) that invades the area the
+patentee has carved out in his patent.
+   At the same time, the passage of time may well harm
+patent defendants who wish to show a patent invalid by
+raising defenses of anticipation, obviousness, or insuffi-
+ciency. These kinds of defenses can depend upon contem-
+poraneous evidence that may be lost over time, and they
+arise far more frequently in patent cases than any of their
+counterparts do in copyright cases. See Brief for Electronic
+Frontier Foundation et al. as Amici Curiae 23 (reporting
+that of all copyright cases pending as of January 2009,
+only 2.7% of judgment events resulted in a finding of a
+lack of ownership or validity of the copyright at issue);
+Allison, Lemley, & Schwartz, Understanding the Realities
+of Modern Patent Litigation, 92 Texas L. Rev. 1769, 1778,
+
+
+                   Cite as: 580 U. S. ____ (2017)          11
+                       BREYER, J., dissenting
+1784–1785 (2014) (finding that 70% of summary judgment
+motions in patent cases filed in 2008–2009 related to
+anticipation or obviousness). The upshot is an absence
+here of the symmetrical effect of delay upon which the
+Court relied in Petrella.
+   Finally, there is a “lock-in” problem that is likely to be
+more serious where patents are at issue. Once a business
+chooses to rely on a particular technology, it can become
+expensive to switch, even if it would have been cheap to do
+so earlier. See Lee & Melamed, Breaking the Vicious
+Cycle of Patent Damages, 101 Cornell L. Rev. 385, 409–
+410 (2016). As a result, a patentee has considerable incen-
+tive to delay suit until the costs of switching—and accord-
+ingly the settlement value of a claim—are high. The
+practical consequences of such delay can be significant, as
+the facts of this case illustrate: First Quality invested
+hundreds of millions of dollars in its allegedly infringing
+technologies during the years that SCA waited to bring its
+suit. App. to Pet. for Cert. 107a–108a. And amici have
+provided numerous other examples that suggest this fact
+pattern is far from uncommon. See Brief for Dell et al.
+11–19.
+   I recognize the Majority’s suggestion that the doctrine of
+“equitable estoppel” might help alleviate some of these
+problems. See ante, at 15. I certainly hope so. But I
+would be more “cautious before adopting changes that
+disrupt the settled expectations of the inventing commu-
+nity.” Festo Corp. v. Shoketsu Kinzoku Kogyo Kabushiki Co.,
+535 U. S. 722, 739 (2002).
+   I add or confess that I believe that Petrella too was
+wrongly decided. Today’s case helps illustrate why I think
+that Petrella started this Court down the wrong track. I
+would stop, finding adequate grounds to distinguish Pet-
+rella. But the majority remains “determined to stay the
+course and continue on, travelling even further away,”
+Mathis v. United States, 579 U. S. ___, ___ (2016) (ALITO,
+
+
+12      SCA HYGIENE PRODUCTS AKTIEBOLAG v. FIRST
+                QUALITY BABY PRODUCTS, LLC
+                       BREYER, J., dissenting
+J., dissenting) (slip op., at 9), from Congress’ efforts, in the
+Patent Act, to promote the “Progress of Science and useful
+Arts,” U. S. Const., Art. I, §8, cl. 8. Trite but true: Two
+wrongs don’t make a right.
+   With respect, I dissent.

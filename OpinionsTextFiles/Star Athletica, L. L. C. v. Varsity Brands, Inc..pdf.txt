@@ -1,0 +1,1464 @@
+(Slip Opinion)                OCTOBER TERM, 2016                                    1
+                                         Syllabus
+          NOTE: Where it is feasible, a syllabus (headnote) will be released, as is
+        being done in connection with this case, at the time the opinion is issued.
+        The syllabus constitutes no part of the opinion of the Court but has been
+        prepared by the Reporter of Decisions for the convenience of the reader.
+        See United States v. Detroit Timber & Lumber Co., 200 U. S. 321, 337.
+SUPREME COURT OF THE UNITED STATES
+                                         Syllabus
+  STAR ATHLETICA, L.L.C. v. VARSITY BRANDS, INC.,
+                                         ET AL.
+ CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR
+                                THE SIXTH CIRCUIT
+    No. 15–866.      Argued October 31, 2016—Decided March 22, 2017
+The Copyright Act of 1976 makes “pictorial, graphic, or sculptural fea-
+   tures” of the “design of a useful article” eligible for copyright protec-
+   tion as artistic works if those features “can be identified separately
+   from, and are capable of existing independently of, the utilitarian as-
+   pects of the article.” 17 U. S. C. §101.
+      Respondents have more than 200 copyright registrations for two-
+   dimensional designs—consisting of various lines, chevrons, and color-
+   ful shapes—appearing on the surface of the cheerleading uniforms
+   that they design, make, and sell. They sued petitioner, who also
+   markets cheerleading uniforms, for copyright infringement. The Dis-
+   trict Court granted petitioner summary judgment, holding that the
+   designs could not be conceptually or physically separated from the
+   uniforms and were therefore ineligible for copyright protection. In
+   reversing, the Sixth Circuit concluded that the graphics could be
+   “identified separately” and were “capable of existing independently”
+   of the uniforms under §101.
+Held: A feature incorporated into the design of a useful article is eligi-
+   ble for copyright protection only if the feature (1) can be perceived as
+   a two- or three-dimensional work of art separate from the useful arti-
+   cle, and (2) would qualify as a protectable pictorial, graphic, or sculp-
+   tural work—either on its own or fixed in some other tangible medium
+   of expression—if it were imagined separately from the useful article
+   into which it is incorporated. That test is satisfied here. Pp. 3–17.
+      (a) Separability analysis is necessary in this case. Respondents
+   claim that two-dimensional surface decorations are always separable,
+   even without resorting to a §101 analysis, because they are “on a use-
+   ful article” rather than “designs of a useful article.” But this argu-
+
+
+2        STAR ATHLETICA, L. L. C. v. VARSITY BRANDS, INC.
+                                  Syllabus
+  ment is inconsistent with §101’s text. ”[P]ictorial” and “graphic” de-
+  note two-dimensional features such as pictures, paintings, or draw-
+  ings. Thus, by providing protection for “pictorial, graphical, and
+  sculptural works” incorporated into the “design of a useful article,”
+  §101 necessarily contemplates that such a design can include two-
+  dimensional features. This Court will not adjudicate in the first in-
+  stance the Government’s distinct argument against applying separa-
+  bility analysis, which was neither raised below nor advanced here by
+  any party. Pp. 4–6.
+     (b) Whether a feature incorporated into a useful article “can be
+  identified separately from,” and is “capable of existing independently
+  of,” the article’s “utilitarian aspects” is a matter of “statutory inter-
+  pretation.” Mazer v. Stein, 347 U. S. 201, 214. Pp. 6–10.
+       (1) Section 101’s separate-identification requirement is met if the
+  decisionmaker is able to look at the useful article and spot some two-
+  or three-dimensional element that appears to have pictorial, graphic,
+  or sculptural qualities. To satisfy the independent-existence re-
+  quirement, the feature must be able to exist as its own pictorial,
+  graphic, or sculptural work once it is imagined apart from the useful
+  article. If the feature could not exist as a pictorial, graphic, or sculp-
+  tural work on its own, it is simply one of the article’s utilitarian as-
+  pects. And to qualify as a pictorial, graphic, or sculptural work on its
+  own, the feature cannot be a useful article or “[a]n article that is
+  normally a part of a useful article,” §101. Neither could one claim a
+  copyright in a useful article by creating a replica of it in another me-
+  dium. Pp. 7–8.
+       (2) The statute as a whole confirms this interpretation. Section
+  101, which protects art first fixed in the medium of a useful article, is
+  essentially the mirror image of §113(a), which protects art first fixed
+  in a medium other than a useful article and subsequently applied to a
+  useful article. Together, these provisions make clear that copyright
+  protection extends to pictorial, graphic, and sculptural works regard-
+  less of whether they were created as freestanding art or as features of
+  useful articles. P. 8.
+       (3) This interpretation is also consistent with the Copyright Act’s
+  history. In Mazer, a case decided under the 1909 Copyright Act, the
+  Court held that respondents owned a copyright in a statuette created
+  for use as a lamp base. In so holding, the Court approved a Copy-
+  right Office regulation extending protection to works of art that
+  might also serve a useful purpose and held that it was irrelevant to
+  the copyright inquiry whether the statuette was initially created as a
+  freestanding sculpture or as a lamp base. Soon after, the Copyright
+  Office enacted a regulation implementing Mazer’s holding that antic-
+  ipated the language of §101, thereby introducing the modern separa-
+
+
+                     Cite as: 580 U. S. ____ (2017)                    3
+                               Syllabus
+bility test to copyright law. Congress essentially lifted the language
+from those post-Mazer regulations and placed it in §101 of the 1976
+Act. Pp. 8–10.
+   (c) Applying the proper test here, the surface decorations on the
+cheerleading uniforms are separable and therefore eligible for copy-
+right protection. First, the decorations can be identified as features
+having pictorial, graphic, or sculptural qualities. Second, if those
+decorations were separated from the uniforms and applied in another
+medium, they would qualify as two-dimensional works of art under
+§101. Imaginatively removing the decorations from the uniforms and
+applying them in another medium also would not replicate the uni-
+form itself.
+   The dissent argues that the decorations are ineligible for copyright
+protection because, when imaginatively extracted, they form a pic-
+ture of a cheerleading uniform. Petitioner similarly claims that the
+decorations cannot be copyrighted because, even when extracted from
+the useful article, they retain the outline of a cheerleading uniform.
+But this is not a bar to copyright. Just as two-dimensional fine art
+correlates to the shape of the canvas on which it is painted, two-
+dimensional applied art correlates to the contours of the article on
+which it is applied. The only feature of respondents’ cheerleading
+uniform eligible for a copyright is the two-dimensional applied art on
+the surface of the uniforms. Respondents may prohibit the reproduc-
+tion only of the surface designs on a uniform or in any other medium
+of expression. Respondents have no right to prevent anyone from
+manufacturing a cheerleading uniform that is identical in shape, cut,
+or dimensions to the uniforms at issue here. Pp. 10–12.
+   (d) None of the objections raised by petitioner or the Government is
+meritorious. Pp. 12–17.
+        (1) Petitioner and the Government focus on the relative utility
+of the plain white uniform that would remain if the designs were
+physically removed from the uniform. But the separability inquiry
+focuses on the extracted feature and not on any aspects of the useful
+article remaining after the imaginary extraction. The statute does
+not require the imagined remainder to be a fully functioning useful
+article at all. Nor can an artistic feature that would be eligible for
+copyright protection on its own lose that protection simply because it
+was first created as a feature of the design of a useful article, even if
+it makes that article more useful. This has been the rule since Ma-
+zer, and it is consistent with the statute’s explicit protection of “ap-
+plied art.” In rejecting petitioner’s view, the Court necessarily aban-
+dons the distinction between “physical” and “conceptual” separability
+adopted by some courts and commentators. Pp. 12–15.
+        (2) Petitioner also suggests incorporating two “objective” com-
+
+
+4       STAR ATHLETICA, L. L. C. v. VARSITY BRANDS, INC.
+                                 Syllabus
+  ponents into the test—one requiring consideration of evidence of the
+  creator’s design methods, purposes, and reasons, and one looking to
+  the feature’s marketability. The Court declines to incorporate these
+  components because neither is grounded in the statute’s text.
+  Pp. 15–16.
+         (3) Finally, petitioner claims that protecting surface decora-
+  tions is inconsistent with Congress’ intent to entirely exclude indus-
+  trial design from copyright. But Congress has given limited copy-
+  right protection to certain features of industrial design. Approaching
+  the statute with presumptive hostility toward protection for industri-
+  al design would undermine that choice. In any event, the test adopt-
+  ed here does not render the underlying uniform eligible for copyright
+  protection. Pp. 16–17.
+799 F. 3d 468, affirmed.
+  THOMAS, J., delivered the opinion of the Court, in which ROBERTS,
+C. J., and ALITO, SOTOMAYOR, and KAGAN, JJ., joined. GINSBURG, J., filed
+an opinion concurring in the judgment. BREYER, J., filed a dissenting
+opinion, in which KENNEDY, J., joined.
+
+
+                         Cite as: 580 U. S. ____ (2017)                            1
+                               Opinion of the Court
+      NOTICE: This opinion is subject to formal revision before publication in the
+      preliminary print of the United States Reports. Readers are requested to
+      notify the Reporter of Decisions, Supreme Court of the United States, Wash-
+      ington, D. C. 20543, of any typographical or other formal errors, in order
+      that corrections may be made before the preliminary print goes to press.
+SUPREME COURT OF THE UNITED STATES
+                                     _________________
+                                      No. 15–866
+                                     _________________
+ STAR ATHLETICA, L. L. C., PETITIONER v. VARSITY
+                           BRANDS, INC., ET AL.
+ ON WRIT OF CERTIORARI TO THE UNITED STATES COURT OF
+                    APPEALS FOR THE SIXTH CIRCUIT
+                                  [March 22, 2017]
+   JUSTICE THOMAS delivered the opinion of the Court.
+   Congress has provided copyright protection for original
+works of art, but not for industrial designs. The line
+between art and industrial design, however, is often diffi-
+cult to draw. This is particularly true when an industrial
+design incorporates artistic elements. Congress has af-
+forded limited protection for these artistic elements by
+providing that “pictorial, graphic, or sculptural features”
+of the “design of a useful article” are eligible for copyright
+protection as artistic works if those features “can be iden-
+tified separately from, and are capable of existing inde-
+pendently of, the utilitarian aspects of the article.” 17
+U. S. C. §101.
+   We granted certiorari to resolve widespread disagree-
+ment over the proper test for implementing §101’s separate-
+identification and independent-existence requirements.
+578 U. S. ___ (2016). We hold that a feature incor-
+porated into the design of a useful article is eligible for
+copyright protection only if the feature (1) can be per-
+ceived as a two- or three-dimensional work of art separate
+from the useful article and (2) would qualify as a protecta-
+
+
+2      STAR ATHLETICA, L. L. C. v. VARSITY BRANDS, INC.
+                       Opinion of the Court
+ble pictorial, graphic, or sculptural work—either on its
+own or fixed in some other tangible medium of expres-
+sion—if it were imagined separately from the useful arti-
+cle into which it is incorporated. Because that test is
+satisfied in this case, we affirm.
+                                I
+   Respondents Varsity Brands, Inc., Varsity Spirit Corpo-
+ration, and Varsity Spirit Fashions & Supplies, Inc., de-
+sign, make, and sell cheerleading uniforms. Respondents
+have obtained or acquired more than 200 U. S. copyright
+registrations for two-dimensional designs appearing on
+the surface of their uniforms and other garments. These
+designs are primarily “combinations, positionings, and
+arrangements of elements” that include “chevrons . . . ,
+lines, curves, stripes, angles, diagonals, inverted [chev-
+rons], coloring, and shapes.” App. 237. At issue in this
+case are Designs 299A, 299B, 074, 078, and 0815. See
+Appendix, infra.
+   Petitioner Star Athletica, L. L. C., also markets and
+sells cheerleading uniforms. Respondents sued petitioner
+for infringing their copyrights in the five designs. The
+District Court entered summary judgment for petitioner
+on respondents’ copyright claims on the ground that the
+designs did not qualify as protectable pictorial, graphic, or
+sculptural works. It reasoned that the designs served the
+useful, or “utilitarian,” function of identifying the gar-
+ments as “cheerleading uniforms” and therefore could not
+be “physically or conceptually” separated under §101 “from
+the utilitarian function” of the uniform. 2014 WL 819422,
+*8–*9 (WD Tenn., Mar. 1, 2014).
+   The Court of Appeals for the Sixth Circuit reversed. 799
+F. 3d 468, 471 (2015). In its view, the “graphic designs”
+were “separately identifiable” because the designs “and a
+blank cheerleading uniform can appear ‘side by side’—one
+as a graphic design, and one as a cheerleading uniform.”
+
+
+                    Cite as: 580 U. S. ____ (2017)          3
+                         Opinion of the Court
+Id., at 491 (quoting Compendium of U. S. Copyright Office
+Practices §924.2(B) (3d ed. 2014) (Compendium)). And it
+determined that the designs were “ ‘capable of existing
+independently’ ” because they could be incorporated onto
+the surface of different types of garments, or hung on the
+wall and framed as art. 799 F. 3d, at 491, 492.
+   Judge McKeague dissented. He would have held that,
+because “identifying the wearer as a cheerleader” is a
+utilitarian function of a cheerleading uniform and the
+surface designs were “integral to” achieving that function,
+the designs were inseparable from the uniforms. Id., at
+495–496.
+                                  II
+   The first element of a copyright-infringement claim is
+“ownership of a valid copyright.” Feist Publications, Inc. v.
+Rural Telephone Service Co., 499 U. S. 340, 361 (1991). A
+valid copyright extends only to copyrightable subject
+matter. See 4 M. Nimmer & D. Nimmer, Copyright
+§13.01[A] (2010) (Nimmer). The Copyright Act of 1976
+defines copyrightable subject matter as “original works of
+authorship fixed in any tangible medium of expression.”
+17 U. S. C. §102(a).
+   “Works of authorship” include “pictorial, graphic, and
+sculptural works,” §102(a)(5), which the statute defines to
+include “two-dimensional and three-dimensional works of
+fine, graphic, and applied art, photographs, prints and art
+reproductions, maps, globes, charts, diagrams, models,
+and technical drawings, including architectural plans,”
+§101. And a work of authorship is “ ‘fixed’ in a tangible
+medium of expression when it[ is] embodi[ed] in a” “mate-
+rial objec[t] . . . from which the work can be perceived,
+reproduced, or otherwise communicated.” Ibid. (defini-
+tions of “fixed” and “copies”).
+   The Copyright Act also establishes a special rule for
+copyrighting a pictorial, graphic, or sculptural work incor-
+
+
+4      STAR ATHLETICA, L. L. C. v. VARSITY BRANDS, INC.
+                       Opinion of the Court
+porated into a “useful article,” which is defined as “an
+article having an intrinsic utilitarian function that is not
+merely to portray the appearance of the article or to con-
+vey information.” Ibid. The statute does not protect
+useful articles as such. Rather, “the design of a useful
+article” is “considered a pictorial, graphical, or sculptural
+work only if, and only to the extent that, such design
+incorporates pictorial, graphic, or sculptural features that
+can be identified separately from, and are capable of exist-
+ing independently of, the utilitarian aspects of the article.”
+Ibid.
+   Courts, the Copyright Office, and commentators have
+described the analysis undertaken to determine whether a
+feature can be separately identified from, and exist inde-
+pendently of, a useful article as “separability.” In this
+case, our task is to determine whether the arrangements
+of lines, chevrons, and colorful shapes appearing on the
+surface of respondents’ cheerleading uniforms are eligible
+for copyright protection as separable features of the design
+of those cheerleading uniforms.
+                                A
+   As an initial matter, we must address whether separa-
+bility analysis is necessary in this case.
+                                1
+   Respondents argue that “[s]eparability is only implicated
+when a [pictorial, graphic, or sculptural] work is the ‘de-
+sign of a useful article.’ ” Brief for Respondents 25. They
+contend that the surface decorations in this case are “two-
+dimensional graphic designs that appear on useful arti-
+cles,” but are not themselves designs of useful articles.
+Id., at 52. Consequently, the surface decorations are
+protected two-dimensional works of graphic art without
+regard to any separability analysis under §101. Ibid.; see
+2 W. Patry, Copyright §3:151, p. 3–485 (2016) (Patry)
+
+
+                   Cite as: 580 U. S. ____ (2017)            5
+                        Opinion of the Court
+(“Courts looking at two-dimensional design claims should
+not apply the separability analysis regardless of the three-
+dimensional form that design is embodied in”). Under this
+theory, two-dimensional artistic features on the surface of
+useful articles are “inherently separable.” Brief for Re-
+spondents 26.
+   This argument is inconsistent with the text of §101. The
+statute requires separability analysis for any “pictorial,
+graphic, or sculptural features” incorporated into the
+“design of a useful article.” “Design” refers here to “the
+combination” of “details” or “features” that “go to make up”
+the useful article. 3 Oxford English Dictionary 244 (def. 7,
+first listing) (1933) (OED). Furthermore, the words “picto-
+rial” and “graphic” include, in this context, two-
+dimensional features such as pictures, paintings, or draw-
+ings. See 4 id., at 359 (defining “[g]raphic” to mean “[o]f or
+pertaining to drawing or painting”); 7 id., at 830 (defining
+“[p]ictorial” to mean “of or pertaining to painting or draw-
+ing”).     And the statute expressly defines “[p]ictorial,
+graphical, and sculptural works” to include “two-
+dimensional . . . works of . . . art.” §101. The statute thus
+provides that the “design of a useful article” can include
+two-dimensional “pictorial” and “graphic” features, and
+separability analysis applies to those features just as it
+does to three-dimensional “sculptural” features.
+                                 2
+   The United States makes a related but distinct argu-
+ment against applying separability analysis in this case,
+which respondents do not and have not advanced. As part
+of their copyright registrations for the designs in this case,
+respondents deposited with the Copyright Office drawings
+and photographs depicting the designs incorporated onto
+cheerleading uniforms. App. 213–219; Appendix, infra.
+The Government argues that, assuming the other statutory
+requirements were met, respondents obtained a copyright
+
+
+6      STAR ATHLETICA, L. L. C. v. VARSITY BRANDS, INC.
+                      Opinion of the Court
+in the deposited drawings and photographs and have
+simply reproduced those copyrighted works on the surface
+of a useful article, as they would have the exclusive right
+to do under the Copyright Act. See Brief for United States
+as Amicus Curiae 14–15, 17–22. Accordingly, the Gov-
+ernment urges, separability analysis is unnecessary on the
+record in this case. We generally do not entertain argu-
+ments that were not raised below and that are not ad-
+vanced in this Court by any party, Burwell v. Hobby Lobby
+Stores, Inc., 573 U. S. ___, ___ (2014), because “[i]t is not
+the Court’s usual practice to adjudicate either legal or
+predicate factual questions in the first instance,” CRST
+Van Expedited, Inc. v. EEOC, 578 U. S. ___, ___ (2016)
+(slip op., at 16). We decline to depart from our usual
+practice here.
+                               B
+   We must now decide when a feature incorporated into a
+useful article “can be identified separately from” and is
+“capable of existing independently of ” “the utilitarian
+aspects” of the article. This is not a free-ranging search
+for the best copyright policy, but rather “depends solely on
+statutory interpretation.” Mazer v. Stein, 347 U. S. 201,
+214 (1954). “The controlling principle in this case is the
+basic and unexceptional rule that courts must give effect
+to the clear meaning of statutes as written.” Estate of
+Cowart v. Nicklos Drilling Co., 505 U. S. 469, 476 (1992).
+We thus begin and end our inquiry with the text, giving
+each word its “ordinary, contemporary, common meaning.”
+Walters v. Metropolitan Ed. Enterprises, Inc., 519 U. S.
+202, 207 (1997) (internal quotation marks omitted). We do
+not, however, limit this inquiry to the text of §101 in
+isolation. “[I]nterpretation of a phrase of uncertain reach
+is not confined to a single sentence when the text of the
+whole statute gives instruction as to its meaning.” Mara­
+cich v. Spears, 570 U. S. ___, ___ (2013) (slip op., at 15).
+
+
+                    Cite as: 580 U. S. ____ (2017)            7
+                         Opinion of the Court
+We thus “look to the provisions of the whole law” to de-
+termine §101’s meaning. United States v. Heirs of Bois­
+doré, 8 How. 113, 122 (1849).
+                                  1
+  The statute provides that a “pictorial, graphic, or sculp-
+tural featur[e]” incorporated into the “design of a useful
+article” is eligible for copyright protection if it (1) “can be
+identified separately from,” and (2) is “capable of existing
+independently of, the utilitarian aspects of the article.”
+§101. The first requirement—separate identification—is
+not onerous. The decisionmaker need only be able to look
+at the useful article and spot some two- or three-
+dimensional element that appears to have pictorial, graphic,
+or sculptural qualities. See 2 Patry §3:146, at 3–474 to
+3–475.
+  The independent-existence requirement is ordinarily
+more difficult to satisfy. The decisionmaker must deter-
+mine that the separately identified feature has the capacity
+to exist apart from the utilitarian aspects of the article.
+See 2 OED 88 (def. 5) (defining “[c]apable” of as “[h]aving
+the needful capacity, power, or fitness for”). In other
+words, the feature must be able to exist as its own pictorial,
+graphic, or sculptural work as defined in §101 once it is
+imagined apart from the useful article. If the feature is
+not capable of existing as a pictorial, graphic, or sculptural
+work once separated from the useful article, then it was
+not a pictorial, graphic, or sculptural feature of that arti-
+cle, but rather one of its utilitarian aspects.
+  Of course, to qualify as a pictorial, graphic, or sculptural
+work on its own, the feature cannot itself be a useful
+article or “[a]n article that is normally a part of a useful
+article” (which is itself considered a useful article). §101.
+Nor could someone claim a copyright in a useful article
+merely by creating a replica of that article in some other
+medium—for example, a cardboard model of a car. Al-
+
+
+8      STAR ATHLETICA, L. L. C. v. VARSITY BRANDS, INC.
+                       Opinion of the Court
+though the replica could itself be copyrightable, it would
+not give rise to any rights in the useful article that in-
+spired it.
+                                2
+   The statute as a whole confirms our interpretation. The
+Copyright Act provides “the owner of [a] copyright” with
+the “exclusive righ[t] . . . to reproduce the copyrighted
+work in copies.” §106(1). The statute clarifies that this
+right “includes the right to reproduce the [copyrighted]
+work in or on any kind of article, whether useful or other-
+wise.” §113(a). Section 101 is, in essence, the mirror
+image of §113(a). Whereas §113(a) protects a work of
+authorship first fixed in some tangible medium other than
+a useful article and subsequently applied to a useful arti-
+cle, §101 protects art first fixed in the medium of a useful
+article. The two provisions make clear that copyright
+protection extends to pictorial, graphic, and sculptural
+works regardless of whether they were created as free-
+standing art or as features of useful articles. The ultimate
+separability question, then, is whether the feature for
+which copyright protection is claimed would have been
+eligible for copyright protection as a pictorial, graphic, or
+sculptural work had it originally been fixed in some tangi-
+ble medium other than a useful article before being ap-
+plied to a useful article.
+                                3
+   This interpretation is also consistent with the history of
+the Copyright Act. In Mazer, a case decided under the
+1909 Copyright Act, the respondents copyrighted a statu-
+ette depicting a dancer. The statuette was intended for
+use as a lamp base, “with electric wiring, sockets and lamp
+shades attached.” 347 U. S., at 202. Copies of the statu-
+ette were sold both as lamp bases and separately as statu-
+ettes. Id., at 203. The petitioners copied the statuette and
+
+
+                    Cite as: 580 U. S. ____ (2017)               9
+                         Opinion of the Court
+sold lamps with the statuette as the base. They defended
+against the respondents’ infringement suit by arguing that
+the respondents did not have a copyright in a statuette
+intended for use as a lamp base. Id., at 204–205.
+   Two of Mazer’s holdings are relevant here. First, the
+Court held that the respondents owned a copyright in the
+statuette even though it was intended for use as a lamp
+base. See id., at 214. In doing so, the Court approved the
+Copyright Office’s regulation extending copyright protec-
+tion to works of art that might also serve a useful purpose.
+See ibid. (approving 37 CFR §202.8(a) (1949) (protect-
+ing “works of artistic craftsmanship, in so far as their
+form but not their mechanical or utilitarian aspects are
+concerned”)).
+   Second, the Court held that it was irrelevant to the
+copyright inquiry whether the statuette was initially
+created as a freestanding sculpture or as a lamp base. 347
+U. S., at 218–219 (“Nor do we think the subsequent regis-
+tration of a work of art published as an element in a man-
+ufactured article, is a misuse of copyright. This is not
+different from the registration of a statuette and its later
+embodiment in an industrial article”). Mazer thus inter-
+preted the 1909 Act consistently with the rule discussed
+above: If a design would have been copyrightable as a
+standalone pictorial, graphic, or sculptural work, it is
+copyrightable if created first as part of a useful article.
+   Shortly thereafter, the Copyright Office enacted a regu-
+lation implementing the holdings of Mazer. See 1 Nimmer
+§2A.08[B][1][b] (2016). As amended, the regulation intro-
+duced the modern separability test to copyright law:
+     “If the sole intrinsic function of an article is its utility,
+     the fact that the article is unique and attractively
+     shaped will not qualify it as a work of art. However, if
+     the shape of a utilitarian article incorporates features,
+     such as artistic sculpture, carving, or pictorial repre-
+
+
+10      STAR ATHLETICA, L. L. C. v. VARSITY BRANDS, INC.
+                         Opinion of the Court
+      sentation, which can be identified separately and are
+      capable of existing independently as a work of art,
+      such features will be eligible for registration.” 37 CFR
+      §202.10(c) (1960) (punctuation altered).
+    Congress essentially lifted the language governing
+protection for the design of a useful article directly from
+the post-Mazer regulations and placed it into §101 of the
+1976 Act. Consistent with Mazer, the approach we outline
+today interprets §§101 and 113 in a way that would afford
+copyright protection to the statuette in Mazer regardless
+of whether it was first created as a standalone sculptural
+work or as the base of the lamp. See 347 U. S., at
+218–219.
+                                  C
+    In sum, a feature of the design of a useful article is
+eligible for copyright if, when identified and imagined
+apart from the useful article, it would qualify as a pictorial,
+graphic, or sculptural work either on its own or when fixed
+in some other tangible medium.
+    Applying this test to the surface decorations on the
+cheerleading uniforms is straightforward. First, one can
+identify the decorations as features having pictorial,
+graphic, or sculptural qualities. Second, if the arrange-
+ment of colors, shapes, stripes, and chevrons on the sur-
+face of the cheerleading uniforms were separated from the
+uniform and applied in another medium—for example, on a
+painter’s canvas—they would qualify as “two-dimensional
+. . . works of . . . art,” §101. And imaginatively removing
+the surface decorations from the uniforms and applying
+them in another medium would not replicate the uniform
+itself. Indeed, respondents have applied the designs in
+this case to other media of expression—different types of
+clothing—without replicating the uniform. See App. 273–
+279. The decorations are therefore separable from the
+
+
+                      Cite as: 580 U. S. ____ (2017)                    11
+                           Opinion of the Court
+uniforms and eligible for copyright protection.1
+   The dissent argues that the designs are not separable
+because imaginatively removing them from the uniforms
+and placing them in some other medium of expression—a
+canvas, for example—would create “pictures of cheerleader
+uniforms.” Post, at 10 (opinion of BREYER, J.). Petitioner
+similarly argues that the decorations cannot be copyrighted
+because, even when extracted from the useful article,
+they retain the outline of a cheerleading uniform. Brief
+for Petitioner 48–49.
+   This is not a bar to copyright. Just as two-dimensional
+fine art corresponds to the shape of the canvas on which it
+is painted, two-dimensional applied art correlates to the
+contours of the article on which it is applied. A fresco
+painted on a wall, ceiling panel, or dome would not lose
+copyright protection, for example, simply because it was
+designed to track the dimensions of the surface on which it
+was painted. Or consider, for example, a design etched or
+painted on the surface of a guitar. If that entire design is
+imaginatively removed from the guitar’s surface and
+placed on an album cover, it would still resemble the
+shape of a guitar. But the image on the cover does not
+“replicate” the guitar as a useful article. Rather, the
+design is a two-dimensional work of art that corresponds
+to the shape of the useful article to which it was applied.
+The statute protects that work of art whether it is first
+drawn on the album cover and then applied to the guitar’s
+surface, or vice versa. Failing to protect that art would
+create an anomaly: It would extend protection to two-
+dimensional designs that cover a part of a useful article
+but would not protect the same design if it covered the
+——————
+  1 We do not today hold that the surface decorations are copyrightable.
+We express no opinion on whether these works are sufficiently original
+to qualify for copyright protection, see Feist Publications, Inc. v. Rural
+Telephone Service Co., 499 U. S. 340, 358–359 (1991), or on whether
+any other prerequisite of a valid copyright has been satisfied.
+
+
+12       STAR ATHLETICA, L. L. C. v. VARSITY BRANDS, INC.
+                           Opinion of the Court
+entire article. The statute does not support that distinc-
+tion, nor can it be reconciled with the dissent’s recognition
+that “artwork printed on a t-shirt” could be protected.
+Post, at 4 (internal quotation marks omitted).
+    To be clear, the only feature of the cheerleading uniform
+eligible for a copyright in this case is the two-dimensional
+work of art fixed in the tangible medium of the uniform
+fabric. Even if respondents ultimately succeed in estab-
+lishing a valid copyright in the surface decorations at
+issue here, respondents have no right to prohibit any
+person from manufacturing a cheerleading uniform of
+identical shape, cut, and dimensions to the ones on which
+the decorations in this case appear. They may prohibit
+only the reproduction of the surface designs in any tangi-
+ble medium of expression—a uniform or otherwise.2
+                                    D
+    Petitioner and the Government raise several objections
+to the approach we announce today. None is meritorious.
+                                    1
+    Petitioner first argues that our reading of the statute is
+missing an important step. It contends that a feature may
+exist independently only if it can stand alone as a copy-
+rightable work and if the useful article from which it was
+extracted would remain equally useful. In other words,
+——————
+   2 The dissent suggests that our test would lead to the copyrighting of
+shovels. Post, at 7; Appendix to opinion of BREYER, J., fig. 4, post. But a
+shovel, like a cheerleading uniform, even if displayed in an art gallery,
+is “an article having an intrinsic utilitarian function that is not merely
+to portray the appearance of the article or to convey information.” 17
+U. S. C. §101. It therefore cannot be copyrighted. A drawing of a
+shovel could, of course, be copyrighted. And, if the shovel included any
+artistic features that could be perceived as art apart from the shovel,
+and which would qualify as protectable pictorial, graphic, or sculptural
+works on their own or in another medium, they too could be copyrighted.
+But a shovel as a shovel cannot.
+
+
+                    Cite as: 580 U. S. ____ (2017)           13
+                         Opinion of the Court
+copyright extends only to “solely artistic” features of useful
+articles. Brief for Petitioner 33. According to petitioner, if
+a feature of a useful article “advance[s] the utility of the
+article,” id., at 38, then it is categorically beyond the scope
+of copyright, id., at 33. The designs here are not protected,
+it argues, because they are necessary to two of the uni-
+forms’ “inherent, essential, or natural functions”—
+identifying the wearer as a cheerleader and enhancing the
+wearer’s physical appearance. Id., at 38, 48; Reply Brief 2,
+16. Because the uniforms would not be equally useful
+without the designs, petitioner contends that the designs
+are inseparable from the “utilitarian aspects” of the uni-
+form. Brief for Petitioner 50.
+   The Government raises a similar argument, although it
+reaches a different result. It suggests that the appropriate
+test is whether the useful article with the artistic feature
+removed would “remai[n] similarly useful.” Brief for
+United States as Amicus Curiae 29 (emphasis added). In
+the view of the United States, however, a plain white
+cheerleading uniform is “similarly useful” to uniforms
+with respondents’ designs. Id., at 27–28.
+   The debate over the relative utility of a plain white
+cheerleading uniform is unnecessary. The focus of the
+separability inquiry is on the extracted feature and not on
+any aspects of the useful article that remain after the
+imaginary extraction. The statute does not require the
+decisionmaker to imagine a fully functioning useful article
+without the artistic feature. Instead, it requires that the
+separated feature qualify as a nonuseful pictorial, graphic,
+or sculptural work on its own.
+   Of course, because the removed feature may not be a
+useful article—as it would then not qualify as a pictorial,
+graphic, or sculptural work—there necessarily would be
+some aspects of the original useful article “left behind” if
+the feature were conceptually removed. But the statute
+does not require the imagined remainder to be a fully
+
+
+14     STAR ATHLETICA, L. L. C. v. VARSITY BRANDS, INC.
+                       Opinion of the Court
+functioning useful article at all, much less an equally
+useful one. Indeed, such a requirement would deprive the
+Mazer statuette of protection had it been created first as a
+lamp base rather than as a statuette. Without the base,
+the “lamp” would be just a shade, bulb, and wires. The
+statute does not require that we imagine a nonartistic
+replacement for the removed feature to determine whether
+that feature is capable of an independent existence.
+   Petitioner’s argument follows from its flawed view that
+the statute protects only “solely artistic” features that
+have no effect whatsoever on a useful article’s utilitarian
+function. This view is inconsistent with the statutory text.
+The statute expressly protects two- and three-dimensional
+“applied art.” §101. “Applied art” is art “employed in the
+decoration, design, or execution of useful objects,” Web-
+ster’s Third New International Dictionary 105 (1976)
+(emphasis added), or “those arts or crafts that have a
+primarily utilitarian function, or . . . the designs and
+decorations used in these arts,” Random House Dictionary
+73 (1966) (emphasis added); see also 1 OED 576 (2d ed.
+1989) (defining “applied” as “[p]ut to practical use”). An
+artistic feature that would be eligible for copyright protec-
+tion on its own cannot lose that protection simply because
+it was first created as a feature of the design of a useful
+article, even if it makes that article more useful.
+   Indeed, this has been the rule since Mazer. In holding
+that the statuette was protected, the Court emphasized
+that the 1909 Act abandoned any “distinctions between
+purely aesthetic articles and useful works of art.” 347
+U. S., at 211. Congress did not enact such a distinction in
+the 1976 Act. Were we to accept petitioner’s argument
+that the only protectable features are those that play
+absolutely no role in an article’s function, we would effec-
+tively abrogate the rule of Mazer and read “applied art”
+out of the statute.
+   Because we reject the view that a useful article must
+
+
+                    Cite as: 580 U. S. ____ (2017)          15
+                         Opinion of the Court
+remain after the artistic feature has been imaginatively
+separated from the article, we necessarily abandon the
+distinction between “physical” and “conceptual” separabil-
+ity, which some courts and commentators have adopted
+based on the Copyright Act’s legislative history. See H. R.
+Rep. No. 94–1476, p. 55 (1976). According to this view, a
+feature is physically separable from the underlying useful
+article if it can “be physically separated from the article by
+ordinary means while leaving the utilitarian aspects of the
+article completely intact.” Compendium §924.2(A); see
+also Chosun Int’l, Inc. v. Chrisha Creations, Ltd., 413 F. 3d
+324, 329 (CA2 2005). Conceptual separability applies if
+the feature physically could not be removed from the
+useful article by ordinary means. See Compendium
+§924.2(B); but see 1 P. Goldstein, Copyright §2.5.3, p. 2:77
+(3d ed. 2016) (explaining that the lower courts have been
+unable to agree on a single conceptual separability test); 2
+Patry §§3:140–3:144.40 (surveying the various approaches
+in the lower courts).
+   The statutory text indicates that separability is a con-
+ceptual undertaking. Because separability does not re-
+quire the underlying useful article to remain, the physical-
+conceptual distinction is unnecessary.
+                                  2
+   Petitioner next argues that we should incorporate two
+“objective” components, Reply Brief 9, into our test to
+provide guidance to the lower courts: (1) “whether the
+design elements can be identified as reflecting the designer’s
+artistic judgment exercised independently of functional
+influence,” Brief for Petitioner 34 (emphasis deleted and
+internal quotation marks omitted), and (2) whether “there
+is [a] substantial likelihood that the pictorial, graphic, or
+sculptural feature would still be marketable to some sig-
+nificant segment of the community without its utilitarian
+function,” id., at 35 (emphasis deleted and internal quota-
+
+
+16     STAR ATHLETICA, L. L. C. v. VARSITY BRANDS, INC.
+                        Opinion of the Court
+tion marks omitted).
+   We reject this argument because neither consideration
+is grounded in the text of the statute. The first would
+require the decisionmaker to consider evidence of the
+creator’s design methods, purposes, and reasons. Id., at
+48. The statute’s text makes clear, however, that our
+inquiry is limited to how the article and feature are per-
+ceived, not how or why they were designed. See Brandir
+Int’l, Inc. v. Cascade Pacific Lumber Co., 834 F. 2d 1142,
+1152 (CA2 1987) (Winter, J., concurring in part and dis-
+senting in part) (The statute “expressly states that the
+legal test is how the final article is perceived, not how it
+was developed through various stages”).
+   The same is true of marketability. Nothing in the stat-
+ute suggests that copyrightability depends on market
+surveys. Moreover, asking whether some segment of the
+market would be interested in a given work threatens to
+prize popular art over other forms, or to substitute judicial
+aesthetic preferences for the policy choices embodied in
+the Copyright Act. See Bleistein v. Donaldson Litho­
+graphing Co., 188 U. S. 239, 251 (1903) (“It would be a
+dangerous undertaking for persons trained only to the law
+to constitute themselves final judges of the worth of picto-
+rial illustrations, outside of the narrowest and most obvi-
+ous limits”).
+                                 3
+   Finally, petitioner argues that allowing the surface
+decorations to qualify as a “work of authorship” is incon-
+sistent with Congress’ intent to entirely exclude industrial
+design from copyright. Petitioner notes that Congress
+refused to pass a provision that would have provided
+limited copyright protection for industrial designs, includ-
+ing clothing, when it enacted the 1976 Act, see id., at 9–11
+(citing S. 22, Tit. II, 94th Cong., 2d Sess., 122 Cong. Rec.
+3856–3859 (1976)), and that it has enacted laws protecting
+
+
+                    Cite as: 580 U. S. ____ (2017)                17
+                         Opinion of the Court
+designs for specific useful articles—semiconductor chips
+and boat hulls, see 17 U. S. C. §§901–914, 1301–1332—
+while declining to enact other industrial design statutes,
+Brief for Petitioner 29, 43. From this history of failed
+legislation petitioner reasons that Congress intends to
+channel intellectual property claims for industrial design
+into design patents. It therefore urges us to approach this
+question with a presumption against copyrightability. Id.,
+at 27.
+   We do not share petitioner’s concern. As an initial
+matter, “[c]ongressional inaction lacks persuasive signifi-
+cance” in most circumstances. Pension Benefit Guaranty
+Corporation v. LTV Corp., 496 U. S. 633, 650 (1990) (in-
+ternal quotation marks omitted). Moreover, we have long
+held that design patent and copyright are not mutually
+exclusive. See Mazer, 347 U. S., at 217. Congress has
+provided for limited copyright protection for certain fea-
+tures of industrial design, and approaching the statute
+with presumptive hostility toward protection for industrial
+design would undermine Congress’ choice. In any event,
+as explained above, our test does not render the shape,
+cut, and physical dimensions of the cheerleading uniforms
+eligible for copyright protection.
+                                 III
+   We hold that an artistic feature of the design of a useful
+article is eligible for copyright protection if the feature (1)
+can be perceived as a two- or three-dimensional work of
+art separate from the useful article and (2) would qualify
+as a protectable pictorial, graphic, or sculptural work
+either on its own or in some other medium if imagined
+separately from the useful article. Because the designs on
+the surface of respondents’ cheerleading uniforms in this
+case satisfy these requirements, the judgment of the Court
+of Appeals is affirmed.
+                                                   It is so ordered.
+
+
+             APPENDIX TO OPINION OF THE COURT
+Design 299A Design 299B    Design 074     Design 078 Design 0815
+
+
+                      Cite as: 580 U. S. ____ (2017)                       1
+                         GINSBURG
+                  GINSBURG            , J., concurring
+                             , J., concurring      in judgment
+SUPREME COURT OF THE UNITED STATES
+                                 _________________
+                                  No. 15–866
+                                 _________________
+  STAR ATHLETICA, L. L. C., PETITIONER v. VARSITY
+                       BRANDS, INC., ET AL.
+  ON WRIT OF CERTIORARI TO THE UNITED STATES COURT OF
+                 APPEALS FOR THE SIXTH CIRCUIT
+                              [March 22, 2017]
+   JUSTICE GINSBURG, concurring in the judgment.
+   I concur in the Court’s judgment but not in its opinion.
+Unlike the majority, I would not take up in this case the
+separability test appropriate under 17 U. S. C. §101. 1
+Consideration of that test is unwarranted because the
+designs at issue are not designs of useful articles. Instead,
+the designs are themselves copyrightable pictorial or
+graphic works reproduced on useful articles. 2
+——————
+  1 Courts “have struggled mightily to formulate a test” for the separa-
+bility analysis. 799 F. 3d 468, 484 (CA6 2015); see 2 W. Patry, Copy-
+right §3:136, p. 3–420 (2016) (noting “widespread interpretative disar-
+ray” over the separability test); Ginsburg, “Courts Have Twisted
+Themselves into Knots”: U. S. Copyright Protection for Applied Art, 40
+Colum. J. L. & Arts 1, 2 (2016) (“The ‘separability’ test . . . has resisted
+coherent application . . . .”); 1 M. Nimmer & D. Nimmer, Copyright
+§2A.08[B][6], p. 2A–84 (2016) (separability is a “perennially tangled
+aspect of copyright doctrine”).
+  2 Like the Court, I express no opinion on whether the designs other-
+wise meet the requirements for copyrightable subject matter. See ante,
+at 11, n. 1; 17 U. S. C. §102(a) (“Copyright protection subsists, in
+accordance with this title, in original works of authorship fixed in any
+tangible medium of expression, now known or later developed, from
+which they can be perceived, reproduced, or otherwise communicated.”).
+In view of the dissent’s assertion that Varsity’s designs are “plainly
+unoriginal,” post, at 11, however, I note this Court’s recognition that
+“the requisite level of creativity [for copyrightability] is extremely low;
+even a slight amount will suffice,” Feist Publications, Inc. v. Rural
+
+
+2       STAR ATHLETICA, L. L. C. v. VARSITY BRANDS, INC.
+                         GINSBURG
+                   GINSBURG         , J., concurring
+                            , J., concurring  in judgment
+    A pictorial, graphic, or sculptural work (PGS work) is
+copyrightable. §102(a)(5). PGS works include “two-
+dimensional and three-dimensional works of fine, graphic,
+and applied art.” §101. Key to this case, a copyright in a
+standalone PGS work “includes the right to reproduce the
+work in or on any kind of article, whether useful or other-
+wise.” §113(a). Because the owner of a copyright in a pre-
+existing PGS work may exclude a would-be infringer from
+reproducing that work on a useful article, there is no need
+to engage in any separability inquiry to resolve the instant
+petition.
+    The designs here in controversy are standalone pictorial
+and graphic works that respondents Varsity Brands, Inc.,
+et al. (Varsity) reproduce on cheerleading uniforms. Var-
+sity’s designs first appeared as pictorial and graphic works
+that Varsity’s design team sketched on paper. App. 281.
+Varsity then sought copyright protection for those two-
+dimensional designs, not for cheerleading costumes; its
+registration statements claimed “2-Dimensional artwork”
+and “fabric design (artwork).” Appendix, infra, at 4–7, 9–
+10, 12–14. Varsity next reproduced its two-dimensional
+graphic designs on cheerleading uniforms, also on other
+garments, including T-shirts and jackets. See, e.g., App.
+274, 276. 3
+——————
+Telephone Service Co., 499 U. S. 340, 345 (1991); see Atari Games Corp.
+v. Oman, 979 F. 2d 242 (CADC 1992).
+   3 That Varsity’s designs can be placed on jackets or T-shirts without
+replicating a cheerleader’s uniform supports their qualification as
+fabric designs. The dissent acknowledges that fabric designs are
+copyrightable, but maintains that Varsity’s designs do not count
+because Varsity’s submissions depict clothing, not fabric designs. Post,
+at 10–11. But registrants claiming copyrightable designs may submit
+drawings or photos of those designs as they appear on useful articles.
+See Compendium of U. S. Copyright Office Practices §1506 (3d ed.
+2014) (“To register a copyrightable design that has been applied to the
+back of a useful article, such as a chair, the applicant may submit
+drawings of the design as it appears on the chair[.]”), online at
+
+
+                      Cite as: 580 U. S. ____ (2017)                    3
+                         GINSBURG
+                  GINSBURG          , J., concurring
+                            , J., concurring  in judgment
+    In short, Varsity’s designs are not themselves useful
+articles meet for separability determination under §101;
+they are standalone PGS works that may gain copyright
+protection as such, including the exclusive right to repro-
+duce the designs on useful articles. 4
+——————
+https://www.copyright.gov/comp3/docs/compendium.pdf (as last visited
+Mar. 8, 2017). And, as noted in text, Varsity’s registration statements
+claimed “2-Dimensional artwork” and “fabric design (artwork).” Ap-
+pendix, infra, at 4–7, 9–10, 12–14.
+   The dissent also acknowledges that artwork printed on a T-shirt is
+copyrightable. Post, at 4. Varsity’s colored shapes and patterns can be,
+and indeed are, printed on T-shirts. See, e.g., App. 274. Assuming
+Varsity’s designs meet the other requirements for copyrightable subject
+matter, they would fit comfortably within the Copyright Office guidance
+featured by the dissent. See post, at 4 (citing Compendium of U. S.
+Copyright Office Practices, supra, §924.2(B).
+   4 The majority declines to address this route to decision because, it
+says, Varsity has not advanced it. Ante, at 5–6. I read Varsity’s brief
+differently. See Brief for Respondents 25 (explaining that the Copy-
+right Act “expressly provides that PGS designs do not lose their protec-
+tion when they appear ‘in or on’ a useful article,” quoting §113(a)); id.,
+at 52 (disclaiming the need for separability analysis because the de-
+signs are themselves PGS works).
+
+
+4 STAR ATHLETICA, L. L. C. v. VARSITY BRANDS, INC.
+              GINSBURG
+          Appendix       , J., concurring
+                   to opinion   of GINSBURG, J.
+                    APPENDIX
+
+
+  Cite as: 580 U. S. ____ (2017)      5
+    GINSBURG
+Appendix       , J., concurring
+         to opinion   of GINSBURG, J.
+
+
+6 STAR ATHLETICA, L. L. C. v. VARSITY BRANDS, INC.
+              GINSBURG
+          Appendix       , J., concurring
+                   to opinion   of GINSBURG, J.
+
+
+  Cite as: 580 U. S. ____ (2017)      7
+    GINSBURG
+Appendix       , J., concurring
+         to opinion   of GINSBURG, J.
+
+
+8 STAR ATHLETICA, L. L. C. v. VARSITY BRANDS, INC.
+              GINSBURG
+          Appendix       , J., concurring
+                   to opinion   of GINSBURG, J.
+
+
+  Cite as: 580 U. S. ____ (2017)      9
+    GINSBURG
+Appendix       , J., concurring
+         to opinion   of GINSBURG, J.
+
+
+10 STAR ATHLETICA, L. L. C. v. VARSITY BRANDS, INC.
+               GINSBURG
+           Appendix       , J., concurring
+                    to opinion   of GINSBURG, J.
+
+
+  Cite as: 580 U. S. ____ (2017)      11
+    GINSBURG
+Appendix       , J., concurring
+         to opinion   of GINSBURG, J.
+
+
+12 STAR ATHLETICA, L. L. C. v. VARSITY BRANDS, INC.
+               GINSBURG
+           Appendix       , J., concurring
+                    to opinion   of GINSBURG, J.
+
+
+  Cite as: 580 U. S. ____ (2017)      13
+    GINSBURG
+Appendix       , J., concurring
+         to opinion   of GINSBURG, J.
+
+
+14 STAR ATHLETICA, L. L. C. v. VARSITY BRANDS, INC.
+               GINSBURG
+           Appendix       , J., concurring
+                    to opinion   of GINSBURG, J.
+
+
+                   Cite as: 580 U. S. ____ (2017)           1
+                       BREYER, J., dissenting
+SUPREME COURT OF THE UNITED STATES
+                            _________________
+                             No. 15–866
+                            _________________
+ STAR ATHLETICA, L. L. C., PETITIONER v. VARSITY
+                    BRANDS, INC., ET AL.
+ ON WRIT OF CERTIORARI TO THE UNITED STATES COURT OF
+               APPEALS FOR THE SIXTH CIRCUIT
+                         [March 22, 2017]
+  JUSTICE BREYER, with whom JUSTICE KENNEDY joins,
+dissenting.
+  I agree with much in the Court’s opinion. But I do not
+agree that the designs that Varsity Brands, Inc., submit-
+ted to the Copyright Office are eligible for copyright pro-
+tection. Even applying the majority’s test, the designs
+cannot “be perceived as . . . two- or three-dimensional
+work[s] of art separate from the useful article.” Ante, at 1.
+  Look at the designs that Varsity submitted to the Copy-
+right Office. See Appendix to opinion of the Court, ante.
+You will see only pictures of cheerleader uniforms. And
+cheerleader uniforms are useful articles. A picture of the
+relevant design features, whether separately “perceived”
+on paper or in the imagination, is a picture of, and thereby
+“replicate[s],” the underlying useful article of which they
+are a part. Ante, at 1, 10. Hence the design features that
+Varsity seeks to protect are not “capable of existing inde-
+pendently o[f] the utilitarian aspects of the article.” 17
+U. S. C. §101.
+                                    I
+  The relevant statutory provision says that the “design of
+a useful article” is copyrightable “only if, and only to the
+extent that, such design incorporates pictorial, graphic, or
+sculptural features that can be identified separately from,
+
+
+2      STAR ATHLETICA, L. L. C. v. VARSITY BRANDS, INC.
+                      BREYER, J., dissenting
+and are capable of existing independently of, the utilitar-
+ian aspects of the article.” Ibid. But what, we must ask,
+do the words “identified separately” mean? Just when is a
+design separate from the “utilitarian aspect of the [useful]
+article?” The most direct, helpful aspect of the Court’s
+opinion answers this question by stating:
+     “Nor could someone claim a copyright in a useful arti-
+     cle merely by creating a replica of that article in some
+     other medium—for example, a cardboard model of a
+     car. Although the replica could itself be copyright-
+     able, it would not give rise to any rights in the useful
+     article that inspired it.” Ante, at 7–8.
+Exactly so. These words help explain the Court’s state-
+ment that a copyrightable work of art must be “perceived
+as a two- or three-dimensional work of art separate from
+the useful article.” Ante, at 1, 17. They help clarify the
+concept of separateness. Cf. 1 M. Nimmer & D. Nimmer,
+Nimmer on Copyright §2A.08[A][1] (2016) (Nimmer) (de-
+scribing courts’ difficulty in applying that concept). They
+are consistent with Congress’ own expressed intent. 17
+U. S. C. §101; H. R. Rep. No. 94–1476, pp. 55, 105 (1976)
+(H. R. Rep.). And they reflect long held views of the
+Copyright Office. See Compendium of U. S. Copyright
+Office Practices §924.2(B) (3d ed. 2014), online at
+http://www.copyright.gov/comp3/docs/compendium.pdf (as
+last visited Mar. 7, 2017) (Compendium).
+  Consider, for example, the explanation that the House
+Report for the Copyright Act of 1976 provides. It says:
+     “Unless the shape of an automobile, airplane, ladies’
+     dress, food processor, television set, or any other in-
+     dustrial product contains some element that, physically
+     or conceptually, can be identified as separable from
+     the utilitarian aspects of that article, the design would
+     not be copyrighted . . . .” H. R. Rep., at 55 (emphasis
+     added).
+
+
+                    Cite as: 580 U. S. ____ (2017)          3
+                        BREYER, J., dissenting
+These words suggest two exercises, one physical, one
+mental. Can the design features (the picture, the graphic,
+the sculpture) be physically removed from the article (and
+considered separately), all the while leaving the fully
+functioning utilitarian object in place? If not, can one
+nonetheless conceive of the design features separately
+without replicating a picture of the utilitarian object? If
+the answer to either of these questions is “yes,” then the
+design is eligible for copyright protection. Otherwise, it is
+not. The abstract nature of these questions makes them
+sound difficult to apply. But with the Court’s words in
+mind, the difficulty tends to disappear.
+   An example will help. Imagine a lamp with a circular
+marble base, a vertical 10-inch tall brass rod (containing
+wires) inserted off center on the base, a light bulb fixture
+emerging from the top of the brass rod, and a lampshade
+sitting on top. In front of the brass rod a porcelain Sia-
+mese cat sits on the base facing outward. Obviously, the
+Siamese cat is physically separate from the lamp, as it
+could be easily removed while leaving both cat and lamp
+intact. And, assuming it otherwise qualifies, the designed
+cat is eligible for copyright protection.
+   Now suppose there is no long brass rod; instead the cat
+sits in the middle of the base and the wires run up
+through the cat to the bulbs. The cat is not physically
+separate from the lamp, as the reality of the lamp’s con-
+struction is such that an effort to physically separate the
+cat and lamp will destroy both cat and lamp. The two are
+integrated into a single functional object, like the similar
+configuration of the ballet dancer statuettes that formed
+the lamp bases at issue in Mazer v. Stein, 347 U. S. 201
+(1954). But we can easily imagine the cat on its own, as
+did Congress when conceptualizing the ballet dancer. See
+H. R. Rep., at 55 (the statuette in Mazer was “incorporated
+into a product without losing its ability to exist inde-
+pendently as a work of art”). In doing so, we do not create
+
+
+4      STAR ATHLETICA, L. L. C. v. VARSITY BRANDS, INC.
+                      BREYER, J., dissenting
+a mental picture of a lamp (or, in the Court’s words, a
+“replica” of the lamp), which is a useful article. We simply
+perceive the cat separately, as a small cat figurine that
+could be a copyrightable design work standing alone that
+does not replicate the lamp. Hence the cat is conceptually
+separate from the utilitarian article that is the lamp. The
+pair of lamps pictured at Figures 1 and 2 in the Appendix
+to this opinion illustrate this principle.
+   Case law, particularly case law that Congress and the
+Copyright Office have considered, reflects the same ap-
+proach. Congress cited examples of copyrightable design
+works, including “a carving on the back of a chair” and “a
+floral relief design on silver flatware.” H. R. Rep., at 55.
+Copyright Office guidance on copyrightable designs in
+useful articles include “an engraving on a vase,” “[a]rtwork
+printed on a t-shirt,” “[a] colorful pattern decorating the
+surface of a shopping bag,” “[a] drawing on the surface of
+wallpaper,” and “[a] floral relief decorating the handle of a
+spoon.” Compendium §924.2(B). Courts have found copy-
+rightable matter in a plaster ballet dancer statuette encas-
+ing the lamp’s electric cords and forming its base, see
+Mazer, supra, as well as carvings engraved onto furniture,
+see Universal Furniture Int’l, Inc. v. Collezione Europa
+USA, Inc., 618 F. 3d 417, 431–435 (CA4 2010) (per curiam),
+and designs on laminated floor tiles, see Home Leg-
+end, LLC v. Mannington Mills, Inc., 784 F. 3d 1404, 1412–
+1413 (CA11 2015). See generally Brief for Intellectual
+Property Professors as Amici Curiae.
+   By way of contrast, Van Gogh’s painting of a pair of old
+shoes, though beautifully executed and copyrightable as a
+painting, would not qualify for a shoe design copyright.
+See Appendix, fig. 3, infra; 17 U. S. C. §§113(a)–(b).
+Courts have similarly denied copyright protection to ob-
+jects that begin as three-dimensional designs, such as
+measuring spoons shaped like heart-tipped arrows, Bona-
+zoli v. R. S. V. P. Int’l, Inc., 353 F. Supp. 2d 218, 226–227
+
+
+                   Cite as: 580 U. S. ____ (2017)              5
+                       BREYER, J., dissenting
+(RI 2005); candleholders shaped like sailboats, Design
+Ideas, Ltd. v. Yankee Candle Co., 889 F. Supp. 2d 1119,
+1128 (CD Ill. 2012); and wire spokes on a wheel cover,
+Norris Industries, Inc. v. International Tel. & Tel. Corp.,
+696 F. 2d 918, 922–924 (CA11 1983). None of these de-
+signs could qualify for copyright protection that would
+prevent others from selling spoons, candleholders, or
+wheel covers with the same design. Why not? Because in
+each case the design is not separable from the utilitarian
+aspects of the object to which it relates. The designs
+cannot be physically separated because they themselves
+make up the shape of the spoon, candleholders, or wheel
+covers of which they are a part. And spoons, candlehold-
+ers, and wheel covers are useful objects, as are the old
+shoes depicted in Van Gogh’s painting. More importantly,
+one cannot easily imagine or otherwise conceptualize the
+design of the spoons or the candleholders or the shoes
+without that picture, or image, or replica being a picture of
+spoons, or candleholders, or wheel covers, or shoes. The
+designs necessarily bring along the underlying utilitarian
+object. Hence each design is not conceptually separable
+from the physical useful object.
+   The upshot is that one could copyright the floral design
+on a soupspoon but one could not copyright the shape of
+the spoon itself, no matter how beautiful, artistic, or es-
+thetically pleasing that shape might be: A picture of the
+shape of the spoon is also a picture of a spoon; the picture
+of a floral design is not. See Compendium §924.2(B).
+   To repeat: A separable design feature must be “capable
+of existing independently” of the useful article as a sepa-
+rate artistic work that is not itself the useful article. If the
+claimed feature could be extracted without replicating the
+useful article of which it is a part, and the result would be
+a copyrightable artistic work standing alone, then there is
+a separable design. But if extracting the claimed features
+would necessarily bring along the underlying useful arti-
+
+
+6      STAR ATHLETICA, L. L. C. v. VARSITY BRANDS, INC.
+                        BREYER, J., dissenting
+cle, the design is not separable from the useful article. In
+many or most cases, to decide whether a design or artistic
+feature of a useful article is conceptually separate from
+the article itself, it is enough to imagine the feature on its
+own and ask, “Have I created a picture of a (useful part of
+a) useful article?” If so, the design is not separable from
+the useful article. If not, it is.
+   In referring to imagined pictures and the like, I am not
+speaking technically. I am simply trying to explain an
+intuitive idea of what separation is about, as well as how I
+understand the majority’s opinion. So understood, the
+opinion puts design copyrights in their rightful place. The
+law has long recognized that drawings or photographs of
+real world objects are copyrightable as drawings or photo-
+graphs, but the copyright does not give protection against
+others making the underlying useful objects. See, e.g.,
+Burrow-Giles Lithographic Co. v. Sarony, 111 U. S. 53
+(1884). That is why a copyright on Van Gogh’s painting
+would prevent others from reproducing that painting, but
+it would not prevent others from reproducing and selling
+the comfortable old shoes that the painting depicts. In-
+deed, the purpose of §113(b) was to ensure that “ ‘copyright
+in a pictorial, graphic, or sculptural work, portraying a
+useful article as such, does not extend to the manufacture
+of the useful article itself.’ ” H. R. Rep., at 105.
+                                 II
+   To ask this kind of simple question—does the design
+picture the useful article?—will not provide an answer in
+every case, for there will be cases where it is difficult to
+say whether a picture of the design is, or is not, also a
+picture of the useful article. But the question will avoid
+courts focusing primarily upon what I believe is an un-
+helpful feature of the inquiry, namely, whether the design
+can be imagined as a “two- or three-dimensional work of
+art.” Ante, at 1, 17. That is because virtually any indus-
+
+
+                  Cite as: 580 U. S. ____ (2017)            7
+                      BREYER, J., dissenting
+trial design can be thought of separately as a “work of art”:
+Just imagine a frame surrounding the design, or its being
+placed in a gallery. Consider Marcel Duchamp’s “ready-
+mades” series, the functional mass-produced objects he
+designated as art. See Appendix, fig. 4, infra. What is
+there in the world that, viewed through an esthetic lens,
+cannot be seen as a good, bad, or indifferent work of art?
+What design features could not be imaginatively repro-
+duced on a painter’s canvas? Indeed, great industrial
+design may well include design that is inseparable from
+the useful article—where, as Frank Lloyd Wright put it,
+“form and function are one.” F. Wright, An Autobiography
+146 (1943) (reprint 2005). Where they are one, the de-
+signer may be able to obtain 15 years of protection
+through a design patent. 35 U. S. C. §§171, 173; see also
+McKenna & Strandburg, Progress and Competition in
+Design, 17 Stan. Tech. L. Rev. 1, 48–51 (2013). But, if
+they are one, Congress did not intend a century or more of
+copyright protection.
+                               III
+   The conceptual approach that I have described reflects
+Congress’ answer to a problem that is primarily practical
+and economic. Years ago Lord Macaulay drew attention to
+the problem when he described copyright in books as a
+“tax on readers for the purpose of giving a bounty to writ-
+ers.” 56 Parl. Deb. (3d Ser.) (1841) 341, 350. He called
+attention to the main benefit of copyright protection,
+which is to provide an incentive to produce copyrightable
+works and thereby “promote the Progress of Science and
+useful Arts.” U. S. Const., Art. I, §8, cl. 8. But Macaulay
+also made clear that copyright protection imposes costs.
+Those costs include the higher prices that can accompany
+the grant of a copyright monopoly. They also can include
+(for those wishing to display, sell, or perform a design,
+film, work of art, or piece of music, for example) the costs
+
+
+8      STAR ATHLETICA, L. L. C. v. VARSITY BRANDS, INC.
+                      BREYER, J., dissenting
+of discovering whether there are previous copyrights, of
+contacting copyright holders, and of securing permission
+to copy. Eldred v. Ashcroft, 537 U. S. 186, 248–252 (2003)
+(BREYER, J., dissenting). Sometimes, as Thomas Jefferson
+wrote to James Madison, costs can outweigh “the benefit
+even of limited monopolies.” Letter from Thomas Jeffer-
+son to James Madison (July 31, 1788), in 13 Papers of
+Thomas Jefferson 443 (J. Boyd ed. 1956) (Jefferson Let-
+ter). And that is particularly true in light of the fact that
+Congress has extended the “limited Times” of protection,
+U. S. Const., Art. I, §8, cl. 8, from the “14 years” of Jeffer-
+son’s day to potentially more than a century today. Jeffer-
+son Letter 443; see also Eldred, supra, at 246–252 (opinion
+of BREYER, J.).
+   The Constitution grants Congress primary responsibil-
+ity for assessing comparative costs and benefits and draw-
+ing copyright’s statutory lines. Courts must respect those
+lines and not grant copyright protection where Congress
+has decided not to do so. And it is clear that Congress has
+not extended broad copyright protection to the fashion
+design industry. See, e.g., 1 Nimmer §2A.08[H][3][c]
+(describing how Congress rejected proposals for fashion
+design protection within the 1976 Act and has rejected
+every proposed bill to this effect since then); Esquire, Inc.
+v. Ringer, 591 F. 2d 796, 800, n. 12 (CADC 1978) (observ-
+ing that at the time of the 1976 Copyright Act, Congress
+had rejected every one of the approximately 70 design
+protection bills that had been introduced since 1914); e.g.,
+H. R. 5055, 109th Cong., 2d Sess.: “To Amend title 17,
+United States Code, to provide protection for fashion
+design” (introduced Mar. 30, 2006; unenacted). Congress
+has left “statutory . . . protection . . . largely unavailable
+for dress designs.” 1 Nimmer §2A.08[H][3][a]; Raustiala &
+Sprigman, The Piracy Paradox: Innovation and Intellec-
+tual Property in Fashion Design, 92 Va. L. Rev. 1687, 1698–
+1705 (2006).
+
+
+                  Cite as: 580 U. S. ____ (2017)            9
+                      BREYER, J., dissenting
+   Congress’ decision not to grant full copyright protection
+to the fashion industry has not left the industry without
+protection. Patent design protection is available. 35
+U. S. C. §§171, 173. A maker of clothing can obtain
+trademark protection under the Lanham Act for signature
+features of the clothing. 15 U. S. C. §1051 et seq. And a
+designer who creates an original textile design can receive
+copyright protection for that pattern as placed, for exam-
+ple, on a bolt of cloth, or anything made with that cloth.
+E.g., Compendium §924.3(A)(1). “[T]his [type of] claim . . .
+is generally made by the fabric producer rather than the
+garment or costume designer,” and is “ordinarily made
+when the two-dimensional design is applied to the textile
+fabric and before the garment is cut from the fabric.” 56
+Fed. Reg. 56531 (1991).
+   The fashion industry has thrived against this backdrop,
+and designers have contributed immeasurably to artistic
+and personal self-expression through clothing. But a
+decision by this Court to grant protection to the design of a
+garment would grant the designer protection that Con-
+gress refused to provide. It would risk increased prices
+and unforeseeable disruption in the clothing industry,
+which in the United States alone encompasses nearly $370
+billion in annual spending and 1.8 million jobs. Brief for
+Council of Fashion Designers of America, Inc., as Amicus
+Curiae 3–4 (citing U. S. Congress, Joint Economic Com-
+mittee, The New Economy of Fashion 1 (2016)). That is
+why I believe it important to emphasize those parts of the
+Court’s opinion that limit the scope of its interpretation.
+That language, as I have said, makes clear that one may
+not “claim a copyright in a useful article merely by creat-
+ing a replica of that article in some other medium,” which
+“would not give rise to any rights in the useful article that
+inspired it.” Ante, at 7–8.
+
+
+10     STAR ATHLETICA, L. L. C. v. VARSITY BRANDS, INC.
+                      BREYER, J., dissenting
+                               IV
+   If we ask the “separateness” question correctly, the
+answer here is not difficult to find. The majority’s opinion,
+in its appendix, depicts the cheerleader dress designs that
+Varsity submitted to the Copyright Office. Can the design
+features in Varsity’s pictures exist separately from the
+utilitarian aspects of a dress? Can we extract those fea-
+tures as copyrightable design works standing alone, with-
+out bringing along, via picture or design, the dresses of
+which they constitute a part?
+   Consider designs 074, 078, and 0815. They certainly
+look like cheerleader uniforms. That is to say, they look
+like pictures of cheerleader uniforms, just like Van Gogh’s
+old shoes look like shoes. I do not see how one could see
+them otherwise. Designs 299A and 2999B present slightly
+closer questions. They omit some of the dresslike context
+that the other designs possess. But the necklines, the
+sleeves, and the cut of the skirt suggest that they too are
+pictures of dresses. Looking at all five of Varsity’s pic-
+tures, I do not see how one could conceptualize the design
+features in a way that does not picture, not just artistic
+designs, but dresses as well.
+   Were I to accept the majority’s invitation to “imagina-
+tively remov[e]” the chevrons and stripes as they are ar-
+ranged on the neckline, waistline, sleeves, and skirt of
+each uniform, and apply them on a “painter’s canvas,”
+ante, at 10, that painting would be of a cheerleader’s dress.
+The esthetic elements on which Varsity seeks protection
+exist only as part of the uniform design—there is nothing
+to separate out but for dress-shaped lines that replicate
+the cut and style of the uniforms. Hence, each design is
+not physically separate, nor is it conceptually separate,
+from the useful article it depicts, namely, a cheerleader’s
+dress. They cannot be copyrighted.
+   Varsity, of course, could have sought a design patent for
+its designs. Or, it could have sought a copyright on a
+
+
+                     Cite as: 580 U. S. ____ (2017)        11
+                         BREYER, J., dissenting
+textile design, even one with a similar theme of chevrons
+and lines.
+    But that is not the nature of Varsity’s copyright claim.
+It has instead claimed ownership of the particular
+“ ‘treatment and arrangement’ ” of the chevrons and lines
+of the design as they appear at the neckline, waist, skirt,
+sleeves, and overall cut of each uniform. Brief for Re-
+spondents 50. The majority imagines that Varsity submit-
+ted something different—that is, only the surface decora-
+tions of chevrons and stripes, as in a textile design. As the
+majority sees it, Varsity’s copyright claim would be the
+same had it submitted a plain rectangular space depicting
+chevrons and stripes, like swaths from a bolt of fabric.
+But considered on their own, the simple stripes are plainly
+unoriginal. Varsity, then, seeks to do indirectly what it
+cannot do directly: bring along the design and cut of the
+dresses by seeking to protect surface decorations whose
+“treatment and arrangement” are coextensive with that
+design and cut. As Varsity would have it, it would prevent
+its competitors from making useful three-dimensional
+cheerleader uniforms by submitting plainly unoriginal
+chevrons and stripes as cut and arranged on a useful
+article. But with that cut and arrangement, the resulting
+pictures on which Varsity seeks protection do not simply
+depict designs. They depict clothing. They depict the
+useful articles of which the designs are inextricable parts.
+And Varsity cannot obtain copyright protection that would
+give them the power to prevent others from making those
+useful uniforms, any more than Van Gogh can copyright
+comfortable old shoes by painting their likeness.
+    I fear that, in looking past the three-dimensional design
+inherent in Varsity’s claim by treating it as if it were no
+more than a design for a bolt of cloth, the majority has lost
+sight of its own important limiting principle. One may not
+“claim a copyright in a useful article merely by creating a
+replica of that article in some other medium,” such as in a
+
+
+12    STAR ATHLETICA, L. L. C. v. VARSITY BRANDS, INC.
+                      BREYER, J., dissenting
+picture. Ante, at 7. That is to say, one cannot obtain a
+copyright that would give its holder “any rights in the
+useful article that inspired it.” Ante, at 8.
+   With respect, I dissent.
+
+
+Cite as: 580 U. S.      (2017) 13
+    BREYER, J., dissenting
+
+
+14 STAR ATHLETICA, L. L. C. v. VARSITY BRANDS, INC.
+                BREYER, J., dissenting
+
+
+Cite as: 580 U. S.      (2017) 15
+    BREYER, J., dissenting

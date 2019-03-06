@@ -1,0 +1,2377 @@
+(Slip Opinion)                OCTOBER TERM, 2017                                    1
+                                         Syllabus
+          NOTE: Where it is feasible, a syllabus (headnote) will be released, as is
+        being done in connection with this case, at the time the opinion is issued.
+        The syllabus constitutes no part of the opinion of the Court but has been
+        prepared by the Reporter of Decisions for the convenience of the reader.
+        See United States v. Detroit Timber & Lumber Co., 200 U. S. 321, 337.
+SUPREME COURT OF THE UNITED STATES
+                                         Syllabus
+                   EPIC SYSTEMS CORP. v. LEWIS
+ CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR
+                             THE SEVENTH CIRCUIT
+      No. 16–285.      Argued October 2, 2017—Decided May 21, 2018*
+In each of these cases, an employer and employee entered into a con-
+   tract providing for individualized arbitration proceedings to resolve
+   employment disputes between the parties. Each employee nonethe-
+   less sought to litigate Fair Labor Standards Act and related state law
+   claims through class or collective actions in federal court. Although
+   the Federal Arbitration Act generally requires courts to enforce arbi-
+   tration agreements as written, the employees argued that its “saving
+   clause” removes this obligation if an arbitration agreement violates
+   some other federal law and that, by requiring individualized proceed-
+   ings, the agreements here violated the National Labor Relations Act.
+   The employers countered that the Arbitration Act protects agree-
+   ments requiring arbitration from judicial interference and that nei-
+   ther the saving clause nor the NLRA demands a different conclusion.
+   Until recently, courts as well as the National Labor Relations Board’s
+   general counsel agreed that such arbitration agreements are enforce-
+   able. In 2012, however, the Board ruled that the NLRA effectively
+   nullifies the Arbitration Act in cases like these, and since then other
+   courts have either agreed with or deferred to the Board’s position.
+Held: Congress has instructed in the Arbitration Act that arbitration
+   agreements providing for individualized proceedings must be en-
+   forced, and neither the Arbitration Act’s saving clause nor the NLRA
+   suggests otherwise. Pp. 5–25.
+——————
+   * Together with No. 16–300, Ernst & Young LLP et al. v. Morris et al.,
+on certiorari to the United States Court of Appeals for the Ninth Cir-
+cuit, and No. 16–307, National Labor Relations Board v. Murphy Oil
+USA, Inc., et al., on certiorari to the United States Court of Appeals for
+the Fifth Circuit.
+
+
+2                   EPIC SYSTEMS CORP. v. LEWIS
+                                   Syllabus
+     (a) The Arbitration Act requires courts to enforce agreements to
+  arbitrate, including the terms of arbitration the parties select. See 9
+  U. S. C. §§2, 3, 4. These emphatic directions would seem to resolve
+  any argument here. The Act’s saving clause—which allows courts to
+  refuse to enforce arbitration agreements “upon such grounds as exist
+  at law or in equity for the revocation of any contract,” §2—recognizes
+  only “ ‘generally applicable contract defenses, such as fraud, duress,
+  or unconscionability,’ ” AT&T Mobility LLC v. Concepcion, 563 U. S.
+  333, 339, not defenses targeting arbitration either by name or by
+  more subtle methods, such as by “interfer[ing] with fundamental at-
+  tributes of arbitration,” id., at 344. By challenging the agreements
+  precisely because they require individualized arbitration instead of
+  class or collective proceedings, the employees seek to interfere with
+  one of these fundamental attributes. Pp. 5–9.
+     (b) The employees also mistakenly claim that, even if the Arbitra-
+  tion Act normally requires enforcement of arbitration agreements
+  like theirs, the NLRA overrides that guidance and renders their
+  agreements unlawful yet. When confronted with two Acts allegedly
+  touching on the same topic, this Court must strive “to give effect to
+  both.” Morton v. Mancari, 417 U. S. 535, 551. To prevail, the em-
+  ployees must show a “ ‘clear and manifest’ ” congressional intention
+  to displace one Act with another. Ibid. There is a “stron[g] pre-
+  sum[ption]” that disfavors repeals by implication and that “Congress
+  will specifically address” preexisting law before suspending the law’s
+  normal operations in a later statute. United States v. Fausto, 484
+  U. S. 439, 452, 453.
+     The employees ask the Court to infer that class and collective ac-
+  tions are “concerted activities” protected by §7 of the NLRA, which
+  guarantees employees “the right to self-organization, to form, join, or
+  assist labor organizations, to bargain collectively . . . , and to engage
+  in other concerted activities for the purpose of collective bargaining
+  or other mutual aid or protection,” 29 U. S. C. §157. But §7 focuses
+  on the right to organize unions and bargain collectively. It does not
+  mention class or collective action procedures or even hint at a clear
+  and manifest wish to displace the Arbitration Act. It is unlikely that
+  Congress wished to confer a right to class or collective actions in §7,
+  since those procedures were hardly known when the NLRA was
+  adopted in 1935. Because the catchall term “other concerted activi-
+  ties for the purpose of . . . other mutual aid or protection” appears at
+  the end of a detailed list of activities, it should be understood to pro-
+  tect the same kind of things, i.e., things employees do for themselves
+  in the course of exercising their right to free association in the work-
+  place.
+     The NLRA’s structure points to the same conclusion. After speak-
+
+
+                     Cite as: 584 U. S. ____ (2018)                     3
+                                Syllabus
+ing of various “concerted activities” in §7, the statute establishes a
+detailed regulatory regime applicable to each item on the list, but
+gives no hint about what rules should govern the adjudication of class
+or collective actions in court or arbitration. Nor is it at all obvious
+what rules should govern on such essential issues as opt-out and opt-
+in procedures, notice to class members, and class certification stand-
+ards. Telling too is the fact that Congress has shown that it knows
+exactly how to specify certain dispute resolution procedures, cf., e.g.,
+29 U. S. C. §§216(b), 626, or to override the Arbitration Act, see, e.g.,
+15 U. S. C. §1226(a)(2), but Congress has done nothing like that in
+the NLRA.
+   The employees suggest that the NLRA does not discuss class and
+collective action procedures because it means to confer a right to use
+existing procedures provided by statute or rule, but the NLRA does
+not say even that much. And if employees do take existing rules as
+they find them, they must take them subject to those rules’ inherent
+limitations, including the principle that parties may depart from
+them in favor of individualized arbitration.
+   In another contextual clue, the employees’ underlying causes of ac-
+tion arise not under the NLRA but under the Fair Labor Standards
+Act, which permits the sort of collective action the employees wish to
+pursue here. Yet they do not suggest that the FLSA displaces the
+Arbitration Act, presumably because the Court has held that an iden-
+tical collective action scheme does not prohibit individualized arbitra-
+tion proceedings, see Gilmer v. Interstate/Johnson Lane Corp., 500
+U. S. 20, 32. The employees’ theory also runs afoul of the rule that
+Congress “does not alter the fundamental details of a regulatory
+scheme in vague terms or ancillary provisions,” Whitman v. American
+Trucking Assns., Inc., 531 U. S. 457, 468, as it would allow a catchall
+term in the NLRA to dictate the particulars of dispute resolution pro-
+cedures in Article III courts or arbitration proceedings—matters that
+are usually left to, e.g., the Federal Rules of Civil Procedure, the Ar-
+bitration Act, and the FLSA. Nor does the employees’ invocation of
+the Norris-LaGuardia Act, a predecessor of the NLRA, help their ar-
+gument. That statute declares unenforceable contracts in conflict
+with its policy of protecting workers’ “concerted activities for the pur-
+pose of collective bargaining or other mutual aid or protection,” 29
+U. S. C. §102, and just as under the NLRA, that policy does not con-
+flict with Congress’s directions favoring arbitration.
+   Precedent confirms the Court’s reading. The Court has rejected
+many efforts to manufacture conflicts between the Arbitration Act
+and other federal statutes, see, e.g. American Express Co. v. Italian
+Colors Restaurant, 570 U. S. 228; and its §7 cases have generally in-
+volved efforts related to organizing and collective bargaining in the
+
+
+4                   EPIC SYSTEMS CORP. v. LEWIS
+                                  Syllabus
+  workplace, not the treatment of class or collective action procedures
+  in court or arbitration, see, e.g., NLRB v. Washington Aluminum Co.,
+  370 U. S. 9.
+     Finally, the employees cannot expect deference under Chevron
+  U. S. A. Inc. v. Natural Resources Defense Council, Inc., 467 U. S.
+  837, because Chevron’s essential premises are missing. The Board
+  sought not to interpret just the NLRA, “which it administers,” id., at
+  842, but to interpret that statute in a way that limits the work of the
+  Arbitration Act, which the agency does not administer. The Board
+  and the Solicitor General also dispute the NLRA’s meaning, articu-
+  lating no single position on which the Executive Branch might be
+  held “accountable to the people.” Id., at 865. And after “employing
+  traditional tools of statutory construction,” id., at 843, n. 9, including
+  the canon against reading conflicts into statutes, there is no unre-
+  solved ambiguity for the Board to address. Pp. 9–21.
+No. 16–285, 823 F. 3d 1147, and No. 16–300, 834 F. 3d 975, reversed
+  and remanded; No. 16–307, 808 F. 3d 1013, affirmed.
+  GORSUCH, J., delivered the opinion of the Court, in which ROBERTS,
+C. J., and KENNEDY, THOMAS, and ALITO, JJ., joined. THOMAS, J., filed a
+concurring opinion. GINSBURG, J., filed a dissenting opinion, in which
+BREYER, SOTOMAYOR, and KAGAN, JJ., joined.
+
+
+                        Cite as: 584 U. S. ____ (2018)                            1
+                              Opinion of the Court
+     NOTICE: This opinion is subject to formal revision before publication in the
+     preliminary print of the United States Reports. Readers are requested to
+     notify the Reporter of Decisions, Supreme Court of the United States, Wash-
+     ington, D. C. 20543, of any typographical or other formal errors, in order
+     that corrections may be made before the preliminary print goes to press.
+SUPREME COURT OF THE UNITED STATES
+                                    _________________
+                         Nos. 16–285, 16–300, 16–307
+                                    _________________
+     EPIC SYSTEMS CORPORATION, PETITIONER
+16–285                                     v.
+                               JACOB LEWIS;
+ ON WRIT OF CERTIORARI TO THE UNITED STATES COURT OF
+                APPEALS FOR THE SEVENTH CIRCUIT
+      ERNST & YOUNG LLP, ET AL., PETITIONERS
+16–300                                     v.
+                 STEPHEN MORRIS, ET AL.; AND
+ ON WRIT OF CERTIORARI TO THE UNITED STATES COURT OF
+                   APPEALS FOR THE NINTH CIRCUIT
+NATIONAL LABOR RELATIONS BOARD, PETITIONER
+16–307                                     v.
+                  MURPHY OIL USA, INC., ET AL.
+ ON WRIT OF CERTIORARI TO THE UNITED STATES COURT OF
+                   APPEALS FOR THE FIFTH CIRCUIT
+                                   [May 21, 2018]
+   JUSTICE GORSUCH delivered the opinion of the Court.
+   Should employees and employers be allowed to agree
+that any disputes between them will be resolved through
+one-on-one arbitration? Or should employees always be
+permitted to bring their claims in class or collective ac-
+tions, no matter what they agreed with their employers?
+
+
+2               EPIC SYSTEMS CORP. v. LEWIS
+                      Opinion of the Court
+   As a matter of policy these questions are surely debat-
+able. But as a matter of law the answer is clear. In the
+Federal Arbitration Act, Congress has instructed federal
+courts to enforce arbitration agreements according to their
+terms—including terms providing for individualized pro-
+ceedings. Nor can we agree with the employees’ sugges-
+tion that the National Labor Relations Act (NLRA) offers a
+conflicting command. It is this Court’s duty to interpret
+Congress’s statutes as a harmonious whole rather than at
+war with one another. And abiding that duty here leads to
+an unmistakable conclusion. The NLRA secures to em-
+ployees rights to organize unions and bargain collectively,
+but it says nothing about how judges and arbitrators must
+try legal disputes that leave the workplace and enter the
+courtroom or arbitral forum. This Court has never read a
+right to class actions into the NLRA—and for three quar-
+ters of a century neither did the National Labor Relations
+Board. Far from conflicting, the Arbitration Act and the
+NLRA have long enjoyed separate spheres of influence and
+neither permits this Court to declare the parties’ agree-
+ments unlawful.
+                               I
+   The three cases before us differ in detail but not in
+substance. Take Ernst & Young LLP v. Morris. There
+Ernst & Young and one of its junior accountants, Stephen
+Morris, entered into an agreement providing that they
+would arbitrate any disputes that might arise between
+them. The agreement stated that the employee could
+choose the arbitration provider and that the arbitrator
+could “grant any relief that could be granted by . . . a
+court” in the relevant jurisdiction. App. in No. 16–300,
+p. 43. The agreement also specified individualized arbi-
+tration, with claims “pertaining to different [e]mployees
+[to] be heard in separate proceedings.” Id., at 44.
+   After his employment ended, and despite having agreed
+
+
+                   Cite as: 584 U. S. ____ (2018)          3
+                        Opinion of the Court
+to arbitrate claims against the firm, Mr. Morris sued
+Ernst & Young in federal court. He alleged that the firm
+had misclassified its junior accountants as professional
+employees and violated the federal Fair Labor Standards
+Act (FLSA) and California law by paying them salaries
+without overtime pay. Although the arbitration agree-
+ment provided for individualized proceedings, Mr. Morris
+sought to litigate the federal claim on behalf of a nation-
+wide class under the FLSA’s collective action provision, 29
+U. S. C. §216(b). He sought to pursue the state law claim
+as a class action under Federal Rule of Civil Procedure 23.
+   Ernst & Young replied with a motion to compel arbitra-
+tion. The district court granted the request, but the Ninth
+Circuit reversed this judgment. 834 F. 3d 975 (2016). The
+Ninth Circuit recognized that the Arbitration Act gener-
+ally requires courts to enforce arbitration agreements as
+written. But the court reasoned that the statute’s “saving
+clause,” see 9 U. S. C. §2, removes this obligation if an
+arbitration agreement violates some other federal law.
+And the court concluded that an agreement requiring
+individualized arbitration proceedings violates the NLRA
+by barring employees from engaging in the “concerted
+activit[y],” 29 U. S. C. §157, of pursuing claims as a class
+or collective action.
+   Judge Ikuta dissented. In her view, the Arbitration Act
+protected the arbitration agreement from judicial interfer-
+ence and nothing in the Act’s saving clause suggested
+otherwise. Neither, she concluded, did the NLRA demand
+a different result. Rather, that statute focuses on protect-
+ing unionization and collective bargaining in the work-
+place, not on guaranteeing class or collective action proce-
+dures in disputes before judges or arbitrators.
+   Although the Arbitration Act and the NLRA have long
+coexisted—they date from 1925 and 1935, respectively—
+the suggestion they might conflict is something quite new.
+Until a couple of years ago, courts more or less agreed that
+
+
+4                EPIC SYSTEMS CORP. v. LEWIS
+                       Opinion of the Court
+arbitration agreements like those before us must be en-
+forced according to their terms. See, e.g., Owen v. Bristol
+Care, Inc., 702 F. 3d 1050 (CA8 2013); Sutherland v. Ernst
+& Young LLP, 726 F. 3d 290 (CA2 2013); D. R. Horton,
+Inc. v. NLRB, 737 F. 3d 344 (CA5 2013); Iskanian v. CLS
+Transp. Los Angeles, LLC, 59 Cal. 4th 348, 327 P. 3d 129
+(2014); Tallman v. Eighth Jud. Dist. Court, 131 Nev. 71,
+359 P. 3d 113 (2015); 808 F. 3d 1013 (CA5 2015) (case
+below in No. 16–307).
+   The National Labor Relations Board’s general counsel
+expressed much the same view in 2010. Remarking that
+employees and employers “can benefit from the relative
+simplicity and informality of resolving claims before arbi-
+trators,” the general counsel opined that the validity of
+such agreements “does not involve consideration of the
+policies of the National Labor Relations Act.” Memoran-
+dum GC 10–06, pp. 2, 5 (June 16, 2010).
+   But recently things have shifted. In 2012, the Board—
+for the first time in the 77 years since the NLRA’s adop-
+tion—asserted that the NLRA effectively nullifies the
+Arbitration Act in cases like ours. D. R. Horton, Inc., 357
+N. L. R. B. 2277. Initially, this agency decision received a
+cool reception in court. See D. R. Horton, 737 F. 3d, at
+355–362. In the last two years, though, some circuits have
+either agreed with the Board’s conclusion or thought
+themselves obliged to defer to it under Chevron U. S. A.
+Inc. v. Natural Resources Defense Council, Inc., 467 U. S.
+837 (1984). See 823 F. 3d 1147 (CA7 2016) (case below in
+No. 16–285); 834 F. 3d 975 (case below in No. 16–300);
+NLRB v. Alternative Entertainment, Inc., 858 F. 3d 393
+(CA6 2017). More recently still, the disagreement has
+grown as the Executive has disavowed the Board’s (most
+recent) position, and the Solicitor General and the Board
+have offered us battling briefs about the law’s meaning.
+We granted certiorari to clear the confusion. 580 U. S. ___
+(2017).
+
+
+                   Cite as: 584 U. S. ____ (2018)          5
+                        Opinion of the Court
+                                 II
+   We begin with the Arbitration Act and the question of
+its saving clause.
+   Congress adopted the Arbitration Act in 1925 in re-
+sponse to a perception that courts were unduly hostile to
+arbitration. No doubt there was much to that perception.
+Before 1925, English and American common law courts
+routinely refused to enforce agreements to arbitrate dis-
+putes. Scherk v. Alberto-Culver Co., 417 U. S. 506, 510,
+n. 4 (1974). But in Congress’s judgment arbitration had
+more to offer than courts recognized—not least the prom-
+ise of quicker, more informal, and often cheaper resolu-
+tions for everyone involved. Id., at 511. So Congress
+directed courts to abandon their hostility and instead treat
+arbitration agreements as “valid, irrevocable, and enforce-
+able.” 9 U. S. C. §2. The Act, this Court has said, estab-
+lishes “a liberal federal policy favoring arbitration agree-
+ments.” Moses H. Cone Memorial Hospital v. Mercury
+Constr. Corp., 460 U. S. 1, 24 (1983) (citing Prima Paint
+Corp. v. Flood & Conklin Mfg. Co., 388 U. S. 395 (1967));
+see id., at 404 (discussing “the plain meaning of the stat-
+ute” and “the unmistakably clear congressional purpose
+that the arbitration procedure, when selected by the par-
+ties to a contract, be speedy and not subject to delay and
+obstruction in the courts”).
+   Not only did Congress require courts to respect and
+enforce agreements to arbitrate; it also specifically di-
+rected them to respect and enforce the parties’ chosen
+arbitration procedures. See §3 (providing for a stay of
+litigation pending arbitration “in accordance with the
+terms of the agreement”); §4 (providing for “an order
+directing that . . . arbitration proceed in the manner pro-
+vided for in such agreement”). Indeed, we have often
+observed that the Arbitration Act requires courts “rigor-
+ously” to “enforce arbitration agreements according to
+their terms, including terms that specify with whom the
+
+
+6               EPIC SYSTEMS CORP. v. LEWIS
+                      Opinion of the Court
+parties choose to arbitrate their disputes and the rules
+under which that arbitration will be conducted.” Ameri-
+can Express Co. v. Italian Colors Restaurant, 570 U. S.
+228, 233 (2013) (some emphasis added; citations, internal
+quotation marks, and brackets omitted).
+  On first blush, these emphatic directions would seem to
+resolve any argument under the Arbitration Act. The
+parties before us contracted for arbitration. They pro-
+ceeded to specify the rules that would govern their arbi-
+trations, indicating their intention to use individualized
+rather than class or collective action procedures. And this
+much the Arbitration Act seems to protect pretty absolutely.
+See AT&T Mobility LLC v. Concepcion, 563 U. S. 333
+(2011); Italian Colors, supra; DIRECTV, Inc. v. Imburgia,
+577 U. S. ___ (2015). You might wonder if the balance
+Congress struck in 1925 between arbitration and litigation
+should be revisited in light of more contemporary devel-
+opments. You might even ask if the Act was good policy
+when enacted. But all the same you might find it difficult
+to see how to avoid the statute’s application.
+  Still, the employees suggest the Arbitration Act’s saving
+clause creates an exception for cases like theirs. By its
+terms, the saving clause allows courts to refuse to enforce
+arbitration agreements “upon such grounds as exist at law
+or in equity for the revocation of any contract.” §2. That
+provision applies here, the employees tell us, because the
+NLRA renders their particular class and collective action
+waivers illegal. In their view, illegality under the NLRA is
+a “ground” that “exists at law . . . for the revocation” of
+their arbitration agreements, at least to the extent those
+agreements prohibit class or collective action proceedings.
+  The problem with this line of argument is fundamental.
+Put to the side the question whether the saving clause was
+designed to save not only state law defenses but also
+defenses allegedly arising from federal statutes. See 834
+F. 3d, at 991–992, 997 (Ikuta, J., dissenting). Put to the
+
+
+                  Cite as: 584 U. S. ____ (2018)           7
+                       Opinion of the Court
+side the question of what it takes to qualify as a ground
+for “revocation” of a contract. See Concepcion, supra, at
+352–355 (THOMAS, J., concurring); post, at 1–2 (THOMAS,
+J., concurring). Put to the side for the moment, too, even
+the question whether the NLRA actually renders class and
+collective action waivers illegal. Assuming (but not grant-
+ing) the employees could satisfactorily answer all those
+questions, the saving clause still can’t save their cause.
+   It can’t because the saving clause recognizes only de-
+fenses that apply to “any” contract. In this way the clause
+establishes a sort of “equal-treatment” rule for arbitration
+contracts. Kindred Nursing Centers L. P. v. Clark, 581
+U. S. ___, ___ (2017) (slip op., at 4). The clause “permits
+agreements to arbitrate to be invalidated by ‘generally
+applicable contract defenses, such as fraud, duress, or
+unconscionability.’ ” Concepcion, 563 U. S., at 339. At the
+same time, the clause offers no refuge for “defenses that
+apply only to arbitration or that derive their meaning from
+the fact that an agreement to arbitrate is at issue.” Ibid.
+Under our precedent, this means the saving clause does
+not save defenses that target arbitration either by name or
+by more subtle methods, such as by “interfer[ing] with
+fundamental attributes of arbitration.” Id., at 344; see
+Kindred Nursing, supra, at ___ (slip op., at 5).
+   This is where the employees’ argument stumbles. They
+don’t suggest that their arbitration agreements were
+extracted, say, by an act of fraud or duress or in some
+other unconscionable way that would render any contract
+unenforceable. Instead, they object to their agreements
+precisely because they require individualized arbitration
+proceedings instead of class or collective ones. And by
+attacking (only) the individualized nature of the arbitra-
+tion proceedings, the employees’ argument seeks to inter-
+fere with one of arbitration’s fundamental attributes.
+   We know this much because of Concepcion. There this
+Court faced a state law defense that prohibited as uncon-
+
+
+8                EPIC SYSTEMS CORP. v. LEWIS
+                       Opinion of the Court
+scionable class action waivers in consumer contracts. The
+Court readily acknowledged that the defense formally
+applied in both the litigation and the arbitration context.
+563 U. S., at 338, 341. But, the Court held, the defense
+failed to qualify for protection under the saving clause
+because it interfered with a fundamental attribute of
+arbitration all the same. It did so by effectively permitting
+any party in arbitration to demand classwide proceedings
+despite the traditionally individualized and informal
+nature of arbitration. This “fundamental” change to the
+traditional arbitration process, the Court said, would
+“sacrific[e] the principal advantage of arbitration—its
+informality—and mak[e] the process slower, more costly,
+and more likely to generate procedural morass than final
+judgment.” Id., at 347, 348. Not least, Concepcion noted,
+arbitrators would have to decide whether the named class
+representatives are sufficiently representative and typical
+of the class; what kind of notice, opportunity to be heard,
+and right to opt out absent class members should enjoy;
+and how discovery should be altered in light of the class-
+wide nature of the proceedings. Ibid. All of which would
+take much time and effort, and introduce new risks and
+costs for both sides. Ibid. In the Court’s judgment, the
+virtues Congress originally saw in arbitration, its speed
+and simplicity and inexpensiveness, would be shorn away
+and arbitration would wind up looking like the litigation it
+was meant to displace.
+   Of course, Concepcion has its limits. The Court recog-
+nized that parties remain free to alter arbitration proce-
+dures to suit their tastes, and in recent years some parties
+have sometimes chosen to arbitrate on a classwide basis.
+Id., at 351. But Concepcion’s essential insight remains:
+courts may not allow a contract defense to reshape tradi-
+tional individualized arbitration by mandating classwide
+arbitration procedures without the parties’ consent. Id., at
+344–351; see also Stolt-Nielsen S. A. v. AnimalFeeds Int’l
+
+
+                  Cite as: 584 U. S. ____ (2018)           9
+                       Opinion of the Court
+Corp., 559 U. S. 662, 684–687 (2010). Just as judicial
+antagonism toward arbitration before the Arbitration Act’s
+enactment “manifested itself in a great variety of devices
+and formulas declaring arbitration against public policy,”
+Concepcion teaches that we must be alert to new devices
+and formulas that would achieve much the same result
+today. 563 U. S., at 342 (internal quotation marks omit-
+ted). And a rule seeking to declare individualized arbitra-
+tion proceedings off limits is, the Court held, just such a
+device.
+   The employees’ efforts to distinguish Concepcion fall
+short. They note that their putative NLRA defense would
+render an agreement “illegal” as a matter of federal statu-
+tory law rather than “unconscionable” as a matter of state
+common law. But we don’t see how that distinction makes
+any difference in light of Concepion’s rationale and rule.
+Illegality, like unconscionability, may be a traditional,
+generally applicable contract defense in many cases, in-
+cluding arbitration cases. But an argument that a con-
+tract is unenforceable just because it requires bilateral
+arbitration is a different creature. A defense of that kind,
+Concepcion tells us, is one that impermissibly disfavors
+arbitration whether it sounds in illegality or unconscion-
+ability. The law of precedent teaches that like cases should
+generally be treated alike, and appropriate respect for that
+principle means the Arbitration Act’s saving clause can no
+more save the defense at issue in these cases than it did
+the defense at issue in Concepcion. At the end of our
+encounter with the Arbitration Act, then, it appears just
+as it did at the beginning: a congressional command re-
+quiring us to enforce, not override, the terms of the arbi-
+tration agreements before us.
+                               III
+   But that’s not the end of it. Even if the Arbitration Act
+normally requires us to enforce arbitration agreements
+
+
+10               EPIC SYSTEMS CORP. v. LEWIS
+                       Opinion of the Court
+like theirs, the employees reply that the NLRA overrides
+that guidance in these cases and commands us to hold
+their agreements unlawful yet.
+   This argument faces a stout uphill climb. When con-
+fronted with two Acts of Congress allegedly touching on
+the same topic, this Court is not at “liberty to pick and
+choose among congressional enactments” and must in-
+stead strive “ ‘to give effect to both.’ ” Morton v. Mancari,
+417 U. S. 535, 551 (1974). A party seeking to suggest that
+two statutes cannot be harmonized, and that one displaces
+the other, bears the heavy burden of showing “ ‘a clearly
+expressed congressional intention’ ” that such a result
+should follow. Vimar Seguros y Reaseguros, S. A. v. M/V
+Sky Reefer, 515 U. S. 528, 533 (1995). The intention must
+be “ ‘clear and manifest.’ ” Morton, supra, at 551. And in
+approaching a claimed conflict, we come armed with the
+“stron[g] presum[ption]” that repeals by implication are
+“disfavored” and that “Congress will specifically address”
+preexisting law when it wishes to suspend its normal
+operations in a later statute. United States v. Fausto, 484
+U. S. 439, 452, 453 (1988).
+   These rules exist for good reasons. Respect for Congress
+as drafter counsels against too easily finding irreconcilable
+conflicts in its work. More than that, respect for the sepa-
+ration of powers counsels restraint. Allowing judges to
+pick and choose between statutes risks transforming them
+from expounders of what the law is into policymakers
+choosing what the law should be. Our rules aiming for
+harmony over conflict in statutory interpretation grow
+from an appreciation that it’s the job of Congress by legis-
+lation, not this Court by supposition, both to write the
+laws and to repeal them.
+   Seeking to demonstrate an irreconcilable statutory
+conflict even in light of these demanding standards, the
+employees point to Section 7 of the NLRA. That provision
+guarantees workers
+
+
+                   Cite as: 584 U. S. ____ (2018)           11
+                        Opinion of the Court
+     “the right to self-organization, to form, join, or assist
+     labor organizations, to bargain collectively through
+     representatives of their own choosing, and to engage
+     in other concerted activities for the purpose of collec-
+     tive bargaining or other mutual aid or protection.” 29
+     U. S. C. §157.
+From this language, the employees ask us to infer a clear
+and manifest congressional command to displace the
+Arbitration Act and outlaw agreements like theirs.
+   But that much inference is more than this Court may
+make. Section 7 focuses on the right to organize unions
+and bargain collectively. It may permit unions to bargain
+to prohibit arbitration. Cf. 14 Penn Plaza LLC v. Pyett,
+556 U. S. 247, 256–260 (2009). But it does not express
+approval or disapproval of arbitration. It does not men-
+tion class or collective action procedures. It does not even
+hint at a wish to displace the Arbitration Act—let alone
+accomplish that much clearly and manifestly, as our prec-
+edents demand.
+   Neither should any of this come as a surprise. The
+notion that Section 7 confers a right to class or collective
+actions seems pretty unlikely when you recall that proce-
+dures like that were hardly known when the NLRA was
+adopted in 1935. Federal Rule of Civil Procedure 23 didn’t
+create the modern class action until 1966; class arbitration
+didn’t emerge until later still; and even the Fair Labor
+Standards Act’s collective action provision postdated
+Section 7 by years. See Rule 23–Class Actions, 28 U. S. C.
+App., p. 1258 (1964 ed., Supp. II); 52 Stat. 1069; Concep-
+cion, 563 U. S., at 349; see also Califano v. Yamasaki, 442
+U. S. 682, 700–701 (1979) (noting that the “usual rule”
+then was litigation “conducted by and on behalf of individ-
+ual named parties only”). And while some forms of group
+litigation existed even in 1935, see 823 F. 3d, at 1154,
+Section 7’s failure to mention them only reinforces that
+
+
+12               EPIC SYSTEMS CORP. v. LEWIS
+                       Opinion of the Court
+the statute doesn’t speak to such procedures.
+   A close look at the employees’ best evidence of a poten-
+tial conflict turns out to reveal no conflict at all. The
+employees direct our attention to the term “other con-
+certed activities for the purpose of . . . other mutual aid or
+protection.” This catchall term, they say, can be read to
+include class and collective legal actions. But the term
+appears at the end of a detailed list of activities speaking
+of “self-organization,” “form[ing], join[ing], or assist[ing]
+labor organizations,” and “bargain[ing] collectively.” 29
+U. S. C. §157. And where, as here, a more general term
+follows more specific terms in a list, the general term is
+usually understood to “ ‘embrace only objects similar in
+nature to those objects enumerated by the preceding spe-
+cific words.’ ” Circuit City Stores, Inc. v. Adams, 532 U. S.
+105, 115 (2001) (discussing ejusdem generis canon); Na-
+tional Assn. of Mfrs. v. Department of Defense, 583 U. S.
+___, ___ (2018) (slip op., at 10). All of which suggests that
+the term “other concerted activities” should, like the terms
+that precede it, serve to protect things employees “just do”
+for themselves in the course of exercising their right to
+free association in the workplace, rather than “the highly
+regulated, courtroom-bound ‘activities’ of class and joint
+litigation.” Alternative Entertainment, 858 F. 3d, at 414–
+415 (Sutton, J., concurring in part and dissenting in part)
+(emphasis deleted). None of the preceding and more spe-
+cific terms speaks to the procedures judges or arbitrators
+must apply in disputes that leave the workplace and enter
+the courtroom or arbitral forum, and there is no textually
+sound reason to suppose the final catchall term should
+bear such a radically different object than all its predeces-
+sors.
+   The NLRA’s broader structure underscores the point.
+After speaking of various “concerted activities” in Section
+7, Congress proceeded to establish a regulatory regime
+applicable to each of them. The NLRA provides rules for
+
+
+                    Cite as: 584 U. S. ____ (2018)             13
+                         Opinion of the Court
+the recognition of exclusive bargaining representatives, 29
+U. S. C. §159, explains employees’ and employers’ obliga-
+tion to bargain collectively, §158(d), and conscribes certain
+labor organization practices, §§158(a)(3), (b). The NLRA
+also touches on other concerted activities closely related to
+organization and collective bargaining, such as picketing,
+§158(b)(7), and strikes, §163. It even sets rules for adjudi-
+catory proceedings under the NLRA itself. §§160, 161.
+Many of these provisions were part of the original NLRA
+in 1935, see 49 Stat. 449, while others were added later.
+But missing entirely from this careful regime is any hint
+about what rules should govern the adjudication of class
+or collective actions in court or arbitration. Without some
+comparably specific guidance, it’s not at all obvious what
+procedures Section 7 might protect. Would opt-out class
+action procedures suffice? Or would opt-in procedures be
+necessary? What notice might be owed to absent class
+members? What standards would govern class certifica-
+tion? Should the same rules always apply or should they
+vary based on the nature of the suit? Nothing in the
+NLRA even whispers to us on any of these essential ques-
+tions. And it is hard to fathom why Congress would take
+such care to regulate all the other matters mentioned in
+Section 7 yet remain mute about this matter alone—
+unless, of course, Section 7 doesn’t speak to class and
+collective action procedures in the first place.
+   Telling, too, is the fact that when Congress wants to
+mandate particular dispute resolution procedures it knows
+exactly how to do so. Congress has spoken often and
+clearly to the procedures for resolving “actions,” “claims,”
+“charges,” and “cases” in statute after statute. E.g., 29
+U. S. C. §§216(b), 626; 42 U. S. C. §§2000e–5(b), (f )(3)–(5).
+Congress has likewise shown that it knows how to over-
+ride the Arbitration Act when it wishes—by explaining, for
+example, that, “[n]otwithstanding any other provision of
+law, . . . arbitration may be used . . . only if ” certain condi-
+
+
+14               EPIC SYSTEMS CORP. v. LEWIS
+                       Opinion of the Court
+tions are met, 15 U. S. C. §1226(a)(2); or that “[n]o predis-
+pute arbitration agreement shall be valid or enforceable”
+in other circumstances, 7 U. S. C. §26(n)(2); 12 U. S. C.
+§5567(d)(2); or that requiring a party to arbitrate is “un-
+lawful” in other circumstances yet, 10 U. S. C. §987(e)(3).
+The fact that we have nothing like that here is further
+evidence that Section 7 does nothing to address the ques-
+tion of class and collective actions.
+   In response, the employees offer this slight reply. They
+suggest that the NLRA doesn’t discuss any particular
+class and collective action procedures because it merely
+confers a right to use existing procedures provided by
+statute or rule, “on the same terms as [they are] made
+available to everyone else.” Brief for Respondent in No.
+16–285, p. 53, n. 10. But of course the NLRA doesn’t say
+even that much. And, besides, if the parties really take
+existing class and collective action rules as they find them,
+they surely take them subject to the limitations inherent
+in those rules—including the principle that parties may
+(as here) contract to depart from them in favor of individ-
+ualized arbitration procedures of their own design.
+   Still another contextual clue yields the same message.
+The employees’ underlying causes of action involve their
+wages and arise not under the NLRA but under an en-
+tirely different statute, the Fair Labor Standards Act. The
+FLSA allows employees to sue on behalf of “themselves
+and other employees similarly situated,” 29 U. S. C.
+§216(b), and it’s precisely this sort of collective action the
+employees before us wish to pursue. Yet they do not offer
+the seemingly more natural suggestion that the FLSA
+overcomes the Arbitration Act to permit their class and
+collective actions. Why not? Presumably because this
+Court held decades ago that an identical collective action
+scheme (in fact, one borrowed from the FLSA) does not
+displace the Arbitration Act or prohibit individualized
+arbitration proceedings. Gilmer v. Interstate/Johnson
+
+
+                   Cite as: 584 U. S. ____ (2018)          15
+                        Opinion of the Court
+Lane Corp., 500 U. S. 20, 32 (1991) (discussing Age Dis-
+crimination in Employment Act). In fact, it turns out that
+“[e]very circuit to consider the question” has held that the
+FLSA allows agreements for individualized arbitration.
+Alternative Entertainment, 858 F. 3d, at 413 (opinion of
+Sutton, J.) (collecting cases). Faced with that obstacle, the
+employees are left to cast about elsewhere for help. And
+so they have cast in this direction, suggesting that one
+statute (the NLRA) steps in to dictate the procedures for
+claims under a different statute (the FLSA), and thereby
+overrides the commands of yet a third statute (the Arbi-
+tration Act). It’s a sort of interpretive triple bank shot,
+and just stating the theory is enough to raise a judicial
+eyebrow.
+   Perhaps worse still, the employees’ theory runs afoul of
+the usual rule that Congress “does not alter the funda-
+mental details of a regulatory scheme in vague terms or
+ancillary provisions—it does not, one might say, hide
+elephants in mouseholes.” Whitman v. American Trucking
+Assns., Inc., 531 U. S. 457, 468 (2001). Union organization
+and collective bargaining in the workplace are the bread
+and butter of the NLRA, while the particulars of dispute
+resolution procedures in Article III courts or arbitration
+proceedings are usually left to other statutes and rules—
+not least the Federal Rules of Civil Procedure, the Arbitra-
+tion Act, and the FLSA. It’s more than a little doubtful
+that Congress would have tucked into the mousehole
+of Section 7’s catchall term an elephant that tramples
+the work done by these other laws; flattens the parties’
+contracted-for dispute resolution procedures; and seats the
+Board as supreme superintendent of claims arising under
+a statute it doesn’t even administer.
+   Nor does it help to fold yet another statute into the mix.
+At points, the employees suggest that the Norris-
+LaGuardia Act, a precursor of the NLRA, also renders
+their arbitration agreements unenforceable.          But the
+
+
+16              EPIC SYSTEMS CORP. v. LEWIS
+                      Opinion of the Court
+Norris-LaGuardia Act adds nothing here. It declares
+“[un]enforceable” contracts that conflict with its policy of
+protecting workers’ “concerted activities for the purpose of
+collective bargaining or other mutual aid or protection.”
+29 U. S. C. §§102, 103. That is the same policy the NLRA
+advances and, as we’ve seen, it does not conflict with
+Congress’s statutory directions favoring arbitration. See
+also Boys Markets, Inc. v. Retail Clerks, 398 U. S. 235
+(1970) (holding that the Norris-LaGuardia Act’s anti-
+injunction provisions do not bar enforcement of arbitration
+agreements).
+   What all these textual and contextual clues indicate, our
+precedents confirm. In many cases over many years, this
+Court has heard and rejected efforts to conjure conflicts
+between the Arbitration Act and other federal statutes. In
+fact, this Court has rejected every such effort to date (save
+one temporary exception since overruled), with statutes
+ranging from the Sherman and Clayton Acts to the Age
+Discrimination in Employment Act, the Credit Repair
+Organizations Act, the Securities Act of 1933, the Securi-
+ties Exchange Act of 1934, and the Racketeer Influenced
+and Corrupt Organizations Act. Italian Colors, 570 U. S.
+228; Gilmer, 500 U. S. 20; CompuCredit Corp. v. Green-
+wood, 565 U. S. 95 (2012); Rodriguez de Quijas v. Shear-
+son/American Express, Inc., 490 U. S. 477 (1989) (over-
+ruling Wilko v. Swan, 346 U. S. 427 (1953)); Shear-
+son/American Express Inc. v. McMahon, 482 U. S. 220
+(1987). Throughout, we have made clear that even a
+statute’s express provision for collective legal actions does
+not necessarily mean that it precludes “ ‘individual at-
+tempts at conciliation’ ” through arbitration. Gilmer,
+supra, at 32. And we’ve stressed that the absence of any
+specific statutory discussion of arbitration or class actions
+is an important and telling clue that Congress has not
+displaced the Arbitration Act. CompuCredit, supra, at
+103–104; McMahon, supra, at 227; Italian Colors, supra,
+
+
+                  Cite as: 584 U. S. ____ (2018)            17
+                       Opinion of the Court
+at 234. Given so much precedent pointing so strongly in
+one direction, we do not see how we might faithfully turn
+the other way here.
+   Consider a few examples. In Italian Colors, this Court
+refused to find a conflict between the Arbitration Act and
+the Sherman Act because the Sherman Act (just like
+the NLRA) made “no mention of class actions” and was
+adopted before Rule 23 introduced its exception to the “usual
+rule” of “individual” dispute resolution. 570 U. S., at 234
+(internal quotation marks omitted). In Gilmer, this Court
+“had no qualms in enforcing a class waiver in an arbitra-
+tion agreement even though” the Age Discrimination in
+Employment Act “expressly permitted collective legal
+actions.” Italian Colors, supra, at 237 (citing Gilmer,
+supra, at 32). And in CompuCredit, this Court refused to
+find a conflict even though the Credit Repair Organiza-
+tions Act expressly provided a “right to sue,” “repeated[ly]”
+used the words “action ” and “court” and “class action,” and
+even declared “[a]ny waiver” of the rights it provided to be
+“void.” 565 U. S., at 99–100 (internal quotation marks
+omitted). If all the statutes in all those cases did not
+provide a congressional command sufficient to displace the
+Arbitration Act, we cannot imagine how we might hold
+that the NLRA alone and for the first time does so today.
+   The employees rejoin that our precedential story is
+complicated by some of this Court’s cases interpreting
+Section 7 itself. But, as it turns out, this Court’s Section 7
+cases have usually involved just what you would expect
+from the statute’s plain language: efforts by employees
+related to organizing and collective bargaining in the
+workplace, not the treatment of class or collective actions
+in court or arbitration proceedings. See, e.g., NLRB v.
+Washington Aluminum Co., 370 U. S. 9 (1962) (walkout to
+protest workplace conditions); NLRB v. Textile Workers,
+409 U. S. 213 (1972) (resignation from union and refusal
+to strike); NLRB v. J. Weingarten, Inc., 420 U. S. 251
+
+
+18               EPIC SYSTEMS CORP. v. LEWIS
+                       Opinion of the Court
+(1975) (request for union representation at disciplinary
+interview). Neither do the two cases the employees cite
+prove otherwise. In Eastex, Inc. v. NLRB, 437 U. S. 556,
+558 (1978), we simply addressed the question whether a
+union’s distribution of a newsletter in the workplace quali-
+fied as a protected concerted activity. We held it did,
+noting that it was “undisputed that the union undertook
+the distribution in order to boost its support and improve
+its bargaining position in upcoming contract negotiations,”
+all part of the union’s “ ‘continuing organizational efforts.’ ”
+Id., at 575, and n. 24. In NLRB v. City Disposal Systems,
+Inc., 465 U. S. 822, 831–832 (1984), we held only that an
+employee’s assertion of a right under a collective bargain-
+ing agreement was protected, reasoning that the collective
+bargaining “process—beginning with the organization of
+the union, continuing into the negotiation of a collective-
+bargaining agreement, and extending through the en-
+forcement of the agreement—is a single, collective activ-
+ity.” Nothing in our cases indicates that the NLRA guar-
+antees class and collective action procedures, let alone for
+claims arising under different statutes and despite the
+express (and entirely unmentioned) teachings of the Arbi-
+tration Act.
+   That leaves the employees to try to make something of
+our dicta. The employees point to a line in Eastex observ-
+ing that “it has been held” by other courts and the Board
+“that the ‘mutual aid or protection’ clause protects em-
+ployees from retaliation by their employers when they
+seek to improve working conditions through resort to
+administrative and judicial forums.” 437 U. S., at 565–
+566; see also Brief for National Labor Relations Board in
+No. 16–307, p. 15 (citing similar Board decisions). But
+even on its own terms, this dicta about the holdings of
+other bodies does not purport to discuss what procedures
+an employee might be entitled to in litigation or arbitra-
+tion. Instead this passage at most suggests only that
+
+
+                   Cite as: 584 U. S. ____ (2018)           19
+                        Opinion of the Court
+“resort to administrative and judicial forums” isn’t “entirely
+unprotected.” Id., at 566. Indeed, the Court proceeded
+to explain that it did not intend to “address . . . the ques-
+tion of what may constitute ‘concerted’ activities in this
+[litigation] context.” Ibid., n. 15. So even the employees’
+dicta, when viewed fairly and fully, doesn’t suggest that
+individualized dispute resolution procedures might be
+insufficient and collective procedures might be mandatory.
+Neither should this come as a surprise given that not a
+single one of the lower court or Board decisions Eastex
+discussed went so far as to hold that Section 7 guarantees
+a right to class or collective action procedures. As we’ve
+seen, the Board did not purport to discover that right until
+2012, and no federal appellate court accepted it until 2016.
+See D. R. Horton, 357 N. L. R. B. 2277; 823 F. 3d 1147
+(case below in No. 16–285).
+   With so much against them in the statute and our prec-
+edent, the employees end by seeking shelter in Chevron.
+Even if this Court doesn’t see what they see in Section 7,
+the employees say we must rule for them anyway because
+of the deference this Court owes to an administrative
+agency’s interpretation of the law. To be sure, the em-
+ployees do not wish us to defer to the general counsel’s
+judgment in 2010 that the NLRA and the Arbitration Act
+coexist peaceably; they wish us to defer instead to the
+Board’s 2012 opinion suggesting the NLRA displaces the
+Arbitration Act. No party to these cases has asked us to
+reconsider Chevron deference. Cf. SAS Institute Inc. v.
+Iancu, ante, at 11. But even under Chevron’s terms, no
+deference is due. To show why, it suffices to outline just a
+few of the most obvious reasons.
+   The Chevron Court justified deference on the premise
+that a statutory ambiguity represents an “implicit” delega-
+tion to an agency to interpret a “statute which it adminis-
+ters.” 467 U. S., at 841, 844. Here, though, the Board
+hasn’t just sought to interpret its statute, the NLRA, in
+
+
+20               EPIC SYSTEMS CORP. v. LEWIS
+                        Opinion of the Court
+isolation; it has sought to interpret this statute in a way
+that limits the work of a second statute, the Arbitration
+Act. And on no account might we agree that Congress
+implicitly delegated to an agency authority to address the
+meaning of a second statute it does not administer. One of
+Chevron’s essential premises is simply missing here.
+   It’s easy, too, to see why the “reconciliation” of distinct
+statutory regimes “is a matter for the courts,” not agen-
+cies. Gordon v. New York Stock Exchange, Inc., 422 U. S.
+659, 685–686 (1975). An agency eager to advance its
+statutory mission, but without any particular interest in
+or expertise with a second statute, might (as here) seek to
+diminish the second statute’s scope in favor of a more
+expansive interpretation of its own—effectively “ ‘boot-
+strap[ping] itself into an area in which it has no jurisdic-
+tion.’ ” Adams Fruit Co. v. Barrett, 494 U. S. 638, 650
+(1990). All of which threatens to undo rather than honor
+legislative intentions. To preserve the balance Congress
+struck in its statutes, courts must exercise independent
+interpretive judgment. See Hoffman Plastic Compounds,
+Inc. v. NLRB, 535 U. S. 137, 144 (2002) (noting that this
+Court has “never deferred to the Board’s remedial prefer-
+ences where such preferences potentially trench upon
+federal statutes and policies unrelated to the NLRA”).
+   Another justification the Chevron Court offered for
+deference is that “policy choices” should be left to Execu-
+tive Branch officials “directly accountable to the people.”
+467 U. S., at 865. But here the Executive seems of two
+minds, for we have received competing briefs from the
+Board and from the United States (through the Solicitor
+General) disputing the meaning of the NLRA. And what-
+ever argument might be mustered for deferring to the
+Executive on grounds of political accountability, surely it
+becomes a garble when the Executive speaks from both
+sides of its mouth, articulating no single position on which
+it might be held accountable. See Hemel & Nielson, Chev-
+
+
+                    Cite as: 584 U. S. ____ (2018)          21
+                         Opinion of the Court
+ron Step One-and-a-Half, 84 U. Chi. L. Rev. 757, 808
+(2017) (“If the theory undergirding Chevron is that voters
+should be the judges of the executive branch’s policy choices,
+then presumably the executive branch should have to
+take ownership of those policy choices so that voters know
+whom to blame (and to credit)”). In these circumstances,
+we will not defer.
+   Finally, the Chevron Court explained that deference is
+not due unless a “court, employing traditional tools of
+statutory construction,” is left with an unresolved ambigu-
+ity. 467 U. S., at 843, n. 9. And that too is missing: the
+canon against reading conflicts into statutes is a tradi-
+tional tool of statutory construction and it, along with the
+other traditional canons we have discussed, is more than
+up to the job of solving today’s interpretive puzzle. Where,
+as here, the canons supply an answer, “Chevron leaves the
+stage.” Alternative Entertainment, 858 F. 3d, at 417 (opin-
+ion of Sutton, J.).
+                                 IV
+   The dissent sees things a little bit differently. In its
+view, today’s decision ushers us back to the Lochner era
+when this Court regularly overrode legislative policy
+judgments. The dissent even suggests we have resur-
+rected the long-dead “yellow dog” contract. Post, at 3–17,
+30 (opinion of GINSBURG, J.). But like most apocalyptic
+warnings, this one proves a false alarm. Cf. L. Tribe,
+American Constitutional Law 435 (1978) (“ ‘Lochnerizing’
+has become so much an epithet that the very use of the
+label may obscure attempts at understanding”).
+   Our decision does nothing to override Congress’s policy
+judgments. As the dissent recognizes, the legislative
+policy embodied in the NLRA is aimed at “safeguard[ing],
+first and foremost, workers’ rights to join unions and to
+engage in collective bargaining.” Post, at 8. Those rights
+stand every bit as strong today as they did yesterday. And
+
+
+22                EPIC SYSTEMS CORP. v. LEWIS
+                        Opinion of the Court
+rather than revive “yellow dog” contracts against union
+organizing that the NLRA outlawed back in 1935, today’s
+decision merely declines to read into the NLRA a novel
+right to class action procedures that the Board’s own
+general counsel disclaimed as recently as 2010.
+    Instead of overriding Congress’s policy judgments,
+today’s decision seeks to honor them. This much the
+dissent surely knows. Shortly after invoking the specter of
+Lochner, it turns around and criticizes the Court for trying
+too hard to abide the Arbitration Act’s “ ‘liberal federal
+policy favoring arbitration agreements,’ ” Howsam v. Dean
+Witter Reynolds, Inc., 537 U. S. 79, 83 (2002), saying we
+“ ‘ski’ ” too far down the “ ‘slippery slope’ ” of this Court’s
+arbitration precedent, post, at 23. But the dissent’s real
+complaint lies with the mountain of precedent itself. The
+dissent spends page after page relitigating our Arbitration
+Act precedents, rehashing arguments this Court has heard
+and rejected many times in many cases that no party has
+asked us to revisit. Compare post, at 18–23, 26 (criticizing
+Mitsubishi Motors Corp. v. Soler Chrysler-Plymouth, Inc.,
+473 U. S. 614 (1985), Gilmer, 500 U. S. 20, Circuit City,
+532 U. S. 105, Concepcion, 563 U. S. 333, Italian Colors,
+570 U. S. 228, and CompuCredit, 565 U. S. 95), with
+Mitsubishi, supra, at 645–650 (Stevens, J., dissenting),
+Gilmer, supra, at 36, 39–43 (Stevens, J., dissenting),
+Circuit City, supra, at 124–129 (Stevens, J., dissenting),
+Concepcion, supra, at 357–367 (BREYER, J., dissenting),
+Italian Colors, supra, at 240–253 (KAGAN, J., dissenting),
+and CompuCredit, supra, at 116–117 (GINSBURG, J.,
+dissenting).
+    When at last it reaches the question of applying our
+precedent, the dissent offers little, and understandably so.
+Our precedent clearly teaches that a contract defense
+“conditioning the enforceability of certain arbitration
+agreements on the availability of classwide arbitration
+procedures” is inconsistent with the Arbitration Act and
+
+
+                  Cite as: 584 U. S. ____ (2018)           23
+                       Opinion of the Court
+its saving clause. Concepcion, supra, at 336 (opinion of the
+Court). And that, of course, is exactly what the employees’
+proffered defense seeks to do.
+   Nor is the dissent’s reading of the NLRA any more
+available to us than its reading of the Arbitration Act.
+The dissent imposes a vast construction on Section 7’s
+language. Post, at 9. But a statute’s meaning does not
+always “turn solely” on the broadest imaginable “defini-
+tions of its component words.” Yates v. United States, 574
+U. S. ___, ___ (2015) (plurality opinion) (slip op., at 7).
+Linguistic and statutory context also matter. We have
+offered an extensive explanation why those clues support
+our reading today. By contrast, the dissent rests its inter-
+pretation on legislative history. Post, at 3–5; see also post,
+at 19–21. But legislative history is not the law. “It is the
+business of Congress to sum up its own debates in its
+legislation,” and once it enacts a statute “ ‘[w]e do not
+inquire what the legislature meant; we ask only what the
+statute means.’ ” Schwegmann Brothers v. Calvert Distill-
+ers Corp., 341 U. S. 384, 396, 397 (1951) (Jackson, J.,
+concurring) (quoting Justice Holmes). Besides, when it
+comes to the legislative history here, it seems Congress
+“did not discuss the right to file class or consolidated
+claims against employers.” D. R. Horton, 737 F. 3d, at
+361. So the dissent seeks instead to divine messages from
+congressional commentary directed to different questions
+altogether—a project that threatens to “substitute [the
+Court] for the Congress.” Schwegmann, supra, at 396.
+   Nor do the problems end there. The dissent proceeds to
+argue that its expansive reading of the NLRA conflicts
+with and should prevail over the Arbitration Act. The
+NLRA leaves the Arbitration Act without force, the dissent
+says, because it provides the more “pinpointed” direction.
+Post, at 25. Even taken on its own terms, though, this
+argument quickly faces trouble. The dissent says the
+NLRA is the more specific provision because it supposedly
+
+
+24              EPIC SYSTEMS CORP. v. LEWIS
+                      Opinion of the Court
+“speaks directly to group action by employees,” while the
+Arbitration Act doesn’t speak to such actions. Ibid. But
+the question before us is whether courts must enforce
+particular arbitration agreements according to their
+terms. And it’s the Arbitration Act that speaks directly to
+the enforceability of arbitration agreements, while the
+NLRA doesn’t mention arbitration at all. So if forced to
+choose between the two, we might well say the Arbitration
+Act offers the more on-point instruction. Of course, there
+is no need to make that call because, as our precedents
+demand, we have sought and found a persuasive interpre-
+tation that gives effect to all of Congress’s work, not just
+the parts we might prefer.
+   Ultimately, the dissent retreats to policy arguments. It
+argues that we should read a class and collective action
+right into the NLRA to promote the enforcement of wage
+and hour laws. Post, at 26–30. But it’s altogether unclear
+why the dissent expects to find such a right in the NLRA
+rather than in statutes like the FLSA that actually regu-
+late wages and hours. Or why we should read the NLRA
+as mandating the availability of class or collective actions
+when the FLSA expressly authorizes them yet allows
+parties to contract for bilateral arbitration instead. 29
+U. S. C. §216(b); Gilmer, supra, at 32. While the dissent is
+no doubt right that class actions can enhance enforcement
+by “spread[ing] the costs of litigation,” post, at 9, it’s also
+well known that they can unfairly “plac[e] pressure on the
+defendant to settle even unmeritorious claims,” Shady
+Grove Orthopedic Associates, P. A. v. Allstate Ins. Co., 559
+U. S. 393, 445, n. 3 (2010) (GINSBURG, J., dissenting). The
+respective merits of class actions and private arbitration
+as means of enforcing the law are questions constitution-
+ally entrusted not to the courts to decide but to the policy-
+makers in the political branches where those questions
+remain hotly contested. Just recently, for example, one
+federal agency banned individualized arbitration agree-
+
+
+                  Cite as: 584 U. S. ____ (2018)          25
+                       Opinion of the Court
+ments it blamed for underenforcement of certain laws,
+only to see Congress respond by immediately repealing
+that rule. See 82 Fed. Reg. 33210 (2017) (cited post, at 28,
+n. 15); Pub. L. 115–74, 131 Stat. 1243. This Court is not
+free to substitute its preferred economic policies for those
+chosen by the people’s representatives. That, we had
+always understood, was Lochner’s sin.
+                                *
+  The policy may be debatable but the law is clear: Con-
+gress has instructed that arbitration agreements like
+those before us must be enforced as written. While Con-
+gress is of course always free to amend this judgment, we
+see nothing suggesting it did so in the NLRA—much less
+that it manifested a clear intention to displace the Arbi-
+tration Act. Because we can easily read Congress’s stat-
+utes to work in harmony, that is where our duty lies. The
+judgments in Epic, No. 16–285, and Ernst & Young, No.
+16–300, are reversed, and the cases are remanded for
+further proceedings consistent with this opinion. The
+judgment in Murphy Oil, No. 16–307, is affirmed.
+                                                 So ordered.
+
+
+                 Cite as: 584 U. S. ____ (2018)             1
+                    THOMAS, J., concurring
+SUPREME COURT OF THE UNITED STATES
+                          _________________
+                  Nos. 16–285, 16–300, 16–307
+                          _________________
+     EPIC SYSTEMS CORPORATION, PETITIONER
+16–285                           v.
+                      JACOB LEWIS;
+ ON WRIT OF CERTIORARI TO THE UNITED STATES COURT OF
+            APPEALS FOR THE SEVENTH CIRCUIT
+      ERNST & YOUNG LLP, ET AL., PETITIONERS
+16–300                           v.
+             STEPHEN MORRIS, ET AL.; AND
+ ON WRIT OF CERTIORARI TO THE UNITED STATES COURT OF
+              APPEALS FOR THE NINTH CIRCUIT
+NATIONAL LABOR RELATIONS BOARD, PETITIONER
+16–307                           v.
+             MURPHY OIL USA, INC., ET AL.
+ ON WRIT OF CERTIORARI TO THE UNITED STATES COURT OF
+              APPEALS FOR THE FIFTH CIRCUIT
+                         [May 21, 2018]
+  JUSTICE THOMAS, concurring.
+  I join the Court’s opinion in full. I write separately to
+add that the employees also cannot prevail under the plain
+meaning of the Federal Arbitration Act. The Act declares
+arbitration agreements “valid, irrevocable, and enforce-
+able, save upon such grounds as exist at law or in equity for
+the revocation of any contract.” 9 U. S. C. §2. As I have
+previously explained, grounds for revocation of a contract
+are those that concern “ ‘the formation of the arbitration
+agreement.’ ” American Express Co. v. Italian Colors
+
+
+2                EPIC SYSTEMS CORP. v. LEWIS
+                      THOMAS, J., concurring
+Restaurant, 570 U. S. 228, 239 (2013) (concurring opinion)
+(quoting AT&T Mobility LLC v. Concepcion, 563 U. S. 333,
+353 (2011) (THOMAS, J., concurring)). The employees
+argue, among other things, that the class waivers in their
+arbitration agreements are unenforceable because the
+National Labor Relations Act makes those waivers illegal.
+But illegality is a public-policy defense. See Restatement
+(Second) of Contracts §§178–179 (1979); McMullen v.
+Hoffman, 174 U. S. 639, 669–670 (1899).            Because
+“[r]efusal to enforce a contract for public-policy reasons
+does not concern whether the contract was properly
+made,” the saving clause does not apply here. Concepcion,
+supra, at 357. For this reason, and the reasons in the
+Court’s opinion, the employees’ arbitration agreements
+must be enforced according to their terms.
+
+
+                 Cite as: 584 U. S. ____ (2018)          1
+                    GINSBURG, J., dissenting
+SUPREME COURT OF THE UNITED STATES
+                          _________________
+                 Nos. 16–285, 16–300, 16–307
+                          _________________
+     EPIC SYSTEMS CORPORATION, PETITIONER
+16–285                           v.
+                      JACOB LEWIS;
+ ON WRIT OF CERTIORARI TO THE UNITED STATES COURT OF
+           APPEALS FOR THE SEVENTH CIRCUIT
+      ERNST & YOUNG LLP, ET AL., PETITIONERS
+16–300                           v.
+            STEPHEN MORRIS, ET AL.; AND
+ ON WRIT OF CERTIORARI TO THE UNITED STATES COURT OF
+             APPEALS FOR THE NINTH CIRCUIT
+NATIONAL LABOR RELATIONS BOARD, PETITIONER
+16–307                           v.
+            MURPHY OIL USA, INC., ET AL.
+ ON WRIT OF CERTIORARI TO THE UNITED STATES COURT OF
+             APPEALS FOR THE FIFTH CIRCUIT
+                         [May 21, 2018]
+   JUSTICE GINSBURG, with whom JUSTICE BREYER,
+JUSTICE SOTOMAYOR, and JUSTICE KAGAN join, dissenting.
+   The employees in these cases complain that their em-
+ployers have underpaid them in violation of the wage and
+hours prescriptions of the Fair Labor Standards Act of
+1938 (FLSA), 29 U. S. C. §201 et seq., and analogous state
+laws. Individually, their claims are small, scarcely of a
+size warranting the expense of seeking redress alone. See
+Ruan, What’s Left To Remedy Wage Theft? How Arbitra-
+tion Mandates That Bar Class Actions Impact Low-Wage
+
+
+2               EPIC SYSTEMS CORP. v. LEWIS
+                     GINSBURG, J., dissenting
+Workers, 2012 Mich. St. L. Rev. 1103, 1118–1119 (Ruan).
+But by joining together with others similarly circum-
+stanced, employees can gain effective redress for wage
+underpayment commonly experienced. See id., at 1108–
+1111. To block such concerted action, their employers
+required them to sign, as a condition of employment,
+arbitration agreements banning collective judicial and
+arbitral proceedings of any kind. The question presented:
+Does the Federal Arbitration Act (Arbitration Act or FAA),
+9 U. S. C. §1 et seq., permit employers to insist that their
+employees, whenever seeking redress for commonly expe-
+rienced wage loss, go it alone, never mind the right
+secured to employees by the National Labor Relations
+Act (NLRA), 29 U. S. C. §151 et seq., “to engage in . . .
+concerted activities” for their “mutual aid or protection”?
+§157. The answer should be a resounding “No.”
+  In the NLRA and its forerunner, the Norris-LaGuardia
+Act (NLGA), 29 U. S. C. §101 et seq., Congress acted on an
+acute awareness: For workers striving to gain from their
+employers decent terms and conditions of employment,
+there is strength in numbers. A single employee, Con-
+gress understood, is disarmed in dealing with an employer.
+See NLRB v. Jones & Laughlin Steel Corp., 301 U. S.
+1, 33–34 (1937). The Court today subordinates employee-
+protective labor legislation to the Arbitration Act. In so
+doing, the Court forgets the labor market imbalance that
+gave rise to the NLGA and the NLRA, and ignores the
+destructive consequences of diminishing the right of em-
+ployees “to band together in confronting an employer.”
+NLRB v. City Disposal Systems, Inc., 465 U. S. 822, 835
+(1984). Congressional correction of the Court’s elevation of
+the FAA over workers’ rights to act in concert is urgently
+in order.
+  To explain why the Court’s decision is egregiously
+wrong, I first refer to the extreme imbalance once preva-
+lent in our Nation’s workplaces, and Congress’ aim in the
+
+
+                   Cite as: 584 U. S. ____ (2018)          3
+                      GINSBURG, J., dissenting
+NLGA and the NLRA to place employers and employees
+on a more equal footing. I then explain why the Arbitra-
+tion Act, sensibly read, does not shrink the NLRA’s protec-
+tive sphere.
+                                 I
+   It was once the dominant view of this Court that “[t]he
+right of a person to sell his labor upon such terms as he
+deems proper is . . . the same as the right of the purchaser
+of labor to prescribe [working] conditions.” Adair v. United
+States, 208 U. S. 161, 174 (1908) (invalidating federal law
+prohibiting interstate railroad employers from discharging
+or discriminating against employees based on their mem-
+bership in labor organizations); accord Coppage v. Kansas,
+236 U. S. 1, 26 (1915) (invalidating state law prohibit-
+ing employers from requiring employees, as a condition
+of employment, to refrain or withdraw from union
+membership).
+   The NLGA and the NLRA operate on a different prem-
+ise, that employees must have the capacity to act collec-
+tively in order to match their employers’ clout in setting
+terms and conditions of employment. For decades, the
+Court’s decisions have reflected that understanding. See
+Jones & Laughlin Steel, 301 U. S. 1 (upholding the NLRA
+against employer assault); cf. United States v. Darby, 312
+U. S. 100 (1941) (upholding the FLSA).
+                                 A
+   The end of the 19th century and beginning of the 20th
+was a tumultuous era in the history of our Nation’s labor
+relations. Under economic conditions then prevailing,
+workers often had to accept employment on whatever
+terms employers dictated. See 75 Cong. Rec. 4502 (1932).
+Aiming to secure better pay, shorter workdays, and safer
+workplaces, workers increasingly sought to band together
+to make their demands effective. See ibid.; H. Millis & E.
+
+
+4               EPIC SYSTEMS CORP. v. LEWIS
+                    GINSBURG, J., dissenting
+Brown, From the Wagner Act to Taft-Hartley: A Study of
+National Labor Policy and Labor Relations 7–8 (1950).
+  Employers, in turn, engaged in a variety of tactics to
+hinder workers’ efforts to act in concert for their mutual
+benefit. See J. Seidman, The Yellow Dog Contract 11
+(1932). Notable among such devices was the “yellow-dog
+contract.” Such agreements, which employers required
+employees to sign as a condition of employment, typically
+commanded employees to abstain from joining labor un-
+ions. See id., at 11, 56. Many of the employer-designed
+agreements cast an even wider net, “proscrib[ing] all
+manner of concerted activities.” Finkin, The Meaning and
+Contemporary Vitality of the Norris-LaGuardia Act, 93
+Neb. L. Rev. 6, 16 (2014); see Seidman, supra, at 59–60,
+65–66. As a prominent United States Senator observed,
+contracts of the yellow-dog genre rendered the “laboring
+man . . . absolutely helpless” by “waiv[ing] his right . . . to
+free association” and by requiring that he “singly present
+any grievance he has.” 75 Cong. Rec. 4504 (remarks of
+Sen. Norris).
+  Early legislative efforts to protect workers’ rights to
+band together were unavailing. See, e.g., Coppage, 236
+U. S., at 26; Frankfurter & Greene, Legislation Affecting
+Labor Injunctions, 38 Yale L. J. 879, 889–890 (1929).
+Courts, including this one, invalidated the legislation
+based on then-ascendant notions about employers’ and
+employees’ constitutional right to “liberty of contract.” See
+Coppage, 236 U. S., at 26; Frankfurter & Greene, supra, at
+890–891. While stating that legislatures could curtail
+contractual “liberty” in the interest of public health, safety,
+and the general welfare, courts placed outside those
+bounds legislative action to redress the bargaining power
+imbalance workers faced. See Coppage, 236 U. S., at
+16–19.
+  In the 1930’s, legislative efforts to safeguard vulnerable
+workers found more receptive audiences. As the Great
+
+
+                       Cite as: 584 U. S. ____ (2018)                    5
+                          GINSBURG, J., dissenting
+Depression shifted political winds further in favor of
+worker-protective laws, Congress passed two statutes
+aimed at protecting employees’ associational rights. First,
+in 1932, Congress passed the NLGA, which regulates the
+employer-employee relationship indirectly. Section 2 of
+the Act declares:
+      “Whereas . . . the individual unorganized worker is
+      commonly helpless to exercise actual liberty of con-
+      tract and to protect his freedom of labor, . . . it is nec-
+      essary that he have full freedom of association, self-
+      organization, and designation of representatives of his
+      own choosing, . . . and that he shall be free from the
+      interference, restraint, or coercion of employers . . . in
+      the designation of such representatives or in self-
+      organization or in other concerted activities for the
+      purpose of collective bargaining or other mutual aid or
+      protection.” 29 U. S. C. §102.
+Section 3 provides that federal courts shall not enforce
+“any . . . undertaking or promise in conflict with the public
+policy declared in [§2].” §103.1 In adopting these provi-
+sions, Congress sought to render ineffective employer-
+imposed contracts proscribing employees’ concerted activity
+of any and every kind. See 75 Cong. Rec. 4504–4505
+(remarks of Sen. Norris) (“[o]ne of the objects” of the
+NLGA was to “outlaw” yellow-dog contracts); Finkin,
+supra, at 16 (contracts prohibiting “all manner of concerted
+activities apart from union membership or support . . .
+were understood to be ‘yellow dog’ contracts”). While
+banning court enforcement of contracts proscribing con-
+——————
+   1 Other provisions of the NLGA further rein in federal-court authority
+to disturb employees’ concerted activities. See, e.g., 29 U. S. C. §104(d)
+(federal courts lack jurisdiction to enjoin a person from “aiding any
+person participating or interested in any labor dispute who is being
+proceeded against in, or [who] is prosecuting, any action or suit in any
+court of the United States or of any State”).
+
+
+6                EPIC SYSTEMS CORP. v. LEWIS
+                     GINSBURG, J., dissenting
+certed action by employees, the NLGA did not directly
+prohibit coercive employer practices.
+   But Congress did so three years later, in 1935, when it
+enacted the NLRA. Relevant here, §7 of the NLRA guar-
+antees employees “the right to self-organization, to form,
+join, or assist labor organizations, to bargain collectively
+through representatives of their own choosing, and to
+engage in other concerted activities for the purpose of col-
+lective bargaining or other mutual aid or protection.” 29
+U. S. C. §157 (emphasis added). Section 8(a)(1) safeguards
+those rights by making it an “unfair labor practice” for an
+employer to “interfere with, restrain, or coerce employees
+in the exercise of the rights guaranteed in [§7].”
+§158(a)(1). To oversee the Act’s guarantees, the Act estab-
+lished the National Labor Relations Board (Board or
+NLRB), an independent regulatory agency empowered to
+administer “labor policy for the Nation.” San Diego Build-
+ing Trades Council v. Garmon, 359 U. S. 236, 242 (1959);
+see 29 U. S. C. §160.
+   Unlike earlier legislative efforts, the NLGA and the
+NLRA had staying power. When a case challenging the
+NLRA’s constitutionality made its way here, the Court, in
+retreat from its Lochner-era contractual-“liberty” deci-
+sions, upheld the Act as a permissible exercise of legisla-
+tive authority. See Jones & Laughlin Steel, 301 U. S., at
+33–34. The Court recognized that employees have a “fun-
+damental right” to join together to advance their common
+interests and that Congress, in lieu of “ignor[ing]” that
+right, had elected to “safeguard” it. Ibid.
+                               B
+   Despite the NLRA’s prohibitions, the employers in the
+cases now before the Court required their employees to
+sign contracts stipulating to submission of wage and hours
+claims to binding arbitration, and to do so only one-by-
+
+
+                       Cite as: 584 U. S. ____ (2018)                    7
+                          GINSBURG, J., dissenting
+one.2 When employees subsequently filed wage and hours
+claims in federal court and sought to invoke the collective-
+litigation procedures provided for in the FLSA and Federal
+Rules of Civil Procedure,3 the employers moved to compel
+individual arbitration. The Arbitration Act, in their view,
+requires courts to enforce their take-it-or-leave-it arbitra-
+tion agreements as written, including the collective-
+litigation abstinence demanded therein.
+   In resisting enforcement of the group-action foreclo-
+sures, the employees involved in this litigation do not urge
+——————
+  2 The Court’s opinion opens with the question: “Should employees and
+employers be allowed to agree that any disputes between them will be
+resolved through one-on-one arbitration?” Ante, at 1. Were the
+“agreements” genuinely bilateral? Petitioner Epic Systems Corporation
+e-mailed its employees an arbitration agreement requiring resolution of
+wage and hours claims by individual arbitration. The agreement
+provided that if the employees “continue[d] to work at Epic,” they would
+“be deemed to have accepted th[e] Agreement.” App. to Pet. for Cert. in
+No. 16–285, p. 30a. Ernst & Young similarly e-mailed its employees an
+arbitration agreement, which stated that the employees’ continued
+employment would indicate their assent to the agreement’s terms. See
+App. in No. 16–300, p. 37. Epic’s and Ernst & Young’s employees thus
+faced a Hobson’s choice: accept arbitration on their employer’s terms or
+give up their jobs.
+  3 The FLSA establishes an opt-in collective-litigation procedure for
+employees seeking to recover unpaid wages and overtime pay. See 29
+U. S. C. §216(b). In particular, it authorizes “one or more employees” to
+maintain an action “in behalf of himself or themselves and other
+employees similarly situated.” Ibid. “Similarly situated” employees
+may become parties to an FLSA collective action (and may share in the
+recovery) only if they file written notices of consent to be joined
+as parties. Ibid. The Federal Rules of Civil Procedure provide two
+collective-litigation procedures relevant here. First, Rule 20(a) permits
+individuals to join as plaintiffs in a single action if they assert claims
+arising out of the same transaction or occurrence and their claims
+involve common questions of law or fact. Second, Rule 23 establishes
+an opt-out class-action procedure, pursuant to which “[o]ne or more
+members of a class” may bring an action on behalf of the entire class if
+specified prerequisites are met.
+
+
+8                      EPIC SYSTEMS CORP. v. LEWIS
+                           GINSBURG, J., dissenting
+that they must have access to a judicial forum.4 They
+argue only that the NLRA prohibits their employers from
+denying them the right to pursue work-related claims in
+concert in any forum. If they may be stopped by employer-
+dictated terms from pursuing collective procedures in
+court, they maintain, they must at least have access to
+similar procedures in an arbitral forum.
+                                        C
+    Although the NLRA safeguards, first and foremost,
+workers’ rights to join unions and to engage in collective
+bargaining, the statute speaks more embracively. In
+addition to protecting employees’ rights “to form, join, or
+assist labor organizations” and “to bargain collectively
+through representatives of their own choosing,” the Act
+protects employees’ rights “to engage in other concerted
+activities for the purpose of . . . mutual aid or protection.”
+29 U. S. C. §157 (emphasis added); see, e.g., NLRB v.
+Washington Aluminum Co., 370 U. S. 9, 14–15 (1962) (§7
+protected unorganized employees when they walked off
+the job to protest cold working conditions). See also 1 J.
+Higgins, The Developing Labor Law 209 (6th ed. 2012)
+(“Section 7 protects not only union-related activity but also
+‘other concerted activities . . . for mutual aid or protec-
+tion.’ ”); 1 N. Lareau, Labor and Employment Law
+§1.01[1], p. 1–2 (2017) (“Section 7 extended to employees
+three federally protected rights: (1) the right to form and
+join unions; (2) the right to bargain collectively (negotiate)
+with employers about terms and conditions of employ-
+ment; and (3) the right to work in concert with another
+employee or employees to achieve employment-related
+goals.” (emphasis added)).
+——————
+   4 Notably,   one employer specified that if the provisions confining em-
+ployees to individual proceedings are “unenforceable,” “any claim
+brought on a class, collective, or representative action basis must be
+filed in . . . court.” App. to Pet. for Cert. in No. 16–285, at 35a.
+
+
+                   Cite as: 584 U. S. ____ (2018)           9
+                      GINSBURG, J., dissenting
+   Suits to enforce workplace rights collectively fit com-
+fortably under the umbrella “concerted activities for the
+purpose of . . . mutual aid or protection.” 29 U. S. C. §157.
+“Concerted” means “[p]lanned or accomplished together;
+combined.” American Heritage Dictionary 381 (5th ed.
+2011). “Mutual” means “reciprocal.” Id., at 1163. When
+employees meet the requirements for litigation of shared
+legal claims in joint, collective, and class proceedings, the
+litigation of their claims is undoubtedly “accomplished
+together.” By joining hands in litigation, workers can
+spread the costs of litigation and reduce the risk of em-
+ployer retaliation. See infra, at 27–28.
+   Recognizing employees’ right to engage in collective
+employment litigation and shielding that right from em-
+ployer blockage are firmly rooted in the NLRA’s design.
+Congress expressed its intent, when it enacted the NLRA,
+to “protec[t] the exercise by workers of full freedom of
+association,” thereby remedying “[t]he inequality of bar-
+gaining power” workers faced. 29 U. S. C. §151; see, e.g.,
+Eastex, Inc. v. NLRB, 437 U. S. 556, 567 (1978) (the Act’s
+policy is “to protect the right of workers to act together to
+better their working conditions” (internal quotation marks
+omitted)); City Disposal, 465 U. S., at 835 (“[I]n enacting
+§7 of the NLRA, Congress sought generally to equalize the
+bargaining power of the employee with that of his employer
+by allowing employees to band together in confronting an
+employer regarding the terms and conditions of their
+employment.”). See also supra, at 5–6. There can be no
+serious doubt that collective litigation is one way workers
+may associate with one another to improve their lot.
+   Since the Act’s earliest days, the Board and federal
+courts have understood §7’s “concerted activities” clause to
+protect myriad ways in which employees may join together
+to advance their shared interests. For example, the Board
+and federal courts have affirmed that the Act shields
+employees from employer interference when they partici-
+
+
+10              EPIC SYSTEMS CORP. v. LEWIS
+                    GINSBURG, J., dissenting
+pate in concerted appeals to the media, e.g., NLRB v. Peter
+Cailler Kohler Swiss Chocolates Co., 130 F. 2d 503, 505–
+506 (CA2 1942), legislative bodies, e.g., Bethlehem Ship-
+building Corp. v. NLRB, 114 F. 2d 930, 937 (CA1 1940),
+and government agencies, e.g., Moss Planing Mill Co., 103
+N. L. R. B. 414, 418–419, enf’d, 206 F. 2d 557 (CA4 1953).
+“The 74th Congress,” this Court has noted, “knew well
+enough that labor’s cause often is advanced on fronts other
+than collective bargaining and grievance settlement within
+the immediate employment context.” Eastex, 437 U. S.,
+at 565.
+   Crucially important here, for over 75 years, the Board
+has held that the NLRA safeguards employees from em-
+ployer interference when they pursue joint, collective, and
+class suits related to the terms and conditions of their
+employment. See, e.g., Spandsco Oil and Royalty Co., 42
+N. L. R. B. 942, 948–949 (1942) (three employees’ joint
+filing of FLSA suit ranked as concerted activity protected
+by the NLRA); Poultrymen’s Service Corp., 41 N. L. R. B.
+444, 460–463, and n. 28 (1942) (same with respect to
+employee’s filing of FLSA suit on behalf of himself and
+others similarly situated), enf’d, 138 F. 2d 204 (CA3 1943);
+Sarkes Tarzian, Inc., 149 N. L. R. B. 147, 149, 153 (1964)
+(same with respect to employees’ filing class libel suit);
+United Parcel Service, Inc., 252 N. L. R. B. 1015, 1018
+(1980) (same with respect to employee’s filing class action
+regarding break times), enf’d, 677 F. 2d 421 (CA6 1982);
+Harco Trucking, LLC, 344 N. L. R. B. 478, 478–479 (2005)
+(same with respect to employee’s maintaining class action
+regarding wages). For decades, federal courts have en-
+dorsed the Board’s view, comprehending that “the filing of
+a labor related civil action by a group of employees is
+ordinarily a concerted activity protected by §7.” Leviton
+Mfg. Co. v. NLRB, 486 F. 2d 686, 689 (CA1 1973); see, e.g.,
+Brady v. National Football League, 644 F. 3d 661, 673
+
+
+                       Cite as: 584 U. S. ____ (2018)                 11
+                          GINSBURG, J., dissenting
+(CA8 2011) (similar).5 The Court pays scant heed to this
+longstanding line of decisions.6
+                                     D
+    In face of the NLRA’s text, history, purposes, and
+longstanding construction, the Court nevertheless con-
+cludes that collective proceedings do not fall within the
+scope of §7. None of the Court’s reasons for diminishing §7
+should carry the day.
+                                     1
+    The Court relies principally on the ejusdem generis
+canon. See ante, at 12. Observing that §7’s “other con-
+certed activities” clause “appears at the end of a detailed
+list of activities,” the Court says the clause should be read
+——————
+   5 The Court cites, as purported evidence of contrary agency precedent,
+a 2010 “Guideline Memorandum” that the NLRB’s then-General
+Counsel issued to his staff. See ante, at 4, 19, 22. The General Counsel
+appeared to conclude that employees have a §7 right to file collective
+suits, but that employers can nonetheless require employees to sign
+arbitration agreements waiving the right to maintain such suits. See
+Memorandum GC 10–06, p. 7 (June 16, 2010). The memorandum
+sought to address what the General Counsel viewed as tension between
+longstanding precedent recognizing a §7 right to pursue collective
+employment litigation and more recent court decisions broadly constru-
+ing the FAA. The memorandum did not bind the Board, and the Board
+never adopted the memorandum’s position as its own. See D. R.
+Horton, 357 N. L. R. B. 2277, 2282 (2012), enf. denied in relevant part,
+737 F. 3d 344 (CA5 2013); Tr. of Oral Arg. 41. Indeed, shortly after the
+General Counsel issued the memorandum, the Board rejected its
+analysis, finding that it conflicted with Board precedent, rested on
+erroneous factual premises, “defie[d] logic,” and was internally incoher-
+ent. D. R. Horton, 357 N. L. R. B., at 2282–2283.
+   6 In 2012, the Board held that employer-imposed contracts barring
+group litigation in any forum—arbitral or judicial—are unlawful. D. R.
+Horton, 357 N. L. R. B. 2277. In so ruling, the Board simply applied its
+precedents recognizing that (1) employees have a §7 right to engage in
+collective employment litigation and (2) employers cannot lawfully
+require employees to sign away their §7 rights. See id., at 2278, 2280.
+It broke no new ground. But cf. ante, at 2, 19.
+
+
+12               EPIC SYSTEMS CORP. v. LEWIS
+                     GINSBURG, J., dissenting
+to “embrace” only activities “similar in nature” to those
+set forth first in the list, ibid. (internal quotation marks
+omitted), i.e., “ ‘self-organization,’ ‘form[ing], join[ing],
+or assist[ing] labor organizations,’ and ‘bargain[ing] collec-
+tively,’ ” ibid. The Court concludes that §7 should, there-
+fore, be read to protect “things employees ‘just do’ for
+themselves.” Ibid. (quoting NLRB v. Alternative Enter-
+tainment, Inc., 858 F. 3d 393, 415 (CA6 2017) (Sutton, J.,
+concurring in part and dissenting in part); emphasis de-
+leted). It is far from apparent why joining hands in litiga-
+tion would not qualify as “things employees just do for
+themselves.” In any event, there is no sound reason to
+employ the ejusdem generis canon to narrow §7’s protec-
+tions in the manner the Court suggests.
+   The ejusdem generis canon may serve as a useful guide
+where it is doubtful Congress intended statutory words or
+phrases to have the broad scope their ordinary meaning
+conveys. See Russell Motor Car Co. v. United States, 261
+U. S. 514, 519 (1923). Courts must take care, however,
+not to deploy the canon to undermine Congress’ efforts to
+draft encompassing legislation. See United States v.
+Powell, 423 U. S. 87, 90 (1975) (“[W]e would be justified in
+narrowing the statute only if such a narrow reading was
+supported by evidence of congressional intent over and
+above the language of the statute.”). Nothing suggests
+that Congress envisioned a cramped construction of the
+NLRA. Quite the opposite, Congress expressed an em-
+bracive purpose in enacting the legislation, i.e., to “pro-
+tec[t] the exercise by workers of full freedom of associa-
+tion.” 29 U. S. C. §151; see supra, at 9.
+                               2
+   In search of a statutory hook to support its application
+of the ejusdem generis canon, the Court turns to the
+NLRA’s “structure.” Ante, at 12. Citing a handful of
+provisions that touch upon unionization, collective bar-
+
+
+                   Cite as: 584 U. S. ____ (2018)          13
+                      GINSBURG, J., dissenting
+gaining, picketing, and strikes, the Court asserts that the
+NLRA “establish[es] a regulatory regime” governing each
+of the activities protected by §7. Ante, at 12–13. That
+regime, the Court says, offers “specific guidance” and
+“rules” regulating each protected activity. Ante, at 13.
+Observing that none of the NLRA’s provisions explicitly
+regulates employees’ resort to collective litigation, the
+Court insists that “it is hard to fathom why Congress
+would take such care to regulate all the other matters
+mentioned in [§7] yet remain mute about this matter
+alone—unless, of course, [§7] doesn’t speak to class and
+collective action procedures in the first place.” Ibid.
+   This argument is conspicuously flawed. When Congress
+enacted the NLRA in 1935, the only §7 activity Congress
+addressed with any specificity was employees’ selection of
+collective-bargaining representatives. See 49 Stat. 453.
+The Act did not offer “specific guidance” about employees’
+rights to “form, join, or assist labor organizations.” Nor
+did it set forth “specific guidance” for any activity falling
+within §7’s “other concerted activities” clause. The only
+provision that touched upon an activity falling within that
+clause stated: “Nothing in this Act shall be construed so as
+to interfere with or impede or diminish in any way the
+right to strike.” Id., at 457. That provision hardly offered
+“specific guidance” regarding employees’ right to strike.
+   Without much in the original Act to support its “struc-
+ture” argument, the Court cites several provisions that
+Congress added later, in response to particular concerns.
+Compare 49 Stat. 449–457 with 61 Stat. 142–143 (1947)
+(adding §8(d) to provide guidance regarding employees’
+and employers’ collective-bargaining obligations); 61 Stat.
+141–142 (amending §8(a) and adding §8(b) to proscribe
+specified labor organization practices); 73 Stat. 544 (1959)
+(adding §8(b)(7) to place restrictions on labor organiza-
+tions’ right to picket employers). It is difficult to compre-
+hend why Congress’ later inclusion of specific guidance
+
+
+14              EPIC SYSTEMS CORP. v. LEWIS
+                     GINSBURG, J., dissenting
+regarding some of the activities protected by §7 sheds any
+light on Congress’ initial conception of §7’s scope.
+   But even if each of the provisions the Court cites had
+been included in the original Act, they still would provide
+little support for the Court’s conclusion. For going on 80
+years now, the Board and federal courts—including this
+one—have understood §7 to protect numerous activities
+for which the Act provides no “specific” regulatory guid-
+ance. See supra, at 9–10.
+                               3
+   In a related argument, the Court maintains that the
+NLRA does not “even whispe[r]” about the “rules [that]
+should govern the adjudication of class or collective actions
+in court or arbitration.” Ante, at 13. The employees here
+involved, of course, do not look to the NLRA for the proce-
+dures enabling them to vindicate their employment rights
+in arbitral or judicial forums. They assert that the Act
+establishes their right to act in concert using existing,
+generally available procedures, see supra, at 7, n. 3, and to
+do so free from employer interference. The FLSA and the
+Federal Rules on joinder and class actions provide the
+procedures pursuant to which the employees may ally to
+pursue shared legal claims. Their employers cannot law-
+fully cut off their access to those procedures, they urge,
+without according them access to similar procedures in
+arbitral forums. See, e.g., American Arbitration Assn.,
+Supplementary Rules for Class Arbitrations (2011).
+   To the employees’ argument, the Court replies: If the
+employees “really take existing class and collective action
+rules as they find them, they surely take them subject to
+the limitations inherent in those rules—including the
+principle that parties may (as here) contract to depart
+from them in favor of individualized arbitration proce-
+dures.” Ante, at 14. The freedom to depart asserted by
+the Court, as already underscored, is entirely one sided.
+
+
+                    Cite as: 584 U. S. ____ (2018)         15
+                       GINSBURG, J., dissenting
+See supra, at 2–5. Once again, the Court ignores the
+reality that sparked the NLRA’s passage: Forced to face
+their employers without company, employees ordinarily
+are no match for the enterprise that hires them. Employ-
+ees gain strength, however, if they can deal with their
+employers in numbers. That is the very reason why the
+NLRA secures against employer interference employees’
+right to act in concert for their “mutual aid or protection.”
+29 U. S. C. §§151, 157, 158.
+                                  4
+   Further attempting to sow doubt about §7’s scope, the
+Court asserts that class and collective procedures were
+“hardly known when the NLRA was adopted in 1935.”
+Ante, at 11. In particular, the Court notes, the FLSA’s
+collective-litigation procedure postdated §7 “by years” and
+Rule 23 “didn’t create the modern class action until 1966.”
+Ibid.
+   First, one may ask, is there any reason to suppose that
+Congress intended to protect employees’ right to act in
+concert using only those procedures and forums available
+in 1935? Congress framed §7 in broad terms, “en-
+trust[ing]” the Board with “responsibility to adapt the Act
+to changing patterns of industrial life.” NLRB v. J.
+Weingarten, Inc., 420 U. S. 251, 266 (1975); see Pennsyl-
+vania Dept. of Corrections v. Yeskey, 524 U. S. 206, 212
+(1998) (“[T]he fact that a statute can be applied in situa-
+tions not expressly anticipated by Congress does not
+demonstrate ambiguity. It demonstrates breadth.” (inter-
+nal quotation marks omitted)). With fidelity to Congress’
+aim, the Board and federal courts have recognized that the
+NLRA shields employees from employer interference when
+they, e.g., join together to file complaints with administra-
+tive agencies, even if those agencies did not exist in 1935.
+See, e.g., Wray Electric Contracting, Inc., 210 N. L. R. B.
+757, 762 (1974) (the NLRA protects concerted filing of
+
+
+16                EPIC SYSTEMS CORP. v. LEWIS
+                       GINSBURG, J., dissenting
+complaint with the Occupational Safety and Health
+Administration).
+   Moreover, the Court paints an ahistorical picture. As
+Judge Wood, writing for the Seventh Circuit, cogently
+explained, the FLSA’s collective-litigation procedure and
+the modern class action were “not written on a clean
+slate.” 823 F. 3d 1147, 1154 (2016). By 1935, permissive
+joinder was scarcely uncommon in courts of equity. See 7
+C. Wright, A. Miller, & M. Kane, Federal Practice and
+Procedure §1651 (3d ed. 2001). Nor were representative
+and class suits novelties. Indeed, their origins trace back
+to medieval times. See S. Yeazell, From Medieval Group
+Litigation to the Modern Class Action 38 (1987). And
+beyond question, “[c]lass suits long have been a part of
+American jurisprudence.” 7A Wright, supra, §1751, at 12
+(3d ed. 2005); see Supreme Tribe of Ben-Hur v. Cauble,
+255 U. S. 356, 363 (1921). See also Brief for Constitutional
+Accountability Center as Amicus Curiae 5–16 (describing
+group litigation’s “rich history”). Early instances of joint
+proceedings include cases in which employees allied to sue
+an employer. E.g., Gorley v. Louisville, 23 Ky. 1782, 65 S.
+W. 844 (1901) (suit to recover wages brought by ten mem-
+bers of city police force on behalf of themselves and other
+officers); Guiliano v. Daniel O’Connell’s Sons, 105 Conn.
+695, 136 A. 677 (1927) (suit by two employees to recover
+for injuries sustained while residing in housing provided
+by their employer). It takes no imagination, then, to
+comprehend that Congress, when it enacted the NLRA,
+likely meant to protect employees’ joining together to
+engage in collective litigation.7
+——————
+  7 The Court additionally suggests that something must be amiss be-
+cause the employees turn to the NLRA, rather than the FLSA, to resist
+enforcement of the collective-litigation waivers. See ante, at 14–15.
+But the employees’ reliance on the NLRA is hardly a reason to “raise a
+judicial eyebrow.” Ante, at 15. The NLRA’s guiding purpose is to
+protect employees’ rights to work together when addressing shared
+
+
+                       Cite as: 584 U. S. ____ (2018)                 17
+                          GINSBURG, J., dissenting
+                                     E
+    Because I would hold that employees’ §7 rights include
+the right to pursue collective litigation regarding their
+wages and hours, I would further hold that the employer-
+dictated collective-litigation stoppers, i.e., “waivers,” are
+unlawful. As earlier recounted, see supra, at 6, §8(a)(1)
+makes it an “unfair labor practice” for an employer to
+“interfere with, restrain, or coerce” employees in the exer-
+cise of their §7 rights. 29 U. S. C. §158(a)(1). Beyond
+genuine dispute, an employer “interfere[s] with” and
+“restrain[s]” employees in the exercise of their §7 rights by
+mandating that they prospectively renounce those rights
+in individual employment agreements.8 The law could
+hardly be otherwise: Employees’ rights to band together to
+meet their employers’ superior strength would be worth
+precious little if employers could condition employment on
+workers signing away those rights. See National Licorice
+Co. v. NLRB, 309 U. S. 350, 364 (1940). Properly as-
+sessed, then, the “waivers” rank as unfair labor practices
+outlawed by the NLRA, and therefore unenforceable in
+court. See Kaiser Steel Corp. v. Mullins, 455 U. S. 72, 77
+(1982) (“[O]ur cases leave no doubt that illegal promises
+will not be enforced in cases controlled by the federal
+law.”).9
+——————
+workplace grievances of whatever kind.
+   8 See, e.g., Bethany Medical Center, 328 N. L. R. B. 1094, 1105–1106
+(1999) (holding employer violated §8(a)(1) by conditioning employees’
+rehiring on the surrender of their right to engage in future walkouts);
+Mandel Security Bureau Inc., 202 N. L. R. B. 117, 119, 122 (1973)
+(holding employer violated §8(a)(1) by conditioning employee’s rein-
+statement to former position on agreement that employee would refrain
+from filing charges with the Board and from circulating work-related
+petitions, and, instead, would “mind his own business”).
+   9 I would similarly hold that the NLGA renders the collective-
+litigation waivers unenforceable. That Act declares it the public policy
+of the United States that workers “shall be free from the interference,
+restraint, or coercion of employers” when they engage in “concerted
+
+
+18                  EPIC SYSTEMS CORP. v. LEWIS
+                          GINSBURG, J., dissenting
+                                    II
+   Today’s decision rests largely on the Court’s finding in
+the Arbitration Act “emphatic directions” to enforce arbi-
+tration agreements according to their terms, including
+collective-litigation prohibitions. Ante, at 6. Nothing in
+the FAA or this Court’s case law, however, requires subor-
+dination of the NLRA’s protections. Before addressing the
+——————
+activities” for their “mutual aid or protection.” 29 U. S. C. §102; see
+supra, at 5. Section 3 provides that federal courts shall not enforce any
+“promise in conflict with the [Act’s] policy.” §103. Because employer-
+extracted collective-litigation waivers interfere with employees’ ability
+to engage in “concerted activities” for their “mutual aid or protection,”
+see supra, at 8–11, the arm-twisted waivers collide with the NLGA’s
+stated policy; thus, no federal court should enforce them. See Finkin,
+The Meaning and Contemporary Vitality of the Norris-LaGuardia Act,
+93 Neb. L. Rev. 6 (2014).
+  Boys Markets, Inc. v. Retail Clerks, 398 U. S. 235 (1970), provides no
+support for the Court’s contrary conclusion. See ante, at 16. In Boys
+Markets, an employer and a union had entered into a collective-
+bargaining agreement, which provided that labor disputes would be
+resolved through arbitration and that the union would not engage in
+strikes, pickets, or boycotts during the life of the agreement. 398 U. S.,
+at 238–239. When a dispute later arose, the union bypassed arbitration
+and called a strike. Id., at 239. The question presented: Whether a
+federal district court could enjoin the strike and order the parties to
+arbitrate their dispute. The case required the Court to reconcile the
+NLGA’s limitations on federal courts’ authority to enjoin employees’
+concerted activities, see 29 U. S. C. §104, with §301(a) of the Labor
+Management Relations Act, 1947, which grants federal courts the
+power to enforce collective-bargaining agreements, see 29 U. S. C.
+§185(a). The Court concluded that permitting district courts to enforce
+no-strike and arbitration provisions in collective-bargaining agree-
+ments would encourage employers to enter into such agreements,
+thereby furthering federal labor policy. 398 U. S., at 252–253. That
+case has little relevance here. It did not consider the enforceability of
+arbitration provisions that require employees to arbitrate disputes only
+one-by-one. Nor did it consider the enforceability of arbitration provi-
+sions that an employer has unilaterally imposed on employees, as
+opposed to provisions negotiated through collective-bargaining processes
+in which employees can leverage their collective strength.
+
+
+                   Cite as: 584 U. S. ____ (2018)                19
+                      GINSBURG, J., dissenting
+interaction between the two laws, I briefly recall the FAA’s
+history and the domain for which that Act was designed.
+                                 A
+                                 1
+   Prior to 1925, American courts routinely declined to
+order specific performance of arbitration agreements. See
+Cohen & Dayton, The New Federal Arbitration Law, 12
+Va. L. Rev. 265, 270 (1926). Growing backlogs in the
+courts, which delayed the resolution of commercial dis-
+putes, prompted the business community to seek legisla-
+tion enabling merchants to enter into binding arbitration
+agreements. See id., at 265. The business community’s
+aim was to secure to merchants an expeditious, economical
+means of resolving their disputes. See ibid. The Ameri-
+can Bar Association’s Committee on Commerce, Trade and
+Commercial Law took up the reins in 1921, drafting the
+legislation Congress enacted, with relatively few changes,
+four years later. See Committee on Commerce, Trade &
+Commercial Law, The United States Arbitration Law and
+Its Application, 11 A. B. A. J. 153 (1925).
+   The legislative hearings and debate leading up to the
+FAA’s passage evidence Congress’ aim to enable mer-
+chants of roughly equal bargaining power to enter into
+binding agreements to arbitrate commercial disputes.
+See, e.g., 65 Cong. Rec. 11080 (1924) (remarks of Rep.
+Mills) (“This bill provides that where there are commercial
+contracts and there is disagreement under the contract,
+the court can [en]force an arbitration agreement in the
+same way as other portions of the contract.”); Joint Hear-
+ings on S. 1005 and H. R. 646 before the Subcommittees of
+the Committees on the Judiciary, 68th Cong., 1st Sess.
+(1924) (Joint Hearings) (consistently focusing on the need
+for binding arbitration of commercial disputes).10
+——————
+  10 American Bar Association member Julius H. Cohen, credited with
+
+
+20                  EPIC SYSTEMS CORP. v. LEWIS
+                         GINSBURG, J., dissenting
+   The FAA’s legislative history also shows that Congress
+did not intend the statute to apply to arbitration provi-
+sions in employment contracts. In brief, when the legisla-
+tion was introduced, organized labor voiced concern. See
+Hearing on S. 4213 and S. 4214 before the Subcommittee
+of the Senate Committee on the Judiciary, 67th Cong., 4th
+Sess., 9 (1923) (Hearing). Herbert Hoover, then Secretary
+of Commerce, suggested that if there were “objection[s]” to
+including “workers’ contracts in the law’s scheme,” Con-
+gress could amend the legislation to say: “but nothing
+herein contained shall apply to contracts of employment of
+seamen, railroad employees, or any other class of workers
+engaged in interstate or foreign commerce.” Id., at 14.
+Congress adopted Secretary Hoover’s suggestion virtually
+verbatim in §1 of the Act, see Joint Hearings 2; 9 U. S. C.
+§1, and labor expressed no further opposition, see H. R.
+Rep. No. 96, 68th Cong., 1st Sess., 1 (1924).11
+   Congress, it bears repetition, envisioned application of
+the Arbitration Act to voluntary, negotiated agreements.
+See, e.g., 65 Cong. Rec. 1931 (remarks of Rep. Graham)
+(the FAA provides an “opportunity to enforce . . . an
+agreement to arbitrate, when voluntarily placed in the
+——————
+drafting the legislation, wrote shortly after the FAA’s passage that the
+law was designed to provide a means of dispute resolution “particularly
+adapted to the settlement of commercial disputes.” Cohen & Dayton,
+The New Federal Arbitration Law, 12 Va. L. Rev. 265, 279 (1926).
+Arbitration, he and a colleague explained, is “peculiarly suited to the
+disposition of the ordinary disputes between merchants as to questions
+of fact—quantity, quality, time of delivery, compliance with terms of
+payment, excuses for non-performance, and the like.” Id., at 281. “It
+has a place also,” they noted, “in the determination of the simpler
+questions of law” that “arise out of th[e] daily relations between mer-
+chants, [for example,] the passage of title, [and] the existence of war-
+ranties.” Ibid.
+  11 For fuller discussion of Congress’ intent to exclude employment
+contracts from the FAA’s scope, see Circuit City Stores, Inc. v. Adams,
+532 U. S. 105, 124–129 (2001) (Stevens, J., dissenting).
+
+
+                    Cite as: 584 U. S. ____ (2018)        21
+                       GINSBURG, J., dissenting
+document by the parties to it”). Congress never endorsed
+a policy favoring arbitration where one party sets the
+terms of an agreement while the other is left to “take it or
+leave it.” Hearing 9 (remarks of Sen. Walsh) (internal
+quotation marks omitted); see Prima Paint Corp. v. Flood
+& Conklin Mfg. Co., 388 U. S. 395, 403, n. 9 (1967) (“We
+note that categories of contracts otherwise within the
+Arbitration Act but in which one of the parties character-
+istically has little bargaining power are expressly excluded
+from the reach of the Act. See §1.”).
+                                  2
+   In recent decades, this Court has veered away from
+Congress’ intent simply to afford merchants a speedy and
+economical means of resolving commercial disputes. See
+Sternlight, Panacea or Corporate Tool?: Debunking the
+Supreme Court’s Preference for Binding Arbitration, 74
+Wash. U. L. Q. 637, 644–674 (1996) (tracing the Court’s
+evolving interpretation of the FAA’s scope). In 1983, the
+Court declared, for the first time in the FAA’s then 58-
+year history, that the FAA evinces a “liberal federal policy
+favoring arbitration.” Moses H. Cone Memorial Hospital v.
+Mercury Constr. Corp., 460 U. S. 1, 24 (1983) (involving an
+arbitration agreement between a hospital and a construc-
+tion contractor). Soon thereafter, the Court ruled, in a
+series of cases, that the FAA requires enforcement of
+agreements to arbitrate not only contract claims, but
+statutory claims as well. E.g., Mitsubishi Motors Corp. v.
+Soler Chrysler-Plymouth, Inc., 473 U. S. 614 (1985);
+Shearson/American Express Inc. v. McMahon, 482 U. S.
+220 (1987). Further, in 1991, the Court concluded in
+Gilmer v. Interstate/Johnson Lane Corp., 500 U. S. 20, 23
+(1991), that the FAA requires enforcement of agreements
+to arbitrate claims arising under the Age Discrimination
+in Employment Act of 1967, a workplace antidiscrimina-
+tion statute. Then, in 2001, the Court ruled in Circuit City
+
+
+22                 EPIC SYSTEMS CORP. v. LEWIS
+                        GINSBURG, J., dissenting
+Stores, Inc. v. Adams, 532 U. S. 105, 109 (2001), that the
+Arbitration Act’s exemption for employment contracts
+should be construed narrowly, to exclude from the Act’s
+scope only transportation workers’ contracts.
+   Employers have availed themselves of the opportunity
+opened by court decisions expansively interpreting the
+Arbitration Act.         Few employers imposed arbitration
+agreements on their employees in the early 1990’s. After
+Gilmer and Circuit City, however, employers’ exaction of
+arbitration clauses in employment contracts grew steadily.
+See, e.g., Economic Policy Institute (EPI), A. Colvin, The
+Growing Use of Mandatory Arbitration 1–2, 4 (Sept. 27,
+2017), available at https://www.epi.org/files/pdf/135056.pdf
+(All Internet materials as visited May 18, 2018) (data
+indicate only 2.1% of nonunionized companies imposed
+mandatory arbitration agreements on their employees in
+1992, but 53.9% do today). Moreover, in response to sub-
+sequent decisions addressing class arbitration,12 employ-
+ers have increasingly included in their arbitration agree-
+ments express group-action waivers. See Ruan 1129;
+——————
+  12 In Green Tree Financial Corp. v. Bazzle, 539 U. S. 444 (2003), a
+plurality suggested arbitration might proceed on a class basis where
+not expressly precluded by an agreement. After Bazzle, companies
+increasingly placed explicit collective-litigation waivers in consumer
+and employee arbitration agreements. See Gilles, Opting Out of
+Liability: The Forthcoming, Near-Total Demise of the Modern Class
+Action, 104 Mich. L. Rev. 373, 409–410 (2005). In AT&T Mobility LLC
+v. Concepcion, 563 U. S. 333 (2011), and American Express Co. v.
+Italian Colors Restaurant, 570 U. S. 228 (2013), the Court held enforce-
+able class-action waivers in the arbitration agreements at issue in those
+cases. No surprise, the number of companies incorporating express
+class-action waivers in consumer and employee arbitration agreements
+spiked. See 2017 Carlton Fields Class Action Survey: Best Practices in
+Reducing Cost and Managing Risk in Class Action Litigation 29 (2017),
+available at https://www.classactionsurvey.com/pdf/2017-class-action-
+survey.pdf (reporting that 16.1% of surveyed companies’ arbitration
+agreements expressly precluded class actions in 2012, but 30.2% did so
+in 2016).
+
+
+                    Cite as: 584 U. S. ____ (2018)          23
+                       GINSBURG, J., dissenting
+Colvin, supra, at 6 (estimating that 23.1% of nonunionized
+employees are now subject to express class-action waivers
+in mandatory arbitration agreements). It is, therefore,
+this Court’s exorbitant application of the FAA—stretching
+it far beyond contractual disputes between merchants—
+that led the NLRB to confront, for the first time in 2012,
+the precise question whether employers can use arbitra-
+tion agreements to insulate themselves from collective
+employment litigation. See D. R. Horton, 357 N. L. R. B.
+2277 (2012), enf. denied in relevant part, 737 F. 3d 344
+(CA5 2013). Compare ante, at 3–4 (suggesting the Board
+broke new ground in 2012 when it concluded that the
+NLRA prohibits employer-imposed arbitration agreements
+that mandate individual arbitration) with supra, at 10–11
+(NLRB decisions recognizing a §7 right to engage in collec-
+tive employment litigation), and supra, at 17, n. 8 (NLRB
+decisions finding employer-dictated waivers of §7 rights
+unlawful).
+    As I see it, in relatively recent years, the Court’s Arbi-
+tration Act decisions have taken many wrong turns. Yet,
+even accepting the Court’s decisions as they are, nothing
+compels the destructive result the Court reaches today.
+Cf. R. Bork, The Tempting of America 169 (1990) (“Judges
+. . . live on the slippery slope of analogies; they are not
+supposed to ski it to the bottom.”).
+                                  B
+    Through the Arbitration Act, Congress sought “to make
+arbitration agreements as enforceable as other contracts,
+but not more so.” Prima Paint, 388 U. S., at 404, n. 12.
+Congress thus provided in §2 of the FAA that the terms of
+a written arbitration agreement “shall be valid, irrevoca-
+ble, and enforceable, save upon such grounds as exist at
+law or in equity for the revocation of any contract.” 9
+U. S. C. §2 (emphasis added). Pursuant to this “saving
+clause,” arbitration agreements and terms may be invali-
+
+
+24               EPIC SYSTEMS CORP. v. LEWIS
+                      GINSBURG, J., dissenting
+dated based on “generally applicable contract defenses,
+such as fraud, duress, or unconscionability.” Doctor’s
+Associates, Inc. v. Casarotto, 517 U. S. 681, 687 (1996); see
+ante, at 7.
+   Illegality is a traditional, generally applicable contract
+defense. See 5 R. Lord, Williston on Contracts §12.1 (4th ed.
+2009). “[A]uthorities from the earliest time to the present
+unanimously hold that no court will lend its assistance in
+any way towards carrying out the terms of an illegal con-
+tract.” Kaiser Steel, 455 U. S., at 77 (quoting McMullen v.
+Hoffman, 174 U. S. 639, 654 (1899)). For the reasons
+stated supra, at 8–17, I would hold that the arbitration
+agreements’ employer-dictated collective-litigation waivers
+are unlawful. By declining to enforce those adhesive
+waivers, courts would place them on the same footing as
+any other contract provision incompatible with controlling
+federal law. The FAA’s saving clause can thus achieve
+harmonization of the FAA and the NLRA without under-
+mining federal labor policy.
+   The Court urges that our case law—most forcibly, AT&T
+Mobility LLC v. Concepcion, 563 U. S. 333 (2011)—rules
+out reconciliation of the NLRA and the FAA through the
+latter’s saving clause. See ante, at 6–9. I disagree. True,
+the Court’s Arbitration Act decisions establish that the
+saving clause “offers no refuge” for defenses that discrimi-
+nate against arbitration, “either by name or by more
+subtle methods.” Ante, at 7. The Court, therefore, has
+rejected saving clause salvage where state courts have
+invoked generally applicable contract defenses to discrim-
+inate “covertly” against arbitration. Kindred Nursing
+Centers L. P. v. Clark, 581 U. S. ___, ___ (2017) (slip op., at
+5). In Concepcion, the Court held that the saving clause
+did not spare the California Supreme Court’s invocation of
+unconscionability doctrine to establish a rule blocking
+enforcement of class-action waivers in adhesive consumer
+contracts. 563 U. S., at 341–344, 346–352. Class proceed-
+
+
+                  Cite as: 584 U. S. ____ (2018)             25
+                     GINSBURG, J., dissenting
+ings, the Court said, would “sacrific[e] the principal ad-
+vantage of arbitration—its informality—and mak[e] the
+process slower, more costly, and more likely to generate
+procedural morass than final judgment.” Id., at 348.
+Accordingly, the Court concluded, the California Supreme
+Court’s rule, though derived from unconscionability doc-
+trine, impermissibly disfavored arbitration, and therefore
+could not stand. Id., at 346–352.
+   Here, however, the Court is not asked to apply a gener-
+ally applicable contract defense to generate a rule discrim-
+inating against arbitration. At issue is application of the
+ordinarily superseding rule that “illegal promises will not
+be enforced,” Kaiser Steel, 455 U. S., at 77, to invalidate
+arbitration provisions at odds with the NLRA, a path-
+marking federal statute. That statute neither discrimi-
+nates against arbitration on its face, nor by covert opera-
+tion. It requires invalidation of all employer-imposed
+contractual provisions prospectively waiving employees’ §7
+rights. See supra, at 17, and n. 8; cf. Kindred Nursing
+Centers, 581 U. S., at ___, n. 2 (slip op., at 7, n. 2) (States
+may enforce generally applicable rules so long as they do
+not “single out arbitration” for disfavored treatment).
+                                C
+   Even assuming that the FAA and the NLRA were in-
+harmonious, the NLRA should control. Enacted later in
+time, the NLRA should qualify as “an implied repeal” of
+the FAA, to the extent of any genuine conflict. See Posa-
+das v. National City Bank, 296 U. S. 497, 503 (1936).
+Moreover, the NLRA should prevail as the more pinpointed,
+subject-matter specific legislation, given that it speaks
+directly to group action by employees to improve the terms
+and conditions of their employment. See Radzanower v.
+Touche Ross & Co., 426 U. S. 148, 153 (1976) (“a specific
+statute” generally “will not be controlled or nullified by a
+
+
+26                  EPIC SYSTEMS CORP. v. LEWIS
+                         GINSBURG, J., dissenting
+general one” (internal quotation marks omitted)).13
+   Citing statutory examples, the Court asserts that when
+Congress wants to override the FAA, it does so expressly.
+See ante, at 13–14. The statutes the Court cites, however,
+are of recent vintage.14 Each was enacted during the time
+this Court’s decisions increasingly alerted Congress that it
+would be wise to leave not the slightest room for doubt if it
+wants to secure access to a judicial forum or to provide a
+green light for group litigation before an arbitrator or
+court. See CompuCredit Corp. v. Greenwood, 565 U. S. 95,
+116 (2012) (GINSBURG, J., dissenting). The Congress that
+drafted the NLRA in 1935 was scarcely on similar alert.
+                                      III
+   The inevitable result of today’s decision will be the
+underenforcement of federal and state statutes designed to
+advance the well-being of vulnerable workers. See gener-
+ally Sternlight, Disarming Employees: How American
+Employers Are Using Mandatory Arbitration To Deprive
+Workers of Legal Protections, 80 Brooklyn L. Rev. 1309
+(2015).
+   The probable impact on wage and hours claims of the
+kind asserted in the cases now before the Court is all too
+evident. Violations of minimum-wage and overtime laws
+are widespread. See Ruan 1109–1111; A. Bernhardt et al.,
+Broken Laws, Unprotected Workers: Violations of Em-
+ployment and Labor Laws in America’s Cities 11–16, 21–
+22 (2009). One study estimated that in Chicago, Los
+——————
+  13 Enacted, as was the NLRA, after passage of the FAA, the NLGA
+also qualifies as a statute more specific than the FAA. Indeed, the
+NLGA expressly addresses the enforceability of contract provisions that
+interfere with employees’ ability to engage in concerted activities. See
+supra, at 17, n. 9. Moreover, the NLGA contains an express repeal
+provision, which provides that “[a]ll acts and parts of acts in conflict
+with [the Act’s] provisions . . . are repealed.” 29 U. S. C. §115.
+  14 See 116 Stat. 1836 (2002); 120 Stat. 2267 (2006); 124 Stat. 1746
+(2010); 124 Stat. 2035 (2010).
+
+
+                  Cite as: 584 U. S. ____ (2018)          27
+                     GINSBURG, J., dissenting
+Angeles, and New York City alone, low-wage workers lose
+nearly $3 billion in legally owed wages each year. Id., at
+6. The U. S. Department of Labor, state labor depart-
+ments, and state attorneys general can uncover and obtain
+recoveries for some violations. See EPI, B. Meixell & R.
+Eisenbrey, An Epidemic of Wage Theft Is Costing Workers
+Hundreds of Millions of Dollars a Year 2 (2014), available
+at https://www.epi.org/files/2014/wage-theft.pdf. Because
+of their limited resources, however, government agencies
+must rely on private parties to take a lead role in enforc-
+ing wage and hours laws. See Brief for State of Maryland
+et al. as Amici Curiae 29–33; Glover, The Structural Role
+of Private Enforcement Mechanisms in Public Law, 53
+Wm. & Mary L. Rev. 1137, 1150–1151 (2012) (Department
+of Labor investigates fewer than 1% of FLSA-covered
+employers each year).
+   If employers can stave off collective employment litiga-
+tion aimed at obtaining redress for wage and hours infrac-
+tions, the enforcement gap is almost certain to widen.
+Expenses entailed in mounting individual claims will often
+far outweigh potential recoveries. See id., at 1184–1185
+(because “the FLSA systematically tends to generate low-
+value claims,” “mechanisms that facilitate the economics
+of claiming are required”); Sutherland v. Ernst & Young
+LLP, 768 F. Supp. 2d 547, 552 (SDNY 2011) (finding that
+an employee utilizing Ernst & Young’s arbitration pro-
+gram would likely have to spend $200,000 to recover only
+$1,867.02 in overtime pay and an equivalent amount in
+liquidated damages); cf. Resnik, Diffusing Disputes: The
+Public in the Private of Arbitration, the Private in Courts,
+and the Erasure of Rights, 124 Yale L. J. 2804, 2904
+(2015) (analyzing available data from the consumer con-
+text to conclude that “private enforcement of small-value
+claims depends on collective, rather than individual, ac-
+tion”); Amchem Products, Inc. v. Windsor, 521 U. S. 591,
+617 (1997) (class actions help “overcome the problem that
+
+
+28                 EPIC SYSTEMS CORP. v. LEWIS
+                         GINSBURG, J., dissenting
+small recoveries do not provide the incentive for any indi-
+vidual to bring a solo action prosecuting his or her rights”
+(internal quotation marks omitted)).15
+    Fear of retaliation may also deter potential claimants
+from seeking redress alone. See, e.g., Ruan 1119–1121;
+Bernhardt, supra, at 3, 24–25. Further inhibiting single-
+file claims is the slim relief obtainable, even of the injunc-
+tive kind. See Califano v. Yamasaki, 442 U. S. 682, 702
+(1979) (“[T]he scope of injunctive relief is dictated by the
+extent of the violation established.”). The upshot: Em-
+ployers, aware that employees will be disinclined to pur-
+sue small-value claims when confined to proceeding one-
+by-one, will no doubt perceive that the cost-benefit balance
+of underpaying workers tips heavily in favor of skirting
+legal obligations.
+    In stark contrast to today’s decision,16 the Court has
+repeatedly recognized the centrality of group action to the
+effective enforcement of antidiscrimination statutes. With
+Court approbation, concerted legal actions have played a
+critical role in enforcing prohibitions against workplace
+discrimination based on race, sex, and other protected
+characteristics. See, e.g., Griggs v. Duke Power Co., 401
+U. S. 424 (1971); Automobile Workers v. Johnson Controls,
+Inc., 499 U. S. 187 (1991). In this context, the Court has
+comprehended that government entities charged with
+enforcing antidiscrimination statutes are unlikely to be
+funded at levels that could even begin to compensate for a
+significant dropoff in private enforcement efforts. See
+——————
+   15 Based on a 2015 study, the Bureau of Consumer Financial Protec-
+tion found that “pre-dispute arbitration agreements are being widely
+used to prevent consumers from seeking relief from legal violations on a
+class basis, and that consumers rarely file individual lawsuits or
+arbitration cases to obtain such relief.” 82 Fed. Reg. 33210 (2017).
+   16 The Court observes that class actions can be abused, see ante, at
+24, but under its interpretation, even two employees would be stopped
+from proceeding together.
+
+
+                   Cite as: 584 U. S. ____ (2018)          29
+                      GINSBURG, J., dissenting
+Newman v. Piggie Park Enterprises, Inc., 390 U. S. 400,
+401 (1968) (per curiam) (“When the Civil Rights Act of
+1964 was passed, it was evident that enforcement would
+prove difficult and that the Nation would have to rely in
+part upon private litigation as a means of securing broad
+compliance with the law.”). That reality, as just noted,
+holds true for enforcement of wage and hours laws. See
+supra, at 27.
+   I do not read the Court’s opinion to place in jeopardy
+discrimination complaints asserting disparate-impact and
+pattern-or-practice claims that call for proof on a group-
+wide basis, see Brief for NAACP Legal Defense & Educa-
+tional Fund, Inc., et al. as Amici Curiae 19–25, which
+some courts have concluded cannot be maintained by solo
+complainants, see, e.g., Chin v. Port Auth. of N. Y. & N. J.,
+685 F. 3d 135, 147 (CA2 2012) (pattern-or-practice method
+of proving race discrimination is unavailable in non-class
+actions). It would be grossly exorbitant to read the FAA to
+devastate Title VII of the Civil Rights Act of 1964, 42
+U. S. C. §2000e et seq., and other laws enacted to elimi-
+nate, root and branch, class-based employment discrimi-
+nation, see Albemarle Paper Co. v. Moody, 422 U. S. 405,
+417, 421 (1975). With fidelity to the Legislature’s will, the
+Court could hardly hold otherwise.
+   I note, finally, that individual arbitration of employee
+complaints can give rise to anomalous results. Arbitration
+agreements often include provisions requiring that out-
+comes be kept confidential or barring arbitrators from
+giving prior proceedings precedential effect. See, e.g., App.
+to Pet. for Cert. in No. 16–285, p. 34a (Epic’s agreement);
+App. in No. 16–300, p. 46 (Ernst & Young’s agreement).
+As a result, arbitrators may render conflicting awards in
+cases involving similarly situated employees—even em-
+ployees working for the same employer. Arbitrators may
+resolve differently such questions as whether certain jobs
+are exempt from overtime laws. Cf. Encino Motor Cars,
+
+
+30               EPIC SYSTEMS CORP. v. LEWIS
+                     GINSBURG, J., dissenting
+LLC v. Navarro, ante, p. ___ (Court divides on whether
+“service advisors” are exempt from overtime-pay require-
+ments). With confidentiality and no-precedential-value
+provisions operative, irreconcilable answers would remain
+unchecked.
+                         *     *       *
+   If these untoward consequences stemmed from legisla-
+tive choices, I would be obliged to accede to them. But the
+edict that employees with wage and hours claims may
+seek relief only one-by-one does not come from Congress.
+It is the result of take-it-or-leave-it labor contracts hark-
+ing back to the type called “yellow dog,” and of the readi-
+ness of this Court to enforce those unbargained-for agree-
+ments. The FAA demands no such suppression of the
+right of workers to take concerted action for their “mutual
+aid or protection.” Accordingly, I would reverse the judg-
+ment of the Fifth Circuit in No. 16–307 and affirm the
+judgments of the Seventh and Ninth Circuits in Nos. 16–
+285 and 16–300.

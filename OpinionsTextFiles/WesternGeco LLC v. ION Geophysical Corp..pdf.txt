@@ -1,0 +1,840 @@
+(Slip Opinion)                OCTOBER TERM, 2017                                    1
+                                         Syllabus
+          NOTE: Where it is feasible, a syllabus (headnote) will be released, as is
+        being done in connection with this case, at the time the opinion is issued.
+        The syllabus constitutes no part of the opinion of the Court but has been
+        prepared by the Reporter of Decisions for the convenience of the reader.
+        See United States v. Detroit Timber & Lumber Co., 200 U. S. 321, 337.
+SUPREME COURT OF THE UNITED STATES
+                                         Syllabus
+    WESTERNGECO LLC v. ION GEOPHYSICAL CORP.
+ CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR
+                              THE FEDERAL CIRCUIT
+       No. 16–1011. Argued April 16, 2018—Decided June 22, 2018
+Petitioner WesternGeco LLC owns patents for a system used to survey
+   the ocean floor. Respondent ION Geophysical Corp. began selling a
+   competing system that was built from components manufactured in
+   the United States, shipped to companies abroad, and assembled there
+   into a system indistinguishable from WesternGeco’s. WesternGeco
+   sued for patent infringement under 35 U. S. C. §§271(f)(1) and (f)(2).
+   The jury found ION liable and awarded WesternGeco damages in
+   royalties and lost profits under §284. ION moved to set aside the
+   verdict, arguing that WesternGeco could not recover damages for lost
+   profits because §271(f) does not apply extraterritorially. The District
+   Court denied the motion, but the Federal Circuit reversed. ION was
+   liable for infringement under §271(f)(2), the court reasoned, but
+   §271(f) does not allow patent owners to recover for lost foreign profits
+   On remand from this Court in light of Halo Electronics, Inc. v. Pulse
+   Electronics, Inc., 579 U. S. ____, the Federal Circuit reinstated the
+   portion of its decision regarding §271(f)’s extraterritoriality.
+Held: WesternGeco’s award for lost profits was a permissible domestic
+   application of §284 of the Patent Act. Pp. 4–10.
+      (a) The presumption against extraterritoriality assumes that fed-
+   eral statutes “apply only within the territorial jurisdiction of the
+   United States.” Foley Bros., Inc. v. Filardo, 336 U. S. 281, 285. The
+   two-step framework for deciding extraterritoriality questions asks,
+   first, “whether the presumption . . . has been rebutted.” RJR
+   Nabisco, Inc. v. European Community, 579 U. S. ___, ___. If not, the
+   second step asks “whether the case involves a domestic application of
+   the statute.” Id., at ___. Courts make the second determination by
+   identifying “the statute’s ‘focus’ ” and then asking whether the con-
+   duct relevant to that focus occurred in United States territory. Ibid.
+
+
+2          WESTERNGECO LLC v. ION GEOPHYSICAL CORP.
+                                   Syllabus
+   If so, the case involves a permissible domestic application of the stat-
+   ute. It is “usually . . . preferable” to begin with step one, but courts
+   have the discretion to begin with step two “in appropriate cases.” Id.,
+   at ___, n. 5. The Court exercises that discretion here. Pp. 4–5.
+      (b) When determining “the statute’s ‘focus’ ”—i.e., “the objec[t] of
+   [its] solicitude,” Morrison v. National Australia Bank Ltd., 561 U. S.
+   247, 267—the provision at issue is not analyzed in a vacuum. If it
+   works in tandem with other provisions, it must be assessed in concert
+   with those provisions. Section 284, the Patent Act’s general damages
+   provision, states that “the court shall award the claimant damages
+   adequate to compensate for the infringement.” The focus of that pro-
+   vision is “the infringement.” The “overriding purpose” of §284 is to
+   “affor[d] patent owners complete compensation” for infringements.
+   General Motors Corp. v. Devex Corp., 461 U. S. 648, 655. Section 271
+   identifies several ways that a patent can be infringed. Thus, to de-
+   termine §284’s focus in a given case, the type of infringement that oc-
+   curred must be identified. Here, §271(f)(2) was the basis for West-
+   ernGeco’s infringement claim and the lost-profits damages that it
+   received. That provision regulates the domestic act of “suppl[ying] in
+   or from the United States,” and this Court has acknowledged that it
+   vindicates domestic interests, see, e.g., Microsoft Corp. v. AT&T
+   Corp., 550 U. S. 437, 457. In sum, the focus of §284 in a case involv-
+   ing infringement under §271(f)(2) is on the act of exporting compo-
+   nents from the United States. So the conduct in this case that is rel-
+   evant to the statutory focus clearly occurred in the United States.
+   Pp. 5–8.
+      (c) ION’s contrary arguments are unpersuasive. The award of
+   damages is not the statutory focus here. The damages themselves
+   are merely the means by which the statute achieves its end of reme-
+   dying infringements, and the overseas events giving rise to the lost-
+   profit damages here were merely incidental to the infringement. In
+   asserting that damages awards for foreign injuries are always an ex-
+   traterritorial application of a damages provision, ION misreads a
+   portion of RJR Nabisco that interpreted a substantive element of a
+   cause of action, not a remedial damages provision. See 579 U. S., at
+   ___. Pp. 8–9.
+ 837 F. 3d 1358, reversed and remanded.
+   THOMAS, J., delivered the opinion of the Court, in which ROBERTS,
+C. J., and KENNEDY, GINSBURG, ALITO, SOTOMAYOR, and KAGAN, JJ.,
+joined. GORSUCH, J., filed a dissenting opinion, in which, BREYER, J.,
+joined.
+
+
+                        Cite as: 585 U. S. ____ (2018)                            1
+                              Opinion of the Court
+     NOTICE: This opinion is subject to formal revision before publication in the
+     preliminary print of the United States Reports. Readers are requested to
+     notify the Reporter of Decisions, Supreme Court of the United States, Wash-
+     ington, D. C. 20543, of any typographical or other formal errors, in order
+     that corrections may be made before the preliminary print goes to press.
+SUPREME COURT OF THE UNITED STATES
+                                    _________________
+                                    No. 16–1011
+                                    _________________
+            WESTERNGECO LLC, PETITIONER v.
+              ION GEOPHYSICAL CORPORATION
+ ON WRIT OF CERTIORARI TO THE UNITED STATES COURT OF
+                APPEALS FOR THE FEDERAL CIRCUIT
+                                  [June 22, 2018]
+  JUSTICE THOMAS delivered the opinion of the Court.
+  Under the Patent Act, a company can be liable for pa-
+tent infringement if it ships components of a patented
+invention overseas to be assembled there. See 35 U. S. C.
+§271(f )(2). A patent owner who proves infringement
+under this provision is entitled to recover damages. §284.
+The question in this case is whether these statutes allow
+the patent owner to recover for lost foreign profits. We
+hold that they do.
+                                            I
+  The Patent Act gives patent owners a “civil action for
+infringement.” §281. Section 271 outlines several types
+of infringement. The general infringement provision,
+§271(a), covers most infringements that occur “within the
+United States.” The subsection at issue in this case,
+§271(f ), “expands the definition of infringement to include
+supplying from the United States a patented invention’s
+components.” Microsoft Corp. v. AT&T Corp., 550 U. S.
+437, 444–445 (2007). It contains two provisions that
+“work in tandem” by addressing “different scenarios.” Life
+Technologies Corp. v. Promega Corp., 580 U. S. ___, ___
+
+
+2       WESTERNGECO LLC v. ION GEOPHYSICAL CORP.
+                       Opinion of the Court
+(2017) (slip op., at 9). Section 271(f )(1) addresses the
+act of exporting a substantial portion of an invention’s
+components:
+     “Whoever without authority supplies or causes to be
+     supplied in or from the United States all or a substan-
+     tial portion of the components of a patented invention,
+     where such components are uncombined in whole or
+     in part, in such manner as to actively induce the com-
+     bination of such components outside of the United
+     States in a manner that would infringe the patent if
+     such combination occurred within the United States,
+     shall be liable as an infringer.”
+Section 271(f )(2), the provision at issue here, addresses
+the act of exporting components that are specially adapted
+for an invention:
+     “Whoever without authority supplies or causes to be
+     supplied in or from the United States any component
+     of a patented invention that is especially made or es-
+     pecially adapted for use in the invention and not a
+     staple article or commodity of commerce suitable for
+     substantial noninfringing use, where such component
+     is uncombined in whole or in part, knowing that such
+     component is so made or adapted and intending that
+     such component will be combined outside of the United
+     States in a manner that would infringe the patent if
+     such combination occurred within the United States,
+     shall be liable as an infringer.”
+Patent owners who prove infringement under §271 are
+entitled to relief under §284, which authorizes “damages
+adequate to compensate for the infringement, but in no
+event less than a reasonable royalty for the use made of
+the invention by the infringer.”
+                                II
+  Petitioner WesternGeco LLC owns four patents relating
+
+
+                     Cite as: 585 U. S. ____ (2018)                   3
+                          Opinion of the Court
+to a system that it developed for surveying the ocean floor.
+The system uses lateral-steering technology to produce
+higher quality data than previous survey systems. Western-
+Geco does not sell its technology or license it to compet-
+itors. Instead, it uses the technology itself, performing
+surveys for oil and gas companies. For several years,
+WesternGeco was the only surveyor that used such
+lateral-steering technology.
+   In late 2007, respondent ION Geophysical Corporation
+began selling a competing system. It manufactured the
+components for its competing system in the United States
+and then shipped them to companies abroad. Those com-
+panies combined the components to create a surveying
+system indistinguishable from WesternGeco’s and used
+the system to compete with WesternGeco.
+   WesternGeco sued for patent infringement under
+§§271(f )(1) and (f )(2). At trial, WesternGeco proved that it
+had lost 10 specific survey contracts due to ION’s in-
+fringement. The jury found ION liable and awarded
+WesternGeco damages of $12.5 million in royalties and
+$93.4 million in lost profits. ION filed a post-trial motion
+to set aside the verdict, arguing that WesternGeco could
+not recover damages for lost profits because §271(f ) does
+not apply extraterritorially. The District Court denied the
+motion. 953 F. Supp. 2d 731, 755–756 (SD Tex. 2013).
+   On appeal, the Court of Appeals for the Federal Circuit
+reversed the award of lost-profits damages. WesternGeco
+LLC v. ION Geophysical Corp., 791 F. 3d 1340, 1343
+(2015).1 The Federal Circuit had previously held that
+§271(a), the general infringement provision, does not allow
+patent owners to recover for lost foreign sales. See id., at
+1350–1351 (citing Power Integrations, Inc. v. Fairchild
+——————
+  1 The Federal Circuit held that ION was liable for infringement under
+§271(f )(2). WesternGeco, 791 F. 3d, at 1347–1349. It did not address
+whether ION was liable under §271(f )(1). Id., at 1348.
+
+
+4       WESTERNGECO LLC v. ION GEOPHYSICAL CORP.
+                      Opinion of the Court
+Semiconductor Int’l, Inc., 711 F. 3d 1348 (CA Fed. 2013)).
+Section 271(f ) should be interpreted the same way, the
+Federal Circuit reasoned, because it was “designed” to put
+patent infringers “in a similar position.” WesternGeco, 791
+F. 3d, at 1351. Judge Wallach dissented. See id., at 1354–
+1364. WesternGeco petitioned for review in this Court.
+We granted the petition, vacated the Federal Circuit’s
+judgment, and remanded for further consideration in light
+of our decision in Halo Electronics, Inc. v. Pulse Electron-
+ics, Inc., 579 U. S. ___ (2016). WesternGeco LLC v. ION
+Geophysical Corp., 579 U. S. ___ (2016).
+   On remand, the panel majority reinstated the portion of
+its decision regarding the extraterritoriality of §271(f).
+837 F. 3d 1358, 1361, 1364 (CA Fed. 2016). Judge Wallach
+dissented again, id., at 1364–1369, and we granted certio-
+rari again, 583 U. S. ___ (2018). We now reverse.
+                              III
+   Courts presume that federal statutes “apply only within
+the territorial jurisdiction of the United States.” Foley
+Bros., Inc. v. Filardo, 336 U. S. 281, 285 (1949). This
+principle, commonly called the presumption against extra-
+territoriality, has deep roots. See A. Scalia & B. Garner,
+Reading Law: The Interpretation of Legal Texts §43, p.
+268 (2012) (tracing it to the medieval maxim Statuta suo
+clauduntur territorio, nec ultra territorium disponunt);
+e.g., United States v. Palmer, 3 Wheat. 610, 631 (1818)
+(Marshall, C. J.) (“[G]eneral words must . . . be limited to
+cases within the jurisdiction of the state”). The presump-
+tion rests on “the commonsense notion that Congress
+generally legislates with domestic concerns in mind.”
+Smith v. United States, 507 U. S. 197, 204, n. 5 (1993).
+And it prevents “unintended clashes between our laws and
+those of other nations which could result in international
+discord.” EEOC v. Arabian American Oil Co., 499 U. S.
+244, 248 (1991).
+
+
+                   Cite as: 585 U. S. ____ (2018)           5
+                        Opinion of the Court
+  This Court has established a two-step framework for
+deciding questions of extraterritoriality. The first step
+asks “whether the presumption against extraterritoriality
+has been rebutted.” RJR Nabisco, Inc. v. European Com-
+munity, 579 U. S. ___, ___ (2016) (slip op., at 9). It can be
+rebutted only if the text provides a “clear indication of an
+extraterritorial application.” Morrison v. National Aus-
+tralia Bank Ltd., 561 U. S. 247, 255 (2010). If the pre-
+sumption against extraterritoriality has not been rebut-
+ted, the second step of our framework asks “whether the
+case involves a domestic application of the statute.” RJR
+Nabisco, 579 U. S., at ___ (slip op., at 9). Courts make this
+determination by identifying “the statute’s ‘focus’ ” and
+asking whether the conduct relevant to that focus occurred
+in United States territory. Ibid. If it did, then the case
+involves a permissible domestic application of the statute.
+See ibid.
+  We resolve this case at step two. While “it will usually
+be preferable” to begin with step one, courts have the
+discretion to begin at step two “in appropriate cases.” See
+id., at ___, n. 5 (slip op., at 10, n. 5) (citing Pearson v.
+Callahan, 555 U. S. 223, 236–243 (2009)). One reason to
+exercise that discretion is if addressing step one would
+require resolving “difficult questions” that do not change
+“the outcome of the case,” but could have far-reaching
+effects in future cases. See id., at 236–237. That is true
+here. WesternGeco argues that the presumption against
+extraterritoriality should never apply to statutes, such as
+§284, that merely provide a general damages remedy for
+conduct that Congress has declared unlawful. Resolving
+that question could implicate many other statutes besides
+the Patent Act. We therefore exercise our discretion to
+forgo the first step of our extraterritoriality framework.
+                                 A
+  Under the second step of our framework, we must iden-
+
+
+6       WESTERNGECO LLC v. ION GEOPHYSICAL CORP.
+                        Opinion of the Court
+tify “the statute’s ‘focus.’ ” RJR Nabisco, supra, at ___ (slip
+op., at 9). The focus of a statute is “the objec[t] of [its]
+solicitude,” which can include the conduct it “seeks to
+‘regulate,’ ” as well as the parties and interests it “seeks to
+‘protec[t]’ ” or vindicate. Morrison, supra, at 267 (quoting
+Superintendent of Ins. of N. Y. v. Bankers Life & Casualty
+Co., 404 U. S. 6, 12, 10 (1971)). “If the conduct relevant to
+the statute’s focus occurred in the United States, then the
+case involves a permissible domestic application” of the
+statute, “even if other conduct occurred abroad.” RJR
+Nabisco, 579 U. S., at ___ (slip op., at 9). But if the rele-
+vant conduct occurred in another country, “then the case
+involves an impermissible extraterritorial application
+regardless of any other conduct that occurred in U. S.
+territory.” Ibid.
+   When determining the focus of a statute, we do not
+analyze the provision at issue in a vacuum. See Morrison,
+supra, at 267–269. If the statutory provision at issue
+works in tandem with other provisions, it must be as-
+sessed in concert with those other provisions. Otherwise,
+it would be impossible to accurately determine whether
+the application of the statute in the case is a “domestic
+application.” RJR Nabisco, 579 U. S., at ___ (slip op., at
+9). And determining how the statute has actually been
+applied is the whole point of the focus test. See ibid.
+   Applying these principles here, we conclude that the
+conduct relevant to the statutory focus in this case is
+domestic. We begin with §284. It provides a general
+damages remedy for the various types of patent infringe-
+ment identified in the Patent Act. The portion of §284 at
+issue here states that “the court shall award the claimant
+damages adequate to compensate for the infringement.”
+We conclude that “the infringement” is the focus of this
+statute. As this Court has explained, the “overriding
+purpose” of §284 is to “affor[d] patent owners complete
+compensation” for infringements. General Motors Corp. v.
+
+
+                     Cite as: 585 U. S. ____ (2018)                  7
+                          Opinion of the Court
+Devex Corp., 461 U. S. 648, 655 (1983). “The question”
+posed by the statute is “ ‘how much ha[s] the Patent Holder
+. . . suffered by the infringement.’ ” Aro Mfg. Co. v. Con-
+vertible Top Replacement Co., 377 U. S. 476, 507 (1964).
+Accordingly, the infringement is plainly the focus of §284.
+    But that observation does not fully resolve this case, as
+the Patent Act identifies several ways that a patent can be
+infringed. See §271. To determine the focus of §284 in a
+given case, we must look to the type of infringement that
+occurred. We thus turn to §271(f)(2), which was the basis
+for WesternGeco’s infringement claim and the lost-profits
+damages that it received.2
+    Section 271(f )(2) focuses on domestic conduct. It pro-
+vides that a company “shall be liable as an infringer” if it
+“supplies” certain components of a patented invention “in
+or from the United States” with the intent that they “will
+be combined outside of the United States in a manner that
+would infringe the patent if such combination occurred
+within the United States.” The conduct that §271(f )(2)
+regulates—i.e., its focus—is the domestic act of
+“suppl[ying] in or from the United States.” As this Court
+has acknowledged, §271(f ) vindicates domestic interests:
+It “was a direct response to a gap in our patent law,”
+Microsoft Corp., 550 U. S., at 457, and “reach[es] compo-
+nents that are manufactured in the United States but
+assembled overseas,” Life Technologies, 580 U. S., at ___
+(slip op., at 11). As the Federal Circuit explained,
+§271(f )(2) protects against “domestic entities who export
+components . . . from the United States.” 791 F. 3d, at
+1351.
+    In sum, the focus of §284, in a case involving infringe-
+ment under §271(f )(2), is on the act of exporting compo-
+nents from the United States. In other words, the domes-
+——————
+   2 Because the Federal Circuit did not address §271(f )(1), see n. 1,
+supra, we limit our analysis to §271(f )(2).
+
+
+8       WESTERNGECO LLC v. ION GEOPHYSICAL CORP.
+                       Opinion of the Court
+tic infringement is “the objec[t] of the statute’s solicitude”
+in this context. Morrison, 561 U. S., at 267. The conduct
+in this case that is relevant to that focus clearly occurred
+in the United States, as it was ION’s domestic act of sup-
+plying the components that infringed WesternGeco’s pat-
+ents. Thus, the lost-profits damages that were awarded
+to WesternGeco were a domestic application of §284.
+                                B
+   ION’s arguments to the contrary are not persuasive.
+ION contends that the statutory focus here is “self-
+evidently on the award of damages.” Brief for Respondent
+22. While §284 does authorize damages, what a statute
+authorizes is not necessarily its focus. Rather, the focus is
+“the objec[t] of the statute’s solicitude”—which can turn on
+the “conduct,” “parties,” or interests that it regulates or
+protects. Morrison, supra, at 267. Here, the damages
+themselves are merely the means by which the statute
+achieves its end of remedying infringements. Similarly,
+ION is mistaken to assert that this case involves an extra-
+territorial application of §284 simply because “lost-profits
+damages occurred extraterritorially, and foreign conduct
+subsequent to [ION’s] infringement was necessary to give
+rise to the injury.” Brief for Respondent 22. Those over-
+seas events were merely incidental to the infringement.
+In other words, they do not have “primacy” for purposes of
+the extraterritoriality analysis. Morrison, supra, at 267.
+   ION also draws on the conclusion in RJR Nabisco that
+“RICO damages claims” based “entirely on injury suffered
+abroad” involve an extraterritorial application of 18
+U. S. C. §1964(c). 579 U. S., at ___ (slip op., at 27). From
+this principle, ION extrapolates a general rule that dam-
+ages awards for foreign injuries are always an extraterri-
+torial application of a damages provision. This argument
+misreads RJR Nabisco. That portion of RJR Nabisco
+interpreted a substantive element of a cause of action, not
+
+
+                       Cite as: 585 U. S. ____ (2018)                    9
+                            Opinion of the Court
+a remedial damages provision. See id., at ___ (slip op., at
+18). It explained that a plaintiff could not bring a damages
+claim under §1964(c) unless he could prove that he was
+“ ‘injured in his business or property,’ ” which required
+proof of “a domestic injury.” Ibid. Thus, RJR Nabisco was
+applying the presumption against extraterritoriality to
+interpret the scope of §1964(c)’s injury requirement; it did
+not make any statements about damages—a separate
+legal concept.
+    Two of our colleagues contend that the Patent Act does
+not permit damages awards for lost foreign profits. Post,
+at 1 (GORSUCH, J., joined by BREYER, J., dissenting).
+Their position wrongly conflates legal injury with the
+damages arising from that injury. See post, at 2–3. And it
+is not the better reading of “the plain text of the Patent
+Act.” Post, at 9. Taken together, §271(f )(2) and §284
+allow the patent owner to recover for lost foreign profits.
+Under §284, damages are “adequate” to compensate for
+infringement when they “plac[e] [the patent owner] in as
+good a position as he would have been in” if the patent had
+not been infringed. General Motors Corp., supra, at 655.
+Specifically, a patent owner is entitled to recover “ ‘the
+difference between [its] pecuniary condition after the
+infringement, and what [its] condition would have been if
+the infringement had not occurred.’ ” Aro Mfg. Co., supra,
+at 507. This recovery can include lost profits. See Yale
+Lock Mfg. Co. v. Sargent, 117 U. S. 536, 552–553 (1886).
+And, as we hold today, it can include lost foreign profits
+when the patent owner proves infringement under
+§271(f )(2).3
+                               *     *      *
+    We hold that WesternGeco’s damages award for lost
+——————
+   3 In reaching this holding, we do not address the extent to which other
+doctrines, such as proximate cause, could limit or preclude damages in
+particular cases.
+
+
+10     WESTERNGECO LLC v. ION GEOPHYSICAL CORP.
+                   Opinion of the Court
+profits was a permissible domestic application of §284.
+The judgment of the Federal Circuit is reversed, and the
+case is remanded for further proceedings consistent with
+this opinion.
+                                         It is so ordered.
+
+
+                   Cite as: 585 U. S. ____ (2018)          1
+                      G
+                      Opinion
+                        ORSUCHof    GORSUCH
+                                 , J.,        , J.
+                                       dissenting
+SUPREME COURT OF THE UNITED STATES
+                            _________________
+                            No. 16–1011
+                            _________________
+          WESTERNGECO LLC, PETITIONER v.
+           ION GEOPHYSICAL CORPORATION
+ ON WRIT OF CERTIORARI TO THE UNITED STATES COURT OF
+             APPEALS FOR THE FEDERAL CIRCUIT
+                          [June 22, 2018]
+  JUSTICE GORSUCH, with whom JUSTICE BREYER joins,
+dissenting.
+  The Court holds that WesternGeco’s lost profits claim
+does not offend the judicially created presumption against
+the extraterritorial application of statutes. With that
+much, I agree. But I cannot subscribe to the Court’s fur-
+ther holding that the terms of the Patent Act permit
+awards of this kind. In my view the Act’s terms prohibit
+the lost profits sought in this case, whatever the general
+presumption against extraterritoriality applicable to all
+statutes might allow. So while the Federal Circuit may
+have relied in part on a mistaken extraterritoriality anal-
+ysis, I respectfully submit it reached the right result in
+concluding that the Patent Act forecloses WesternGeco’s
+claim for lost profits.
+  The reason is straightforward. A U. S. patent provides a
+lawful monopoly over the manufacture, use, and sale of an
+invention within this country only. Meanwhile, Western-
+Geco seeks lost profits for uses of its invention beyond our
+borders. Specifically, the company complains that it lost
+lucrative foreign surveying contracts because ION’s cus-
+tomers used its invention overseas to steal that business.
+In measuring its damages, WesternGeco assumes it could
+have charged monopoly rents abroad premised on a U. S.
+patent that has no legal force there. Permitting damages
+
+
+2       WESTERNGECO LLC v. ION GEOPHYSICAL CORP.
+                      G
+                      Opinion
+                        ORSUCHof GORSUCH
+                              , J.,        , J.
+                                    dissenting
+of this sort would effectively allow U. S. patent owners to
+use American courts to extend their monopolies to foreign
+markets. That, in turn, would invite other countries to
+use their own patent laws and courts to assert control over
+our economy. Nothing in the terms of the Patent Act
+supports that result and much militates against it.
+  Start with the key statutory language. Under the Pa-
+tent Act, a patent owner enjoys “the right to exclude oth-
+ers from making, using, offering for sale, or selling the
+invention throughout the United States.” 35 U. S. C.
+§154(a)(1) (emphasis added). Emphasizing the point, the
+Act proceeds to explain that to “infring[e] the patent”
+someone must “without authority mak[e], us[e], offe[r] to
+sell, or sel[l] [the] patented invention, within the United
+States.” §271(a) (emphasis added). So making, using, or
+selling a patented invention inside the United States
+invites a claim for infringement. But those same acts
+outside the United States do not infringe a U. S. patent
+right.
+  These principles work their way into the statutory
+measure of damages too. A patent owner who proves
+infringement is entitled to receive “damages adequate to
+compensate for the infringement.” §284 (emphasis added).
+Because an infringement must occur within the United
+States, that means a plaintiff can recover damages for the
+making, using, or selling of its invention within the United
+States, but not for the making, using, or selling of its
+invention elsewhere.
+  What’s the upshot for our case? The jury was free to
+award WesternGeco royalties for the infringing products
+ION produced in this country; indeed, ION has not chal-
+lenged that award either here or before the Federal Cir-
+cuit. If ION’s infringement had cost WesternGeco sales in
+this country, it could have recovered for that harm too. At
+the same time, WesternGeco is not entitled to lost profits
+caused by the use of its invention outside the United
+
+
+                       Cite as: 585 U. S. ____ (2018)                   3
+                          G
+                          Opinion
+                            ORSUCHof  GORSUCH
+                                   , J.,        , J.
+                                         dissenting
+States. That foreign conduct isn’t “infringement” and so
+under §284’s plain terms isn’t a proper basis for awarding
+“compensat[ion].” No doubt WesternGeco thinks it unfair
+that its invention was used to compete against it overseas.
+But that’s simply not the kind of harm for which our pa-
+tent laws provide compensation because a U. S. patent
+does not protect its owner from competition beyond our
+borders.
+   This Court’s precedents confirm what the statutory text
+indicates. In Brown v. Duchesne, 19 How. 183 (1857), the
+Court considered whether the use of an American inven-
+tion on the high seas could support a damages claim under
+the U. S. patent laws. It said no. The Court explained
+that “the use of [an invention] outside of the jurisdiction of
+the United States is not an infringement of [the patent
+owner’s] rights,” and so the patent owner “has no claim to
+any compensation for” that foreign use. Id., at 195–196. A
+defendant must “compensate the patentee,” the Court
+continued, only to the extent that it has “com[e] in compe-
+tition with the [patent owner] where the [patent owner]
+was entitled to the exclusive use” of his invention—
+namely, within the United States. Id., at 196. What held
+true there must hold true here. ION must compensate
+WesternGeco for its intrusion on WesternGeco’s exclusive
+right to make, use, and sell its invention in the United
+States. But WesternGeco “has no claim to any compensa-
+tion for” noninfringing uses of its invention “outside of the
+jurisdiction of the United States.” Id., at 195–196.1
+——————
+  1 The  Solicitor General disputes this reading of Duchesne. In his
+view, the Court indicated that, if a defendant “committed domestic
+infringement” by making the invention in the United States, the patent
+owner would have been entitled to recover for any subsequent use of
+the invention, including “ ‘the use of this improvement . . . on the high
+seas.’ ” Brief for United States as Amicus Curiae 17 (quoting Duchesne,
+19 How., at 196). I am unpersuaded. The Court proceeded to explain
+that the “only use” of the invention that might require compensation
+
+
+4       WESTERNGECO LLC v. ION GEOPHYSICAL CORP.
+                        G
+                        Opinion
+                          ORSUCHof  GORSUCH
+                                 , J.,        , J.
+                                       dissenting
+   Other precedents offer similar teachings. In Birdsall v.
+Coolidge, 93 U. S. 64 (1876), the Court explained that
+damages are supposed to compensate a patent owner for
+“the unlawful acts of the defendant.” Ibid. To that end,
+the Court held, damages “shall be precisely commensurate
+with the injury suffered, neither more nor less.” Ibid.
+(emphasis added). It’s undisputed that the only injury
+WesternGeco suffered here came from ION’s infringing
+activity within the United States. A damages award that
+sweeps much more broadly to cover third parties’ nonin-
+fringing foreign uses can hardly be called “precisely com-
+mensurate” with that injury.
+   This Court’s leading case on lost profit damages points
+the same way. In Yale Lock Mfg. Co. v. Sargent, 117 U. S.
+536 (1886), the patent owner “availed himself of his exclu-
+sive right by keeping his patent a monopoly” and selling
+the invention himself. Id., at 552. As damages for a com-
+petitor’s infringement of the patent, the patent owner
+could recover “the difference between his pecuniary condi-
+tion after the infringement, and what his condition would
+have been if the infringement had not occurred.” Ibid.
+And that difference, the Court held, “is to be measured” by
+the additional profits the patent owner “would have real-
+ized from such sales if the infringement had not interfered
+with such monopoly.” Id., at 552–553. So, again, the
+Court tied the measure of damages to the degree of inter-
+ference with the patent owner’s exclusive right to make,
+use, and sell its invention. And, again, that much is miss-
+ing here because foreign uses of WesternGeco’s invention
+——————
+was “in navigating the vessel into and out of [Boston] harbor, . . . while
+she was within the jurisdiction of the United States.” Id., at 196 (em-
+phasis added). With respect to uses outside the United States, the
+Court made clear that “compensation” was unavailable. Id., at 195–
+196. Tellingly, WesternGeco does not adopt the Solicitor General’s
+reading of Duchesne—or even cite the case.
+
+
+                      Cite as: 585 U. S. ____ (2018)                   5
+                          G
+                          Opinion
+                            ORSUCHof GORSUCH
+                                  , J.,        , J.
+                                        dissenting
+could not have interfered with its U. S. patent monopoly.2
+   You might wonder whether §271(f )(2) calls for a special
+exception to these general principles. WesternGeco cer-
+tainly thinks it does. It’s true, too, that §271(f )(2) expressly
+refers to foreign conduct. The statute says that some-
+one who exports a specialized component, “intending that
+[it] will be combined outside of the United States in a
+manner that would infringe the patent if such combination
+occurred within the United States, shall be liable as an
+infringer.”       From this language, you might wonder
+whether §271(f )(2) seeks to protect patent owners from
+the foreign conduct that occurred in this case.
+   It does not. Section 271(f )(2) modifies the circumstances
+when the law will treat an invention as having been made
+within the United States. It permits an infringement
+claim—and the damages that come with it—not only when
+someone produces the complete invention in this country
+for export, but also when someone exports key components
+of the invention for assembly aboard. A person who ships
+components from the United States intending they be
+assembled across the border is “liable” to the patent owner
+for royalties and lost profits the same as if he made the
+entire invention here. §271(f )(2). But none of this changes
+——————
+  2 WesternGeco claims this Court permitted recovery based on foreign
+sales of an invention in Manufacturing Co. v. Cowing, 105 U. S. 253
+(1882), but the Court never mentioned, much less decided, the issue. It
+merely observed, in passing, that the only markets for the invention at
+issue were “the oil-producing regions of Pennsylvania and Canada.”
+Id., at 256. The Court did not even say whether the Canada-bound
+products were actually sold in Canada (as opposed, say, to Canadian
+buyers in the United States). Meanwhile, in Dowagiac Mfg. Co. v.
+Minnesota Moline Plow Co., 235 U. S. 641 (1915), the Court rejected
+“recovery of either profits or damages” for products sold in Canada. Id.,
+at 650. And while it distinguished Cowing on the ground that the
+defendants there had made the infringing articles in the United States,
+that hardly elevated Cowing’s failure to address the foreign sales issue
+into a reasoned decision on the question.
+
+
+6       WESTERNGECO LLC v. ION GEOPHYSICAL CORP.
+                     G
+                     Opinion
+                       ORSUCHof GORSUCH
+                             , J.,        , J.
+                                   dissenting
+the bedrock rule that foreign uses of an invention (even an
+invention made in this country) do not infringe a U. S.
+patent. Nor could it. For after §271(f )(2)’s adoption, as
+before, patent rights exclude others from making, using,
+and selling an invention only “throughout the United
+States.” §154(a)(1).
+   The history of the statute underscores the point. In
+Deepsouth Packing Co. v. Laitram Corp., 406 U. S. 518
+(1972), the Court held that a defendant did not “make” an
+invention within the United States when it produced the
+invention’s components here but sold them to foreign
+buyers for final assembly abroad. Id., at 527–528. The
+Court recognized that, if the defendant had assembled the
+parts in this country and then sold them to the foreign
+buyers, it would have unlawfully made and sold the inven-
+tion within the United States. Id., at 527. But because
+what it made and sold in this country “fell short” of the
+complete invention, the Court held, the patent laws did
+not prohibit its conduct. Ibid. The dissent, by contrast,
+argued that for all practical purposes the invention “was
+made in the United States” since “everything was accom-
+plished in this country except putting the pieces together.”
+Id., at 533 (opinion of Blackmun, J.). Apparently Congress
+agreed, for it then added §271(f )(2) and made clear that
+someone who almost makes an invention in this country
+may be held liable as if he made the complete invention in
+this country. As the Solicitor General has explained, the
+new statute “effectively treat[ed] the domestic supply of
+the components of a patented invention for assembly
+abroad as tantamount to the domestic manufacture of the
+completed invention for export.” Brief for United States as
+Amicus Curiae 22 (emphasis added). Section 271(f )(2)
+thus expands what qualifies as making an invention in
+this country but does nothing to suggest that U. S. patents
+protect against—much less guarantee compensation for—
+uses abroad.
+
+
+                   Cite as: 585 U. S. ____ (2018)          7
+                      G
+                      Opinion
+                        ORSUCHof  GORSUCH
+                               , J.,        , J.
+                                     dissenting
+   Any suggestion that §271(f )(2) provides protection
+against foreign uses would also invite anomalous results.
+It would allow greater recovery when a defendant exports
+a component of an invention in violation of §271(f )(2) than
+when a defendant exports the entire invention in violation
+of §271(a). And it would threaten to “ ‘conver[t] a single
+act of supply from the United States into a springboard for
+liability.’ ” Microsoft Corp. v. AT&T Corp., 550 U. S. 437,
+456 (2007). Here, for example, supplying a single infring-
+ing product from the United States would make ION
+responsible for any foreseeable harm its customers cause
+by using the product to compete against WesternGeco
+worldwide, even though WesternGeco’s U. S. patent
+doesn’t protect it from such competition. It’s some spring-
+board, too. The harm flowing from foreign uses in this
+case appears to outstrip wildly the harm inflicted by ION’s
+domestic production: the jury awarded $93.4 million in
+lost profits from uses in 10 foreign surveys but only $12.5
+million in royalties for 2,500 U. S.-made products.
+   Even more dramatic examples are not hard to imagine.
+Suppose a company develops a prototype microchip in a
+U. S. lab with the intention of manufacturing and selling
+the chip in a foreign country as part of a new smartphone.
+Suppose too that the chip infringes a U. S. patent and that
+the patent owner sells its own phone with its own chip
+overseas. Under the terms of the Patent Act, the developer
+commits an act of infringement by creating the proto-
+type here, but the additional chips it makes and sells
+outside the United States do not qualify as infringement.
+Under WesternGeco’s approach, however, the patent
+owner could recover any profits it lost to that foreign
+competition—or even three times as much, see §284—
+effectively giving the patent owner a monopoly over for-
+eign markets through its U. S. patent. That’s a very odd
+role for U. S. patent law to play in foreign markets, as
+“foreign law alone, not United States law,” is supposed to
+
+
+8       WESTERNGECO LLC v. ION GEOPHYSICAL CORP.
+                     GOpinion
+                       ORSUCHof  GORSUCH
+                              , J.,        , J.
+                                    dissenting
+govern the manufacture, use, and sale “of patented inven-
+tions in foreign countries.” Microsoft, supra, at 456.
+   Worse yet, the tables easily could be turned. If our
+courts award compensation to U. S. patent owners for
+foreign uses where our patents don’t run, what happens
+when foreign courts return the favor? Suppose our hypo-
+thetical microchip developer infringed a foreign patent in
+the course of developing its new chip abroad, but then
+mass produced and sold the chip in the United States. A
+foreign court might reasonably hold the U. S. company
+liable for infringing the foreign patent in the foreign coun-
+try. But if it followed WesternGeco’s theory, the court
+might then award monopoly rent damages reflecting a
+right to control the market for the chip in this country—
+even though the foreign patent lacks any legal force here.
+It is doubtful Congress would accept that kind of foreign
+“control over our markets.” Deepsouth, supra, at 531. And
+principles of comity counsel against an interpretation of
+our patent laws that would interfere so dramatically with
+the rights of other nations to regulate their own econo-
+mies. While Congress may seek to extend U. S. patent
+rights beyond our borders if it chooses, cf. §105 (address-
+ing inventions made, used, and sold in outer space), noth-
+ing in the Patent Act fairly suggests that it has taken that
+step here.
+   Today’s decision unfortunately forecloses further consid-
+eration of these points. Although its opinion focuses al-
+most entirely on why the presumption against extraterri-
+toriality applicable to all statutes does not forbid the
+damages sought here, the Court asserts in a few cursory
+sentences that the Patent Act by its terms allows recovery
+for foreign uses in cases like this. See ante, at 9. In doing
+so, the Court does not address the textual or doctrinal
+analysis offered here. It does not explain why “damages
+adequate to compensate for the infringement” should
+include damages for harm from noninfringing uses. §284
+
+
+                   Cite as: 585 U. S. ____ (2018)             9
+                      G
+                      Opinion
+                        ORSUCHof  GORSUCH
+                               , J.,        , J.
+                                     dissenting
+(emphasis added). It does not try to reconcile its holding
+with the teachings of Duchesne, Birdsall, and Yale Lock.
+And it ignores Microsoft’s admonition that §271(f )(2)
+should not be read to create springboards for liability
+based on foreign conduct. Instead, the Court relies on two
+cases that do not come close to supporting its broad hold-
+ing. In General Motors Corp. v. Devex Corp., 461 U. S. 648
+(1983), the Court held that prejudgment interest should
+normally be awarded so as to place the patent owner “in as
+good a position as [it] would have been in had the in-
+fringer” not infringed. Id., at 655. Allowing recovery for for-
+eign uses, however, puts the patent owner in a better
+position than it was before by allowing it to demand mo-
+nopoly rents outside the United States as well as within.
+In Aro Mfg. Co. v. Convertible Top Replacement Co., 377
+U. S. 476 (1964), meanwhile, the Court simply applied
+Yale Lock’s rule that a patent owner may recover “ ‘the
+difference between his pecuniary condition after the in-
+fringement, and what his condition would have been if the
+infringement had not occurred.’ ” Id., at 507 (quoting Yale
+Lock, 117 U. S., at 552). As we’ve seen, that test seeks to
+measure the interference with the patent owner’s lawful
+monopoly over U. S. markets alone.
+   By failing to heed the plain text of the Patent Act and
+the lessons of our precedents, the Court ends up assuming
+that patent damages run (literally) to the ends of the
+earth. It allows U. S. patent owners to extend their patent
+monopolies far beyond anything Congress has authorized
+and shields them from foreign competition U. S. patents
+were never meant to reach. Because I cannot agree that
+the Patent Act requires that result, I respectfully dissent.
